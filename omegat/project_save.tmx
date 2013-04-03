@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9426,6 +9426,22 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital creation date</seg>
+      </tuv>
+      <tuv lang="JA" changeid="polaris" changedate="20130403T135201Z">
+        <seg>デジタル作成日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Digital creation time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="polaris" changedate="20130403T135206Z">
+        <seg>デジタル作成時刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital zoom</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142245Z">
@@ -15463,6 +15479,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>News cycle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="polaris" changedate="20130403T135235Z">
+        <seg>ニュース サイクル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T032403Z">
@@ -17821,6 +17845,14 @@ application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094533Z">
         <seg>プログラム シフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program version</seg>
+      </tuv>
+      <tuv lang="JA" changeid="polaris" changedate="20130403T135220Z">
+        <seg>プログラムのバージョン</seg>
       </tuv>
     </tu>
     <tu>
