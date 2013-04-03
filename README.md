@@ -1,2 +1,1 @@
-LightZone-l10n-ja
-=================
+Japanese localization for LightZone photo editor.
