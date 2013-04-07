@@ -387,7 +387,7 @@ specific areas of your photo.</seg>
         desired location.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134859Z">
-        <seg>![image](images/Spot-Control_Points.png) 調整点・十字カーソル・フェザリング線をドラッグして位置を合わせます。）</seg>
+        <seg>![image](images/Spot-Control_Points.png) 調整点・十字カーソル・フェザリング線をドラッグして位置を合わせます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,7 +538,7 @@ use in other applications)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164023Z">
         <seg>![image](images/Workflow-en.png)
-追加の手順として、編集した写真を（他のアプリケーションで扱うために）TIFF ファイルに変換することもできます。</seg>
+追加の手順として、編集した写真を (他のアプリケーションで扱うために) TIFF ファイルに変換することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,7 +546,7 @@ use in other applications)</seg>
         <seg>![image](images/Workflow-en.png)  Optionally, you can also convert your edited photos to TIFF files (for use in other applications).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123008Z">
-        <seg>![image](images/Workflow-en.png) 追加の手順として、編集した写真を（他のアプリケーションで扱うために）TIFF ファイルに変換することもできます。</seg>
+        <seg>![image](images/Workflow-en.png) 追加の手順として、編集した写真を (他のアプリケーションで扱うために) TIFF ファイルに変換することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -581,7 +581,7 @@ half an f-stop from the next.</seg>
         <seg>![image](images/ZoneFinder.png) By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an *exposure value* (or half an f-stop) from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T132803Z">
-        <seg>![image](images/ZoneFinder.png) 標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けられて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり*露光指数*が 1/2 EV（F 値が 1/2）ずつ違っています。</seg>
+        <seg>![image](images/ZoneFinder.png) 標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けられて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり*露光指数*が 1/2 EV (F 値が 1/2) ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -693,7 +693,7 @@ half an f-stop from the next.</seg>
         <seg>### Simple (and small) workflow</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163946Z">
-        <seg>### シンプル（かつコンパクト）な作業フロー</seg>
+        <seg>### シンプル (かつコンパクト) な作業フロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -741,7 +741,7 @@ half an f-stop from the next.</seg>
         <seg>#### Camera Support</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T122839Z">
-        <seg>参）カメラのサポート</seg>
+        <seg>参) カメラのサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -815,7 +815,7 @@ half an f-stop from the next.</seg>
     stack](Tool_Stack.html).)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134414Z">
-        <seg>（新しいスポット ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。）</seg>
+        <seg>(新しいスポット ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -823,7 +823,7 @@ half an f-stop from the next.</seg>
         <seg>(A new sharpen tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135615Z">
-        <seg>（新しいシャープ化ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。）</seg>
+        <seg>(新しいシャープ化ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,7 +832,7 @@ half an f-stop from the next.</seg>
     the top of the [tool stack](Tool_Stack.html).)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133924Z">
-        <seg>（新しいホワイトバランス ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。）</seg>
+        <seg>(新しいホワイトバランス ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -843,7 +843,7 @@ existing layer.) This means that every tool is non-destructive and
 therefore can be modified or deleted at any time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163854Z">
-        <seg>（例えば、シャープ ツールを*1 枚のレイヤーとして*作成します。既存のレイヤーをシャープにするのではありません。）つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
+        <seg>(例えば、シャープ ツールを*1 枚のレイヤーとして*作成します。既存のレイヤーをシャープにするのではありません。) つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -851,7 +851,7 @@ therefore can be modified or deleted at any time.</seg>
         <seg>(For example, you create a sharpen tool *as a layer* rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T122938Z">
-        <seg>（例えば、シャープ ツールを*1 枚のレイヤーとして*作成します。既存のレイヤーをシャープにするのではありません。）つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
+        <seg>(例えば、シャープ ツールを*1 枚のレイヤーとして*作成します。既存のレイヤーをシャープにするのではありません。) つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -859,7 +859,7 @@ therefore can be modified or deleted at any time.</seg>
         <seg>(For example, you create a sharpen tool &lt;e1&gt;as a layer&lt;/e1&gt; rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163909Z">
-        <seg>（例えば、シャープ ツールを&lt;e1&gt;1 枚のレイヤーとして&lt;/e1&gt;作成します。既存のレイヤーをシャープにするのではありません。）つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
+        <seg>(例えば、シャープ ツールを&lt;e1&gt;1 枚のレイヤーとして&lt;/e1&gt;作成します。既存のレイヤーをシャープにするのではありません。) つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -868,7 +868,7 @@ therefore can be modified or deleted at any time.</seg>
 you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164615Z">
-        <seg>（Aperture を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(Aperture を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,7 +876,7 @@ you must quit it first.)</seg>
         <seg>(If Aperture is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164359Z">
-        <seg>（Aperture を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(Aperture を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -885,7 +885,7 @@ you must quit it first.)</seg>
 you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115847Z">
-        <seg>（Lightroom を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(Lightroom を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,7 +895,7 @@ you must quit it first.) \
  When using an external, Lightroom presents you with three choices:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115559Z">
-        <seg>（Lightroom を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(Lightroom を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -903,7 +903,7 @@ you must quit it first.) \
         <seg>(If Lightroom is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115030Z">
-        <seg>（Lightroom を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(Lightroom を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,7 +912,7 @@ you must quit it first.) \
 must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165434Z">
-        <seg>（iPhoto を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(iPhoto を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,7 +920,7 @@ must quit it first.)</seg>
         <seg>(If iPhoto is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165221Z">
-        <seg>（iPhoto を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>(iPhoto を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,7 +929,7 @@ must quit it first.)</seg>
     your photos.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161550Z">
-        <seg>（変換中は進捗ダイアログが表示されます。）</seg>
+        <seg>(変換中は進捗ダイアログが表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,7 +937,7 @@ must quit it first.)</seg>
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161144Z">
-        <seg>（変換中は進捗ダイアログが表示されます。）</seg>
+        <seg>(変換中は進捗ダイアログが表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,7 +945,7 @@ must quit it first.)</seg>
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T072138Z">
-        <seg>（適用するには LightZone の再起動が必要です。）</seg>
+        <seg>(適用するには LightZone の再起動が必要です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,7 +954,7 @@ must quit it first.)</seg>
     launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123744Z">
-        <seg>（LightZone が起動して写真が開きます。）</seg>
+        <seg>(LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -964,7 +964,7 @@ must quit it first.)</seg>
 2.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165642Z">
-        <seg>（LightZone が起動して写真が開きます。）</seg>
+        <seg>(LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,7 +974,7 @@ must quit it first.)</seg>
     into the current album.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165651Z">
-        <seg>（LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。）</seg>
+        <seg>(LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,7 +982,7 @@ must quit it first.)</seg>
         <seg>(LightZone will automatically save your edited photo, switch to iPhoto, and tell iPhoto to import it into the current album.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165251Z">
-        <seg>（LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。）</seg>
+        <seg>(LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -991,7 +991,7 @@ must quit it first.)</seg>
     and open the TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165016Z">
-        <seg>（LightZone が起動して TIFF 画像が開きます。）</seg>
+        <seg>(LightZone が起動して TIFF 画像が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,7 +1000,7 @@ must quit it first.)</seg>
     open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114826Z">
-        <seg>（LightZone が起動して写真が開きます。）</seg>
+        <seg>(LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,7 +1008,7 @@ must quit it first.)</seg>
         <seg>(LightZone will launch and open the TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164422Z">
-        <seg>（LightZone が起動して TIFF 画像が開きます。）</seg>
+        <seg>(LightZone が起動して TIFF 画像が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,7 +1016,7 @@ must quit it first.)</seg>
         <seg>(LightZone will launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165230Z">
-        <seg>（LightZone が起動して写真が開きます。）</seg>
+        <seg>(LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1025,7 +1025,7 @@ must quit it first.)</seg>
     and show the [tool stack](Tool_Stack.html) as you last left it.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114848Z">
-        <seg>（LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。）</seg>
+        <seg>(LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,7 +1033,7 @@ must quit it first.)</seg>
         <seg>(LightZone will launch, open your photo, and show the &lt;a0&gt;tool stack&lt;/a0&gt; as you last left it.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165759Z">
-        <seg>（LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。）</seg>
+        <seg>(LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,7 +1041,7 @@ must quit it first.)</seg>
         <seg>(LightZone will launch, open your photo, and show the [tool stack](Tool_Stack.html) as you last left it.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123330Z">
-        <seg>（LightZone が起動し、写真が開かれ、最後に使った[ツール スタック](Tool_Stack.html)が表示されます。）</seg>
+        <seg>(LightZone が起動し、写真が開かれ、最後に使った[ツール スタック](Tool_Stack.html)が表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,7 +1052,7 @@ must quit it first.)</seg>
     your photo.) it.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T120046Z">
-        <seg>（LightZone は編集済みの写真を TIFF 画像に上書き保存し、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。）</seg>
+        <seg>(LightZone は編集済みの写真を TIFF 画像に上書き保存し、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,7 +1062,7 @@ must quit it first.)</seg>
     and Aperture will reload the now edited TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165023Z">
-        <seg>（LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。）</seg>
+        <seg>(LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,7 +1070,7 @@ must quit it first.)</seg>
         <seg>(LightZone will save your edited photo back to the TIFF copy overwriting &lt;s0&gt; it, switch back to Lightroom, and Lightroom will reload the now edited TIFF copy of your photo.) &lt;/s0&gt; &lt;s1&gt; it.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123410Z">
-        <seg>（LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。）&lt;/s0&gt;&lt;s1&gt;</seg>
+        <seg>(LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。) &lt;/s0&gt;&lt;s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,7 +1078,7 @@ must quit it first.)</seg>
         <seg>(LightZone will save your edited photo back to the TIFF copy overwriting it, switch back to Aperture, and Aperture will reload the now edited TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164452Z">
-        <seg>（LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。）</seg>
+        <seg>(LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,7 +1086,7 @@ must quit it first.)</seg>
         <seg>(LightZone will save your edited photo back to the TIFF copy overwriting it, switch back to Lightroom, and Lightroom will reload the now edited TIFF copy of your photo.) it.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123549Z">
-        <seg>（LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。）&lt;/s0&gt;&lt;s1&gt;</seg>
+        <seg>(LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。) &lt;/s0&gt;&lt;s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1095,7 +1095,7 @@ must quit it first.)</seg>
     offering you its three choices.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115938Z">
-        <seg>（Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。）</seg>
+        <seg>(Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1103,7 +1103,7 @@ must quit it first.)</seg>
         <seg>(Lightroom will display its Edit Photo dialog offering you its three choices.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115126Z">
-        <seg>（Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。）</seg>
+        <seg>(Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1111,7 +1111,7 @@ must quit it first.)</seg>
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152206Z">
-        <seg>（「色で焼き込み」の逆です。）</seg>
+        <seg>(「色で焼き込み」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1119,7 +1119,7 @@ must quit it first.)</seg>
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152143Z">
-        <seg>（「色で覆い焼き」の逆です。</seg>
+        <seg>(「色で覆い焼き」の逆です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,7 +1127,7 @@ must quit it first.)</seg>
         <seg>(Opposite of Darken.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152354Z">
-        <seg>（「比較（暗）」の逆です。）</seg>
+        <seg>(「比較 (暗) 」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,7 +1135,7 @@ must quit it first.)</seg>
         <seg>(Opposite of Lighten.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152220Z">
-        <seg>（「比較（明）」の逆です。）</seg>
+        <seg>(「比較 (明) 」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,7 +1144,7 @@ must quit it first.)</seg>
     also: Exclusion.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153129Z">
-        <seg>（「除外」も参照。）</seg>
+        <seg>(「除外」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,7 +1152,7 @@ must quit it first.)</seg>
         <seg>(See also: Exclusion.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152241Z">
-        <seg>（「除外」も参照。）</seg>
+        <seg>(「除外」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,7 +1160,7 @@ must quit it first.)</seg>
         <seg>(See also: Negation.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152255Z">
-        <seg>（「反転」も参照。）</seg>
+        <seg>(「反転」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,7 +1168,7 @@ must quit it first.)</seg>
         <seg>(See also: Screen.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152425Z">
-        <seg>（「スクリーン」も参照。）</seg>
+        <seg>(「スクリーン」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,7 +1176,7 @@ must quit it first.)</seg>
         <seg>(Such metadata is known as IPTC metadata.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T120734Z">
-        <seg>（このようなものは IPTC メタデータとして知られています。）</seg>
+        <seg>(このようなものは IPTC メタデータとして知られています。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,7 +1187,7 @@ must quit it first.)</seg>
 6.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T154005Z">
-        <seg>（色/輝度の選択は[色選択ビュワー](Color_Selection_Viewer.html)と同じく、選択された色/輝度を反映した状態に更新されます。）</seg>
+        <seg>(色/輝度の選択は[色選択ビュワー](Color_Selection_Viewer.html)と同じく、選択された色/輝度を反映した状態に更新されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,7 +1195,7 @@ must quit it first.)</seg>
         <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153659Z">
-        <seg>（色/輝度の選択は&lt;a0&gt;色選択ビュワー&lt;/a0&gt;と同じく、選択された色/輝度を反映した状態に更新されます。）</seg>
+        <seg>(色/輝度の選択は&lt;a0&gt;色選択ビュワー&lt;/a0&gt;と同じく、選択された色/輝度を反映した状態に更新されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1203,7 +1203,7 @@ must quit it first.)</seg>
         <seg>(The color/luminosity selections as well as the [Color Selection Viewer](Color_Selection_Viewer.html) will update to reflect the selected color/luminosity.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121633Z">
-        <seg>（色/輝度の選択は[色選択ビュワー](Color_Selection_Viewer.html)と同じく、選択された色/輝度を反映した状態に更新されます。）</seg>
+        <seg>(色/輝度の選択は[色選択ビュワー](Color_Selection_Viewer.html)と同じく、選択された色/輝度を反映した状態に更新されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1211,7 +1211,7 @@ must quit it first.)</seg>
         <seg>(The control points will become visible.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150435Z">
-        <seg>（調整点が見えるようになります。）</seg>
+        <seg>(調整点が見えるようになります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1221,7 +1221,7 @@ must quit it first.)</seg>
         line](Regions-Feathering.html) will become visible.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134710Z">
-        <seg>（調整点・十字カーソル・[内部フェザリング線](Regions-Feathering.html)が表示されます。）</seg>
+        <seg>(調整点・十字カーソル・[内部フェザリング線](Regions-Feathering.html)が表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,7 +1230,7 @@ must quit it first.)</seg>
         of the area to copy from.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135024Z">
-        <seg>（十字カーソルはコピー元の領域の中心を示します。）</seg>
+        <seg>(十字カーソルはコピー元の領域の中心を示します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,7 +1240,7 @@ must quit it first.)</seg>
 4.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153932Z">
-        <seg>（マウス ポインタがスポイトに変わります。）</seg>
+        <seg>(マウス ポインタがスポイトに変わります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,7 +1248,7 @@ must quit it first.)</seg>
         <seg>(The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153642Z">
-        <seg>（マウス ポインタがスポイトに変わります。）</seg>
+        <seg>(マウス ポインタがスポイトに変わります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,7 +1256,7 @@ must quit it first.)</seg>
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T054200Z">
-        <seg>（プレビューは自動的に再生成されます。</seg>
+        <seg>(プレビューは自動的に再生成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,7 +1264,7 @@ must quit it first.)</seg>
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T101725Z">
-        <seg>（上の表は説明用であり、完全なものではありません。画像ファイルがアイコンにドロップされると何が起こるかはアプリケーションによって異なるためです。）</seg>
+        <seg>(上の表は説明用であり、完全なものではありません。画像ファイルがアイコンにドロップされると何が起こるかはアプリケーションによって異なるためです。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,7 +1274,7 @@ must quit it first.)</seg>
     non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161537Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1285,7 +1285,7 @@ must quit it first.)</seg>
 2.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161352Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,7 +1295,7 @@ must quit it first.)</seg>
     non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123429Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,7 +1304,7 @@ must quit it first.)</seg>
     Command Control key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T131549Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,7 +1312,7 @@ must quit it first.)</seg>
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161055Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,7 +1320,7 @@ must quit it first.)</seg>
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the Command Control key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T125041Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,7 +1328,7 @@ must quit it first.)</seg>
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the Command Control key to select multiple, non-contiguous thumbnails;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150014Z">
-        <seg>（Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,7 +1546,7 @@ version 3.1.2 but may need to change for future versions.</seg>
         <seg>-   [Converting images (individually)](Converting.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161605Z">
-        <seg>-   [画像を変換する（個別）](Converting.html)</seg>
+        <seg>-   [画像を変換する (個別) ](Converting.html)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1973,7 +1973,7 @@ version 3.1.2 but may need to change for future versions.</seg>
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130107T142942Z">
-        <seg>…その他に $1 枚</seg>
+        <seg>...その他に $1 枚</seg>
       </tuv>
     </tu>
     <tu>
@@ -3125,7 +3125,7 @@ version 3.1.2 but may need to change for future versions.</seg>
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T145642Z">
-        <seg>&lt;html&gt;続行する（プログラムが不安定になるおそれがあります）&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;続行する (プログラムが不安定になるおそれがあります) &lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3141,7 +3141,7 @@ version 3.1.2 but may need to change for future versions.</seg>
         <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070312Z">
-        <seg>&lt;html&gt;すべてのファイルを保存して終了&lt;b&gt;（推奨）&lt;/b&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;すべてのファイルを保存して終了&lt;b&gt; (推奨) &lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,7 +3392,7 @@ as big.</seg>
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150807Z">
-        <seg>$2 の新しいバージョン（$1）が入手できます。</seg>
+        <seg>$2 の新しいバージョン ($1) が入手できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4067,7 +4067,7 @@ preference.</seg>
 photo from a sidecar XMP file (if present).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T120808Z">
-        <seg>さらに、（もし存在すれば）添付のXMP ファイルからも読み取ります。</seg>
+        <seg>さらに、 (もし存在すれば) 添付のXMP ファイルからも読み取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4075,7 +4075,7 @@ photo from a sidecar XMP file (if present).</seg>
         <seg>Additionally, LightZone will also read metadata for a photo from a sidecar XMP file (if present).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123722Z">
-        <seg>さらに、（もし存在すれば）添付のXMP ファイルからも読み取ります。</seg>
+        <seg>さらに、 (もし存在すれば) 添付のXMP ファイルからも読み取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4151,7 +4151,7 @@ a photo such as its title, caption, copyright, creator, and location.</seg>
         <seg>Additionally, metadata can also include information about the content of a photo such as its title, caption, copyright, creator, and location. (Such metadata is known as IPTC metadata.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T134635Z">
-        <seg>その他にも、題名やキャプション、著作権表示、撮影者に撮影地といった写真の内容を含めることもできます。（このようなものは IPTC メタデータとして知られています。）</seg>
+        <seg>その他にも、題名やキャプション、著作権表示、撮影者に撮影地といった写真の内容を含めることもできます。 (このようなものは IPTC メタデータとして知られています。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,7 +4480,7 @@ Nikon</seg>
         <seg>Alternatively, if you have edited a photo recently, select File &gt; Open Recent... and the name of the photo from the menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T150011Z">
-        <seg>別の方法として、最近編集した写真であれば、「ファイル」→「最近使ったファイルを開く…」のメニューから選択することができます。</seg>
+        <seg>別の方法として、最近編集した写真であれば、「ファイル」→「最近使ったファイルを開く...」のメニューから選択することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4489,7 +4489,7 @@ Nikon</seg>
 Open&amp;nbsp;Recent... and the name of the photo from the menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123038Z">
-        <seg>別の方法として、最近編集した写真であれば、「ファイル」→「最近使ったファイルを開く…」のメニューから選択することができます。</seg>
+        <seg>別の方法として、最近編集した写真であれば、「ファイル」→「最近使ったファイルを開く...」のメニューから選択することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4532,7 +4532,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Alternatively, you can click the AppleScript icon to the left to configure Aperture automatically for you now. (If Aperture is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T065345Z">
-        <seg>別の方法として、左の AppleScript のアイコンをクリックして Aperture を自動設定することもできます。（Aperture を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>別の方法として、左の AppleScript のアイコンをクリックして Aperture を自動設定することもできます。 (Aperture を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,7 +4548,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Alternatively, you can click the AppleScript icon to the left to configure Lightroom automatically for you now. (If Lightroom is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T080943Z">
-        <seg>別の方法として、左の AppleScript のアイコンをクリックして Lightroom を自動設定することもできます。（Lightroom を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>別の方法として、左の AppleScript のアイコンをクリックして Lightroom を自動設定することもできます。 (Lightroom を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4564,7 +4564,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Alternatively, you can click the AppleScript icon to the left to configure iPhoto automatically for you now. (If iPhoto is running, you must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071727Z">
-        <seg>別の方法として、左の AppleScript のアイコンをクリックして iPhoto を自動設定することもできます。（iPhoto を起動している場合は、先に終了する必要があります。）</seg>
+        <seg>別の方法として、左の AppleScript のアイコンをクリックして iPhoto を自動設定することもできます。 (iPhoto を起動している場合は、先に終了する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,7 +4727,7 @@ configure iPhoto automatically for you now.</seg>
 "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164459Z">
-        <seg>Aperture（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>Aperture (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4735,7 +4735,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Aperture (from Apple) allows you to select another application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164335Z">
-        <seg>Aperture（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>Aperture (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,7 +4743,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Aperture (from Apple) allows you to select another application as an "external editor" for editing your photos. You can configure LightZone to be such an editor. Additionally, LightZone integrates seamlessly with Aperture via the &lt;a0&gt;Direct Save&lt;/a0&gt; preference.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T063329Z">
-        <seg>Aperture（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで Aperture とシームレスに統合できます。</seg>
+        <seg>Aperture (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで Aperture とシームレスに統合できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5023,7 +5023,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>Bad endianness tag (not 0x4949 or 0x4d4d).</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T082529Z">
-        <seg>間違ったバイトオーダー タグ（0x4949 でも 0x4d4d でもない）</seg>
+        <seg>間違ったバイトオーダー タグ (0x4949 でも 0x4d4d でもない)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5056,7 +5056,7 @@ configure iPhoto automatically for you now.</seg>
   ~</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T151229Z">
-        <seg>参）ベース色</seg>
+        <seg>参) ベース色</seg>
       </tuv>
     </tu>
     <tu>
@@ -5371,7 +5371,7 @@ device can render.</seg>
         <seg>Brightens the base color to reflect the blend color by decreasing contrast. (Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161943Z">
-        <seg>ベース色を明るくし、コントラストを下げることでブレンド色を反映します。（「色で焼き込み」の逆です。）</seg>
+        <seg>ベース色を明るくし、コントラストを下げることでブレンド色を反映します。 (「色で焼き込み」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,7 +5475,7 @@ device can render.</seg>
         <seg>Buy Now...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T144419Z">
-        <seg>すぐに購入…</seg>
+        <seg>すぐに購入...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5483,7 +5483,7 @@ device can render.</seg>
         <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T141146Z">
-        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けられて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV（F 値が 1/2）ずつ違っています。</seg>
+        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けられて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (F 値が 1/2) ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,7 +5743,7 @@ Panasonic</seg>
         <seg>Camera settings (old)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095116Z">
-        <seg>カメラ設定（旧）</seg>
+        <seg>カメラ設定 (旧)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6969,7 +6969,7 @@ Samsung</seg>
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T133023Z">
-        <seg>アップデートを確認…</seg>
+        <seg>アップデートを確認...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6993,7 +6993,7 @@ Samsung</seg>
         <seg>Checking for update...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150506Z">
-        <seg>アップデートを確認中…</seg>
+        <seg>アップデートを確認中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,7 +7017,7 @@ Samsung</seg>
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T124323Z">
-        <seg>選択…</seg>
+        <seg>選択...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7081,7 +7081,7 @@ Samsung</seg>
         <seg>Clear...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095618Z">
-        <seg>クリア…</seg>
+        <seg>クリア...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,7 +7098,7 @@ Samsung</seg>
 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T113934Z">
-        <seg>参）「追加...」をクリックします。</seg>
+        <seg>参) 「追加...」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,7 +7122,7 @@ Samsung</seg>
         <seg>Click Move to &lt;s0&gt;Trash&lt;/s0&gt; &lt;s1&gt;Recycle Bin&lt;/s1&gt; (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T090217Z">
-        <seg>「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動…」をクリックします（または Return キーを押します）。</seg>
+        <seg>「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動...」をクリックします (または Return キーを押します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,7 +7130,7 @@ Samsung</seg>
         <seg>Click Move to Trash Recycle Bin (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123514Z">
-        <seg>「ごみ箱へ移動…」をクリックします（または Return キーを押します）。</seg>
+        <seg>「ごみ箱へ移動...」をクリックします (または Return キーを押します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,7 +7154,7 @@ Samsung</seg>
         <seg>Click Rename (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105157Z">
-        <seg>「名前を変更」をクリックします（または Return キーを押します）。</seg>
+        <seg>「名前を変更」をクリックします (または Return キーを押します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7170,7 +7170,7 @@ Samsung</seg>
         <seg>Click Send (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T122210Z">
-        <seg>「送る」をクリックします（または Return キーを押します）。</seg>
+        <seg>「送る」をクリックします (または Return キーを押します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,7 +7186,7 @@ Samsung</seg>
         <seg>Click Start. (LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T142713Z">
-        <seg>「開始」をクリックします。（変換中は進捗ダイアログが表示されます。）</seg>
+        <seg>「開始」をクリックします。 (変換中は進捗ダイアログが表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7260,7 +7260,7 @@ Samsung</seg>
         <seg>Click somewhere on your photo that is either the color or luminosity you want to select. (The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T131325Z">
-        <seg>写真のなかで色または輝度を選択したい場所をクリックします。（色/輝度の選択は&lt;a0&gt;色選択ビュワー&lt;/a0&gt;と同じく、選択された色/輝度を反映した状態に更新されます。）</seg>
+        <seg>写真のなかで色または輝度を選択したい場所をクリックします。 (色/輝度の選択は&lt;a0&gt;色選択ビュワー&lt;/a0&gt;と同じく、選択された色/輝度を反映した状態に更新されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,7 +7368,7 @@ Samsung</seg>
         <seg>Click the eyedropper button. (The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T130607Z">
-        <seg>スポイト ボタンをクリックします。（マウス ポインタがスポイトに変わります。）</seg>
+        <seg>スポイト ボタンをクリックします。 (マウス ポインタがスポイトに変わります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,7 +7922,7 @@ Samsung</seg>
         <seg>Convert Image...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125837Z">
-        <seg>画像を変換…</seg>
+        <seg>画像を変換...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,7 +7946,7 @@ Samsung</seg>
         <seg>Convert...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T031658Z">
-        <seg>変換…</seg>
+        <seg>変換...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7970,7 +7970,7 @@ Samsung</seg>
         <seg>Converting images (individually)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144528Z">
-        <seg>画像を変換する（個別）</seg>
+        <seg>画像を変換する (個別)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,7 +7986,7 @@ Samsung</seg>
         <seg>Converting...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T143618Z">
-        <seg>変換中…</seg>
+        <seg>変換中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8442,7 +8442,7 @@ Samsung</seg>
         <seg>Creates a TIFF copy of your photo (with corrections applied).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T065559Z">
-        <seg>（補正後の）写真を TIFF 形式でコピーしたものを作成する。</seg>
+        <seg>(補正後の) 写真を TIFF 形式でコピーしたものを作成する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8475,7 +8475,7 @@ Samsung</seg>
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode. (See also: Negation.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161904Z">
-        <seg>差の絶対値と似ていますが、コントラストが低くなります。（「反転」も参照。）</seg>
+        <seg>差の絶対値と似ていますが、コントラストが低くなります。 (「反転」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8915,7 +8915,7 @@ Pentax</seg>
         <seg>Darken</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T082633Z">
-        <seg>比較（暗）</seg>
+        <seg>比較 (暗)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8940,7 +8940,7 @@ Pentax</seg>
         <seg>Darkens the base color to reflect the blend color by increasing contrast. (Opposite of Color Dodge. See also: Soft Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162003Z">
-        <seg>ベース色を暗くし、コントラストを上げることでブレンド色を反映します。（「色で覆い焼き」の逆です。「ソフト焼き込み」も参照。）</seg>
+        <seg>ベース色を暗くし、コントラストを上げることでブレンド色を反映します。 (「色で覆い焼き」の逆です。「ソフト焼き込み」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9148,7 +9148,7 @@ Pentax</seg>
         <seg>Delete...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092140Z">
-        <seg>削除…</seg>
+        <seg>削除...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,7 +9673,7 @@ Pentax</seg>
         <seg>Double-click the region that you want to delete a control point from. (The control points will become visible.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110802Z">
-        <seg>調整点を削除したい領域をダブルクリックします（調整点が見えるようになります）。</seg>
+        <seg>調整点を削除したい領域をダブルクリックします (調整点が見えるようになります) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9705,7 +9705,7 @@ Pentax</seg>
         <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105252Z">
-        <seg>領域の作成を完了するにはダブル クリックします（または Shift キーを押しながらクリックするか、ESC キーを押します）。</seg>
+        <seg>領域の作成を完了するにはダブル クリックします (または Shift キーを押しながらクリックするか、ESC キーを押します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10268,7 +10268,7 @@ collapsed and [locked](Tool_Anatomy-Menu.html), you can expand it (by
 double-clicking it in its title bar)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162242Z">
-        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。</seg>
+        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10278,7 +10278,7 @@ collapsed and [locked](Tool_Anatomy-Menu.html), you can expand it (by
 double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T111450Z">
-        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。</seg>
+        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10286,7 +10286,7 @@ double-clicking it in its title bar) to inspect the curve.</seg>
         <seg>Even though the ZoneMapper is added collapsed and &lt;a2&gt;locked&lt;/a2&gt;, you can expand it (by double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161649Z">
-        <seg>このゾーン マッパーは折りたたまれて&lt;a2&gt;ロックされて&lt;/a2&gt;いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。</seg>
+        <seg>このゾーン マッパーは折りたたまれて&lt;a2&gt;ロックされて&lt;/a2&gt;いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,7 +10294,7 @@ double-clicking it in its title bar) to inspect the curve.</seg>
         <seg>Even though the ZoneMapper is added collapsed and [locked](Tool_Anatomy-Menu.html), you can expand it (by double-clicking it in its title bar)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121838Z">
-        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。</seg>
+        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10302,7 +10302,7 @@ double-clicking it in its title bar) to inspect the curve.</seg>
         <seg>Even though the ZoneMapper is added collapsed and [locked](Tool_Anatomy-Menu.html), you can expand it (by double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T122024Z">
-        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。</seg>
+        <seg>このゾーン マッパーは折りたたまれて[ロックされて](Tool_Anatomy-Menu.html)いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10374,7 +10374,7 @@ double-clicking it in its title bar) to inspect the curve.</seg>
         <seg>Export...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T110128Z">
-        <seg>エクスポート…</seg>
+        <seg>エクスポート...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11118,7 +11118,7 @@ darker zones) and is also slightly underexposed (because none of the
 color channels extend into the lightest zone).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164123Z">
-        <seg>例として、右上のヒストグラムでは、（どの色チャネルも暗い部分まで広がっていないことから）写真のコントラストが低いことと、（どの色チャネルも最も明るい部分まで広がっていないことから）露出が少し足りないこととが分かります。</seg>
+        <seg>例として、右上のヒストグラムでは、 (どの色チャネルも暗い部分まで広がっていないことから) 写真のコントラストが低いことと、 (どの色チャネルも最も明るい部分まで広がっていないことから) 露出が少し足りないこととが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11126,7 +11126,7 @@ color channels extend into the lightest zone).</seg>
         <seg>For example, the histogram in the upper right shows that the photo has little contrast (because none of the color channels extend into the darker zones) and is also slightly underexposed (because none of the color channels extend into the lightest zone).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T060421Z">
-        <seg>例として、右上のヒストグラムでは、（どの色チャネルも暗い部分まで広がっていないことから）写真のコントラストが低いことと、（どの色チャネルも最も明るい部分まで広がっていないことから）露出が少し足りないこととが分かります。</seg>
+        <seg>例として、右上のヒストグラムでは、 (どの色チャネルも暗い部分まで広がっていないことから) 写真のコントラストが低いことと、 (どの色チャネルも最も明るい部分まで広がっていないことから) 露出が少し足りないこととが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,7 +11778,7 @@ entire luminosity range (and thus less noticeable) rather than being
 truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T150223Z">
-        <seg>しかし、輝度範囲が圧縮されるため、写真の情報は失われます。暗い部分の輝度を切り詰めるのに比べて、損失が輝度範囲全域に分散されます（そのため気づきにくくなります）。</seg>
+        <seg>しかし、輝度範囲が圧縮されるため、写真の情報は失われます。暗い部分の輝度を切り詰めるのに比べて、損失が輝度範囲全域に分散されます (そのため気づきにくくなります) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11786,7 +11786,7 @@ truncated at the black end.</seg>
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T142916Z">
-        <seg>しかし、輝度範囲が圧縮されるため、写真の情報は失われます。暗い部分の輝度を切り詰めるのに比べて、損失が輝度範囲全域に分散されます（そのため気づきにくくなります）。</seg>
+        <seg>しかし、輝度範囲が圧縮されるため、写真の情報は失われます。暗い部分の輝度を切り詰めるのに比べて、損失が輝度範囲全域に分散されます (そのため気づきにくくなります) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11990,7 +11990,7 @@ device can render are truncated.</seg>
     color is lightened (screened);</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153134Z">
-        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく（スクリーン）します。</seg>
+        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12000,7 +12000,7 @@ device can render are truncated.</seg>
     gray, the color is darkened (multiplied).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T151722Z">
-        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく（スクリーン）します。50% グレーよりも暗い場合は暗く（乗算）します。</seg>
+        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。50% グレーよりも暗い場合は暗く (乗算) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,7 +12008,7 @@ device can render are truncated.</seg>
         <seg>If the blend color is lighter than 50% gray, the color is lightened (screened);</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152316Z">
-        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく（スクリーン）します。</seg>
+        <seg>ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12045,7 +12045,7 @@ device can render are truncated.</seg>
     select "Edit Original." (LightZone will launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T120016Z">
-        <seg>元画像の場合、「コピーを Lightroom Adjustments を使って編集する」を選びます。以前にコピーとして作った TIFF 画像の場合、「元画像を編集」を選択します。（LightZone が起動して写真が開きます。）</seg>
+        <seg>元画像の場合、「コピーを Lightroom Adjustments を使って編集する」を選びます。以前にコピーとして作った TIFF 画像の場合、「元画像を編集」を選択します。 (LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12053,7 +12053,7 @@ device can render are truncated.</seg>
         <seg>If this is an original photo, select "Edit a Copy with Lightroom Adjustments." If this is a TIFF copy that was created earlier, select "Edit Original." (LightZone will launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T083959Z">
-        <seg>元画像の場合、「コピーを Lightroom Adjustments を使って編集する」を選びます。以前にコピーとして作った TIFF 画像の場合、「元画像を編集」を選択します。（LightZone が起動して写真が開きます。）</seg>
+        <seg>元画像の場合、「コピーを Lightroom Adjustments を使って編集する」を選びます。以前にコピーとして作った TIFF 画像の場合、「元画像を編集」を選択します。 (LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,7 +12332,7 @@ synchronize the data.</seg>
         <seg>Import...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T110113Z">
-        <seg>インポート…</seg>
+        <seg>インポート...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12383,7 +12383,7 @@ photo that are blue are shown as white (selected) and the rest is shown
 as black (not selected).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T154226Z">
-        <seg>(b) では、青が選択されているため写真の中の青い領域が白（選択中）で表示されて残りの領域は黒（選択中でない）で表示されています。</seg>
+        <seg>(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示されて残りの領域は黒 (選択中でない) で表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,7 +12391,7 @@ as black (not selected).</seg>
         <seg>In (b), the blues have been selected so the areas of the photo that are blue are shown as white (selected) and the rest is shown as black (not selected).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T134254Z">
-        <seg>(b) では、青が選択されているため写真の中の青い領域が白（選択中）で表示されて残りの領域は黒（選択中でない）で表示されています。</seg>
+        <seg>(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示されて残りの領域は黒 (選択中でない) で表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12474,7 +12474,7 @@ Browser](Anatomy-Browser.html) to convert multiple images as a batch.</seg>
         <seg>In iPhoto, double-click the photo you want to edit. (LightZone will launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T072204Z">
-        <seg>編集したい写真を iPhoto でダブルクリックします。（LightZone が起動して写真が開きます。）</seg>
+        <seg>編集したい写真を iPhoto でダブルクリックします。 (LightZone が起動して写真が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12840,7 +12840,7 @@ window.</seg>
         <seg>JPEG (lossy)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T135132Z">
-        <seg>JPEG（劣化あり）</seg>
+        <seg>JPEG (劣化あり)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12848,7 +12848,7 @@ window.</seg>
         <seg>JPEG (lossy/non-quantization)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T135214Z">
-        <seg>JPEG（劣化あり・量子化なし）</seg>
+        <seg>JPEG (劣化あり・量子化なし)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12856,7 +12856,7 @@ window.</seg>
         <seg>JPEG (non-quantization)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T135202Z">
-        <seg>JPEG（量子化なし）</seg>
+        <seg>JPEG (量子化なし)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12864,7 +12864,7 @@ window.</seg>
         <seg>JPEG (old-style)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T145534Z">
-        <seg>JPEG（旧式）</seg>
+        <seg>JPEG (旧式)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13521,7 +13521,7 @@ contributed to LightZone:</seg>
         <seg>LightZone always works in a 16-bit linear color space. Unlike a non-linear gamma-corrected color space, a linear color space doesn't introduce errors (such as increasing noise, edge distortion, and hue shifts) during enhancement operations such as sharpening, blurring, or saturation adjustments.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T080505Z">
-        <seg>LightZone は常に 16 ビット線形色空間で処理を行います。ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも（ノイズの増加やエッジの歪みや色相のずれなどの）エラーが起こることがありません。</seg>
+        <seg>LightZone は常に 16 ビット線形色空間で処理を行います。ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) エラーが起こることがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13826,7 +13826,7 @@ similarly to "layers" in other applications.</seg>
         <seg>LightZone organizes the tools used to edit your photo into a stack similarly to "layers" in other applications. Unlike other applications' layers, &lt;e0&gt;every&lt;/e0&gt; tool becomes a layer in the tool stack. (For example, you create a sharpen tool &lt;e1&gt;as a layer&lt;/e1&gt; rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time. &lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T081948Z">
-        <seg>LightZone は編集に使ったツールを「レイヤー」によく似たスタックに積み重ねます。他のアプリケーションのレイヤーとは違って、&lt;e0&gt;すべての&lt;/e0&gt;ツールがスタックのレイヤーになります。（例えば、シャープ ツールを&lt;e1&gt;1 枚のレイヤー&lt;/e1&gt;として作成します。既存のレイヤーをシャープにするのではありません。）つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。&lt;a2&gt;ツール スタックについてもっと知る&lt;/a2&gt;</seg>
+        <seg>LightZone は編集に使ったツールを「レイヤー」によく似たスタックに積み重ねます。他のアプリケーションのレイヤーとは違って、&lt;e0&gt;すべての&lt;/e0&gt;ツールがスタックのレイヤーになります。 (例えば、シャープ ツールを&lt;e1&gt;1 枚のレイヤー&lt;/e1&gt;として作成します。既存のレイヤーをシャープにするのではありません。) つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。&lt;a2&gt;ツール スタックについてもっと知る&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13851,7 +13851,7 @@ automatically.</seg>
         <seg>LightZone reads all the metadata for a photo from its image file automatically. Additionally, LightZone will also read metadata for a photo from a sidecar XMP file (if present).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T135129Z">
-        <seg>LightZone は写真のすべてのメタデータを画像ファイルから自動的に読み取ります。さらに、（もし存在すれば）添付のXMP ファイルからも読み取ります。</seg>
+        <seg>LightZone は写真のすべてのメタデータを画像ファイルから自動的に読み取ります。さらに、 (もし存在すれば) 添付のXMP ファイルからも読み取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,7 +13896,7 @@ associated "LightZone JPEG" file that contains the [tool
 stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164009Z">
-        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像（JPEG、TIFF または raw）と、それに関連付けられて[ツール スタック](Tool_Stack.html)の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
+        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて[ツール スタック](Tool_Stack.html)の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,7 +13904,7 @@ stack](Tool_Stack.html) you create.</seg>
         <seg>LightZone's workflow consists of an original image file (be it JPEG, TIFF, or raw) obtained from a digital camera or scanner and an associated "LightZone JPEG" file that contains the &lt;a0&gt;tool stack&lt;/a0&gt; you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163157Z">
-        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像（JPEG、TIFF または raw）と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
+        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,7 +13912,7 @@ stack](Tool_Stack.html) you create.</seg>
         <seg>LightZone's workflow consists of an original image file (be it JPEG, TIFF, or raw) obtained from a digital camera or scanner and an associated "LightZone JPEG" file that contains the &lt;a0&gt;tool stack&lt;/a0&gt; you create. These two files are all you need to create beautiful photos. You can make stunning prints of your photos directly from LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T082630Z">
-        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像（JPEG、TIFF または raw）と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルとからなります。綺麗な写真を創るのに必要なものは、これらふたつのファイルだけです。完璧なプリントをLightZone で直接作ることができます。</seg>
+        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルとからなります。綺麗な写真を創るのに必要なものは、これらふたつのファイルだけです。完璧なプリントをLightZone で直接作ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13920,7 +13920,7 @@ stack](Tool_Stack.html) you create.</seg>
         <seg>LightZone's workflow consists of an original image file (be it JPEG, TIFF, or raw) obtained from a digital camera or scanner and an associated "LightZone JPEG" file that contains the [tool stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123000Z">
-        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像（JPEG、TIFF または raw）と、それに関連付けられて[ツール スタック](Tool_Stack.html)の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
+        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて[ツール スタック](Tool_Stack.html)の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14376,7 +14376,7 @@ stack](Tool_Stack.html) you create.</seg>
         <seg>Lighten</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T082806Z">
-        <seg>比較（明）</seg>
+        <seg>比較 (明)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14448,7 +14448,7 @@ stack](Tool_Stack.html) you create.</seg>
         <seg>Loading...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T143402Z">
-        <seg>読み込み中…</seg>
+        <seg>読み込み中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14749,7 +14749,7 @@ Content-Transfer-Encoding: 8bit</seg>
         <seg>Manage Styles...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125809Z">
-        <seg>スタイルを管理…</seg>
+        <seg>スタイルを管理...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14912,7 +14912,7 @@ speed.</seg>
         <seg>Middle (or 18%) gray falls onto zone 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133058Z">
-        <seg>中間色灰色（18 %）はゾーン 5 になります。</seg>
+        <seg>中間色灰色 (18 %) はゾーン 5 になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15265,7 +15265,7 @@ to understand blending modes, there are a few terms to know:</seg>
         <seg>Move to Recycle Bin...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092126Z">
-        <seg>ごみ箱へ移動…</seg>
+        <seg>ごみ箱へ移動...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15281,7 +15281,7 @@ to understand blending modes, there are a few terms to know:</seg>
         <seg>Move to Trash...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092132Z">
-        <seg>ごみ箱へ移動…</seg>
+        <seg>ごみ箱へ移動...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16210,7 +16210,7 @@ to understand blending modes, there are a few terms to know:</seg>
         <seg>Nikon NEF compressed</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T032538Z">
-        <seg>Nikon NEF（圧縮）</seg>
+        <seg>Nikon NEF (圧縮)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,7 +16614,7 @@ shows the selected photo's metadata.</seg>
         <seg>On the right side of the browser window is the Metadata Inspector that shows the selected photo's metadata. You can edit metadata that has a dark gray background. (Editing metadata is not available in &lt;a0&gt;LightZone Basic&lt;/a0&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T135505Z">
-        <seg>メタデータ表示部は閲覧ウィンドウの右側にあり、選択されている写真のメタデータを表示します。背景が濃い灰色のメタデータは編集することができます。（メタデータの編集機能は &lt;a0&gt;LightZone Basic&lt;/a0&gt; にはありません。）</seg>
+        <seg>メタデータ表示部は閲覧ウィンドウの右側にあり、選択されている写真のメタデータを表示します。背景が濃い灰色のメタデータは編集することができます。 (メタデータの編集機能は &lt;a0&gt;LightZone Basic&lt;/a0&gt; にはありません。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16622,7 +16622,7 @@ shows the selected photo's metadata.</seg>
         <seg>Once you have found a photo you want to edit using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, you can edit it (or simply view it at full size).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T102334Z">
-        <seg>編集したい写真を&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;で見つけたら、その写真を編集（または単にフル サイズで閲覧）できます。</seg>
+        <seg>編集したい写真を&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;で見つけたら、その写真を編集 (または単にフル サイズで閲覧) できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16630,7 +16630,7 @@ shows the selected photo's metadata.</seg>
         <seg>Once you have found a photo you want to edit using the [Photo Browser](Anatomy-Browser.html), you can edit it (or simply view it at full size).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T125747Z">
-        <seg>編集したい写真を[写真閲覧ウィンドウ](Anatomy-Browser.html)で見つけたら、その写真を編集（または単にフル サイズで閲覧）できます。</seg>
+        <seg>編集したい写真を[写真閲覧ウィンドウ](Anatomy-Browser.html)で見つけたら、その写真を編集 (または単にフル サイズで閲覧) できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16718,7 +16718,7 @@ shows the selected photo's metadata.</seg>
         <seg>Open...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125024Z">
-        <seg>開く…</seg>
+        <seg>開く...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16734,7 +16734,7 @@ shows the selected photo's metadata.</seg>
         <seg>Opening...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T031517Z">
-        <seg>開いています…</seg>
+        <seg>開いています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,7 +16800,7 @@ shows the selected photo's metadata.</seg>
         <seg>Optionally, check &lt;a0&gt;Black point compensation&lt;/a0&gt; (applies only when the rendering intent is Relative Colorimetric).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T160637Z">
-        <seg>追加の手順として、&lt;a0&gt;黒点の補正&lt;/a0&gt;にチェックを入れます（レンダリング インテントが「相対的色域を保持」である場合のみ適用されます）。</seg>
+        <seg>追加の手順として、&lt;a0&gt;黒点の補正&lt;/a0&gt;にチェックを入れます (レンダリング インテントが「相対的色域を保持」である場合のみ適用されます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16810,7 +16810,7 @@ shows the selected photo's metadata.</seg>
     rendering intent is Relative Colorimetric).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T160629Z">
-        <seg>追加の手順として、[黒点の補正](Black_Point_Compensation.html)にチェックを入れます（レンダリング インテントが「相対的色域を保持」である場合のみ適用されます）。</seg>
+        <seg>追加の手順として、[黒点の補正](Black_Point_Compensation.html)にチェックを入れます (レンダリング インテントが「相対的色域を保持」である場合のみ適用されます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,7 +16818,7 @@ shows the selected photo's metadata.</seg>
         <seg>Optionally, check [Black point compensation](Black_Point_Compensation.html) (applies only when the rendering intent is Relative Colorimetric).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121745Z">
-        <seg>追加の手順として、[黒点の補正](Black_Point_Compensation.html)にチェックを入れます（レンダリング インテントが「相対的色域を保持」である場合のみ適用されます）。</seg>
+        <seg>追加の手順として、[黒点の補正](Black_Point_Compensation.html)にチェックを入れます (レンダリング インテントが「相対的色域を保持」である場合のみ適用されます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16852,7 +16852,7 @@ shows the selected photo's metadata.</seg>
 use in other applications).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T113525Z">
-        <seg>追加の手順として、編集した写真を（他のアプリケーションで扱うために）TIFF ファイルに変換することもできます。</seg>
+        <seg>追加の手順として、編集した写真を (他のアプリケーションで扱うために) TIFF ファイルに変換することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16860,7 +16860,7 @@ use in other applications).</seg>
         <seg>Optionally, you can also convert your edited photos to TIFF files (for use in other applications).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T082820Z">
-        <seg>追加の手順として、編集した写真を（他のアプリケーションで扱うために）TIFF ファイルに変換することもできます。</seg>
+        <seg>追加の手順として、編集した写真を (他のアプリケーションで扱うために) TIFF ファイルに変換することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17058,7 +17058,7 @@ often have limitations in how black the darkest black they can render
 is.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T155035Z">
-        <seg>出力デバイス（プリンタやディスプレイなど）は描画できる黒の暗さに限界があります。</seg>
+        <seg>出力デバイス (プリンタやディスプレイなど) は描画できる黒の暗さに限界があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,7 +17066,7 @@ is.</seg>
         <seg>Output devices (such as printers and computer displays)  often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121449Z">
-        <seg>出力デバイス（プリンタやディスプレイなど）は描画できる黒の暗さに限界があります。</seg>
+        <seg>出力デバイス (プリンタやディスプレイなど) は描画できる黒の暗さに限界があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17074,7 +17074,7 @@ is.</seg>
         <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T155019Z">
-        <seg>出力デバイス（プリンタやディスプレイなど）は描画できる黒の暗さに限界があります。</seg>
+        <seg>出力デバイス (プリンタやディスプレイなど) は描画できる黒の暗さに限界があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,7 +17186,7 @@ is.</seg>
         <seg>Page Setup...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105404Z">
-        <seg>ページ設定…</seg>
+        <seg>ページ設定...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17250,7 +17250,7 @@ is.</seg>
         <seg>Paste Tools...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095745Z">
-        <seg>ペースト ツール…</seg>
+        <seg>ペースト ツール...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17468,7 +17468,7 @@ is.</seg>
 application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115341Z">
-        <seg>Photoshop Lightroom（アドビ システムズ製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>Photoshop Lightroom (アドビ システムズ製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17476,7 +17476,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Photoshop Lightroom (from Adobe Systems) allows you to select another application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114924Z">
-        <seg>Photoshop Lightroom（アドビ システムズ製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>Photoshop Lightroom (アドビ システムズ製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17484,7 +17484,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Photoshop Lightroom (from Adobe Systems) allows you to select another application as an "external editor" for editing your photos. You can configure LightZone to be such an editor. Additionally, LightZone integrates seamlessly with Lightroom via the &lt;a0&gt;Direct Save&lt;/a0&gt; preference.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T075747Z">
-        <seg>Photoshop Lightroom（アドビ システムズ製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで Lightroom とシームレスに統合できます。</seg>
+        <seg>Photoshop Lightroom (アドビ システムズ製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで Lightroom とシームレスに統合できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17668,7 +17668,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Preferences...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T131538Z">
-        <seg>設定…</seg>
+        <seg>設定...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17716,7 +17716,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Previewing...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T031649Z">
-        <seg>プレビュー中…</seg>
+        <seg>プレビュー中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17764,7 +17764,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Print...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T144957Z">
-        <seg>印刷…</seg>
+        <seg>印刷...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17804,7 +17804,7 @@ application as an "external editor" for editing your photos.</seg>
         <seg>Printing...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T143538Z">
-        <seg>印刷中…</seg>
+        <seg>印刷中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,7 +18793,7 @@ therefore always editable.</seg>
         <seg>Rename...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092059Z">
-        <seg>名前を変更…</seg>
+        <seg>名前を変更...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18953,7 +18953,7 @@ therefore always editable.</seg>
         <seg>Reset...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T100637Z">
-        <seg>リセット…</seg>
+        <seg>リセット...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19089,7 +19089,7 @@ therefore always editable.</seg>
         <seg>Revert...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125038Z">
-        <seg>元に戻す…</seg>
+        <seg>元に戻す...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19217,7 +19217,7 @@ therefore always editable.</seg>
         <seg>Rotate the image (fine)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105827Z">
-        <seg>画像を回転（高品質）</seg>
+        <seg>画像を回転 (高品質)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20010,7 +20010,7 @@ is not modified.</seg>
         <seg>Save As...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T145209Z">
-        <seg>名前を付けて保存…</seg>
+        <seg>名前を付けて保存...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20058,7 +20058,7 @@ is not modified.</seg>
         <seg>Save as Style...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125708Z">
-        <seg>スタイルとして保存…</seg>
+        <seg>スタイルとして保存...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20122,7 +20122,7 @@ is not modified.</seg>
         <seg>Saving to $1...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150817Z">
-        <seg>$1 に保存中…</seg>
+        <seg>$1 に保存中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20138,7 +20138,7 @@ is not modified.</seg>
         <seg>Saving...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T143430Z">
-        <seg>保存中…</seg>
+        <seg>保存中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20178,7 +20178,7 @@ is not modified.</seg>
         <seg>Scanning $1...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T144906Z">
-        <seg>$1 をスキャン中…</seg>
+        <seg>$1 をスキャン中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20284,7 +20284,7 @@ the result colors.</seg>
         <seg>See also: Soft Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152149Z">
-        <seg>「ソフト焼き込み」も参照。）</seg>
+        <seg>「ソフト焼き込み」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20293,7 +20293,7 @@ the result colors.</seg>
 Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153101Z">
-        <seg>「ソフト焼き込み」も参照。）</seg>
+        <seg>「ソフト焼き込み」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20334,7 +20334,7 @@ Color Dodge</seg>
         <seg>Select &lt;s0&gt;LightZone&lt;/s0&gt; &lt;s1&gt;Edit&lt;/s1&gt; &gt; Preferences...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074801Z">
-        <seg>&lt;s0&gt;LightZone&lt;/s0&gt; で「&lt;s1&gt;編集&lt;/s1&gt;」→「設定…」を選択します。</seg>
+        <seg>&lt;s0&gt;LightZone&lt;/s0&gt; で「&lt;s1&gt;編集&lt;/s1&gt;」→「設定...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20358,7 +20358,7 @@ Color Dodge</seg>
         <seg>Select Action &gt; Open With &gt; LightZone. (LightZone will launch and open your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T075014Z">
-        <seg>「Action」→「Open With」→「LightZone」を選択します。（LightZone が起動して TIFF 画像が開きます。）</seg>
+        <seg>「Action」→「Open With」→「LightZone」を選択します。 (LightZone が起動して TIFF 画像が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20407,7 +20407,7 @@ Color Dodge</seg>
         <seg>Select Browser &gt; Convert... (The batch convert dialog will be presented.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161416Z">
-        <seg>「閲覧」→「変換…」を選択します（バッチ変換ダイアログが現れます）。</seg>
+        <seg>「閲覧」→「変換...」を選択します (バッチ変換ダイアログが現れます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20423,7 +20423,7 @@ Color Dodge</seg>
         <seg>Select Browser &gt; Move to &lt;s0&gt;Trash...&lt;/s0&gt; &lt;s1&gt;Recycle Bin...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102715Z">
-        <seg>「閲覧」→「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動…」を選択します。</seg>
+        <seg>「閲覧」→「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20431,7 +20431,7 @@ Color Dodge</seg>
         <seg>Select Browser &gt; Rename...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105108Z">
-        <seg>「閲覧」→「名前を変更…」を選択します。</seg>
+        <seg>「閲覧」→「名前を変更...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20440,7 +20440,7 @@ Color Dodge</seg>
     presented.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161539Z">
-        <seg>「閲覧」→「変換…」を選択します（バッチ変換ダイアログが現れます）。</seg>
+        <seg>「閲覧」→「変換...」を選択します (バッチ変換ダイアログが現れます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20450,7 +20450,7 @@ Color Dodge</seg>
 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161527Z">
-        <seg>「閲覧」→「変換…」を選択します（バッチ変換ダイアログが現れます）。</seg>
+        <seg>「閲覧」→「変換...」を選択します (バッチ変換ダイアログが現れます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20458,7 +20458,7 @@ Color Dodge</seg>
         <seg>Select Browser \&gt; Convert... (The batch convert dialog will be presented.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121813Z">
-        <seg>「閲覧」→「変換…」を選択します（バッチ変換ダイアログが現れます）。</seg>
+        <seg>「閲覧」→「変換...」を選択します (バッチ変換ダイアログが現れます) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20474,7 +20474,7 @@ Color Dodge</seg>
         <seg>Select Browser \&gt; Move to Trash...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123442Z">
-        <seg>「閲覧」→「ごみ箱へ移動…」を選択します。</seg>
+        <seg>「閲覧」→「ごみ箱へ移動...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20490,7 +20490,7 @@ Color Dodge</seg>
         <seg>Select Browser \&gt; Rename...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T132610Z">
-        <seg>「閲覧」→「名前を変更…」を選択します。</seg>
+        <seg>「閲覧」→「名前を変更...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20570,7 +20570,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Convert...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T135759Z">
-        <seg>「ファイル」から「変換…」を選択します。</seg>
+        <seg>「ファイル」から「変換...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20578,7 +20578,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Open...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083156Z">
-        <seg>「ファイル」から「開く…」を選択します。</seg>
+        <seg>「ファイル」から「開く...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20586,7 +20586,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Open... and use the file-chooser dialog to navigate to and select the photo you want to edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T103035Z">
-        <seg>「ファイル」→「開く…」を選択し、ファイル選択ダイアログで写真を探して選択します。</seg>
+        <seg>「ファイル」→「開く...」を選択し、ファイル選択ダイアログで写真を探して選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20602,7 +20602,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save to Aperture. (LightZone will save your edited photo back to the TIFF copy overwriting it, switch back to Aperture, and Aperture will reload the now edited TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T072631Z">
-        <seg>「ファイル」→「保存」を選択して Aperture に戻ります。（LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。）</seg>
+        <seg>「ファイル」→「保存」を選択して Aperture に戻ります。 (LightZone は編集済みの写真を TIFF 画像に上書き保存し、Aperture に切り替え、Aperture はその編集済みの TIFF 画像を再読み込みします。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20618,7 +20618,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save to Lightroom. (LightZone will save your edited photo back to the TIFF copy overwriting &lt;s0&gt; it, switch back to Lightroom, and Lightroom will reload the now edited TIFF copy of your photo.) &lt;/s0&gt; &lt;s1&gt; it. &lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T082249Z">
-        <seg>「ファイル」→「保存」を選択して Lightroom に戻ります。（LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。）&lt;/s0&gt;&lt;s1&gt;ます。）&lt;/s1&gt;</seg>
+        <seg>「ファイル」→「保存」を選択して Lightroom に戻ります。 (LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。) &lt;/s0&gt;&lt;s1&gt;ます。) &lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20626,7 +20626,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save to Lightroom. (LightZone will save your edited photo back to the TIFF copy overwriting &lt;s0&gt;it, switch back to Lightroom, and Lightroom will reload the now edited TIFF copy of your photo.)&lt;/s0&gt; &lt;s1&gt;it.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104500Z">
-        <seg>「ファイル」→「保存」を選択して Lightroom に戻ります。（LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。）&lt;/s0&gt;&lt;s1&gt;ます。）&lt;/s1&gt;</seg>
+        <seg>「ファイル」→「保存」を選択して Lightroom に戻ります。 (LightZone は編集済みの写真を TIFF 画像に上書き保存し&lt;s0&gt;、Lightroom に切り替え、Lightroom はその編集済みの TIFF 画像を再読み込みします。) &lt;/s0&gt;&lt;s1&gt;ます。) &lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20642,7 +20642,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save to iPhoto. (LightZone will automatically save your edited photo, switch to iPhoto, and tell iPhoto to import it into the current album.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T072653Z">
-        <seg>「ファイル」→「保存」を選択して iPhoto に戻ります。（LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。）</seg>
+        <seg>「ファイル」→「保存」を選択して iPhoto に戻ります。 (LightZone は編集済みの写真を自動で保存し、iPhoto に切り替え、iPhoto にその写真を現在のアルバムへ保存させます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20650,7 +20650,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T075036Z">
-        <seg>「ファイル」→「保存…」を選択します。</seg>
+        <seg>「ファイル」→「保存...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20658,7 +20658,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Save... or Save As...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T135820Z">
-        <seg>「ファイル」から「保存…」または「名前を付けて保存…」を選択します。</seg>
+        <seg>「ファイル」から「保存...」または「名前を付けて保存...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20666,7 +20666,7 @@ Color Dodge</seg>
         <seg>Select File &gt; Send...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T122011Z">
-        <seg>「ファイル」→「送る…」を選択します。</seg>
+        <seg>「ファイル」→「送る...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20674,7 +20674,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Convert...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T160516Z">
-        <seg>「ファイル」から「変換…」を選択します。</seg>
+        <seg>「ファイル」から「変換...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20682,7 +20682,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Open...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123032Z">
-        <seg>「ファイル」から「開く…」を選択します。</seg>
+        <seg>「ファイル」から「開く...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20690,7 +20690,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Open... and use the file-chooser dialog to navigate to and select the photo you want to edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T125845Z">
-        <seg>「ファイル」→「開く…」を選択し、ファイル選択ダイアログで写真を探して選択します。</seg>
+        <seg>「ファイル」→「開く...」を選択し、ファイル選択ダイアログで写真を探して選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20722,7 +20722,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Save...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114831Z">
-        <seg>「ファイル」→「保存…」を選択します。</seg>
+        <seg>「ファイル」→「保存...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20730,7 +20730,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Save... or Save As...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T153305Z">
-        <seg>「ファイル」から「保存…」または「名前を付けて保存…」を選択します。</seg>
+        <seg>「ファイル」から「保存...」または「名前を付けて保存...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20738,7 +20738,7 @@ Color Dodge</seg>
         <seg>Select File \&gt; Send...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T152127Z">
-        <seg>「ファイル」→「送る…」を選択します。</seg>
+        <seg>「ファイル」→「送る...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20754,7 +20754,7 @@ Color Dodge</seg>
         <seg>Select Images &gt; Open With External Editor. (LightZone will launch and open the TIFF copy of your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T072219Z">
-        <seg>「画像」→「外部エディタで開く」を選択します。（LightZone が起動して TIFF 画像が開きます。）</seg>
+        <seg>「画像」→「外部エディタで開く」を選択します。 (LightZone が起動して TIFF 画像が開きます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20770,7 +20770,7 @@ Color Dodge</seg>
         <seg>Select LightZone &gt; Preferences... (The Preferences dialog will appear.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T070025Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20778,7 +20778,7 @@ Color Dodge</seg>
         <seg>Select LightZone &gt; Preferences... (the Preferences dialog will appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071848Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20786,7 +20786,7 @@ Color Dodge</seg>
         <seg>Select LightZone Edit \&gt; Preferences...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114631Z">
-        <seg>LightZone で「編集」→「設定…」を選択します。</seg>
+        <seg>LightZone で「編集」→「設定...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20795,7 +20795,7 @@ Color Dodge</seg>
     appear.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164936Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20803,7 +20803,7 @@ Color Dodge</seg>
         <seg>Select LightZone \&gt; Preferences... (The Preferences dialog will appear.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123159Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20812,7 +20812,7 @@ Color Dodge</seg>
     appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165549Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20820,7 +20820,7 @@ Color Dodge</seg>
         <seg>Select LightZone \&gt; Preferences... (the Preferences dialog will appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123244Z">
-        <seg>「LightZone」→「設定…」を選択します。（設定ダイアログが現れます。）</seg>
+        <seg>「LightZone」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20844,7 +20844,7 @@ Color Dodge</seg>
         <seg>Select Photo &gt; Edit. (Lightroom will display its Edit Photo dialog offering you its three choices.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T083704Z">
-        <seg>「写真」→「編集」を選択します。（Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。）</seg>
+        <seg>「写真」→「編集」を選択します。 (Lightroom は写真編集ダイアログを表示して 3 つの選択肢を提示します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20932,7 +20932,7 @@ Color Dodge</seg>
         <seg>Select iPhoto &gt; Preferences... (the Preferences dialog will appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071309Z">
-        <seg>「iPhoto」→「環境設定…」を選択します。（環境設定ダイアログが現れます。）</seg>
+        <seg>「iPhoto」→「環境設定...」を選択します。 (環境設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20941,7 +20941,7 @@ Color Dodge</seg>
     appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165328Z">
-        <seg>「iPhoto」→「環境設定…」を選択します。（環境設定ダイアログが現れます。）</seg>
+        <seg>「iPhoto」→「環境設定...」を選択します。 (環境設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20949,7 +20949,7 @@ Color Dodge</seg>
         <seg>Select iPhoto \&gt; Preferences... (the Preferences dialog will appear).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123224Z">
-        <seg>「iPhoto」→「環境設定…」を選択します。（環境設定ダイアログが現れます。）</seg>
+        <seg>「iPhoto」→「環境設定...」を選択します。 (環境設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21007,7 +21007,7 @@ Color Dodge</seg>
         <seg>Select one or more thumbnails of the photos in the browser that you want to delete. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102706Z">
-        <seg>写真閲覧ウィンドウを使って、削除したい写真のサムネイルを選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>写真閲覧ウィンドウを使って、削除したい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21023,7 +21023,7 @@ Color Dodge</seg>
         <seg>Select one or more thumbnails of the photos in the browser that you want to send. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T121902Z">
-        <seg>写真閲覧ウィンドウを使って、送りたい写真のサムネイルを選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。</seg>
+        <seg>写真閲覧ウィンドウを使って、送りたい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21039,7 +21039,7 @@ Color Dodge</seg>
         <seg>Select one or more thumbnails of the photos that you want to drag &amp; drop. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T090620Z">
-        <seg>ドラッグ &amp; ドロップしたい写真のサムネイルを選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>ドラッグ &amp; ドロップしたい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,7 +21055,7 @@ Color Dodge</seg>
         <seg>Select one or more thumbnails of the photos that you want to rate. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104901Z">
-        <seg>評価したい写真のサムネイルを選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>評価したい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21071,7 +21071,7 @@ Color Dodge</seg>
         <seg>Select one or more thumbnails of the photos that you want to rotate. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T121659Z">
-        <seg>回転したい写真のサムネイルを選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>回転したい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21216,7 +21216,7 @@ Color Dodge</seg>
         <seg>Select whether to use LZW compression (TIFF only).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141150Z">
-        <seg>LZW 圧縮を使うかを選択します（TIFF のみ）。</seg>
+        <seg>LZW 圧縮を使うかを選択します (TIFF のみ) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21296,7 +21296,7 @@ Color Dodge</seg>
         <seg>Send...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T122435Z">
-        <seg>送る…</seg>
+        <seg>送る...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21424,7 +21424,7 @@ Color Dodge</seg>
         <seg>Set the quality (for JPEG) or bit depth (for TIFF).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141104Z">
-        <seg>品質（JPEG 用）またはビット深さ（TIFF 用）を設定します。</seg>
+        <seg>品質 (JPEG 用) またはビット深さ (TIFF 用) を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21948,7 +21948,7 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
         <seg>Simple (and small) workflow</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T145801Z">
-        <seg>シンプル（かつコンパクト）な作業フロー</seg>
+        <seg>シンプル (かつコンパクト) な作業フロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -22325,7 +22325,7 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
         <seg>Subfile type (new)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T062901Z">
-        <seg>サブファイルの種類（新）</seg>
+        <seg>サブファイルの種類 (新)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22333,7 +22333,7 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
         <seg>Subfile type (old)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T062911Z">
-        <seg>サブファイルの種類（旧）</seg>
+        <seg>サブファイルの種類 (旧)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22398,7 +22398,7 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
         <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter. (See also: Exclusion.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161924Z">
-        <seg>ベース色とブレンド色のうち明るい方から暗い方を引いたものになります。（「Exclusion」も参照。）</seg>
+        <seg>ベース色とブレンド色のうち明るい方から暗い方を引いたものになります。 (「Exclusion」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22807,7 +22807,7 @@ currently selected thumbnails.</seg>
         <seg>The &lt;a0&gt;Relight tool&lt;/a0&gt; (an improved ToneMapper tool) has new Depth and Fuzz sliders.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T095842Z">
-        <seg>&lt;a0&gt;リライト ツール&lt;/a0&gt;（トーンマッパー ツールの改良版）に「深さ」と「ファズ」のスライダーが付きました。</seg>
+        <seg>&lt;a0&gt;リライト ツール&lt;/a0&gt; (トーンマッパー ツールの改良版) に「深さ」と「ファズ」のスライダーが付きました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23040,7 +23040,7 @@ currently selected thumbnails.</seg>
     converted file (but before the extension).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161543Z">
-        <seg>バッチ名を指定していれば、変換後の各ファイル名（の拡張子の前）に追加されます。</seg>
+        <seg>バッチ名を指定していれば、変換後の各ファイル名 (の拡張子の前) に追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23048,7 +23048,7 @@ currently selected thumbnails.</seg>
         <seg>The Batch Name, if provided, is appended to the name of each converted file (but before the extension).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T142535Z">
-        <seg>バッチ名を指定していれば、変換後の各ファイル名（の拡張子の前）に追加されます。</seg>
+        <seg>バッチ名を指定していれば、変換後の各ファイル名 (の拡張子の前) に追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23146,7 +23146,7 @@ the darkest black in your photo and the darkest black that a particular
 device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T145951Z">
-        <seg>RGB 色空間は 100% の白から 100% の黒まですべての輝度を再現できます。出力デバイス（プリンタやディスプレイなど）は描画できる黒の暗さに限界があります。黒点の補正は、写真のなかの最も暗い黒とデバイスが描画できる最も暗い黒との差を解決しようとします。</seg>
+        <seg>RGB 色空間は 100% の白から 100% の黒まですべての輝度を再現できます。出力デバイス (プリンタやディスプレイなど) は描画できる黒の暗さに限界があります。黒点の補正は、写真のなかの最も暗い黒とデバイスが描画できる最も暗い黒との差を解決しようとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23162,7 +23162,7 @@ device can render.</seg>
         <seg>The RGB color space can represent all luminosities from 100% white to 100% black. Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is. Black point compensation attempts to resolve the difference between the darkest black in your photo and the darkest black that a particular device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T140132Z">
-        <seg>RGB 色空間は 100% の白から 100% の黒まですべての輝度を再現できます。出力デバイス（プリンタやディスプレイなど）は描画できる黒の暗さに限界があります。黒点の補正は、写真のなかの最も暗い黒とデバイスが描画できる最も暗い黒との差を解決しようとします。</seg>
+        <seg>RGB 色空間は 100% の白から 100% の黒まですべての輝度を再現できます。出力デバイス (プリンタやディスプレイなど) は描画できる黒の暗さに限界があります。黒点の補正は、写真のなかの最も暗い黒とデバイスが描画できる最も暗い黒との差を解決しようとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23485,7 +23485,7 @@ brightness or half an f-stop from the next.</seg>
         <seg>The [Relight tool](Tool-Relight.html) (an improved ToneMapper tool)  has new Depth and Fuzz sliders.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T124728Z">
-        <seg>[リライト ツール](Tool-Relight.html)（トーンマッパー ツールの改良版）に「深さ」と「ファズ」のスライダーが付きました。</seg>
+        <seg>[リライト ツール](Tool-Relight.html) (トーンマッパー ツールの改良版) に「深さ」と「ファズ」のスライダーが付きました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23729,7 +23729,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly. For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;. Even though the ZoneMapper is added collapsed and &lt;a2&gt;locked&lt;/a2&gt;, you can expand it (by double-clicking it in its title bar) to inspect the curve. You are also free to unlock and edit or delete it.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T144755Z">
-        <seg>しかし、いくつかのカメラの raw ファイルでは、正しい見た目にするために既定の「トーン カーブ」が必要です。そのような raw ファイルについては、LightZone が自動的に既定のトーン カーブを含んだ&lt;a0&gt;ゾーン マッパー&lt;/a0&gt;を&lt;a1&gt;ツール スタック&lt;/a1&gt;に追加します。このゾーン マッパーは折りたたまれて&lt;a2&gt;ロックされて&lt;/a2&gt;いますが、展開（タイトル バーをダブル クリック）すればカーブを見ることができます。また、ロックを外して編集したり削除したりすることもできます。</seg>
+        <seg>しかし、いくつかのカメラの raw ファイルでは、正しい見た目にするために既定の「トーン カーブ」が必要です。そのような raw ファイルについては、LightZone が自動的に既定のトーン カーブを含んだ&lt;a0&gt;ゾーン マッパー&lt;/a0&gt;を&lt;a1&gt;ツール スタック&lt;/a1&gt;に追加します。このゾーン マッパーは折りたたまれて&lt;a2&gt;ロックされて&lt;/a2&gt;いますが、展開 (タイトル バーをダブル クリック) すればカーブを見ることができます。また、ロックを外して編集したり削除したりすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23812,7 +23812,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The result color is either the base or blend color, whichever is darker. (Opposite of Lighten.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T082754Z">
-        <seg>結果色はベース色とブレンド色のうち暗い方になります。（「比較（明）」の逆です。）</seg>
+        <seg>結果色はベース色とブレンド色のうち暗い方になります。 (「比較 (明) 」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23828,7 +23828,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The result color is either the base or blend color, whichever is lighter. (Opposite of Darken.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T082854Z">
-        <seg>結果色はベース色とブレンド色のうち明るい方になります。（「比較（暗）」の逆です。）</seg>
+        <seg>結果色はベース色とブレンド色のうち明るい方になります。 (「比較 (暗) 」の逆です。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23869,7 +23869,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The tool reduces noise in either chromaticity or luminance (or both).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T144454Z">
-        <seg>色度か輝度（またはその両方）のノイズを軽減します。</seg>
+        <seg>色度か輝度 (またはその両方) のノイズを軽減します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23885,7 +23885,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The traditional Zone System takes into account the nonlinear nature of both film and photographic paper that compresses the tonal values of highlights and shadows (the "shoulder" and "toe" of photographic media).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T140259Z">
-        <seg>ハイライトとシャドウの階調が圧縮されるというフィルムと印画紙の両方の非線形な特性（写真感材の「肩」と「足」）も考慮されています。</seg>
+        <seg>ハイライトとシャドウの階調が圧縮されるというフィルムと印画紙の両方の非線形な特性 (写真感材の「肩」と「足」) も考慮されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23893,7 +23893,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The traditional Zone System was developed for negative film and has 11 zones where each zone differs by one *exposure value* (one "EV" which is equivalent to one f-stop).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133056Z">
-        <seg>伝統的なゾーン システムはネガ フィルムのために開発され、*露光指数*が 1 EV ずつ異なる 11 のゾーンを用いています（露光指数の 1 EV は絞りの 1 段に相当します）。</seg>
+        <seg>伝統的なゾーン システムはネガ フィルムのために開発され、*露光指数*が 1 EV ずつ異なる 11 のゾーンを用いています (露光指数の 1 EV は絞りの 1 段に相当します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23901,7 +23901,7 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
         <seg>The traditional Zone System was developed for negative film and has 11 zones where each zone differs by one &lt;e0&gt;exposure value&lt;/e0&gt; (one "EV" which is equivalent to one f-stop). Middle (or 18%) gray falls onto zone 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T140238Z">
-        <seg>伝統的なゾーン システムはネガ フィルムのために開発され、&lt;e0&gt;露光指数&lt;/e0&gt;が 1 EV ずつ異なる 11 のゾーンを用いています（露光指数の 1 EV は絞りの 1 段に相当します）。中間色灰色（18 %）はゾーン 5 になります。</seg>
+        <seg>伝統的なゾーン システムはネガ フィルムのために開発され、&lt;e0&gt;露光指数&lt;/e0&gt;が 1 EV ずつ異なる 11 のゾーンを用いています (露光指数の 1 EV は絞りの 1 段に相当します) 。中間色灰色 (18 %) はゾーン 5 になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24233,7 +24233,7 @@ create beautiful photos.</seg>
         <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors. The result color is always lighter. The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161630Z">
-        <seg>乗算とほぼ同じですが、ベース色およびブレンド色の逆数どうしを乗算します。結果色は常に明るくなります。この効果は写真スライドをひとつのスクリーンに重ねて映した場合と似ています。（「スクリーン」も参照。）</seg>
+        <seg>乗算とほぼ同じですが、ベース色およびブレンド色の逆数どうしを乗算します。結果色は常に明るくなります。この効果は写真スライドをひとつのスクリーンに重ねて映した場合と似ています。 (「スクリーン」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24292,7 +24292,7 @@ create beautiful photos.</seg>
         <seg>This blending mode multiplies or screens the colors, depending on the blend color. If the blend color is lighter than 50% gray, the color is lightened (screened);</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T054810Z">
-        <seg>ブレンド色に応じて色を乗算またはスクリーンします。ブレンド色が 50% グレーよりも明るい場合は明るく（スクリーン）します。</seg>
+        <seg>ブレンド色に応じて色を乗算またはスクリーンします。ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24300,7 +24300,7 @@ create beautiful photos.</seg>
         <seg>This blending mode multiplies or screens the colors, depending on the blend color. If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied). This is useful for adding highlights or shadows to an image.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T153308Z">
-        <seg>ブレンド色に応じて色を乗算またはスクリーンします。ブレンド色が 50% グレーよりも明るい場合は明るく（スクリーン）します。50% グレーよりも暗い場合は暗く（乗算）します。画像にハイライトやシャドウを加えるのに有用です。</seg>
+        <seg>ブレンド色に応じて色を乗算またはスクリーンします。ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。50% グレーよりも暗い場合は暗く (乗算) します。画像にハイライトやシャドウを加えるのに有用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24316,7 +24316,7 @@ create beautiful photos.</seg>
         <seg>This blending mode multiplies the base and blend colors. The result color is always darker. The effect is similar to projecting multiple photographic slides onto the same screen. (See also: Screen.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161557Z">
-        <seg>ベース色とブレンド色とを乗算します。結果色は常に暗くなります。この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。（「スクリーン」も参照。）</seg>
+        <seg>ベース色とブレンド色とを乗算します。結果色は常に暗くなります。この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。 (「スクリーン」も参照。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24372,7 +24372,7 @@ create beautiful photos.</seg>
         <seg>This folder can go in the same place as its images ("Local"), or into one central location ("Global").</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T054141Z">
-        <seg>このフォルダーは個々の画像と同じ場所（「ローカル」）または単一の場所（「グローバル」）に置くことができます。</seg>
+        <seg>このフォルダーは個々の画像と同じ場所 (「ローカル」) または単一の場所 (「グローバル」) に置くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24652,7 +24652,7 @@ easier to work with.</seg>
         <seg>This will discard preview images and orientations saved by the LightZone browser.  (The previews will be recomputed automatically.  You may have to restore orientations manually using the browser's rotate buttons.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102637Z">
-        <seg>閲覧ウィンドウで保存されたプレビュー画像と画像の向きとを破棄することになります。（プレビューは自動的に再生成されます。画像の向きは閲覧ウィンドウの回転ボタンで手作業で再設定する必要があります。）</seg>
+        <seg>閲覧ウィンドウで保存されたプレビュー画像と画像の向きとを破棄することになります。 (プレビューは自動的に再生成されます。画像の向きは閲覧ウィンドウの回転ボタンで手作業で再設定する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25273,7 +25273,7 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
         <seg>To resume editing of your photo: select the JPEG then select Action &gt; Open With &gt; LightZone. (LightZone will launch, open your photo, and show the &lt;a0&gt;tool stack&lt;/a0&gt; as you last left it.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T075628Z">
-        <seg>編集を再開するには、JPEG を選択して「Action」→「Open With」→「LightZone」を選択します。（LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。）</seg>
+        <seg>編集を再開するには、JPEG を選択して「Action」→「Open With」→「LightZone」を選択します。 (LightZone が起動し、写真が開かれ、最後に使った&lt;a0&gt;ツール スタック&lt;/a0&gt;が表示されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25305,7 +25305,7 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
         <seg>To save work, the browser saves previews in a special cache folder.  This folder can go in the same place as its images ("Local"), or into one central location ("Global").</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102546Z">
-        <seg>作業を省略するために、閲覧ウィンドウはプレビューを専用のキャッシュ フォルダーに保存します。このフォルダーは個々の画像と同じ場所（「ローカル」）または単一の場所（「グローバル」）に置くことができます。</seg>
+        <seg>作業を省略するために、閲覧ウィンドウはプレビューを専用のキャッシュ フォルダーに保存します。このフォルダーは個々の画像と同じ場所 (「ローカル」) または単一の場所 (「グローバル」) に置くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25911,7 +25911,7 @@ introduce errors (such as increasing noise, edge distortion, and hue
 shifts)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163733Z">
-        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも（ノイズの増加やエッジの歪みや色相のずれなどの）エラーが起こることがありません。</seg>
+        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) エラーが起こることがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25923,7 +25923,7 @@ shifts) during enhancement operations such as sharpening, blurring, or
 saturation adjustments.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T113050Z">
-        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも（ノイズの増加やエッジの歪みや色相のずれなどの）エラーが起こることがありません。</seg>
+        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) エラーが起こることがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25931,7 +25931,7 @@ saturation adjustments.</seg>
         <seg>Unlike a non-linear gamma-corrected color space, a linear color space doesn't introduce errors (such as increasing noise, edge distortion, and hue shifts) during enhancement operations such as sharpening, blurring, or saturation adjustments.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162957Z">
-        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも（ノイズの増加やエッジの歪みや色相のずれなどの）エラーが起こることがありません。</seg>
+        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) エラーが起こることがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25965,7 +25965,7 @@ layers, *every* tool becomes a layer in the tool stack.</seg>
 allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163548Z">
-        <seg>他のアプリケーションと違って、LightZone では領域を（*ペイント*するのではなく）*ドロー*することができます。</seg>
+        <seg>他のアプリケーションと違って、LightZone では領域を (*ペイント*するのではなく) *ドロー*することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25973,7 +25973,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
         <seg>Unlike other applications, LightZone allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T122806Z">
-        <seg>他のアプリケーションと違って、LightZone では領域を（*ペイント*するのではなく）*ドロー*することができます。</seg>
+        <seg>他のアプリケーションと違って、LightZone では領域を (*ペイント*するのではなく) *ドロー*することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25981,7 +25981,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
         <seg>Unlike other applications, LightZone allows you to &lt;e0&gt;draw&lt;/e0&gt; (rather than &lt;e1&gt;paint&lt;/e1&gt;) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162906Z">
-        <seg>他のアプリケーションと違って、LightZone では領域を（&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく）&lt;e0&gt;ドロー&lt;/e0&gt;することができます。</seg>
+        <seg>他のアプリケーションと違って、LightZone では領域を (&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく) &lt;e0&gt;ドロー&lt;/e0&gt;することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26053,7 +26053,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
         <seg>Upgrade LightZone...</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T133053Z">
-        <seg>LightZone をアップグレード…</seg>
+        <seg>LightZone をアップグレード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26061,7 +26061,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
         <seg>Upgrade...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150416Z">
-        <seg>アップグレード…</seg>
+        <seg>アップグレード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26118,7 +26118,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
     to.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161541Z">
-        <seg>「選択…」ボタンを使って変換された画像の出力先フォルダーを選択します。</seg>
+        <seg>「選択...」ボタンを使って変換された画像の出力先フォルダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26126,7 +26126,7 @@ allows you to *draw* (rather than *paint*) regions.</seg>
         <seg>Use the Choose... button to select the folder to convert the images to.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T142345Z">
-        <seg>「選択…」ボタンを使って変換された画像の出力先フォルダーを選択します。</seg>
+        <seg>「選択...」ボタンを使って変換された画像の出力先フォルダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26248,7 +26248,7 @@ specific areas of your photo.</seg>
         <seg>Using regions to create masks, you can restrict a tool's effect to just specific areas of your photo. Unlike other applications, LightZone allows you to &lt;e0&gt;draw&lt;/e0&gt; (rather than &lt;e1&gt;paint&lt;/e1&gt;) regions. Regions are therefore always editable. Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges. &lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T075839Z">
-        <seg>領域を使ってマスクを作ることで、ツールの効果を特定の部分だけに適用することができます。他のアプリケーションと違って、LightZone では領域を（&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく）&lt;e0&gt;ドロー&lt;/e0&gt;することができます。つまり領域はいつでも編集できます。さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので境目がくっきりするのを避けられます。&lt;a3&gt;領域についてもっと知る&lt;/a3&gt;</seg>
+        <seg>領域を使ってマスクを作ることで、ツールの効果を特定の部分だけに適用することができます。他のアプリケーションと違って、LightZone では領域を (&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく) &lt;e0&gt;ドロー&lt;/e0&gt;することができます。つまり領域はいつでも編集できます。さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので境目がくっきりするのを避けられます。&lt;a3&gt;領域についてもっと知る&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26273,7 +26273,7 @@ specific areas of your photo.</seg>
         <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert. (Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102418Z">
-        <seg>写真閲覧ウィンドウを使って、変換したい写真のサムネイルを2枚以上選択します。（Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。）</seg>
+        <seg>写真閲覧ウィンドウを使って、変換したい写真のサムネイルを2枚以上選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27390,7 +27390,7 @@ Editor, directly from within the Photo Editor.</seg>
         <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T054204Z">
-        <seg>画像の向きは閲覧ウィンドウの回転ボタンで手作業で再設定する必要があります。）</seg>
+        <seg>画像の向きは閲覧ウィンドウの回転ボタンで手作業で再設定する必要があります。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27809,7 +27809,7 @@ configure iPhoto automatically for you now.</seg>
         <seg>[Converting images (individually)](Converting.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121820Z">
-        <seg>[画像を変換する（個別）](Converting.html)</seg>
+        <seg>[画像を変換する (個別) ](Converting.html)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29635,7 +29635,7 @@ Content-Transfer-Encoding: 8bit</seg>
 "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165255Z">
-        <seg>iPhoto（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>iPhoto (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29643,7 +29643,7 @@ Content-Transfer-Encoding: 8bit</seg>
         <seg>iPhoto (from Apple) allows you to select another application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165138Z">
-        <seg>iPhoto（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
+        <seg>iPhoto (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29651,7 +29651,7 @@ Content-Transfer-Encoding: 8bit</seg>
         <seg>iPhoto (from Apple) allows you to select another application as an "external editor" for editing your photos. You can configure LightZone to be such an editor. Additionally, LightZone integrates seamlessly with iPhoto via the &lt;a0&gt;Direct Save&lt;/a0&gt; preference.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071055Z">
-        <seg>iPhoto（Apple 製）は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで iPhoto とシームレスに統合できます。</seg>
+        <seg>iPhoto (Apple 製) は写真を編集するための「外部エディタ」として他のアプリケーションを選択できます。LightZone を外部エディタとして設定することもできます。さらに、LightZone は&lt;a0&gt;直接保存&lt;/a0&gt;を設定することで iPhoto とシームレスに統合できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29676,7 +29676,7 @@ Content-Transfer-Encoding: 8bit</seg>
 as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165803Z">
-        <seg>iView MediaPro（マイクロソフト製）は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。</seg>
+        <seg>iView MediaPro (マイクロソフト製) は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29684,7 +29684,7 @@ as a "helper application" for editing your photos.</seg>
         <seg>iView MediaPro (from Microsoft) allows you to select another application as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165720Z">
-        <seg>iView MediaPro（マイクロソフト製）は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。</seg>
+        <seg>iView MediaPro (マイクロソフト製) は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29692,7 +29692,7 @@ as a "helper application" for editing your photos.</seg>
         <seg>iView MediaPro (from Microsoft) allows you to select another application as a "helper application" for editing your photos. You can configure LightZone to be such a helper application.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T073315Z">
-        <seg>iView MediaPro（マイクロソフト製）は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。LightZone をヘルパー アプリケーションとして設定することもできます。</seg>
+        <seg>iView MediaPro (マイクロソフト製) は写真を編集するための「ヘルパー アプリケーション」として他のアプリケーションを選択できます。LightZone をヘルパー アプリケーションとして設定することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29701,7 +29701,7 @@ as a "helper application" for editing your photos.</seg>
     gray, the color is darkened (multiplied).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153137Z">
-        <seg>50% グレーよりも暗い場合は暗く（乗算）します。</seg>
+        <seg>50% グレーよりも暗い場合は暗く (乗算) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29709,7 +29709,7 @@ as a "helper application" for editing your photos.</seg>
         <seg>if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152327Z">
-        <seg>50% グレーよりも暗い場合は暗く（乗算）します。</seg>
+        <seg>50% グレーよりも暗い場合は暗く (乗算) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29717,7 +29717,7 @@ as a "helper application" for editing your photos.</seg>
         <seg>if the blend color is darker than 50% gray, the color is darkened (multiplied). This is useful for adding highlights or shadows to an image.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T054756Z">
-        <seg>50% グレーよりも暗い場合は暗く（乗算）します。画像にハイライトやシャドウを加えるのに有用です。</seg>
+        <seg>50% グレーよりも暗い場合は暗く (乗算) します。画像にハイライトやシャドウを加えるのに有用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30470,7 +30470,7 @@ as a "helper application" for editing your photos.</seg>
         <seg>or use the Select Recent button.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T121930Z">
-        <seg>または「最近使ったファイルを選択」ボタンを使います。）</seg>
+        <seg>または「最近使ったファイルを選択」ボタンを使います。)</seg>
       </tuv>
     </tu>
     <tu>
