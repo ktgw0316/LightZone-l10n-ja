@@ -2826,6 +2826,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>90 CCW + h.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134227Z">
+        <seg>反時計回りに 90 度 + 横に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>90 CCW + h. flip</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T095113Z">
@@ -2838,6 +2846,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T094817Z">
         <seg>時計回りに 90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90 CW + h.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134155Z">
+        <seg>時計回りに 90 度 + 横に</seg>
       </tuv>
     </tu>
     <tu>
@@ -4932,10 +4948,26 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shot neutral</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134835Z">
+        <seg>撮影時の無彩色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shot pre-profile matrix-X</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T060544Z">
         <seg>撮影時の ICC プロファイル マトリックス-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shot white XY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134919Z">
+        <seg>撮影時の白色の XY</seg>
       </tuv>
     </tu>
     <tu>
@@ -10835,6 +10867,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T135017Z">
+        <seg>ファイル ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File time</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T103140Z">
@@ -11725,8 +11765,8 @@ black that the device can render.</seg>
       <tuv lang="EN-US">
         <seg>Hide Inner Region</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T100334Z">
-        <seg>内部領域を隠す</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T133656Z">
+        <seg>内部領域を非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -18945,6 +18985,22 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095458Z">
         <seg>赤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduction matrix 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134710Z">
+        <seg>補正行列 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduction matrix 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134711Z">
+        <seg>補正行列 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -29294,14 +29350,6 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>chunky</seg>
-      </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130104T060931Z">
-        <seg>chunky</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>cinema</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T080325Z">
@@ -31339,14 +31387,6 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>planar</seg>
-      </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130104T060944Z">
-        <seg>planar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>police</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T080634Z">
@@ -32215,8 +32255,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>v.</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T145138Z">
-        <seg>v.</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134139Z">
+        <seg>縦に</seg>
       </tuv>
     </tu>
     <tu>
