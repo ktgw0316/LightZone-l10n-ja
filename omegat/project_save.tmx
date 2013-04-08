@@ -3477,6 +3477,14 @@ as big.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AF stop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140400Z">
+        <seg>AF 停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AF-D VR</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094651Z">
@@ -7870,6 +7878,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color processing info-X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141102Z">
+        <seg>色処理情報-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color profile</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T084013Z">
@@ -8808,6 +8824,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom functions (1D)-X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141032Z">
+        <seg>カスタム機能 (1D)-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom functions-X</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134347Z">
@@ -9670,6 +9694,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130403T135206Z">
         <seg>デジタル作成時刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Digital gain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141330Z">
+        <seg>デジタル ゲイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10831,6 +10863,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T133212Z">
         <seg>ファイルの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File info-X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141045Z">
+        <seg>ファイル情報-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -13597,6 +13637,14 @@ Ricoh</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lens auto-focus stop button function switch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140352Z">
+        <seg>レンズのオートフォーカス停止ボタンの機能切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens info</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T055516Z">
@@ -15318,6 +15366,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T101607Z">
         <seg>メモリ上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu button return position</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140522Z">
+        <seg>メニュー ボタンの復帰位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -18121,6 +18177,14 @@ application as an "external editor" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Picture style</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141239Z">
+        <seg>写真のスタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixar LogL</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T145651Z">
@@ -18507,8 +18571,8 @@ Content-Type: text/plain;</seg>
       <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T141407Z">
-        <seg>画像品質</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140719Z">
+        <seg>画質</seg>
       </tuv>
     </tu>
     <tu>
@@ -19915,6 +19979,14 @@ is not modified.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134854Z">
         <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SET button function when shooting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140618Z">
+        <seg>撮影時に SET ボタン機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -21965,10 +22037,26 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensor blue level</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141204Z">
+        <seg>センサーの青レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensor bottom border</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T085000Z">
         <seg>センサーの下側ボーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor cleaning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141011Z">
+        <seg>センサーの清掃</seg>
       </tuv>
     </tu>
     <tu>
@@ -22001,6 +22089,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T085009Z">
         <seg>センサーの左側ボーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor red level</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141158Z">
+        <seg>センサーの赤レベル</seg>
       </tuv>
     </tu>
     <tu>
@@ -26167,6 +26263,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tone curve</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141110Z">
+        <seg>トーン カーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tone curve-X</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T132257Z">
@@ -27302,6 +27406,22 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WB shift AB</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141449Z">
+        <seg>ホワイトバランス シフト AB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WB shift GM</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141447Z">
+        <seg>ホワイトバランス シフト GM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We specifically permit and encourage the use of this software as the basis of commercial products, provided that all warranty or liability claims are assumed by the product vendor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104614Z">
@@ -27535,6 +27655,14 @@ each are below, it's best to experiment.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White balance table-X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141432Z">
+        <seg>ホワイトバランス テーブル-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White level</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T061309Z">
@@ -27555,6 +27683,22 @@ each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T132230Z">
         <seg>白色点-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White-balance blue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141226Z">
+        <seg>ホワイトバランスの青</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White-balance red</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141216Z">
+        <seg>ホワイトバランスの赤</seg>
       </tuv>
     </tu>
     <tu>
@@ -29314,6 +29458,22 @@ stack...](Tool_Stack.html)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>change ISO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140939Z">
+        <seg>ISO の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140712Z">
+        <seg>画質の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>channel_mixer</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T111516Z">
@@ -29870,6 +30030,30 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>external 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141255Z">
+        <seg>外部 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141256Z">
+        <seg>外部 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141258Z">
+        <seg>外部 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>external flash</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T141804Z">
@@ -29882,6 +30066,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T093645Z">
         <seg>エクストラ ファイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>faithful</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141315Z">
+        <seg>忠実</seg>
       </tuv>
     </tu>
     <tu>
@@ -30290,6 +30482,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142330Z">
         <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>highest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141141Z">
+        <seg>最高</seg>
       </tuv>
     </tu>
     <tu>
@@ -30923,6 +31123,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lock AE, start timer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140438Z">
+        <seg>AE をロック、タイマーをスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>longitude</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074539Z">
@@ -30959,6 +31167,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T073234Z">
         <seg>低彩度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lowest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141134Z">
+        <seg>最低</seg>
       </tuv>
     </tu>
     <tu>
@@ -31039,6 +31255,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T080856Z">
         <seg>気象災害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>monochrome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141322Z">
+        <seg>白黒</seg>
       </tuv>
     </tu>
     <tu>
@@ -31203,6 +31427,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>not assigned</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140628Z">
+        <seg>割り当てなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>nuclear accident</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T080908Z">
@@ -31279,6 +31511,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T083737Z">
         <seg>ワンタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>operate AF</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140409Z">
+        <seg>操作 AF</seg>
       </tuv>
     </tu>
     <tu>
@@ -31439,6 +31679,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T085514Z">
         <seg>はがき</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>previous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140555Z">
+        <seg>前回と同じ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>previous (volatile)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140551Z">
+        <seg>前回と同じ (一時的)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31639,6 +31895,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T085602Z">
         <seg>EXIF ISO を参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>select parameters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140959Z">
+        <seg>パラメーターの選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -32249,6 +32513,30 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T051649Z">
         <seg>指定なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141249Z">
+        <seg>ユーザー定義 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141250Z">
+        <seg>ユーザー定義 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user defined 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141250Z">
+        <seg>ユーザー定義 3</seg>
       </tuv>
     </tu>
     <tu>
