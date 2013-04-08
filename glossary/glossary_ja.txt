@@ -1,4 +1,4 @@
-Style	スタイル
+style	スタイル
 color profiles	カラー プロファイル
 browse	閲覧する
 browser	閲覧ウィンドウ？
@@ -13,4 +13,7 @@ absolute colorimetric	絶対的な色域を維持
 rendering intent	レンダリング インテント
 color space	色空間
 base color	ベース色
-
+h.	横に (= horizontally)
+v.	縦に (= vertically)
+neutral	無彩色
+as shot	撮影時の
