@@ -969,6 +969,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Its contour will change from a solid line to a dashed line.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153727Z">
+        <seg>(輪郭が実線から破線に変わります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting
     your photos.)</seg>
       </tuv>
@@ -7556,6 +7564,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the contour of the region where you want to add a control point: a new control point will be added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153717Z">
+        <seg>調整点を追加したい領域の輪郭をクリックすると、新しい調整点が追加されます) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T122736Z">
@@ -10797,6 +10813,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every region in LightZone has a *feathering area* that is marked by an inner line that matches the contour of the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153752Z">
+        <seg>LightZone の領域はすべて*フェザリング範囲*があり、輪郭に沿った線として領域の内側に示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusion</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T082539Z">
@@ -13181,6 +13205,14 @@ Browser](Anatomy-Browser.html) to convert multiple images as a batch.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In between, the tool's effect is smoothly "feathered" from 0 to 100%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153528Z">
+        <seg>外側の線と内側の線との間では、ツールの効果は 0% から 100% までなだらかに「なじむ」(feathered) ことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In iPhoto, double-click the photo you want to edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165229Z">
@@ -13302,6 +13334,14 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T051513Z">
         <seg>インク セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inside the inner line, the tool for the region has 100% effect; outside the outer line, the tool has 0% effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153335Z">
+        <seg>内側の線より内側では、領域に適用されるツールは 100% の効果を持ちます。外側の線より外側では、ツールの効果は 0% です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29049,6 +29089,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150649Z">
         <seg>[写真閲覧ウィンドウ](Anatomy-Browser.html)を使って、選択した写真を別のフォルダーへコピーとして送ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then drag the new control point until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152837Z">
+        <seg>調整点をドラッグして位置を合わせます。</seg>
       </tuv>
     </tu>
     <tu>
