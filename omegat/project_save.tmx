@@ -115,6 +115,14 @@ device can render are truncated.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>![image](images/Button-Select_Recent.png) Select one or more thumbnails of the photos in the browser that you want to send.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151124Z">
+        <seg>![image](images/Button-Select_Recent.png) 送りたい写真のサムネイルを写真閲覧ウィンドウで選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>![image](images/Button-Spline.png)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T153103Z">
@@ -223,8 +231,8 @@ look correctly.</seg>
       <tuv lang="EN-US">
         <seg>![image](images/Folders-en.png) On the left side of the LightZone window is the Folder Navigator that shows the folders on your computer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T123955Z">
-        <seg>![image](images/Folders-en.png) フォルダー ナビゲーターは閲覧ウィンドウの左側にあり、コンピューター内のフォルダーを表示します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150329Z">
+        <seg>![image](images/Folders-en.png) フォルダー ナビゲーターは写真閲覧ウィンドウの左側にあり、コンピューター内のフォルダーを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,6 +328,14 @@ for the current editing session.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150454Z">
         <seg>![image](images/Region-Add_Point.png) 調整点を追加したい領域をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>![image](images/Region-Control_Points.png) The *control points* of a region determine its shape and are used to adjust it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151737Z">
+        <seg>![image](images/Region-Control_Points.png) *調整点*によって領域の形を決めたり調整したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,6 +1313,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(There is no significance to the order.)  There is no limit to the number of control points a region may have.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152152Z">
+        <seg>(順番には特に意味はありません。)領域ごとの調整点の数には制限はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple,
     contiguous thumbnails or the Command Control key to select multiple,
     non-contiguous thumbnails.)</seg>
@@ -1367,6 +1391,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150014Z">
         <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the Command Control key to select multiple, non-contiguous thumbnails; or use the Select Recent button.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151328Z">
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。または「最近使ったファイルを選択」を使います。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4533,8 +4565,8 @@ containing the set of photo buttons shown below.</seg>
       <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T102401Z">
-        <seg>閲覧ウィンドウの左上に各種の写真ボタンが付いた以下のようなツールバーがあります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150339Z">
+        <seg>写真閲覧ウィンドウの左上には各種の写真ボタンが付いた以下のようなツールバーがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,8 +5702,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Browser Cache</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T102533Z">
-        <seg>閲覧ウィンドウのキャッシュ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150420Z">
+        <seg>写真閲覧ウィンドウのキャッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,8 +5718,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T102354Z">
-        <seg>閲覧ウィンドウの詳細</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150353Z">
+        <seg>写真閲覧ウィンドウの詳細</seg>
       </tuv>
     </tu>
     <tu>
@@ -11613,6 +11645,14 @@ color channels extend into the lightest zone).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the region shown on the right has three control points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152013Z">
+        <seg>例として、右側に示した領域には 3 つの調整点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For raw photos, Lightroom only allows the third choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115050Z">
@@ -12355,8 +12395,8 @@ truncated at the black end.</seg>
       <tuv lang="EN-US">
         <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the [Photo Browser](Anatomy-Browser.html).</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144914Z">
-        <seg>しかし、カメラによってはそのようなセンサーが内蔵されていないため、縦向きで撮った写真は[閲覧ウィンドウ](Anatomy-Browser.html)で倒れて表示されます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150129Z">
+        <seg>しかし、カメラによってはそのようなセンサーが内蔵されていないため、縦向きで撮った写真は[写真閲覧ウィンドウ](Anatomy-Browser.html)で倒れて表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13220,8 +13260,8 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
       <tuv lang="EN-US">
         <seg>In the center of the Browser window is Photo Viewer that shows one to five large previews of the selected thumbnails in the selected folder in the [Folder Navigator](Navigating_Folders.html).</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T124941Z">
-        <seg>閲覧ウィンドウの真ん中に写真ビュワーがあり、1 枚から 5 枚のサムネイルを、[フォルダー ナビゲーター](Navigating_Folders.html)で選択されたフォルダにある写真について表示します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150304Z">
+        <seg>写真閲覧ウィンドウの真ん中には写真ビュワーがあり、[フォルダー ナビゲーター](Navigating_Folders.html)で選択されたフォルダにある写真について 1 枚から 5 枚までのサムネイルを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17537,8 +17577,8 @@ shows the selected photo's metadata.</seg>
       <tuv lang="EN-US">
         <seg>On the right side of the browser window is the Metadata Inspector that shows the selected photo's metadata.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T123726Z">
-        <seg>メタデータ表示部は閲覧ウィンドウの右側にあり、選択されている写真のメタデータを表示します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150316Z">
+        <seg>メタデータ表示部は写真閲覧ウィンドウの右側にあり、選択されている写真のメタデータを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20423,8 +20463,8 @@ is not modified.</seg>
       <tuv lang="EN-US">
         <seg>Rotating photos in the browser</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130206T105422Z">
-        <seg>閲覧ウィンドウでの写真の回転</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150142Z">
+        <seg>写真閲覧ウィンドウでの写真の回転</seg>
       </tuv>
     </tu>
     <tu>
@@ -24155,8 +24195,8 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The **Zone System** was developed by Ansel Adams and Fred Archer in the 1940s as a method for achieving consistent results from exposing negative film all the way to paper prints.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T132928Z">
-        <seg>**ゾーン システム**とは、アンセル・アダムスとフレッド・アーチャーによって1940年代に開発された、フィルムへの露光から印画紙へのプリントまで一貫して安定した結果を得るための技法です。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145949Z">
+        <seg>**ゾーン システム**とは、アンセル・アダムスとフレッド・アーチャーによって 1940 年代に開発された、フィルムへの露光から印画紙へのプリントまで一貫して安定した結果を得るための技法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25109,6 +25149,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The points are marked by small, white circles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151825Z">
+        <seg>調整店は小さな白い円で示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161630Z">
@@ -25973,6 +26021,14 @@ multipage document such as a fax.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152331Z">
         <seg>画像にハイライトやシャドウを加えるのに有用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful if you want to bundle a set of photos into a single folder for subsequent e-mailing or uploading to a web site as a batch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151052Z">
+        <seg>関連する写真をひとつのフォルダにまとめてから電子メールで送信したりウェブ サイトへアップロードしたりしたい場合に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27778,8 +27834,8 @@ specific areas of your photo.</seg>
       <tuv lang="EN-US">
         <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T161029Z">
-        <seg>写真閲覧ウィンドウを使って、変換したい写真のサムネイルを2枚以上選択します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145834Z">
+        <seg>写真閲覧ウィンドウを使って、変換したい写真のサムネイルを 2 枚以上選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28989,6 +29045,14 @@ Editor, directly from within the Photo Editor.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can send copies of selected photos to other folders using the [Photo Browser](Anatomy-Browser.html).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150649Z">
+        <seg>[写真閲覧ウィンドウ](Anatomy-Browser.html)を使って、選択した写真を別のフォルダーへコピーとして送ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T032138Z">
@@ -29368,6 +29432,30 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Adding a control point](Regions-Adding_Point.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152338Z">
+        <seg>[調整点の追加](Regions-Adding_Point.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Adjusting a region](Regions-Adjusting.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152253Z">
+        <seg>[領域の調整](Regions-Adjusting.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Adjusting the feathering area](Regions-Feathering.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152314Z">
+        <seg>[フェザリング範囲の調整](Regions-Feathering.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Batch converting images](Converting-Batch.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121750Z">
@@ -29432,10 +29520,42 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Copying regions](Regions-Copying.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152405Z">
+        <seg>[領域のコピー](Regions-Copying.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Creating a region](Regions-Creating.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152231Z">
+        <seg>[領域の作成](Regions-Creating.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Crop](Tool-Crop.html) and [rotate](Tool-Rotate.html) have been improved.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T124437Z">
         <seg>[切り抜き](Tool-Crop.html)と[回転](Tool-Rotate.html)が改善されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Deleting a control point](Regions-Deleting_Point.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152352Z">
+        <seg>[調整点の削除](Regions-Deleting_Point.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Deleting regions](Regions-Deleting.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152421Z">
+        <seg>[領域の削除](Regions-Deleting.html)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29493,6 +29613,14 @@ photographer in mind.](Discover.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121727Z">
         <seg>[ヒストグラム](Histogram.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Inverting masks](Regions-Inverting.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152359Z">
+        <seg>[マスクの反転](Regions-Inverting.html)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29623,6 +29751,14 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134220Z">
         <seg>[Raw 調整ツール](Tool-Raw_Adjustments.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Region kinds](Regions-Kinds.html)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152211Z">
+        <seg>[領域の種類](Regions-Kinds.html)</seg>
       </tuv>
     </tu>
     <tu>
