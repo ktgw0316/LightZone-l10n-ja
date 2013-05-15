@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Tool_Anatomy-Menu.markdown.txt:2
+#, no-wrap
+msgid "Tool menu\n"
+msgstr ""
+
+#. type: Plain text
+#: Tool_Anatomy-Menu.markdown.txt:6
+msgid ""
+"The **Menu** button in a tool's title bar pops-up a menu when clicked.  The "
+"menu items are described below."
+msgstr ""
+
+#. type: Plain text
+#: Tool_Anatomy-Menu.markdown.txt:38
+#, no-wrap
+msgid ""
+"Disable/Enable\n"
+"  ~ Disables (or enables) the tool. (This is the same as clicking the\n"
+"    **Enable/Disable** checkbox in a tool's title bar.)\n"
+"Lock/Unlock\n"
+"  ~ Locks (or unlocks) the tool. A locked tool's settings can not be\n"
+"    modified. Additionally, a locked tool can not have\n"
+"    [regions](Regions.html) added to or deleted from it, nor can they be\n"
+"    selected or edited.\n"
+"Remember Preset\n"
+"  ~ Remembers the current settings for the tool.\n"
+"Apply Preset\n"
+"  ~ Applies the previously remembered settings to the tool.\n"
+"Collapse\n"
+"  ~ Collapses the tool. (This is the same as double-clicking in an\n"
+"    expanded tool's title bar.)\n"
+"Collapse All\n"
+"  ~ Collapses all tools.\n"
+"Collapse Others\n"
+"  ~ Collapses all the tools except the current one.\n"
+"Expand\n"
+"  ~ Expands the tool. (This is the same as double-clicking in an\n"
+"    collapsed tool's title bar.)\n"
+"Expand All\n"
+"  ~ Expands all collapsed tools.\n"
+"Auto Expand\n"
+"  ~ When checked, when you select a tool in the [tool\n"
+"    stack](Tool_Stack.html), it will automatically expand and the\n"
+"    previously selected tool will automatically collapse.\n"
+"Delete\n"
+"  ~ Deletes the tool from the [tool stack](Tool_Stack.html). (This is\n"
+"    the same as clicking the **Delete** button in a tool's title bar.)\n"
+msgstr ""

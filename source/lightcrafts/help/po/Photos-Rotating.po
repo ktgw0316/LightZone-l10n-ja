@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Photos-Rotating.markdown.txt:2
+#, no-wrap
+msgid "Rotating photos in the browser\n"
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rotating.markdown.txt:9
+msgid ""
+"Some digital cameras have an orientation sensor so that photos shot in "
+"portrait mode are automatically rotated right-side-up when you look at "
+"them. However, since some digital cameras do not have such a sensor, photos "
+"shot in portrait mode appear sideways in the [Photo "
+"Browser](Anatomy-Browser.html). This can be corrected by rotating them."
+msgstr ""
+
+#. type: Title -
+#: Photos-Rotating.markdown.txt:11
+#, no-wrap
+msgid "To rotate photos:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Photos-Rotating.markdown.txt:21
+msgid ""
+"Select one or more thumbnails of the photos that you want to rotate.  (Use "
+"the Shift key to select multiple, contiguous thumbnails or the Command "
+"Control key to select multiple, non-contiguous thumbnails.)"
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Photos-Rotating.markdown.txt:21
+msgid ""
+"![image](images/Buttons-Rotate.png) Click one of rotate arrow buttons above "
+"the thumbnails. Alternatively, you can select Browser \\> Rotate Left or "
+"Rotate Right."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Photos-Rotating.markdown.txt:21
+msgid ""
+"All the selected thumbnails will rotate 90 degrees in the direction you "
+"selected."
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rotating.markdown.txt:26
+#, no-wrap
+msgid ""
+"**Note:** Rotating either raw or TIFF files does not modify them in any\n"
+"way; instead, the rotation information is stored in sidecar XMP files.\n"
+"Rotating JPEG files modifies only the rotation metadata: the image data\n"
+"is not modified.\n"
+msgstr ""
+
+#. type: Title ###
+#: Photos-Rotating.markdown.txt:27
+#, no-wrap
+msgid "See also:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Photos-Rotating.markdown.txt:30
+msgid "[Rotate tool](Tool-Rotate.html)"
+msgstr ""

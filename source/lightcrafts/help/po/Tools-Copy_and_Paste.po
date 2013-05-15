@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Tools-Copy_and_Paste.markdown.txt:2
+#, no-wrap
+msgid "Copying & pasting tools\n"
+msgstr ""
+
+#. type: Plain text
+#: Tools-Copy_and_Paste.markdown.txt:10
+msgid ""
+"You can copy the tools from the [tool stack](Tool_Stack.html) from one photo "
+"to others using the [thumbnails](Thumbnails.html) of the [Photo "
+"Browser](Anatomy-Browser.html). This is useful when you've taken a set of "
+"photos of the same scene under the same conditions: edit one of the photos "
+"of the set to your liking, then apply those edits to the remainder of the "
+"photos in the set."
+msgstr ""
+
+#. type: Title ###
+#: Tools-Copy_and_Paste.markdown.txt:11
+#, no-wrap
+msgid "Notes:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tools-Copy_and_Paste.markdown.txt:17
+msgid ""
+"Copying the tools from a tool stack copies all tools except "
+"[Crop](Tool-Crop.html), [Proof](Tool-Proof.html), and "
+"[Rotate](Tool-Rotate.html). Tools' [regions](Regions.html) are also copied."
+msgstr ""
+
+#. type: Title -
+#: Tools-Copy_and_Paste.markdown.txt:19
+#, no-wrap
+msgid "To copy and paste the tools in the tool stack:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid ""
+"Using the [Photo Browser](Anatomy-Browser.html), select the thumbnail of the "
+"photo you want copy the tools from."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid "Select Browser \\> Copy Tools."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid ""
+"Again using the [Photo Browser](Anatomy-Browser.html), select one or more "
+"thumbnails of the photos that you want to paste the tools to.  (Use the "
+"Shift key to select multiple, contiguous thumbnails or the Command Control "
+"key to select multiple, non-contiguous thumbnails.)"
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid "Select Browser \\> Paste Tools..."
+msgstr ""
+
+#. type: Bullet: '5.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid ""
+"A dialog box will appear where you specify how you want the paste to be "
+"done. If specified, the Batch Label forms part of the new file names and is "
+"inserted just before the extension."
+msgstr ""
+
+#. type: Bullet: '6.  '
+#: Tools-Copy_and_Paste.markdown.txt:34
+msgid ""
+"Click Start. (New LightZone JPEG or TIFF files will be created that contain "
+"the tools.)"
+msgstr ""
+
+#. type: Title ###
+#: Tools-Copy_and_Paste.markdown.txt:35
+#, no-wrap
+msgid "See also:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tools-Copy_and_Paste.markdown.txt:38
+msgid "[Styles](Styles.html)"
+msgstr ""

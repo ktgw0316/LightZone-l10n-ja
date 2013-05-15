@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Saving.markdown.txt:2
+#, no-wrap
+msgid "Saving your work\n"
+msgstr ""
+
+#. type: Plain text
+#: Saving.markdown.txt:10
+msgid ""
+"![image](images/JPEG-LZN.jpg) When you save your work, LightZone saves your "
+"photo as a \"LightZone JPEG\" file. A \"LightZone JPEG\" file is an ordinary "
+"JPEG file that is a preview version of your original photo but also contains "
+"the [tool stack](Tool_Stack.html) you created while editing your photo. By "
+"default, LightZone appends `_lzn` to the file name to indicate that it's a "
+"LightZone JPEG."
+msgstr ""
+
+#. type: Plain text
+#: Saving.markdown.txt:17
+msgid ""
+"Being an ordinary JPEG file, it can be opened by any application that works "
+"with JPEG files, be e-mailed, or displayed on the web. When reopened with "
+"LightZone, however, the tool stack is restored and you can resume editing "
+"where you left off. [Thumbnails](Thumbnails.html) in the [Photo "
+"Browser](Anatomy-Browser.html) indicate LightZone JPEG files with "
+"\"JPEG-LZN\" as shown above."
+msgstr ""
+
+#. type: Plain text
+#: Saving.markdown.txt:21
+msgid ""
+"A LightZone JPEG still refers to your original photo (whether it's a raw, "
+"TIFF, or another JPEG). Therefore, you should never delete your original "
+"photo."
+msgstr ""
+
+#. type: Title -
+#: Saving.markdown.txt:23
+#, no-wrap
+msgid "To save your work:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Saving.markdown.txt:29
+msgid "Select File \\> Save... or Save As..."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Saving.markdown.txt:29
+msgid "Enter a name for the file."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Saving.markdown.txt:29
+msgid "Select a destination folder for the file."
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: Saving.markdown.txt:29
+msgid "Click Save."
+msgstr ""
+
+#. type: Plain text
+#: Saving.markdown.txt:33
+#, no-wrap
+msgid ""
+"**Note:** Alternatively, you can save your work as \"LightZone TIFF\"\n"
+"files by changing the [save\n"
+"preference](Preferences.html#Preferences-Save).\n"
+msgstr ""
+
+#. type: Title ###
+#: Saving.markdown.txt:34
+#, no-wrap
+msgid "See also:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Saving.markdown.txt:40
+msgid "[Batch converting images](Converting-Batch.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Saving.markdown.txt:40
+msgid "[Converting images (individually)](Converting.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Saving.markdown.txt:40
+msgid "[Preferences: Save](Preferences.html#Preferences-Save)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Saving.markdown.txt:40
+msgid "[Tool stack](Tool_Stack.html)"
+msgstr ""

@@ -1,0 +1,481 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Legal.markdown.txt:2
+#, no-wrap
+msgid "Legal notices\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:5
+msgid "Copyright © 2005-2007 Light Crafts, Inc. All rights reserved."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:8
+msgid ""
+"Light Crafts, LightZone, ZoneFinder, ZoneMapper, ToneMapper, and "
+"RegionMapper are trademarks of Light Crafts, Inc."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:14
+msgid ""
+"Other company and product names mentioned herein are trademarks of their "
+"respective companies. Mention of third-party products is for informational "
+"purposes only and constitutes neither an endorsement nor a "
+"recommendation. Light Crafts assumes no responsibility with regard to the "
+"performance or use of these products."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:18
+msgid ""
+"No part of this documentation may be reproduced or transmitted for "
+"commercial purposes, such as selling copies of this documentation or for "
+"providing paid for support services."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:21
+msgid ""
+"LightZone incorporates some third-party software packages. Those packages, "
+"their copyright notices, and licenses are listed below."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:24
+#, no-wrap
+msgid ""
+"dcraw\n"
+"  ~ Copyright © 1997-2007 Dave Coffin <dcoffin@cybercom.net&gt;\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:27
+#, no-wrap
+msgid ""
+"    This is a command-line ANSI C program to convert raw photos from any\n"
+"    digital camera on any computer running any operating system.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:32
+#, no-wrap
+msgid ""
+"    Attention! Some parts of this program are restricted under the terms\n"
+"    of the GNU General Public License. Such code is enclosed in \"BEGIN\n"
+"    GPL BLOCK\" and \"END GPL BLOCK\" declarations. Any code not declared\n"
+"    GPL is free for all uses.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:35
+#, no-wrap
+msgid ""
+"    Starting in Revision 1.237, the code to support Foveon cameras is\n"
+"    under GPL.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:41
+#, no-wrap
+msgid ""
+"    To lawfully redistribute dcraw.c, you must either (a) include full\n"
+"    source code for all executable files containing restricted\n"
+"    functions, (b) remove these functions, re-implement them, or copy\n"
+"    them from an earlier, non-GPL Revision of dcraw.c, or (c) purchase a\n"
+"    license from the author.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:45
+#, no-wrap
+msgid ""
+"EDISON\n"
+"  ~ Copyright © 2001-2002 Christopher M. Christoudias & Bogdan\n"
+"    Georgescu. All Rights Reserved.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:49 Legal.markdown.txt:219
+#, no-wrap
+msgid ""
+"    This software is provided \"as-is\" without any express or implied\n"
+"    warranty. In no event will the authors be held liable for any\n"
+"    damages arising from the use of this software.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:51
+#, no-wrap
+msgid "    **References:**\n"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Legal.markdown.txt:64
+msgid ""
+"D.&nbsp;Comanicu, P.&nbsp;Meer: \"Mean shift: A robust approach toward "
+"feature space analysis.\" IEEE Transactions on Pattern Analysis and Machine "
+"Intelligence, 24, pp.&nbsp;603-619, May 2002."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Legal.markdown.txt:64
+msgid ""
+"P.&nbsp;Meer, B.&nbsp;Georgescu: IEEE Transactions on Pattern Analysis and "
+"Machine Intelligence, \"Edge detection with embedded confidence.\" 23, "
+"pp.&nbsp;1351-1365, December 2001."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Legal.markdown.txt:64
+msgid ""
+"C.&nbsp;Christoudias, B.&nbsp;Georgescu, P.&nbsp;Meer: \"Synergism in "
+"low-level vision.\" 16th International Conference on Pattern Recognition, "
+"Quebec City, Canada, August 2002, vol.&nbsp;IV, pp. 150-155."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:67
+#, no-wrap
+msgid ""
+"    More information about EDISON is available\n"
+"    [here](http://www.caip.rutgers.edu/riul/research/code.html).\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:70
+#, no-wrap
+msgid ""
+"Java\n"
+"  ~ Copyright © 1994-2007 Sun Microsystems, Inc. All Rights Reserved.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:74 Legal.markdown.txt:190
+#, no-wrap
+msgid ""
+"    Redistribution and use in source and binary forms, with or without\n"
+"    modification, are permitted provided that the following conditions\n"
+"    are met:\n"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: Legal.markdown.txt:81
+msgid ""
+"Redistribution of source code must retain the above copyright notice, this "
+"list of conditions and the following disclaimer."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: Legal.markdown.txt:81
+msgid ""
+"Redistribution in binary form must reproduce the above copyright notice, "
+"this list of conditions and the following disclaimer in the documentation "
+"and/or other materials provided with the distribution."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:85
+#, no-wrap
+msgid ""
+"    Neither the name of Sun Microsystems, Inc. or the names of\n"
+"    contributors may be used to endorse or promote products derived from\n"
+"    this software without specific prior written permission.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:98
+#, no-wrap
+msgid ""
+"    This software is provided \"AS IS,\" without a warranty of any kind.\n"
+"    ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES,\n"
+"    INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A\n"
+"    PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN\n"
+"    MICROSYSTEMS, INC. (\"SUN\") AND ITS LICENSORS SHALL NOT BE LIABLE FOR\n"
+"    ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR\n"
+"    DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL SUN\n"
+"    OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR\n"
+"    FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE\n"
+"    DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY,\n"
+"    ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF\n"
+"    SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:102
+#, no-wrap
+msgid ""
+"    You acknowledge that this software is not designed, licensed or\n"
+"    intended for use in the design, construction, operation or\n"
+"    maintenance of any nuclear facility.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:106
+#, no-wrap
+msgid ""
+"LibJPEG\n"
+"  ~ Copyright © 1991-1998 Thomas G. Lane. \\\n"
+"     All Rights Reserved except as specified below.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:110
+#, no-wrap
+msgid ""
+"    Permission is hereby granted to use, copy, modify, and distribute\n"
+"    this software (or portions thereof) for any purpose, without fee,\n"
+"    subject to these conditions:\n"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: Legal.markdown.txt:122
+msgid ""
+"If any part of the source code for this software is distributed, then this "
+"README file must be included, with this copyright and no-warranty notice "
+"unaltered; and any additions, deletions, or changes to the original files "
+"must be clearly indicated in accompanying documentation."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: Legal.markdown.txt:122
+msgid ""
+"If only executable code is distributed, then the accompanying documentation "
+"must state that \"this software is based in part on the work of the "
+"Independent JPEG Group\"."
+msgstr ""
+
+#. type: Bullet: '    3.  '
+#: Legal.markdown.txt:122
+msgid ""
+"Permission for use of this software is granted only if the user accepts full "
+"responsibility for any undesirable consequences; the authors accept NO "
+"LIABILITY for damages of any kind."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:126
+#, no-wrap
+msgid ""
+"    These conditions apply to any software derived from or based on the\n"
+"    IJG code, not just to the unmodified library. If you use our work,\n"
+"    you ought to acknowledge us.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:131
+#, no-wrap
+msgid ""
+"    Permission is NOT granted for the use of any IJG author's name or\n"
+"    company name in advertising or publicity relating to this software\n"
+"    or products derived from it. This software may be referred to only\n"
+"    as \"the Independent JPEG Group's software\".\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:135
+#, no-wrap
+msgid ""
+"    We specifically permit and encourage the use of this software as the\n"
+"    basis of commercial products, provided that all warranty or\n"
+"    liability claims are assumed by the product vendor.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:139
+#, no-wrap
+msgid ""
+"LibTIFF\n"
+"  ~ Copyright © 1988-1997 Sam Leffler \\\n"
+"     Copyright © 1991-1997 Silicon Graphics, Inc.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:148
+#, no-wrap
+msgid ""
+"    Permission to use, copy, modify, distribute, and sell this software\n"
+"    and its documentation for any purpose is hereby granted without fee,\n"
+"    provided that (i) the above copyright notices and this permission\n"
+"    notice appear in all copies of the software and related\n"
+"    documentation, and (ii) the names of Sam Leffler and Silicon\n"
+"    Graphics may not be used in any advertising or publicity relating to\n"
+"    the software without the specific, prior written permission of Sam\n"
+"    Leffler and Silicon Graphics.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:152
+#, no-wrap
+msgid ""
+"    THE SOFTWARE IS PROVIDED \"AS-IS\" AND WITHOUT WARRANTY OF ANY KIND,\n"
+"    EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY\n"
+"    WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:159
+#, no-wrap
+msgid ""
+"    IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY\n"
+"    SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND,\n"
+"    OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR\n"
+"    PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON\n"
+"    ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE\n"
+"    USE OR PERFORMANCE OF THIS SOFTWARE.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:162
+#, no-wrap
+msgid ""
+"Little CMS\n"
+"  ~ Copyright © 1998-2004 Marti Maria\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:170
+#, no-wrap
+msgid ""
+"    Permission is hereby granted, free of charge, to any person\n"
+"    obtaining a copy of this software and associated documentation files\n"
+"    (the \"Software\"), to deal in the Software without restriction,\n"
+"    including without limitation the rights to use, copy, modify, merge,\n"
+"    publish, distribute, sublicense, and/or sell copies of the Software,\n"
+"    and to permit persons to whom the Software is furnished to do so,\n"
+"    subject to the following conditions:\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:173
+#, no-wrap
+msgid ""
+"    The above copyright notice and this permission notice shall be\n"
+"    included in all copies or substantial portions of the Software.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:182
+#, no-wrap
+msgid ""
+"    THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n"
+"    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\n"
+"    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n"
+"    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS\n"
+"    BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN\n"
+"    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\n"
+"    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n"
+"    SOFTWARE.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:186
+#, no-wrap
+msgid ""
+"Quaqua Look And Feel\n"
+"  ~ Copyright © 2003-2007 Werner Randelshofe \\\n"
+"     All rights reserved.\n"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: Legal.markdown.txt:200
+msgid ""
+"Redistributions of source code must retain the above copyright notice, this "
+"list of conditions and the following disclaimer."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: Legal.markdown.txt:200
+msgid ""
+"Redistributions in binary form must reproduce the above copyright notice, "
+"this list of conditions and the following disclaimer in the documentation "
+"and/or other materials provided with the distribution."
+msgstr ""
+
+#. type: Bullet: '    3.  '
+#: Legal.markdown.txt:200
+msgid ""
+"The name of the author may not be used to endorse or promote products "
+"derived from this software without specific prior written permission."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:212
+#, no-wrap
+msgid ""
+"    THIS SOFTWARE IS PROVIDED BY THE AUTHOR \"AS IS\" AND ANY EXPRESS OR\n"
+"    IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\n"
+"    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n"
+"    ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY\n"
+"    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n"
+"    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE\n"
+"    GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\n"
+"    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER\n"
+"    IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR\n"
+"    OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN\n"
+"    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:215
+#, no-wrap
+msgid ""
+"Zlib Data Compression Library\n"
+"  ~ Copyright © 1995-2004 Jean-loup Gailly and Mark Adler\n"
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:223
+#, no-wrap
+msgid ""
+"    Permission is granted to anyone to use this software for any\n"
+"    purpose, including commercial applications, and to alter it and\n"
+"    redistribute it freely, subject to the following restrictions:\n"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: Legal.markdown.txt:232
+msgid ""
+"The origin of this software must not be misrepresented; you must not claim "
+"that you wrote the original software. If you use this software in a product, "
+"an acknowledgment in the product documentation would be appreciated but is "
+"not required."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: Legal.markdown.txt:232
+msgid ""
+"Altered source versions must be plainly marked as such, and must not be "
+"misrepresented as being the original software."
+msgstr ""
+
+#. type: Bullet: '    3.  '
+#: Legal.markdown.txt:232
+msgid "This notice may not be removed or altered from any source distribution."
+msgstr ""
+
+#. type: Plain text
+#: Legal.markdown.txt:235
+#, no-wrap
+msgid ""
+"    Jean-loup Gailly <jloup@gzip.org&gt; \\\n"
+"     Mark Adler <madler@alumni.caltech.edu&gt;\n"
+msgstr ""

@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Tool-Clone.markdown.txt:2
+#, no-wrap
+msgid "Cloning areas\n"
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:7
+msgid ""
+"![image](images/Tool-Clone-en.png) The **Clone** tool allows you to copy an "
+"area of your photo to another area. This can be used to remove unwanted "
+"items from your photo."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:10
+msgid "The clone tool is a more general version of the [Spot tool](Tool-Spot.html)."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:14
+msgid ""
+"Unlike other tools, the clone tool is special in that it needs at least one "
+"[region](Regions.html). However, the regions can not be "
+"[inverted](Regions-Inverting.html)."
+msgstr ""
+
+#. type: Title -
+#: Tool-Clone.markdown.txt:16
+#, no-wrap
+msgid "To clone an area of your photo:\n"
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:19
+msgid "![image](images/Button-Clone.png)"
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:34
+#, no-wrap
+msgid ""
+"1.  Click the clone tool button in the [tool bar](Tools-Editing.html).\n"
+"    (A new clone tool will appear at the top of the [tool\n"
+"    stack](Tool_Stack.html).)\n"
+"2.  Create a [region](Regions.html) around the area that is to be copied\n"
+"    over.\n"
+"3.  Click and drag the cross-hair cursor to the center of the area to\n"
+"    copy from. ![image](images/Clone.png) An area that is the same size\n"
+"    and shape as the region you created will be copied from around the\n"
+"    cross-hair cursor to the region you created.\n"
+"4.  Optionally:\n"
+"    -   Select a different [blend mode](Blend_Modes.html).\n"
+"    -   Adjust the [Opacity slider](Tool_Anatomy.html#Opacity).\n"
+"    -   Make a [color/luminosity](Color_Luminosity_Selection.html)\n"
+"        selection.\n"
+msgstr ""
+
+#. type: Plain text
+#: Tool-Clone.markdown.txt:40
+#, no-wrap
+msgid ""
+"**Note:** A single Clone tool can have multiple [regions](Regions.html).\n"
+"(Each has its own cross-hair cursor.) The advantage of doing this is\n"
+"that they all share the same [blend mode](Blend_Modes.html),\n"
+"[opacity](Tool_Anatomy.html#Opacity), and [color &\n"
+"luminosity](Color_Luminosity_Selection.html) selection.\n"
+msgstr ""
+
+#. type: Title ###
+#: Tool-Clone.markdown.txt:41
+#, no-wrap
+msgid "See also:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tool-Clone.markdown.txt:45
+msgid "[Spot tool](Tool-Spot.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tool-Clone.markdown.txt:45
+msgid "[Tool anatomy](Tool_Anatomy.html)"
+msgstr ""

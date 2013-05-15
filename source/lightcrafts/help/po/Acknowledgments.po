@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Acknowledgments.markdown.txt:2
+#, no-wrap
+msgid "Acknowledgments\n"
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgments.markdown.txt:6
+msgid ""
+"Light Crafts would like to acknowledge the following people who contributed "
+"to LightZone:"
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgments.markdown.txt:35
+msgid ""
+"Mitch&nbsp;Alland, Bruce&nbsp;Ammerman, Jamie&nbsp;Bsales, David&nbsp;Card, "
+"Anthony&nbsp;Dias, Jeff&nbsp;Donnelly, Jessica&nbsp;Donnelly, "
+"Romain&nbsp;Guy, Hans-J&uuml;rgen&nbsp;Hertz-Eichenrode, Jon&nbsp;Hill, "
+"Matthew&nbsp;Hollingworth, James&nbsp;Karney, Terry&nbsp;Karney, "
+"Walt&nbsp;Marhefka, Carlos&nbsp;Palma, Bud&nbsp;Paulding, "
+"Paul&nbsp;Rancuret, David&nbsp;Richard, Uwe&nbsp;Steinmueller, "
+"Mark&nbsp;Strathdee, Elizabeth&nbsp;Thrasher, Dean&nbsp;Tucker, "
+"Eric&nbsp;Vogel, John&nbsp;Waclo, Lalia&nbsp;Wilson, Ed&nbsp;Wolpov, and "
+"Brian&nbsp;Wong."
+msgstr ""

@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Photos-Rating.markdown.txt:2
+#, no-wrap
+msgid "Rating photos\n"
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rating.markdown.txt:6
+msgid ""
+"Rating your photos is a way to sort and select the ones to edit and find "
+"later. You can rate photos 1 to 5 stars."
+msgstr ""
+
+#. type: Title -
+#: Photos-Rating.markdown.txt:8
+#, no-wrap
+msgid "To rate photos:\n"
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rating.markdown.txt:20
+#, no-wrap
+msgid ""
+"1.  Select one or more thumbnails of the photos that you want to rate.\n"
+"    (Use the Shift key to select multiple, contiguous thumbnails or the\n"
+"    Command Control key to select multiple, non-contiguous thumbnails.)\n"
+"2.  Do one of the following:\n"
+"    1.  Select Browser \\> Rating \\> and the rating your want to give.\n"
+"    2.  Click the rating button and select the rating your want to give.\n"
+"    3.  Control-click Right-click on one of the thumbnails to pop-up the\n"
+"        menu and select the rating your want to give.\n"
+"    4.  From the [Metadata Inspector](Metadata.html), select the rating\n"
+"        your want from the pop-up menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rating.markdown.txt:23
+#, no-wrap
+msgid ""
+"**Note:** If you have a multi-button mouse, you can alternatively\n"
+"right-click to pop-up the menu rather than control-click.\n"
+msgstr ""
+
+#. type: Plain text
+#: Photos-Rating.markdown.txt:27
+#, no-wrap
+msgid ""
+"**Note:** Rating either raw or TIFF files does not modify them in any\n"
+"way; instead, the rating information is stored in sidecar XMP files.\n"
+"Rating JPEG files modifies only the rating metadata: the image data is\n"
+"not modified.\n"
+msgstr ""
