@@ -13207,8 +13207,8 @@ Browser](Anatomy-Browser.html) to convert multiple images as a batch.</seg>
       <tuv lang="EN-US">
         <seg>In between, the tool's effect is smoothly "feathered" from 0 to 100%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153528Z">
-        <seg>外側の線と内側の線との間では、ツールの効果は 0% から 100% までなだらかに「なじむ」(feathered) ことになります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153938Z">
+        <seg>外側の線と内側の線との間では、ツールの効果は 0% から 100% までなだらかに馴染むことになります。</seg>
       </tuv>
     </tu>
     <tu>
