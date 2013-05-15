@@ -32796,6 +32796,15 @@ as a "helper application" for editing your photos.</seg>
         <seg>~ 写真にツールの効果が適用される前のピクセルの色です。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>~ This is the color of a pixel before a tool's effect has been applied
+    to the photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T143357Z">
+        <seg>写真にツールの効果が適用される前のピクセルの色です。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
