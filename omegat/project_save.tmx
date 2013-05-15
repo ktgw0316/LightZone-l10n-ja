@@ -1317,6 +1317,16 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the
+    Command Control key to select multiple, non-contiguous thumbnails.)
+2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142523Z">
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161055Z">
@@ -1473,6 +1483,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165817Z">
         <seg>**註:** ここで述べる情報は iView MediaPro バージョン 3.1.2 の時点のものであり、より新しいバージョンでは変更が必要な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**References:**</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142257Z">
+        <seg>References:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1876,6 +1894,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T114641Z">
         <seg>----------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142353Z">
+        <seg>-------------------------------------------------------------</seg>
       </tuv>
     </tu>
     <tu>
@@ -4420,6 +4446,14 @@ manipulate the settings of the individual tools ever further.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104605Z">
         <seg>All Rights Reserved except as specified below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142256Z">
+        <seg>All rights reserved.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22961,6 +22995,15 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting in Revision 1.237, the code to support Foveon cameras is
+    under GPL.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142255Z">
+        <seg>Starting in Revision 1.237, the code to support Foveon cameras is under GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting in Revision 1.237, the code to support Foveon cameras is under GPL.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104536Z">
@@ -25201,6 +25244,15 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a command-line ANSI C program to convert raw photos from any
+    digital camera on any computer running any operating system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142254Z">
+        <seg>This is a command-line ANSI C program to convert raw photos from any digital camera on any computer running any operating system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a command-line ANSI C program to convert raw photos from any digital camera on any computer running any operating system.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104534Z">
@@ -25960,6 +26012,18 @@ edited photos as a two-page TIFF file:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T141443Z">
         <seg>いくつかの他のアプリケーションとの統合を図るため、LightZone では編集した写真を 2 ページの TIFF ファイルとして保存することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To lawfully redistribute dcraw.c, you must either (a) include full
+    source code for all executable files containing restricted
+    functions, (b) remove these functions, re-implement them, or copy
+    them from an earlier, non-GPL Revision of dcraw.c, or (c) purchase a
+    license from the author.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142255Z">
+        <seg>To lawfully redistribute dcraw.c, you must either (a) include full source code for all executable files containing restricted functions, (b) remove these functions, re-implement them, or copy them from an earlier, non-GPL Revision of dcraw.c, or (c) purchase a license from the author.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29144,6 +29208,21 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T100943Z">
         <seg>&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;内のフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a folder in the [Folder Navigator](Navigating_Folders.html)   the image files to be moved there
+  the icon of an application that can open image files          the image files to be opened
+  a folder window or the desktop                                the image files to be copied there
+  a window of a text editor or terminal emulator                the full paths to those files to be pasted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142338Z">
+        <seg>---------------------------------------------------------------------------------------------------------
+[フォルダー ナビゲーター](Navigating_Folders.html)内のフォルダー    画像ファイルがそこへ移動されます
+画像ファイルを開けるアプリケーションのアイコン    画像ファイルが開かれます
+フォルダー ウィンドウまたはデスクトップ    画像ファイルがそこへコピーされます
+テキスト エディタまたは端末エミュレーターのウィンドウ    ファイルのフル パスが貼り付けられます</seg>
       </tuv>
     </tu>
     <tu>
