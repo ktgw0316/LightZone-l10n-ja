@@ -848,6 +848,14 @@ therefore can be modified or deleted at any time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, you create a sharpen tool *as a layer* rather than sharpening an existing layer.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142054Z">
+        <seg>(例えば、シャープ ツールを*1 枚のレイヤーとして*作成します。既存のレイヤーをシャープにするのではありません。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, you create a sharpen tool *as a layer* rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T122938Z">
@@ -25375,6 +25383,14 @@ multipage document such as a fax.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142105Z">
+        <seg>つまり、すべてのツールは非破壊的なのでいつでも変更したり削除したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mimics the behavior
 of the human visual system and makes your photo more appealing and
 easier to work with.</seg>
@@ -29094,6 +29110,16 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164634Z">
         <seg>外部エディタを使用する際の Aperture の動作:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\
+ When using an external, Lightroom presents you with three choices:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142130Z">
+        <seg>\
+ 外部エディタを使用する際に、Lightroom には以下の 3 つの選択肢があります:</seg>
       </tuv>
     </tu>
     <tu>
