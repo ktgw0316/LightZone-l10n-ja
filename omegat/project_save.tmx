@@ -163,6 +163,14 @@ device can render are truncated.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>![image](images/Buttons-Rotate.png) Click one of rotate arrow buttons above the thumbnails.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145214Z">
+        <seg>![image](images/Buttons-Rotate.png) サムネイルの上にある回転矢印ボタンのどれかをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>![image](images/Color_Selection_Preview-after.jpg)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T154221Z">
@@ -806,6 +814,18 @@ half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T103121Z">
         <seg>$1 x $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>("SUN") AND ITS LICENSORS SHALL NOT BE LIABLE FOR
+    ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR
+    DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144120Z">
+        <seg>("SUN") AND ITS LICENSORS SHALL NOT BE LIABLE FOR
+    ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR
+    DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,6 +2364,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T083152Z">
         <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>150-155.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144105Z">
+        <seg>150-155.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3947,6 +3975,18 @@ Minolta</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES,
+    INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A
+    PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144118Z">
+        <seg>ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES,
+    INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A
+    PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T132941Z">
@@ -4474,6 +4514,14 @@ manipulate the settings of the individual tools ever further.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the selected thumbnails will rotate 90 degrees in the direction you selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145537Z">
+        <seg>選択された全てのサムネイルが、選んだ向きに 90 度回転します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar
 containing the set of photo buttons shown below.</seg>
       </tuv>
@@ -4651,6 +4699,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can select Browser \&gt; Rotate Left or Rotate Right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145547Z">
+        <seg>別の方法として、「閲覧」→「左に回転」または「右に回転」を選ぶこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Altitude</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074238Z">
@@ -4801,6 +4857,16 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T074353Z">
         <seg>任意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any code not declared
+    GPL is free for all uses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144043Z">
+        <seg>Any code not declared
+    GPL is free for all uses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5100,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T131838Z">
         <seg>アテネ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attention!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144040Z">
+        <seg>Attention!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5812,14 @@ Panasonic</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162906Z">
         <seg>C-5050Z, C-5060WZ, C-70Z, C-7000Z, C-7070WZ, C-8080WZ, E-1, E-3, E-10, E-20, E-20N, E-20P, E-30, E-300, E-330, E-400, E-410, E-420, E-500, E-510, E-520, E-620, E-P1, SP-350, SP-500UZ, SP-550UZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C.&amp;nbsp;Christoudias, B.&amp;nbsp;Georgescu, P.&amp;nbsp;Meer: "Synergism in low-level vision." 16th International Conference on Pattern Recognition, Quebec City, Canada, August 2002, vol.&amp;nbsp;IV, pp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144103Z">
+        <seg>C.&amp;nbsp;Christoudias, B.&amp;nbsp;Georgescu, P.&amp;nbsp;Meer: "Synergism in low-level vision." 16th International Conference on Pattern Recognition, Quebec City, Canada, August 2002, vol.&amp;nbsp;IV, pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,6 +8387,16 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 1988-1997 Sam Leffler \
+     Copyright © 1991-1997 Silicon Graphics, Inc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144144Z">
+        <seg>Copyright © 1988-1997 Sam Leffler \
+     Copyright © 1991-1997 Silicon Graphics, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 1988-1997 Sam Leffler&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104616Z">
@@ -8317,6 +8409,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103429Z">
         <seg>Copyright © 1991-1997 Silicon Graphics, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 1991-1998 Thomas G. Lane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144128Z">
+        <seg>Copyright © 1991-1998 Thomas G. Lane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8337,6 +8437,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 1994-2007 Sun Microsystems, Inc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144109Z">
+        <seg>Copyright © 1994-2007 Sun Microsystems, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 1994-2007 Sun Microsystems, Inc. All Rights Reserved.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103407Z">
@@ -8349,6 +8457,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103450Z">
         <seg>Copyright © 1995-2004 Jean-loup Gailly and Mark Adler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 1997-2007 Dave Coffin &lt;dcoffin@cybercom.net&amp;gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144039Z">
+        <seg>Copyright © 1997-2007 Dave Coffin &lt;dcoffin@cybercom.net&amp;gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8369,6 +8485,16 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan
+    Georgescu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144048Z">
+        <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan
+    Georgescu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan Georgescu. All Rights Reserved.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103344Z">
@@ -8381,6 +8507,16 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103439Z">
         <seg>Copyright © 2003-2007 Werner Randelshofe &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2003-2007 Werner Randelshofe \
+     All rights reserved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144207Z">
+        <seg>Copyright © 2003-2007 Werner Randelshofe \
+     All rights reserved.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8918,6 +9054,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094649Z">
         <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D.&amp;nbsp;Comanicu, P.&amp;nbsp;Meer: "Mean shift: A robust approach toward feature space analysis." IEEE Transactions on Pattern Analysis and Machine Intelligence, 24, pp.&amp;nbsp;603-619, May 2002.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144057Z">
+        <seg>D.&amp;nbsp;Comanicu, P.&amp;nbsp;Meer: "Mean shift: A robust approach toward feature space analysis." IEEE Transactions on Pattern Analysis and Machine Intelligence, 24, pp.&amp;nbsp;603-619, May 2002.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12209,6 +12353,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the [Photo Browser](Anatomy-Browser.html).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144914Z">
+        <seg>しかし、カメラによってはそのようなセンサーが内蔵されていないため、縦向きで撮った写真は[閲覧ウィンドウ](Anatomy-Browser.html)で倒れて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105126Z">
@@ -12249,10 +12401,84 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY
+    SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND,
+    OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+    PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON
+    ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE
+    USE OR PERFORMANCE OF THIS SOFTWARE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144148Z">
+        <seg>IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY
+    SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND,
+    OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+    PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON
+    ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE
+    USE OR PERFORMANCE OF THIS SOFTWARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104620Z">
         <seg>IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+    GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+    IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+    OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144210Z">
+        <seg>IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+    GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+    IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+    OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+    BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144158Z">
+        <seg>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+    BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN NO EVENT WILL SUN
+    OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR
+    FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE
+    DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY,
+    ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF
+    SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144121Z">
+        <seg>IN NO EVENT WILL SUN
+    OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR
+    FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE
+    DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY,
+    ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF
+    SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12373,6 +12599,14 @@ truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104607Z">
         <seg>If any part of the source code for this software is distributed, then this README file must be included, with this copyright and no-warranty notice unaltered;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any part of the source code for this software is distributed, then this README file must be included, with this copyright and no-warranty notice unaltered; and any additions, deletions, or changes to the original files must be clearly indicated in accompanying documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144135Z">
+        <seg>If any part of the source code for this software is distributed, then this README file must be included, with this copyright and no-warranty notice unaltered; and any additions, deletions, or changes to the original files must be clearly indicated in accompanying documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12583,6 +12817,24 @@ synchronize the data.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T072709Z">
         <seg>別の画像を編集しているときに新しい画像を開くと、自動保存するかまたはどうするかを尋ねます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use our work,
+    you ought to acknowledge us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144139Z">
+        <seg>If you use our work,
+    you ought to acknowledge us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144216Z">
+        <seg>If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12909,6 +13161,16 @@ Browser](Anatomy-Browser.html) to convert multiple images as a batch.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074918Z">
         <seg>編集したい写真を MediaPro で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In no event will the authors be held liable for any
+    damages arising from the use of this software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144056Z">
+        <seg>In no event will the authors be held liable for any
+    damages arising from the use of this software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13407,6 +13669,16 @@ window.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jean-loup Gailly &lt;jloup@gzip.org&amp;gt; \
+     Mark Adler &lt;madler@alumni.caltech.edu&amp;gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144220Z">
+        <seg>Jean-loup Gailly &lt;jloup@gzip.org&amp;gt; \
+     Mark Adler &lt;madler@alumni.caltech.edu&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jean-loup Gailly &lt;jloup@gzip.org&gt; &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103506Z">
@@ -13739,6 +14011,14 @@ Ricoh</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095729Z">
         <seg>リフト ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts assumes no responsibility with regard to the performance or use of these products.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144028Z">
+        <seg>Light Crafts assumes no responsibility with regard to the performance or use of these products.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14184,6 +14464,14 @@ photo editing applications.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T150304Z">
         <seg>LightZone アイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone incorporates some third-party software packages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144031Z">
+        <seg>LightZone incorporates some third-party software packages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15412,6 +15700,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mention of third-party products is for informational purposes only and constitutes neither an endorsement nor a recommendation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144027Z">
+        <seg>Mention of third-party products is for informational purposes only and constitutes neither an endorsement nor a recommendation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu button return position</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140522Z">
@@ -15705,6 +16001,16 @@ Brian&amp;nbsp;Wong.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T081909Z">
         <seg>作成月/日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More information about EDISON is available
+    [here](http://www.caip.rutgers.edu/riul/research/code.html).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144107Z">
+        <seg>More information about EDISON is available
+    [here](http://www.caip.rutgers.edu/riul/research/code.html).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16037,6 +16343,14 @@ to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T153943Z">
         <seg>反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neither the name of Sun Microsystems, Inc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144113Z">
+        <seg>Neither the name of Sun Microsystems, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17663,6 +17977,14 @@ page by default.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other company and product names mentioned herein are trademarks of their respective companies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144025Z">
+        <seg>Other company and product names mentioned herein are trademarks of their respective companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other company and product names mentioned herein are trademarks of their respective companies. Mention of third-party products is for informational purposes only and constitutes neither an endorsement nor a recommendation. Light Crafts assumes no responsibility with regard to the performance or use of these products.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104529Z">
@@ -17749,6 +18071,14 @@ is.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134905Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P.&amp;nbsp;Meer, B.&amp;nbsp;Georgescu: IEEE Transactions on Pattern Analysis and Machine Intelligence, "Edge detection with embedded confidence." 23, pp.&amp;nbsp;1351-1365, December 2001.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144059Z">
+        <seg>P.&amp;nbsp;Meer, B.&amp;nbsp;Georgescu: IEEE Transactions on Pattern Analysis and Machine Intelligence, "Edge detection with embedded confidence." 23, pp.&amp;nbsp;1351-1365, December 2001.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17954,10 +18284,42 @@ is.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission for use of this software is granted only if the user accepts full responsibility for any undesirable consequences; the authors accept NO LIABILITY for damages of any kind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144137Z">
+        <seg>Permission for use of this software is granted only if the user accepts full responsibility for any undesirable consequences; the authors accept NO LIABILITY for damages of any kind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission is NOT granted for the use of any IJG author's name or
+    company name in advertising or publicity relating to this software
+    or products derived from it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144140Z">
+        <seg>Permission is NOT granted for the use of any IJG author's name or
+    company name in advertising or publicity relating to this software
+    or products derived from it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it. This software may be referred to only as "the Independent JPEG Group's software".</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104613Z">
         <seg>Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it. This software may be referred to only as "the Independent JPEG Group's software".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission is granted to anyone to use this software for any
+    purpose, including commercial applications, and to alter it and
+    redistribute it freely, subject to the following restrictions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144214Z">
+        <seg>Permission is granted to anyone to use this software for any
+    purpose, including commercial applications, and to alter it and
+    redistribute it freely, subject to the following restrictions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17970,6 +18332,18 @@ is.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission is hereby granted to use, copy, modify, and distribute
+    this software (or portions thereof) for any purpose, without fee,
+    subject to these conditions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144131Z">
+        <seg>Permission is hereby granted to use, copy, modify, and distribute
+    this software (or portions thereof) for any purpose, without fee,
+    subject to these conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission is hereby granted to use, copy, modify, and distribute this software (or portions thereof) for any purpose, without fee, subject to these conditions:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104606Z">
@@ -17978,10 +18352,52 @@ is.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation files
+    (the "Software"), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144202Z">
+        <seg>Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation files
+    (the "Software"), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104622Z">
         <seg>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission to use, copy, modify, distribute, and sell this software
+    and its documentation for any purpose is hereby granted without fee,
+    provided that (i) the above copyright notices and this permission
+    notice appear in all copies of the software and related
+    documentation, and (ii) the names of Sam Leffler and Silicon
+    Graphics may not be used in any advertising or publicity relating to
+    the software without the specific, prior written permission of Sam
+    Leffler and Silicon Graphics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144145Z">
+        <seg>Permission to use, copy, modify, distribute, and sell this software
+    and its documentation for any purpose is hereby granted without fee,
+    provided that (i) the above copyright notices and this permission
+    notice appear in all copies of the software and related
+    documentation, and (ii) the names of Sam Leffler and Silicon
+    Graphics may not be used in any advertising or publicity relating to
+    the software without the specific, prior written permission of Sam
+    Leffler and Silicon Graphics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19027,6 +19443,18 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165716Z">
         <seg>赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144111Z">
+        <seg>Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20669,6 +21097,16 @@ is not modified.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T093723Z">
         <seg>STF135mm F2.8[T4.5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUN
+    MICROSYSTEMS, INC.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144119Z">
+        <seg>SUN
+    MICROSYSTEMS, INC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22851,6 +23289,24 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some digital cameras have an orientation sensor so that photos shot in portrait mode are automatically rotated right-side-up when you look at them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144717Z">
+        <seg>カメラによっては方向センサーを内蔵していて、縦向きで撮った写真でも表示するときには自動で正しい向きに回転させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some parts of this program are restricted under the terms
+    of the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144041Z">
+        <seg>Some parts of this program are restricted under the terms
+    of the GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sony</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162916Z">
@@ -23238,6 +23694,16 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such code is enclosed in "BEGIN
+    GPL BLOCK" and "END GPL BLOCK" declarations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144042Z">
+        <seg>Such code is enclosed in "BEGIN
+    GPL BLOCK" and "END GPL BLOCK" declarations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplemental categories</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074756Z">
@@ -23344,6 +23810,20 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144158Z">
+        <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104626Z">
@@ -23352,10 +23832,36 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
+    WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144147Z">
+        <seg>THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
+    WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104619Z">
         <seg>THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
+    IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144209Z">
+        <seg>THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
+    IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24357,6 +24863,16 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144203Z">
+        <seg>The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the Software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104625Z">
@@ -24581,6 +25097,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104641Z">
         <seg>The origin of this software must not be misrepresented;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The origin of this software must not be misrepresented; you must not claim that you wrote the original software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144215Z">
+        <seg>The origin of this software must not be misrepresented; you must not claim that you wrote the original software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24922,6 +25446,16 @@ either [Aperture](Integration-Aperture.html) or
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These conditions apply to any software derived from or based on the
+    IJG code, not just to the unmodified library.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144138Z">
+        <seg>These conditions apply to any software derived from or based on the
+    IJG code, not just to the unmodified library.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library. If you use our work, you ought to acknowledge us.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104612Z">
@@ -25184,6 +25718,14 @@ create beautiful photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T161557Z">
         <seg>ベース色とブレンド色とを乗算します。結果色は常に暗くなります。この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。 (「スクリーン」も参照。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be corrected by rotating them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144949Z">
+        <seg>これを直すには回転させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25509,6 +26051,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This software is provided "AS IS," without a warranty of any kind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144116Z">
+        <seg>This software is provided "AS IS," without a warranty of any kind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This software is provided "AS IS," without a warranty of any kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN MICROSYSTEMS, INC. ("SUN") AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104600Z">
@@ -25517,10 +26067,30 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This software is provided "as-is" without any express or implied
+    warranty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144052Z">
+        <seg>This software is provided "as-is" without any express or implied
+    warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This software is provided "as-is" without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104540Z">
         <seg>This software is provided "as-is" without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This software may be referred to only
+    as "the Independent JPEG Group's software".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144141Z">
+        <seg>This software may be referred to only
+    as "the Independent JPEG Group's software".</seg>
       </tuv>
     </tu>
     <tu>
@@ -25537,6 +26107,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102637Z">
         <seg>閲覧ウィンドウで保存されたプレビュー画像と画像の向きとを破棄することになります。 (プレビューは自動的に再生成されます。画像の向きは閲覧ウィンドウの回転ボタンで手作業で再設定する必要があります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those packages, their copyright notices, and licenses are listed below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144033Z">
+        <seg>Those packages, their copyright notices, and licenses are listed below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27502,6 +28080,18 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We specifically permit and encourage the use of this software as the
+    basis of commercial products, provided that all warranty or
+    liability claims are assumed by the product vendor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144143Z">
+        <seg>We specifically permit and encourage the use of this software as the
+    basis of commercial products, provided that all warranty or
+    liability claims are assumed by the product vendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We specifically permit and encourage the use of this software as the basis of commercial products, provided that all warranty or liability claims are assumed by the product vendor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104614Z">
@@ -28075,6 +28665,18 @@ each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095510Z">
         <seg>黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You acknowledge that this software is not designed, licensed or
+    intended for use in the design, construction, operation or
+    maintenance of any nuclear facility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144123Z">
+        <seg>You acknowledge that this software is not designed, licensed or
+    intended for use in the design, construction, operation or
+    maintenance of any nuclear facility.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29165,6 +29767,16 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115850Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\
+     All Rights Reserved except as specified below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144129Z">
+        <seg>\
+     All Rights Reserved except as specified below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31624,6 +32236,18 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140409Z">
         <seg>操作 AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or the names of
+    contributors may be used to endorse or promote products derived from
+    this software without specific prior written permission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144115Z">
+        <seg>or the names of
+    contributors may be used to endorse or promote products derived from
+    this software without specific prior written permission.</seg>
       </tuv>
     </tu>
     <tu>
