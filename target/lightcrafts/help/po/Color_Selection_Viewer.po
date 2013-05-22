@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Color_Selection_Viewer.markdown.txt:2
+#, no-wrap
+msgid "Color Selection Viewer\n"
+msgstr "色選択ビュワー\n"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:5
+msgid "[2 of 4](Histogram.html)"
+msgstr "[2 of 4](Histogram.html)"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:11
+msgid ""
+"Sharing space with the [ZoneFinder](ZoneFinder.html), "
+"[Histogram](Histogram.html), and [Sampler](Sampler.html) in the upper-right "
+"corner of the LightZone window is also the Color Selection Viewer that shows "
+"the areas of your photo that are in the selected tool's [color/luminosity "
+"selection](Color_Luminosity_Selection.html)."
+msgstr "色選択ビュワーは LightZone ウィンドウの右上の場所に [ゾーン ファインダー](ZoneFinder.html)や[ヒストグラム](Histogram.html)や[サンプラー](Sampler.html)と一緒にあり、選択ツールの[色/輝度の選択](Color_Luminosity_Selection.html)で選択中の領域を表示しています。"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:13
+msgid "For example, compare what is shown below."
+msgstr "例として、以下に示されたものを比べてみます。"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:15
+msgid "\\(a) no color selected"
+msgstr "(a) 色選択なし"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:17
+msgid "\\(b) blues selected"
+msgstr "(b) 青を選択"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:19
+msgid "![image](images/Color_Selection_Preview-before.jpg)"
+msgstr "![image](images/Color_Selection_Preview-before.jpg)"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:21
+msgid "![image](images/Color_Selection_Preview-after.jpg)"
+msgstr "![image](images/Color_Selection_Preview-after.jpg)"
+
+#. type: Plain text
+#: Color_Selection_Viewer.markdown.txt:26
+msgid ""
+"In (a), no selection has been made so the viewer shows your entire photo in "
+"full color. In (b), the blues have been selected so the areas of the photo "
+"that are blue are shown as white (selected) and the rest is shown as black "
+"(not selected)."
+msgstr "(a) では、何も選択されていないためビュワーには写真全体がフル カラーで表示されています。(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示されて残りの領域は黒 (選択中でない) で表示されています。"
+
+#. type: Title -
+#: Color_Selection_Viewer.markdown.txt:28
+#, no-wrap
+msgid "To show the Color Selection Preview:\n"
+msgstr "色選択プレビューを表示するには:\n"
+
+#. type: Bullet: '1.  '
+#: Color_Selection_Viewer.markdown.txt:31
+msgid "Click the Color Mask tab."
+msgstr "マスク タブをクリックします。"
+
+#. type: Title ###
+#: Color_Selection_Viewer.markdown.txt:32
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Color_Selection_Viewer.markdown.txt:38
+msgid "[Color/Luminosity Selection](Color_Luminosity_Selection.html)"
+msgstr "[色/輝度の選択](Color_Luminosity_Selection.html)"
+
+#. type: Bullet: '-   '
+#: Color_Selection_Viewer.markdown.txt:38
+msgid "[Histogram](Histogram.html)"
+msgstr "[ヒストグラム](Histogram.html)"
+
+#. type: Bullet: '-   '
+#: Color_Selection_Viewer.markdown.txt:38
+msgid "[Sampler](Sampler.html)"
+msgstr "[サンプラー](Sampler.html)"
+
+#. type: Bullet: '-   '
+#: Color_Selection_Viewer.markdown.txt:38
+msgid "[ZoneFinder](ZoneFinder.html)"
+msgstr "[ゾーン ファインダー](ZoneFinder.html)"

@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Converting.markdown.txt:2
+#, no-wrap
+msgid "Converting images\n"
+msgstr "画像の変換\n"
+
+#. type: Plain text
+#: Converting.markdown.txt:5
+msgid "[1 of 2](Converting-Batch.html)"
+msgstr "[1 of 2](Converting-Batch.html)"
+
+#. type: Plain text
+#: Converting.markdown.txt:8
+msgid ""
+"You can convert your photos to either JPEG or TIFF images and in various "
+"sizes suitable for different purposes."
+msgstr "写真を目的に応じた大きさの JPEG または TIFF 画像に変換できます。"
+
+#. type: Plain text
+#: Converting.markdown.txt:17
+#, no-wrap
+msgid ""
+"JPEG\n"
+"  ~ An image format that uses \"lossy\" compression to achieve small file\n"
+"    size. It's often used to send photos by e-mail or display photos on\n"
+"    the web.\n"
+"TIFF\n"
+"  ~ An image format that can use \"lossless\" compression; however, file\n"
+"    sizes are usually quite large. Despite that, this is usually the\n"
+"    best format to use for import into other applications.\n"
+msgstr "JPEG~「不可逆な」圧縮方法でファイル サイズを小さくする画像形式です。写真を電子メールで送信したりウェブで表示したりするのによく使われます。TIFF~「可逆」圧縮を用いることのできる画像形式です。ただし、ファイル サイズは通常はかなり大きくなります。しかし、通常は他のアプリケーションでインポートするには最適な形式です。\n"
+
+#. type: Title -
+#: Converting.markdown.txt:19
+#, no-wrap
+msgid "To convert your photo:\n"
+msgstr "写真を変換するには:\n"
+
+#. type: Bullet: '1.  '
+#: Converting.markdown.txt:22
+msgid "Select File \\> Convert..."
+msgstr "「ファイル」から「変換...」を選択します。"
+
+#. type: Bullet: '2.  '
+#: Converting.markdown.txt:24
+msgid "Optionally enter a new name for the converted image."
+msgstr "追加の手順として、変換された画像の新しい名前を入力します。"
+
+#. type: Bullet: '3.  '
+#: Converting.markdown.txt:26
+msgid "Select a destination folder for the converted image."
+msgstr "変換された画像の出力先フォルダーを選択します。"
+
+#. type: Bullet: '4.  '
+#: Converting.markdown.txt:28
+msgid "Select the type of image to convert to: JPEG or TIFF."
+msgstr "変換後の画像形式を JPEG または TIFF から選択します。"
+
+#. type: Bullet: '5.  '
+#: Converting.markdown.txt:30
+msgid "Select the color profile to include."
+msgstr "どのカラープロファイルを含めるかを選択します。"
+
+#. type: Bullet: '6.  '
+#: Converting.markdown.txt:32
+msgid "Select the [rendering intent](Rendering_Intent.html)."
+msgstr "[レンダリング インテント](Rendering_Intent.html)を選択します。"
+
+#. type: Bullet: '7.  '
+#: Converting.markdown.txt:36
+msgid ""
+"Optionally, check [Black point compensation](Black_Point_Compensation.html) "
+"(applies only when the rendering intent is Relative Colorimetric)."
+msgstr "追加の手順として、[黒点の補正](Black_Point_Compensation.html)にチェックを入れます (レンダリング インテントが「相対的色域を保持」である場合のみ適用されます) 。"
+
+#. type: Bullet: '8.  '
+#: Converting.markdown.txt:39
+msgid ""
+"Optionally, enter a width and height in pixels in the Resize To text fields "
+"to scale down your photo."
+msgstr "追加の手順として、幅と高さのピクセル数を「リサイズ」テキスト フィールドに入力すると写真を縮小できます。"
+
+#. type: Bullet: '9.  '
+#: Converting.markdown.txt:41
+msgid "Optionally, enter a different resolution and select a unit."
+msgstr "追加の手順として、別の解像度を入力して単位を選択します。"
+
+#. type: Bullet: '10. '
+#: Converting.markdown.txt:43
+msgid "Set the quality (for JPEG) or bit depth (for TIFF)."
+msgstr "品質 (JPEG 用) またはビット深さ (TIFF 用) を設定します。"
+
+#. type: Bullet: '11. '
+#: Converting.markdown.txt:45
+msgid "Select whether to use LZW compression (TIFF only)."
+msgstr "LZW 圧縮を使うかを選択します (TIFF のみ) 。"
+
+#. type: Bullet: '12. '
+#: Converting.markdown.txt:47
+msgid "Click Convert."
+msgstr "「変換」をクリックします。"
+
+#. type: Title ###
+#: Converting.markdown.txt:48
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Converting.markdown.txt:53
+msgid "[Batch converting images](Converting-Batch.html)"
+msgstr "[画像のバッチ変換](Converting-Batch.html)"
+
+#. type: Bullet: '-   '
+#: Converting.markdown.txt:53
+msgid "[Saving your work](Saving.html)"
+msgstr "[作品の保存](Saving.html)"
+
+#. type: Bullet: '-   '
+#: Converting.markdown.txt:53
+msgid "[Sending photos](Photos-Sending.html)"
+msgstr "[写真を送る](Photos-Sending.html)"

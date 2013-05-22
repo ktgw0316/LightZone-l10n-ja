@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Metadata.markdown.txt:2
+#, no-wrap
+msgid "Metadata\n"
+msgstr "メタデータ\n"
+
+#. type: Plain text
+#: Metadata.markdown.txt:8
+msgid ""
+"![image](images/Metadata-en.png) Metadata is data about a photo, such as its "
+"dimensions and file size, as well as the digital camera used to take the "
+"photo, such as the make and model, lens, ISO setting, and shutter speed."
+msgstr "![image](images/Metadata-en.png) メタデータは写真に関する情報で、写真の大きさやファイル容量、撮影に使われたデジタル カメラのメーカーと型番、レンズ、感度設定、シャッター速度などが記録されています。"
+
+#. type: Plain text
+#: Metadata.markdown.txt:12
+msgid ""
+"Additionally, metadata can also include information about the content of a "
+"photo such as its title, caption, copyright, creator, and location.  (Such "
+"metadata is known as IPTC metadata.)"
+msgstr "その他にも、題名やキャプション、著作権表示、撮影者に撮影地といった写真の内容を含めることもできます。(このようなものは IPTC メタデータとして知られています。)"
+
+#. type: Plain text
+#: Metadata.markdown.txt:16
+msgid ""
+"LightZone reads all the metadata for a photo from its image file "
+"automatically. Additionally, LightZone will also read metadata for a photo "
+"from a sidecar XMP file (if present)."
+msgstr "LightZone は写真のすべてのメタデータを画像ファイルから自動的に読み取ります。さらに、 (もし存在すれば) 添付のXMP ファイルからも読み取ります。"
+
+#. type: Plain text
+#: Metadata.markdown.txt:20
+msgid ""
+"On the right side of the browser window is the Metadata Inspector that shows "
+"the selected photo's metadata. You can edit metadata that has a dark gray "
+"background."
+msgstr "メタデータ表示部は写真閲覧ウィンドウの右側にあり、選択されている写真のメタデータを表示します。背景が濃い灰色のメタデータは編集することができます。"
+
+#. type: Title -
+#: Metadata.markdown.txt:22
+#, no-wrap
+msgid "To display the metadata for a photo:\n"
+msgstr "写真のメタデータを表示するには:\n"
+
+#. type: Bullet: '1.  '
+#: Metadata.markdown.txt:25
+msgid "Select the thumbnail of the photo."
+msgstr "写真のサムネイルを選択します。"
+
+#. type: Title -
+#: Metadata.markdown.txt:27
+#, no-wrap
+msgid "To edit the metadata for a photo:\n"
+msgstr "写真のメタデータを編集するには:\n"
+
+#. type: Bullet: '1.  '
+#: Metadata.markdown.txt:34
+msgid ""
+"Click in any metadata that has a dark gray background and type the new "
+"data. If you have set your [copyright "
+"preferences](Preferences.html#Preferences-Copyright), you can click the "
+"small arrow on the right of either the Copyright or Creator metadata and the "
+"data will be filled in automatically."
+msgstr "背景が濃い灰色のメタデータは編集することができます。[著作権情報の設定](Preferences.html#Preferences-Copyright)を済ませてある場合は、「著作権情報」または「作成者」の右にある小さな矢印をクリックすると情報が自動で入力されます。"
+
+#. type: Title ###
+#: Metadata.markdown.txt:35
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Metadata.markdown.txt:38
+msgid "[Preferences: Copyright](Preferences.html#Preferences-Copyright)"
+msgstr "[設定: 著作権](Preferences.html#Preferences-Copyright)"

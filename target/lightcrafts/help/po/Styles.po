@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Styles.markdown.txt:2
+#, no-wrap
+msgid "Styles\n"
+msgstr "スタイル\n"
+
+#. type: Plain text
+#: Styles.markdown.txt:5
+msgid "[1 of 6](Styles-Applying.html)"
+msgstr "[1 of 6](Styles-Applying.html)"
+
+#. type: Plain text
+#: Styles.markdown.txt:11
+msgid ""
+"A *style* is a [tool stack](Tool_Stack.html) that was originally created for "
+"one photo that can be applied to other photos. Using styles is the same as "
+"[copying & pasting](Tools-Copy_and_Paste.html) [tool "
+"stacks](Tool_Stack.html) except that a style is saved with a name for use at "
+"any later time."
+msgstr ""
+
+#. type: Plain text
+#: Styles.markdown.txt:16
+msgid ""
+"LightZone comes bundled with many ready-made styles that you can use and "
+"learn from. Additionally, you can create your own styles. Lastly, you can "
+"replace the [default tone curve](Default_Tone_Curve.html) for a camera with "
+"a style you create."
+msgstr ""
+
+#. type: Plain text
+#: Styles.markdown.txt:18
+msgid "To learn more about working with styles, click a link below."
+msgstr "スタイルの使い方についてもっと詳しく知るには、下のリンクをクリックします。"
+
+#. type: Bullet: '-   '
+#: Styles.markdown.txt:21
+msgid "[Applying styles](Styles-Applying.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Styles.markdown.txt:21
+msgid "[Creating styles](Styles-Creating.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Styles.markdown.txt:24
+msgid "[Exporting styles](Styles-Exporting.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Styles.markdown.txt:24
+msgid "[Importing styles](Styles-Importing.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Styles.markdown.txt:26
+msgid "[Deleting styles](Styles-Deleting.html)"
+msgstr ""

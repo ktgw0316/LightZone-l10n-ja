@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Blend_Modes.markdown.txt:2
+#, no-wrap
+msgid "Blending modes\n"
+msgstr "ブレンド モード\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:8
+msgid ""
+"Most tools can have a *blending mode* specified for them. A blending mode "
+"controls how the effects of tools in the [tool stack](Tool_Stack.html) blend "
+"together to form the final photo. In order to understand blending modes, "
+"there are a few terms to know:"
+msgstr "ほとんどのツールにはそれに合わせた*ブレンド モード*があります。ブレンド モードは、写真を仕上げるために[ツール スタック](Tool_Stack.html)の各ツールの効果がどのようにブレンドされるかをコントロールします。ブレンド モードを理解するために知っておいたほうがいい言葉が少しあります。"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:18
+#, no-wrap
+msgid ""
+"Base color\n"
+"  ~ This is the color of a pixel before a tool's effect has been applied\n"
+"    to the photo.\n"
+"Blend color\n"
+"  ~ This is the color of a pixel after a tool's effect has been applied\n"
+"    to the photo.\n"
+"Result color\n"
+"  ~ This is the color of a pixel after its base and blend colors have\n"
+"    been blended together using a blending mode.\n"
+msgstr "ベース色~写真にツールの効果が適用される前のピクセルの色です。ブレンド色~写真にツールの効果が適用された後のピクセルの色です。結果色~ブレンド モードによってベース色とブレンド色が混ぜ合わされた後のピクセルの色です。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:24
+msgid ""
+"This is illustrated in the figure below. First, as shown by the green "
+"arrows, the base colors of a photo have a tool's effect applied to them "
+"producing the blend colors. Second, as shown by the red arrows, the base and "
+"blend colors are blended together using a blending mode producing the result "
+"colors."
+msgstr "次の図を使って説明しましょう。まず、緑の矢印で示したとおり、写真のベース色にツールの効果が適用されてブレンド色になります。次に、赤の矢印で示したとおり、ブレンド ツールを使ってベース色とブレンド色を混ぜ合わせると結果色になります。"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:26
+msgid "![image](images/Blend_Modes_Illustration-en.png)"
+msgstr "![image](images/Blend_Modes_Illustration-en.png)"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:29
+msgid ""
+"There are many blending modes to choose from. While descriptions for each "
+"are below, it's best to experiment."
+msgstr "ブレンド モードはたくさんの種類のなかから選べます。それぞれの詳細を下記に示しましたが、実際に試してみるのが一番です。"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:33
+#, no-wrap
+msgid ""
+"Normal\n"
+"  ~ This blending mode has no effect; therefore, the blend and result\n"
+"    colors are the same.\n"
+msgstr "通常~何の効果もありません。つまり、ブレンド色と結果色は同じです。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:36
+#, no-wrap
+msgid ""
+"Average\n"
+"  ~ This is the same as the Normal blending mode but at 50% opacity.\n"
+msgstr "平均~「通常」とほぼ同じですが、不透明度が 50% です。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:40
+#, no-wrap
+msgid ""
+"Color Burn\n"
+"  ~ Darkens the base color to reflect the blend color by increasing\n"
+"    contrast. (Opposite of Color Dodge. See also: Soft Burn.)\n"
+msgstr "色で焼き込み~ベース色を暗くし、コントラストを上げることでブレンド色を反映します。(「色で覆い焼き」の逆です。「ソフト焼き込み」も参照。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:44
+#, no-wrap
+msgid ""
+"Color Dodge\n"
+"  ~ Brightens the base color to reflect the blend color by decreasing\n"
+"    contrast. (Opposite of Color Burn.)\n"
+msgstr "色で覆い焼き~ベース色を明るくし、コントラストを下げることでブレンド色を反映します。(「色で焼き込み」の逆です。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:48
+#, no-wrap
+msgid ""
+"Darken\n"
+"  ~ The result color is either the base or blend color, whichever is\n"
+"    darker. (Opposite of Lighten.)\n"
+msgstr "比較 (暗)~結果色はベース色とブレンド色のうち暗い方になります。(「比較 (明) 」の逆です。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:53
+#, no-wrap
+msgid ""
+"Difference\n"
+"  ~ Subtracts either the blend color from the base color or the base\n"
+"    color from the blend color depending on whichever is brighter. (See\n"
+"    also: Exclusion.)\n"
+msgstr "差の絶対値~ベース色とブレンド色のうち明るい方から暗い方を引いたものになります。(「除外」も参照。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:57
+#, no-wrap
+msgid ""
+"Exclusion\n"
+"  ~ Creates an effect similar to, but lower in contrast than, the\n"
+"    Difference blending mode. (See also: Negation.)\n"
+msgstr "除外~差の絶対値と似ていますが、コントラストが低くなります。(「反転」も参照。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:64
+#, no-wrap
+msgid ""
+"Hard Light\n"
+"  ~ This blending mode multiplies or screens the colors, depending on\n"
+"    the blend color. If the blend color is lighter than 50% gray, the\n"
+"    color is lightened (screened); if the blend color is darker than 50%\n"
+"    gray, the color is darkened (multiplied). This is useful for adding\n"
+"    highlights or shadows to an image.\n"
+msgstr "ハード ライト~ブレンド色に応じて色を乗算またはスクリーンします。ブレンド色が 50% グレーよりも明るい場合は明るく (スクリーン) します。50% グレーよりも暗い場合は暗く (乗算) します。画像にハイライトやシャドウを加えるのに有用です。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:68
+#, no-wrap
+msgid ""
+"Lighten\n"
+"  ~ The result color is either the base or blend color, whichever is\n"
+"    lighter. (Opposite of Darken.)\n"
+msgstr "比較 (明)~結果色はベース色とブレンド色のうち明るい方になります。(「比較 (暗) 」の逆です。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:72
+#, no-wrap
+msgid ""
+"Midtones\n"
+"  ~ This blending mode is the same as the Normal blending mode except\n"
+"    that the effect is applied only to midtones.\n"
+msgstr "中間調~「通常」とほぼ同じですが、中間調にのみ効果が適用されます。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:76
+#, no-wrap
+msgid ""
+"Mid+Hilights\n"
+"  ~ This blending mode is the same as the Normal blending mode except\n"
+"    that the effect is applied only to midtones and highlights.\n"
+msgstr "中間ハイライト~「通常」とほぼ同じですが、中間調とハイライトにのみ効果が適用されます。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:81
+#, no-wrap
+msgid ""
+"Multiply\n"
+"  ~ This blending mode multiplies the base and blend colors. The result\n"
+"    color is always darker. The effect is similar to projecting multiple\n"
+"    photographic slides onto the same screen. (See also: Screen.)\n"
+msgstr "乗算~ベース色とブレンド色とを乗算します。結果色は常に暗くなります。この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。(「スクリーン」も参照。)\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:85
+#, no-wrap
+msgid ""
+"Negation\n"
+"  ~ This blending mode is similar to the Exclusion blending mode except\n"
+"    that it shows brighter and more vibrant colors.\n"
+msgstr "反転~Exclusion とほぼ同じですが、色がより明るく鮮やかになります。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:92
+#, no-wrap
+msgid ""
+"Overlay\n"
+"  ~ Multiplies or screens the colors depending on the base color.\n"
+"    Patterns or colors overlay existing pixels while preserving the\n"
+"    highlights and shadows of the base color. The base color is not\n"
+"    replaced, but is mixed with the blend color to reflect the relative\n"
+"    lightness or darkness of the original color.\n"
+msgstr "オーバーレイ~ベース色に応じて色を乗算またはスクリーンします。ベース色のハイライトとシャドウはそのままに、パターンや色が既存のピクセルを覆います。ベース色は、置き換えられることはありませんが、ブレンド色と混合されて元の色の相対的な明るさや暗さを反映します。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:98
+#, no-wrap
+msgid ""
+"Screen\n"
+"  ~ This blending mode is similar to the Multiply blending mode except\n"
+"    that it multiplies the inverse of the blend and base colors. The\n"
+"    result color is always lighter. The effect is similar to projecting\n"
+"    multiple photographic slides onto the same screen.\n"
+msgstr "スクリーン~乗算とほぼ同じですが、ベース色およびブレンド色の逆数どうしを乗算します。結果色は常に明るくなります。この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:101
+#, no-wrap
+msgid ""
+"Shadows\n"
+"  ~ This blending mode causes only the shadows to be affected.\n"
+msgstr "シャドウ~シャドウにのみ効果が適用されます。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:105
+#, no-wrap
+msgid ""
+"Soft Burn\n"
+"  ~ This blending mode is similar to the Color Burn blending mode except\n"
+"    that the effect results in less saturation and contrast.\n"
+msgstr "ソフト焼き込み~「色で焼き込み」とほぼ同じですが、彩度とコントラストが低くなります。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:111
+#, no-wrap
+msgid ""
+"Soft Dodge\n"
+"  ~ This blending mode is a combination of both the Color Dodge and\n"
+"    inverse Color Burn modes, but much smoother than either. The base\n"
+"    colors are darkened slightly with very bright blend colors dodged\n"
+"    in.\n"
+msgstr "ソフト覆い焼き~「色で覆い焼き」と「色で焼き込み」の逆を組み合わせたもので、どちらよりも滑らかになります。ベース色はわずかに暗くなり、極めて明るいブレンド色で覆い焼きされます。\n"
+
+#. type: Plain text
+#: Blend_Modes.markdown.txt:118
+#, no-wrap
+msgid ""
+"Soft Light\n"
+"  ~ This blending mode darkens or lightens the colors depending on the\n"
+"    blend color. The effect is similar to shining a diffused spotlight\n"
+"    on the image. If the blend color is lighter, the image is lightened\n"
+"    as if it were dodged; if the blend color is darker, the image is\n"
+"    darkened as if it were burned in.\n"
+msgstr "ソフト ライト~ブレンド色に応じて色を暗くまたは明るくします。ディフューズしたスポットライトで照らすのに似ています。ブレンド色の方が明るい場合は、覆い焼きされたように明るくなります。ブレンド色の方が暗い場合は、焼き込まれたように暗くなります。\n"

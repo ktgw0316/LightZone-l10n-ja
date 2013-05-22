@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Thumbnails.markdown.txt:2
+#, no-wrap
+msgid "Thumbnails\n"
+msgstr "サムネイル\n"
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:8
+msgid ""
+"![image](images/Thumbnails-unstacked.jpg) Along the bottom of the browser "
+"window are the thumbnails for all the supported image file formats in the "
+"folder selected in the [Folder Navigator](Navigating_Folders.html)."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:19
+msgid ""
+"Using thumbnails, you can select a photo to [view it "
+"larger](Photo_Viewer.html), [inspect its metadata](Metadata.html), [rotate "
+"it](Photos-Rotating.html), [rate it](Photos-Rating.html), [edit "
+"it](Photos-Editing.html), [convert it](Converting.html), [send "
+"it](Photos-Sending.html), [print it](Printing.html), [copy & paste its "
+"tools](Tools-Copy_and_Paste.html), [apply a style to "
+"it](Styles-Applying.html), [drag & drop "
+"it](Photos-Dragging_and_Dropping.html), or [rename](Photos-Renaming.html) or "
+"[delete](Photos-Deleting.html) the image file."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:25
+msgid ""
+"The **selected thumbnail** is shown with a white border and a large preview "
+"is shown in the [Photo Viewer](Photo_Viewer.html). You can change the "
+"selection by clicking a different thumbnail or by using the **arrow "
+"keys**. If you hold the **shift** key while clicking, at most 5 previews are "
+"shown side-by-side."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:28
+msgid ""
+"![image](images/Button-Select_Recent.png) You can select only the most "
+"recent versions of your photos by clicking the **select recent** button."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:31
+msgid ""
+"You can scroll the thumbnails by using the scroll bar or the "
+"**page-up/down**, **home**, or **end** keys."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:35
+msgid ""
+"Each photo's [rating](Photos-Rating.html) (if any) is shown in the "
+"lower-left corner of its thumbnail. Each photo's type is shown in the "
+"lower-right corner of its thumbnail."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:42
+msgid ""
+"![image](images/Button-Stack.png) After you [save your edited "
+"photos](Saving.html), thumbnails of both your original and edited photos are "
+"shown grouped together. Alternatively, by clicking the Stack button, "
+"thumbnails of your photos can be shown stacked where only the latest edited "
+"version of your photo is shown. The number of photos in the stack is "
+"indicated by a number in the upper-left corner of the thumbnail."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:47
+#, no-wrap
+msgid ""
+"  ------------------------------------------- "
+"-----------------------------------------\n"
+"  (a) unstacked                               (b) stacked\n"
+"  ![image](images/Thumbnails-unstacked.jpg)   "
+"![image](images/Thumbnails-stacked.jpg)\n"
+"  ------------------------------------------- "
+"-----------------------------------------\n"
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:51
+msgid ""
+"The **Thumbnail size** slider controls the size of the thumbnails shown in "
+"the browser. (It does not alter any thumbnails that may be embedded inside "
+"the image files.)"
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:54
+msgid ""
+"The **Sort order** button controls whether your photos are sorted either in "
+"ascending or descending order for the current sort criteria."
+msgstr ""
+
+#. type: Plain text
+#: Thumbnails.markdown.txt:59
+msgid ""
+"The **Sort criteria** pop-up menu allows you to change the order by which "
+"the thumbnails for your photos are displayed. The choices for sort criteria "
+"are: file name, file type, image size, capture time, modification time, "
+"[rating](Photos-Rating.html), aperture, focal length, lens, and shutter "
+"speed."
+msgstr ""

@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Multipage_TIFF.markdown.txt:2
+#, no-wrap
+msgid "Multipage TIFF images\n"
+msgstr "マルチページ TIFF 画像\n"
+
+#. type: Plain text
+#: Multipage_TIFF.markdown.txt:7
+msgid ""
+"The TIFF image format allows multiple images to be stored in the same TIFF "
+"file. This is typically used to store digitized pages of a multipage "
+"document such as a fax."
+msgstr "TIFF 画像形式ではひとつの TIFF ファイルに複数枚の画像を含めることができます。これは fax などのデジタル化された複数ページの文書を格納するのによく使われます。"
+
+#. type: Plain text
+#: Multipage_TIFF.markdown.txt:10
+msgid ""
+"To integrate with some other applications, LightZone can save your edited "
+"photos as a two-page TIFF file:"
+msgstr "いくつかの他のアプリケーションとの統合を図るため、LightZone では編集した写真を 2 ページの TIFF ファイルとして保存することができます。"
+
+#. type: Bullet: '-   '
+#: Multipage_TIFF.markdown.txt:15
+msgid ""
+"The first page is your edited photo along with the LightZone [tool "
+"stack](Tool_Stack.html) you created."
+msgstr "最初のページは、LightZone で[ツール スタック](Tool_Stack.html)を作って編集した写真です。"
+
+#. type: Bullet: '-   '
+#: Multipage_TIFF.markdown.txt:15
+msgid ""
+"The second page is your original, unedited photo to which the tool stack is "
+"applied."
+msgstr "2 枚目のページは元画像で、ツール スタックを適用するまえの未編集の写真です。"
+
+#. type: Plain text
+#: Multipage_TIFF.markdown.txt:21
+msgid ""
+"Other applications that display multipage TIFF images show the first page by "
+"default. Therefore, the first page is like a full-sized preview of your "
+"edited photo. When the two-page TIFF file is reopened with LightZone, "
+"however, the tool stack is re-applied to your original photo on the second "
+"page and you can resume editing where you left off."
+msgstr "マルチページ TIFF 画像を表示する他のアプリケーションは、既定の動作では最初のページを表示します。そのため、最初のページは編集後の写真をフル サイズでプレビューしたようなものと言えます。しかし、その 2 ページの TIFF ファイルを LightZone で再び開くと 2 ページ目の元画像にツールスタックが再適用されるため、前回の続きから編集を再開できます。"
+
+#. type: Plain text
+#: Multipage_TIFF.markdown.txt:26
+msgid ""
+"A disadvantage of two-page TIFF files is that they are, of course, twice as "
+"big. Therefore, they are recommended only when integrating with either "
+"[Aperture](Integration-Aperture.html) or "
+"[Lightroom](Integration-Lightroom.html)."
+msgstr "2 ページの TIFF ファイルの短所は、当然、2 倍の大きさになることです。そのため、[Aperture](Integration-Aperture.html) または [Lightroom](Integration-Lightroom.html) と作業フローを統合する場合だけに推奨されます。"
+
+#. type: Title ###
+#: Multipage_TIFF.markdown.txt:27
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Multipage_TIFF.markdown.txt:32
+msgid "[Saving your work](Saving.html)"
+msgstr "[作品の保存](Saving.html)"
+
+#. type: Bullet: '-   '
+#: Multipage_TIFF.markdown.txt:32
+msgid "[Workflow integration: Aperture](Integration-Aperture.html)"
+msgstr "[ワークフローの統合: Aperture](Integration-Aperture.html)"
+
+#. type: Bullet: '-   '
+#: Multipage_TIFF.markdown.txt:32
+msgid "[Workflow integration: Lightroom](Integration-Lightroom.html)"
+msgstr "[ワークフローの統合: Lightroom](Integration-Lightroom.html)"

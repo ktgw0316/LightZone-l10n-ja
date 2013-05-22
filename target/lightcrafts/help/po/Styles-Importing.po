@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Styles-Importing.markdown.txt:2
+#, no-wrap
+msgid "Styles: Importing\n"
+msgstr ""
+
+#. type: Plain text
+#: Styles-Importing.markdown.txt:5
+msgid "[5 of 6](Styles-Deleting.html)"
+msgstr ""
+
+#. type: Plain text
+#: Styles-Importing.markdown.txt:10
+msgid ""
+"After [creating](Styles-Creating.html) and "
+"[exporting](Styles-Exporting.html) one or more styles as LightZone Style "
+"files (having an `lzt` extension), they can be imported into LightZone on "
+"other computers."
+msgstr ""
+
+#. type: Title -
+#: Styles-Importing.markdown.txt:12
+#, no-wrap
+msgid "To import a style:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Styles-Importing.markdown.txt:18
+msgid "Select File \\> Manage Styles..."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Styles-Importing.markdown.txt:18
+msgid "Click Import..."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Styles-Importing.markdown.txt:18
+msgid "Navigate to the style file you want to import."
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: Styles-Importing.markdown.txt:18
+msgid "Click Choose. (The style will be imported.)"
+msgstr ""
+
+#. type: Title ###
+#: Styles-Importing.markdown.txt:19
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Styles-Importing.markdown.txt:22
+msgid "[Styles: Exporting](Styles-Exporting.html)"
+msgstr ""

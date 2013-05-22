@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Styles-Exporting.markdown.txt:2
+#, no-wrap
+msgid "Styles: Exporting\n"
+msgstr ""
+
+#. type: Plain text
+#: Styles-Exporting.markdown.txt:5
+msgid "[4 of 6](Styles-Importing.html)"
+msgstr ""
+
+#. type: Plain text
+#: Styles-Exporting.markdown.txt:10
+msgid ""
+"After [creating](Styles-Creating.html) one or more styles, you can export "
+"them as LightZone Style files (having an `lzt` extension) that can be "
+"[imported](Styles-Importing.html) into LightZone on other computers."
+msgstr ""
+
+#. type: Title -
+#: Styles-Exporting.markdown.txt:12
+#, no-wrap
+msgid "To export a style:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Styles-Exporting.markdown.txt:21
+msgid "Select File \\> Manage Styles..."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Styles-Exporting.markdown.txt:21
+msgid "Select the style you want to export."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Styles-Exporting.markdown.txt:21
+msgid "Click Export..."
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: Styles-Exporting.markdown.txt:21
+msgid "Navigate to the folder where you want to export the style file to."
+msgstr ""
+
+#. type: Bullet: '5.  '
+#: Styles-Exporting.markdown.txt:21
+msgid ""
+"Click Choose. (The style will be written to a file having an `lzt` "
+"extension.)"
+msgstr ""
+
+#. type: Bullet: '6.  '
+#: Styles-Exporting.markdown.txt:21
+msgid "Click OK."
+msgstr "OK をクリックします。"
+
+#. type: Title ###
+#: Styles-Exporting.markdown.txt:22
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Styles-Exporting.markdown.txt:25
+msgid "[Styles: Importing](Styles-Importing.html)"
+msgstr ""

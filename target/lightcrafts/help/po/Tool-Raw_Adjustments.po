@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Tool-Raw_Adjustments.markdown.txt:2
+#, no-wrap
+msgid "Raw adjustments\n"
+msgstr ""
+
+#. type: Plain text
+#: Tool-Raw_Adjustments.markdown.txt:7
+msgid ""
+"![image](images/Tool-Raw_Adjustments-en.png) The **Raw Adjustments** tool "
+"allows you to adjust various settings of a raw photo. Additionally, any "
+"\"hot pixels\" that are found are automatically removed."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Raw_Adjustments.markdown.txt:12
+msgid ""
+"For raw photos, using the single Raw Adjustments tool yields better results "
+"than if you had used the [ZoneMapper](Tool-ZoneMapper.html) (for an exposure "
+"adjustment), [Noise Reduction](Tool-Noise_Reduction.html), and [White "
+"Balance](Tool-White_Balance.html) tools separately."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Raw_Adjustments.markdown.txt:18
+msgid ""
+"Unlike other tools, the Raw Adjustments tool is special. For raw photos, it "
+"is always present at the bottom of the [tool stack](Tool_Stack.html)  and "
+"can neither be disabled nor deleted. Additionally, it is always applied to "
+"the entire photo and can not be masked using [regions](Regions.html)."
+msgstr ""
+
+#. type: Title -
+#: Tool-Raw_Adjustments.markdown.txt:20
+#, no-wrap
+msgid "To make raw adjustments to your photo:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Tool-Raw_Adjustments.markdown.txt:36
+msgid "Double-click the title bar of the Raw Adjustments tool to expand it."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Raw_Adjustments.markdown.txt:36
+#, no-wrap
+msgid ""
+"2.  Do either of the following:\n"
+"    1.  Use the sliders to adjust your photo:\n"
+"        -   The Exposure slider adjusts the exposure. Moving the\n"
+"            exposure slider to the left (yielding a negative value)\n"
+"            performs highlight recovery in \"blown out\" areas of your\n"
+"            photo.\n"
+"        -   The Color Noise slider reduces the amount of \"noise\" that is\n"
+"            often present in digital photos as a result of the sensors\n"
+"            in digital cameras.\n"
+"        -   The Temperature and Tint sliders adjust the temperature and\n"
+"            tint of your photo to compensate for a color cast in the\n"
+"            light source such as the blue cast of the sky or tungsten\n"
+"            lighting.\n"
+msgstr ""
+"2.  以下のどれかを行います。\n"
+"    1.  Use the sliders to adjust your photo:\n"
+"        -   The Exposure slider adjusts the exposure. Moving the\n"
+"            exposure slider to the left (yielding a negative value)\n"
+"            performs highlight recovery in \"blown out\" areas of your\n"
+"            photo.\n"
+"        -   The Color Noise slider reduces the amount of \"noise\" that is\n"
+"            often present in digital photos as a result of the sensors\n"
+"            in digital cameras.\n"
+"        -   The Temperature and Tint sliders adjust the temperature and\n"
+"            tint of your photo to compensate for a color cast in the\n"
+"            light source such as the blue cast of the sky or tungsten\n"
+"            lighting.\n"
+
+#. type: Bullet: '    2.  '
+#: Tool-Raw_Adjustments.markdown.txt:43
+msgid ""
+"Alternatively, click the eyedropper button inside the tool (the mouse will "
+"change to an eyedropper), then click somewhere on your photo that you want "
+"to be neutral gray. Your photo's colors will then shift accordingly. When "
+"satisfied with the raw adjustments, click the eyedropper button again to "
+"complete the adjustment."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Tool-Raw_Adjustments.markdown.txt:46
+msgid "To reset the Temperature to its original value, click the As Shot button."
+msgstr ""
+
+#. type: Plain text
+#: Tool-Raw_Adjustments.markdown.txt:50
+#, no-wrap
+msgid ""
+"**Note:** Noise, and reductions to it, are most easily seen while\n"
+"looking at a digital photo at the pixel level by selecting View \\>\n"
+"Actual&nbsp;Pixels.\n"
+msgstr ""
+
+#. type: Title ###
+#: Tool-Raw_Adjustments.markdown.txt:51
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Tool-Raw_Adjustments.markdown.txt:58
+msgid "[Color Balance tool](Tool-Color_Balance.html)"
+msgstr "[カラー バランス ツール](Tool-Color_Balance.html)"
+
+#. type: Bullet: '-   '
+#: Tool-Raw_Adjustments.markdown.txt:58
+msgid "[Noise Reduction tool](Tool-Noise_Reduction.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tool-Raw_Adjustments.markdown.txt:58
+msgid "[Tool anatomy](Tool_Anatomy.html)"
+msgstr "[ツールの詳細](Tool_Anatomy.html)"
+
+#. type: Bullet: '-   '
+#: Tool-Raw_Adjustments.markdown.txt:58
+msgid "[White Balance tool](Tool-White_Balance.html)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Tool-Raw_Adjustments.markdown.txt:58
+msgid "[ZoneMapper: Adjusting exposure](Tool-ZoneMapper-Exposure.html)"
+msgstr ""

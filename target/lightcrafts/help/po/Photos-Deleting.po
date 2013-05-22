@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Photos-Deleting.markdown.txt:2
+#, no-wrap
+msgid "Deleting photos\n"
+msgstr "写真の削除\n"
+
+#. type: Plain text
+#: Photos-Deleting.markdown.txt:6
+msgid ""
+"You can delete the image files of your photos directly in LightZone using "
+"the [Photo Browser](Anatomy-Browser.html)."
+msgstr "[写真閲覧ウィンドウ](Anatomy-Browser.html)を使うと写真を直接 LightZone で削除できます。"
+
+#. type: Title -
+#: Photos-Deleting.markdown.txt:8
+#, no-wrap
+msgid "To delete photos:\n"
+msgstr "写真を削除するには:\n"
+
+#. type: Bullet: '1.  '
+#: Photos-Deleting.markdown.txt:16
+msgid ""
+"Select one or more thumbnails of the photos in the browser that you want to "
+"delete. (Use the Shift key to select multiple, contiguous thumbnails or the "
+"Command Control key to select multiple, non-contiguous thumbnails.)"
+msgstr "削除したい写真のサムネイルを写真閲覧ウィンドウで選択します。(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。)"
+
+#. type: Bullet: '2.  '
+#: Photos-Deleting.markdown.txt:16
+msgid "Select Browser \\> Move to Trash... Recycle Bin..."
+msgstr "「閲覧」→「ごみ箱へ移動...」を選択します。Recycle Bin..."
+
+#. type: Bullet: '3.  '
+#: Photos-Deleting.markdown.txt:16
+msgid "Click Move to Trash Recycle Bin (or press Return)."
+msgstr "「ごみ箱へ移動...」をクリックします (または Return キーを押します) 。"

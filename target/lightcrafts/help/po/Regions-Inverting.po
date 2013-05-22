@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Regions-Inverting.markdown.txt:2
+#, no-wrap
+msgid "Inverting masks\n"
+msgstr "マスクの反転\n"
+
+#. type: Plain text
+#: Regions-Inverting.markdown.txt:5
+msgid "[8 of 10](Regions-Copying.html)"
+msgstr ""
+
+#. type: Plain text
+#: Regions-Inverting.markdown.txt:10
+msgid ""
+"Ordinarily, a mask constrains its tool's effect to be inside all of its "
+"[regions](Regions.html). Occasionally, it's useful to be able to use a mask "
+"to specify an area of your photo to *exclude* from a tool's effect.  You can "
+"invert a mask to do this."
+msgstr ""
+
+#. type: Title -
+#: Regions-Inverting.markdown.txt:12
+#, no-wrap
+msgid "To invert a mask for a tool:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Regions-Inverting.markdown.txt:18
+msgid "Select the tool whose mask you want to invert by clicking its title bar."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Regions-Inverting.markdown.txt:18
+msgid "Make sure the Tool Settings tab is selected."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: Regions-Inverting.markdown.txt:18
+msgid "Click the tool's invert-mask box."
+msgstr ""
+
+#. type: Plain text
+#: Regions-Inverting.markdown.txt:20
+#, no-wrap
+msgid "    ![image](images/Region-Invert-en.png)\n"
+msgstr ""

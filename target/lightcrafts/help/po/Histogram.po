@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-02-21 21:07+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: Histogram.markdown.txt:2
+#, no-wrap
+msgid "Histogram\n"
+msgstr "ヒストグラム\n"
+
+#. type: Plain text
+#: Histogram.markdown.txt:5
+msgid "[3 of 4](Sampler.html)"
+msgstr "[3 of 4](Sampler.html)"
+
+#. type: Plain text
+#: Histogram.markdown.txt:12
+msgid ""
+"![image](images/Histograms.png) Sharing space with the "
+"[ZoneFinder](ZoneFinder.html), [Color Selection "
+"Viewer](Color_Selection_Viewer.html), and [Sampler](Sampler.html) in the "
+"upper-right corner of the LightZone window is also the histogram that shows "
+"the distribution of intensity for each of the red, green, and blue color "
+"channels."
+msgstr "![image](images/Histograms.png) ヒストグラムは LightZone ウィンドウの右上の場所に [ゾーン ファインダー](ZoneFinedr.html)や[色選択ビュワー](Color_Selection_Viewer.html)や[サンプラー](Sampler.html)と一緒にあり、赤と緑と青の色チャネルの輝度分布を表示しています。"
+
+#. type: Plain text
+#: Histogram.markdown.txt:17
+msgid ""
+"For example, the histogram in the upper right shows that the photo has "
+"little contrast (because none of the color channels extend into the darker "
+"zones) and is also slightly underexposed (because none of the color channels "
+"extend into the lightest zone)."
+msgstr "例として、右上のヒストグラムでは、 (どの色チャネルも暗い部分まで広がっていないことから) 写真のコントラストが低いことと、 (どの色チャネルも最も明るい部分まで広がっていないことから) 露出が少し足りないこととが分かります。"
+
+#. type: Plain text
+#: Histogram.markdown.txt:23
+msgid ""
+"The histogram in the lower right shows the same photo after both "
+"[exposure](Tool-ZoneMapper-Exposure.html) and [black "
+"point](Tool-ZoneMapper-Black_Point.html) adjustments have been made using "
+"the [ZoneMapper](Tool-ZoneMapper.html) tool. Notice how the color channels "
+"now extend all the way from the darkest zone to the lightest."
+msgstr "右下のヒストグラムでは、同じ写真の[露出](Tool-ZoneMapper-Exposure.html)と[黒点](Tool-ZoneMapper-Black_Point.html)の両方を[ゾーン マッパー](Tool-ZoneMapper.html)で補正したあとの状態を表示しています。色チャネルが最も暗い部分から最も明るい部分まで広がったのが分かります。"
+
+#. type: Title -
+#: Histogram.markdown.txt:25
+#, no-wrap
+msgid "To show the histogram:\n"
+msgstr "ヒストグラムを表示するには:\n"
+
+#. type: Bullet: '1.  '
+#: Histogram.markdown.txt:28
+msgid "Click the Histogram tab."
+msgstr "ヒストグラム タブをクリックします。"
+
+#. type: Title ###
+#: Histogram.markdown.txt:29
+#, no-wrap
+msgid "See also:"
+msgstr "関連項目:"
+
+#. type: Bullet: '-   '
+#: Histogram.markdown.txt:34
+msgid "[Color Selection Viewer](Color_Selection_Viewer.html)"
+msgstr "[色選択ビュワー](Color_Selection_Viewer.html)"
+
+#. type: Bullet: '-   '
+#: Histogram.markdown.txt:34
+msgid "[Sampler](Sampler.html)"
+msgstr "[サンプラー](Sampler.html)"
+
+#. type: Bullet: '-   '
+#: Histogram.markdown.txt:34
+msgid "[ZoneFinder](ZoneFinder.html)"
+msgstr "[ゾーン ファインダー](ZoneFinder.html)"
