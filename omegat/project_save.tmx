@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -846,6 +846,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>("SUN") AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150202Z">
+        <seg>("SUN") AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A
     new spot tool will appear at the top of the [tool
     stack](Tool_Stack.html).)</seg>
@@ -1383,6 +1391,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161055Z">
         <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails; or use the Select Recent button.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151207Z">
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command キー&lt;/s0&gt;または &lt;s1&gt;Ctrl キー&lt;/s1&gt;を使って複数のとびとびになったサムネイルを選択します。または「最近使ったファイルを選択」を使います。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2608,6 +2624,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 of 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145009Z">
+        <seg>3 of 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 of 8</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144856Z">
@@ -3192,6 +3216,22 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150534Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; Raw ファイルあるいは TIFF ファイルに評価を付けても、内容は一切変更されません。評価情報は添付のXMP ファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rotating either raw or TIFF files does not modify them in any way; instead, the rotation information is stored in sidecar XMP files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150906Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; Raw ファイルあるいは TIFF ファイルに評価を付けても、内容は一切変更されません。評価情報は添付のXMP ファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of Aperture version 1.5.3 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071145Z">
@@ -3240,6 +3280,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150209Z">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T145642Z">
@@ -3260,6 +3308,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070312Z">
         <seg>&lt;html&gt;すべてのファイルを保存して終了&lt;b&gt; (推奨) &lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Control-click&lt;/s0&gt; &lt;s1&gt;Right-click&lt;/s1&gt; on one of the thumbnails to pop-up the menu and select the rating your want to give.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150434Z">
+        <seg>サムネイル上で &lt;s0&gt;Ctrl-クリック&lt;/s0&gt;または&lt;s1&gt;右クリック&lt;/s1&gt;してポップアップ メニューから付けたい星の数を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4027,6 +4083,14 @@ Minolta</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150159Z">
+        <seg>ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T132941Z">
@@ -4739,6 +4803,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can select Browser &gt; Rotate Left or Rotate Right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150824Z">
+        <seg>別の方法として、「閲覧」→「左に回転」または「右に回転」を選ぶこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can select Browser \&gt; Rotate Left or Rotate Right.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145547Z">
@@ -4807,6 +4879,14 @@ configure iPhoto automatically for you now.</seg>
     sizes are usually quite large.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T151831Z">
+        <seg>「可逆」圧縮を用いることのできる画像形式です。ただし、ファイル サイズは通常はかなり大きくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An image format that can use "lossless" compression; however, file sizes are usually quite large.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T144959Z">
         <seg>「可逆」圧縮を用いることのできる画像形式です。ただし、ファイル サイズは通常はかなり大きくなります。</seg>
       </tuv>
     </tu>
@@ -4907,6 +4987,14 @@ configure iPhoto automatically for you now.</seg>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144043Z">
         <seg>Any code not declared
     GPL is free for all uses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any code not declared GPL is free for all uses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150137Z">
+        <seg>Any code not declared GPL is free for all uses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5774,8 +5862,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130116T141146Z">
-        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けられて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (F 値が 1/2) ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150116Z">
+        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (F 値が 1/2) ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7580,6 +7668,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click one of rotate arrow buttons above the thumbnails.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150823Z">
+        <seg>サムネイルの上にある回転矢印ボタンのどれかをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click somewhere on your photo that is either the color or luminosity
     you want to select.</seg>
       </tuv>
@@ -8539,6 +8635,14 @@ Samsung</seg>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144048Z">
         <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan
     Georgescu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan Georgescu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150150Z">
+        <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan Georgescu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9767,6 +9871,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T143024Z">
         <seg>いろいろなブレンド モードの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the various user preferences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151342Z">
+        <seg>さまざまなユーザー設定を行うには</seg>
       </tuv>
     </tu>
     <tu>
@@ -11727,6 +11839,14 @@ the [tool stack](Tool_Stack.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the &lt;a0&gt;Metadata Inspector&lt;/a0&gt;, select the rating your want from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150508Z">
+        <seg>&lt;a0&gt;メタデータ表示部&lt;/a0&gt;で、ポップアップ メニューから付けたい星の数を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the [Metadata Inspector](Metadata.html), select the rating
         your want from the pop-up menu.</seg>
       </tuv>
@@ -12417,6 +12537,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150649Z">
+        <seg>しかし、カメラによってはそのようなセンサーが内蔵されていないため、縦向きで撮った写真は&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;で倒れて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the [Photo Browser](Anatomy-Browser.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150129Z">
@@ -12513,6 +12641,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150232Z">
+        <seg>IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
     BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
     ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
@@ -12525,6 +12661,14 @@ truncated at the black end.</seg>
     ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150224Z">
+        <seg>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12543,6 +12687,14 @@ truncated at the black end.</seg>
     DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY,
     ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF
     SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150204Z">
+        <seg>IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12729,6 +12881,14 @@ device can render are truncated.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145648Z">
+        <seg>ブレンド色が 50% グレーよりも明るい場合は、色を明るく (スクリーン) します。50% グレーよりも暗い場合は、色を暗く (乗算) します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the blend color is lighter, the image is lightened
     as if it were dodged;</seg>
       </tuv>
@@ -12752,6 +12912,14 @@ device can render are truncated.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152610Z">
         <seg>ブレンド色の方が明るい場合は、覆い焼きされたように明るくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the blend color is lighter, the image is lightened as if it were dodged; if the blend color is darker, the image is darkened as if it were burned in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T144950Z">
+        <seg>ブレンド色の方が明るい場合は、覆い焼きされたように明るくなります。ブレンド色の方が暗い場合は、焼き込まれたように暗くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12891,6 +13059,14 @@ synchronize the data.</seg>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144139Z">
         <seg>If you use our work,
     you ought to acknowledge us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use our work, you ought to acknowledge us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150217Z">
+        <seg>If you use our work, you ought to acknowledge us.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13243,6 +13419,14 @@ Browser](Anatomy-Browser.html) to convert multiple images as a batch.</seg>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144056Z">
         <seg>In no event will the authors be held liable for any
     damages arising from the use of this software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In no event will the authors be held liable for any damages arising from the use of this software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150155Z">
+        <seg>In no event will the authors be held liable for any damages arising from the use of this software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,6 +14675,14 @@ single click.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has a handful of user preferences that affect how it operates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151459Z">
+        <seg>LightZone には多くのユーザー設定項目があり、動作を変化させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has a number of key features that set it apart from other
 photo editing applications.</seg>
       </tuv>
@@ -15011,6 +15203,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083246Z">
         <seg>LightZone: 写真ビュワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151257Z">
+        <seg>LightZone: 設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -18384,6 +18584,14 @@ is.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150218Z">
+        <seg>Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it. This software may be referred to only as "the Independent JPEG Group's software".</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104613Z">
@@ -19252,6 +19460,14 @@ not modified.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating JPEG files modifies only the rating metadata: the image data is not modified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150605Z">
+        <seg>JPEG ファイルに評価を付けるとメタデータだけが変更され、画像データは変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating photos</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070651Z">
@@ -19395,6 +19611,14 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T145309Z">
         <seg>以下のカメラの raw ファイルをサポートしました: Olympus E-400、E-410、E-510 および </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Olympus E-400, E-410, E-510; Ricoh Caplio GX100.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150314Z">
+        <seg>以下のカメラの raw ファイルをサポートしました: Olympus E-400、E-410、E-510 および Ricoh Caplio GX100</seg>
       </tuv>
     </tu>
     <tu>
@@ -20493,6 +20717,14 @@ is not modified.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotating JPEG files modifies only the rotation metadata: the image data is not modified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150928Z">
+        <seg>JPEG ファイルを回転させるとメタデータだけが変更され、画像データは変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotating photos</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070723Z">
@@ -21191,6 +21423,14 @@ is not modified.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SUN MICROSYSTEMS, INC.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150201Z">
+        <seg>SUN MICROSYSTEMS, INC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample format</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T051835Z">
@@ -21704,6 +21944,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102715Z">
         <seg>「閲覧」→「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動...」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Browser &gt; Rating &gt; and the rating your want to give.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150335Z">
+        <seg>「閲覧」→「評価」から付けたい星の数を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23387,6 +23635,15 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some parts of this program are restricted under the terms of the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145020Z">
+        <seg>Some parts of this program are restricted under the terms
+    of the GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sony</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162916Z">
@@ -23784,6 +24041,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such code is enclosed in "BEGIN GPL BLOCK" and "END GPL BLOCK" declarations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150135Z">
+        <seg>Such code is enclosed in "BEGIN GPL BLOCK" and "END GPL BLOCK" declarations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplemental categories</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074756Z">
@@ -23904,6 +24169,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150222Z">
+        <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104626Z">
@@ -23942,6 +24215,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
     ARE DISCLAIMED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150230Z">
+        <seg>THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24797,8 +25078,8 @@ half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The ZoneFinder shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T162648Z">
-        <seg>ゾーン ファインダーでは写真の縮小版を 16 段階のグレー スケールに分けて表示し、各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145951Z">
+        <seg>ゾーン ファインダーでは写真の縮小版を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24895,8 +25176,8 @@ brightness or half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The ZoneMapper tool shows 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T162636Z">
-        <seg>写真を 16 段階のグレー スケールに分けて表示し、各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145759Z">
+        <seg>写真を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25825,14 @@ either [Aperture](Integration-Aperture.html) or
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150216Z">
+        <seg>These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library. If you use our work, you ought to acknowledge us.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104612Z">
@@ -25565,6 +25854,14 @@ create beautiful photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163201Z">
         <seg>綺麗な写真を創るのに必要なものは、これらふたつのファイルだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151531Z">
+        <seg>以下ではそれらについて説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26173,6 +26470,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This software is provided "as-is" without any express or implied warranty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150152Z">
+        <seg>This software is provided "as-is" without any express or implied warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This software is provided "as-is" without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104540Z">
@@ -26187,6 +26492,14 @@ easier to work with.</seg>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144141Z">
         <seg>This software may be referred to only
     as "the Independent JPEG Group's software".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This software may be referred to only as "the Independent JPEG Group's software".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150219Z">
+        <seg>This software may be referred to only as "the Independent JPEG Group's software".</seg>
       </tuv>
     </tu>
     <tu>
@@ -29081,6 +29394,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T132550Z">
         <seg>[写真閲覧ウィンドウ](Anatomy-Browser.html)を使うと写真を直接 LightZone で名前変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can send copies of selected photos to other folders using the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151003Z">
+        <seg>&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;を使って、選択した写真を別のフォルダーへコピーとして送ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32000,6 +32321,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lightzoneproject.org</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145016Z">
+        <seg>lightzoneproject.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>linear raw</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T032640Z">
@@ -32432,6 +32761,14 @@ as a "helper application" for editing your photos.</seg>
         <seg>or the names of
     contributors may be used to endorse or promote products derived from
     this software without specific prior written permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or the names of contributors may be used to endorse or promote products derived from this software without specific prior written permission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150158Z">
+        <seg>or the names of contributors may be used to endorse or promote products derived from this software without specific prior written permission.</seg>
       </tuv>
     </tu>
     <tu>
