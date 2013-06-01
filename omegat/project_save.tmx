@@ -1459,10 +1459,34 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) original</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171850Z">
+        <seg>(a) 元画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(b) blues selected</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T133627Z">
         <seg>(b) 青を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) vibrance +50</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171902Z">
+        <seg>(b) 自然な彩度 +50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(c) saturation +50</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171944Z">
+        <seg>(c) 彩度 +50</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,6 +2568,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 of 8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170026Z">
+        <seg>2 of 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153927Z">
@@ -2876,6 +2908,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110324Z">
         <seg>7 of 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7 of 8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170103Z">
+        <seg>7 of 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -3216,6 +3256,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Hue&lt;/b0&gt;: The color of pixels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170945Z">
+        <seg>&lt;b0&gt;色相&lt;/b0&gt;: ピクセルの色 (Hue)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T103443Z">
@@ -3324,6 +3372,22 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162528Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; いくつかの設定項目は LightZone が再起動されるまで有効になりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Saturation&lt;/b0&gt;: How vivid all colors are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171020Z">
+        <seg>&lt;b0&gt;彩度&lt;/b0&gt;: すべての色の鮮やかさ (Saturation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Vibrance&lt;/b0&gt;: How vivid primary colors are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171110Z">
+        <seg>&lt;b0&gt;自然な彩度&lt;/b0&gt;: 原色の鮮やかさ (Vibrance)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4561,6 +4625,14 @@ that point in time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting hue/saturation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170243Z">
+        <seg>色相/彩度の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting the black point</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070750Z">
@@ -4670,6 +4742,14 @@ manipulate the settings of the individual tools ever further.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142256Z">
         <seg>All rights reserved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All adjustments are relative.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171543Z">
+        <seg>調整はすべて相対的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11874,6 +11954,14 @@ avoid modifying your original photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, compare the photos below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171839Z">
+        <seg>例として、以下の写真を比べてみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, compare what is shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T133603Z">
@@ -12502,6 +12590,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the hue and saturation of colors in your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170234Z">
+        <seg>写真の色相/彩度を調整するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the shape of regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105835Z">
@@ -12554,6 +12650,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102721Z">
         <seg>写真閲覧ウィンドウから写真をドラッグ &amp; ドロップするには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to find zones in your photo using the ZoneFinder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170024Z">
+        <seg>写真のなかのゾーンを ZoneFinder を使って見つけるには</seg>
       </tuv>
     </tu>
     <tu>
@@ -14924,6 +15028,14 @@ photo editing applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone instead was developed for digital cameras and computers and has 16 zones where each zone differs by &lt;i0&gt;half&lt;/i0&gt; an EV.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165835Z">
+        <seg>それに対し LightZone はデジタル カメラとコンピューターのために開発され、&lt;i0&gt;1/2&lt;/i0&gt; EV ずつ異なる 16 のゾーンを用います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone instead was developed for digital cameras and computers and has 16 zones where each zone differs by &lt;i0&gt;half&lt;/i0&gt; an EV. Middle gray falls onto the fifth zone from the top.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T131529Z">
@@ -15171,6 +15283,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T131401Z">
         <seg>LightZone: 謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Adjusting Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170148Z">
+        <seg>LightZone: 色相/彩度の調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -15611,6 +15731,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070806Z">
         <seg>LightZone: ゾーン マッパー: 黒点の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Finding Zones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165937Z">
+        <seg>LightZone: ZoneMapper: ゾーンを探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -24874,6 +25002,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Hue/Saturation&lt;/b0&gt; tool allows you to make color adjustments in hue, saturation, or vibrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170753Z">
+        <seg>&lt;b0&gt;色相/彩度&lt;/b0&gt;ツールでは色補正を色相・彩度・自然な彩度によって行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Noise Reduction&lt;/b0&gt; tool allows you to reduce "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T144040Z">
@@ -24990,6 +25126,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T145813Z">
         <seg>&lt;b0&gt;ホワイトバランス&lt;/b0&gt;ツールではホワイトバランスを調整することで青空やタングステン照明などの光源による色かぶりを補正できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Zone System&lt;/b0&gt; was developed by Ansel Adams and Fred Archer in the 1940s as a method for achieving consistent results from exposing negative film all the way to paper prints.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165756Z">
+        <seg>&lt;b0&gt;ゾーン システム&lt;/b0&gt;とは、アンセル・アダムスとフレッド・アーチャーによって1940年代に開発された、フィルムへの露光から印画紙へのプリントまで一貫して安定した結果を得るための技法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25260,6 +25404,14 @@ TIFF file.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T090203Z">
         <seg>伝統的なゾーン システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vibrance slider is better than the Saturation slider when you want to adjust only the saturation of foliage, the sky, water, clothing, make-up (things that contain reds, greens, and blues), but leave the saturation of skin and earth tones largely unchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171813Z">
+        <seg>「自然な彩度」スライダーの方が「彩度」スライダーよりも適しているのは、葉っぱ・空・水面・衣服・メイクアップなど (赤・青・緑を含むもの) だけを調整しつつ肌色やアース カラーの彩度は大きく変えたくない場合です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25934,6 +26086,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133056Z">
         <seg>伝統的なゾーン システムはネガ フィルムのために開発され、*露光指数*が 1 EV ずつ異なる 11 のゾーンを用いています (露光指数の 1 EV は絞りの 1 段に相当します) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The traditional Zone System was developed for negative film and has 11 zones where each zone differs by one &lt;e0&gt;exposure value&lt;/e0&gt; (one "EV" which is equivalent to one f-stop).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165819Z">
+        <seg>伝統的なゾーン システムはネガ フィルムのために開発され、&lt;e0&gt;露光指数&lt;/e0&gt;が 1 EV ずつ異なる 11 のゾーンを用いています (露光指数の 1 EV は絞りの 1 段に相当します) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29218,6 +29378,14 @@ each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150324Z">
         <seg>ウィンドウの位置と大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the &lt;a0&gt;ZoneFinder&lt;/a0&gt; and &lt;a1&gt;ZoneMapper&lt;/a1&gt; tool, LightZone offers a unique implementation of the Zone System that has been adapted from negative film to digital media and interactive image processing allowed by modern computers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165749Z">
+        <seg>&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;と&lt;a1&gt;ゾーン マッパー&lt;/a1&gt;のツールによって、 LightZone はゾーン システムをネガ フィルムからデジタル メディアへと適応させたユニークな実装と、現代のコンピューターが可能にしたインタラクティブな画像処理とを提供します。</seg>
       </tuv>
     </tu>
     <tu>
