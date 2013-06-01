@@ -4620,8 +4620,8 @@ manipulate the settings of the individual tools ever further.</seg>
       <tuv lang="EN-US">
         <seg>All the selected thumbnails will rotate 90 degrees in the direction you selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145537Z">
-        <seg>選択された全てのサムネイルが、選んだ向きに 90 度回転します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153909Z">
+        <seg>選択されたすべてのサムネイルが、選んだ向きに 90 度回転します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12827,6 +12827,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If checked, LightZone will automatically check to see if a new software version is available when launched.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T154045Z">
+        <seg>チェックすると、LightZone は起動時に新しいバージョンがダウンロードできないか自動で確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no black point
 compensation is done, then detail will be lost in the darkest shadow
 areas of your photo because the dark areas beyond the darkest black the
@@ -13047,8 +13055,8 @@ synchronize the data.</seg>
       <tuv lang="EN-US">
         <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T072709Z">
-        <seg>別の画像を編集しているときに新しい画像を開くと、自動保存するかまたはどうするかを尋ねます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T152822Z">
+        <seg>別の画像を編集しているときに新しい画像を開くと、自動保存するか、または何をするかを尋ねます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18103,6 +18111,14 @@ use in other applications).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinarily when you are editing a photo, if you try to edit another photo, LightZone will present you with a Save alert asking you whether you want to &lt;a0&gt;save your work&lt;/a0&gt; before viewing the preview image for the other photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T152906Z">
+        <seg>通常は、ある写真を編集しているときに別の写真を編集しようとすると、LightZone は別の写真のプレビュー画像を表示する前に警告ダイアログを表示して&lt;a0&gt;作品を保存する&lt;/a0&gt;か尋ねます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool
 affects your entire photo.</seg>
       </tuv>
@@ -22749,6 +22765,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting this option will save your work automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153027Z">
+        <seg>これを選択しておくと自動的に作品を保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104428Z">
@@ -25370,6 +25394,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hidden folders can either go in the same folders as your photos ("local") or all together in one location ("global").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153936Z">
+        <seg>隠しフォルダーは、個々の写真と同じフォルダー (「ローカル」) またはすべての写真に共通の場所 (「グローバル」) に置くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The histogram in the lower right shows the same photo after both
 [exposure](Tool-ZoneMapper-Exposure.html) and [black
 point](Tool-ZoneMapper-Black_Point.html) adjustments have been made
@@ -27108,6 +27140,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083147Z">
         <seg>写真を編集するために開くには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To operate quickly, LightZone caches thumbnail images of your photos in hidden folders on your computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153448Z">
+        <seg>動作を速くするため、LightZone は写真のサムネイル画像をコンピューター内の隠しフォルダーにキャッシュします。</seg>
       </tuv>
     </tu>
     <tu>
