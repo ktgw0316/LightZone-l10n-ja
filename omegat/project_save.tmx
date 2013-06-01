@@ -864,6 +864,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new hue/saturation tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172543Z">
+        <seg>(新しい色相/彩度ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new sharpen tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135615Z">
@@ -7977,6 +7985,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the hue/saturation tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172435Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で色相/彩度ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the name of an edit in the History.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T150145Z">
@@ -12702,6 +12718,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to reduce digital camera sensor noise in your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173324Z">
+        <seg>写真のノイズを軽減するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rename photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104949Z">
@@ -13566,6 +13590,22 @@ as black (not selected).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T134254Z">
         <seg>(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示されて残りの領域は黒 (選択中でない) で表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (b), the vibrance has been increased by 50 resulting in more vivid make-up, but with the hair and background largely unchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172148Z">
+        <seg>(b) では、自然な彩度を 50 上げることでメイクがより鮮やかになりましたが、髪や背景は大きく変化していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (c), the saturation has been increased by 50 instead resulting in unnaturally vivid colors overall.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172338Z">
+        <seg>(c) では、彩度を 50 上げることで画面全体が不自然に鮮やかになってしまっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15459,6 +15499,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164022Z">
         <seg>LightZone: 新機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Noise Reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173301Z">
+        <seg>LightZone: ノイズ軽減</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,6 +17878,14 @@ to understand blending modes, there are a few terms to know:</seg>
         <seg>Noise Reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104818Z">
+        <seg>ノイズ軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Noise reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173325Z">
         <seg>ノイズ軽減</seg>
       </tuv>
     </tu>
@@ -25255,6 +25311,14 @@ for the current editing session.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Hue slider adjusts around the wheel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172816Z">
+        <seg>「色相」スライダーはホイールの回転方向に調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T032519Z">
@@ -25359,6 +25423,14 @@ the same time, increasing the local contrast.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Saturation slider adjusts along the radius of the wheel from the center to the edge for all colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173056Z">
+        <seg>「彩度」スライダーはホイールの半径方向に中心から外周へと、各色について調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Settings include things like:</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T053754Z">
@@ -25408,10 +25480,18 @@ TIFF file.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vibrance slider adjusts along the radius of the wheel from the center to the edge, but only for the primary colors of red, green, and blue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173209Z">
+        <seg>「彩度」スライダーはホイールの半径方向に中心から外周へと調整しますが、調整できるのは赤・緑・青の 3 原色についてだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vibrance slider is better than the Saturation slider when you want to adjust only the saturation of foliage, the sky, water, clothing, make-up (things that contain reds, greens, and blues), but leave the saturation of skin and earth tones largely unchanged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T171813Z">
-        <seg>「自然な彩度」スライダーの方が「彩度」スライダーよりも適しているのは、葉っぱ・空・水面・衣服・メイクアップなど (赤・青・緑を含むもの) だけを調整しつつ肌色やアース カラーの彩度は大きく変えたくない場合です。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173242Z">
+        <seg>「自然な彩度」スライダーの方が「彩度」スライダーよりも適しているのは、葉っぱ・空・水面・衣服・メイクアップなど (赤・緑・青を含むもの) だけを調整しつつ肌色やアース カラーの彩度は大きく変えたくない場合です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27232,6 +27312,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the hue/saturation of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172352Z">
+        <seg>写真の色相/彩度を調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the shape of a region:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105858Z">
@@ -28586,6 +28674,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135319Z">
         <seg>スライダーでシャープさを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to make adjustments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172618Z">
+        <seg>スライダーで次のように調整できます。</seg>
       </tuv>
     </tu>
     <tu>
