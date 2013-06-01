@@ -1329,6 +1329,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The region kind buttons will appear to the right of the tool bar and the regions for the tool will become visible on your photo.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163847Z">
+        <seg>(領域の種類のボタンがツール バーの右側に現れ、ツールに対応する領域が写真の上で見えるようになります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T101725Z">
@@ -1341,6 +1349,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152152Z">
         <seg>(順番には特に意味はありません。)領域ごとの調整点の数には制限はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(There is no significance to the order.) There is no limit to the number of control points a region may have.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163304Z">
+        <seg>(順番には特に意味はありません。) 領域ごとの調整点の数には制限はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,6 +7643,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Print...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163159Z">
+        <seg>「印刷...」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Rename (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105157Z">
@@ -7809,6 +7833,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T150008Z">
         <seg>履歴タブをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Regions button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163508Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で領域ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10336,6 +10368,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the region that you want to add a control point to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163533Z">
+        <seg>調整点を追加したい領域をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click the region that you want to delete a control point from.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T151609Z">
@@ -10348,6 +10388,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110802Z">
         <seg>調整点を削除したい領域をダブルクリックします (調整点が見えるようになります) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the region whose shape you want to adjust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164250Z">
+        <seg>調整したい領域をダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12542,6 +12590,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to print your photos directly from within LightZone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162946Z">
+        <seg>LightZone で写真を直接印刷するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rename photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104949Z">
@@ -12879,6 +12935,14 @@ truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T145642Z">
         <seg>ITULab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a linked region is moved or edited, all the regions it is linked to are likewise moved or edited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164915Z">
+        <seg>リンクされた領域のうちどれかひとつが移動または編集された場合、リンクされたすべての領域が同じように移動または編集されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14656,6 +14720,14 @@ contributed to LightZone:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone allows you to print your photos directly to a color printer and get professional results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163109Z">
+        <seg>LightZone では写真を直接カラー プリンターで印刷してプロフェッショナルな仕上がりを得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone always works in a 16-bit linear color space.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162959Z">
@@ -15307,6 +15379,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162547Z">
         <seg>LightZone: 印刷の品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Printing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162849Z">
+        <seg>LightZone: 印刷</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,6 +18031,14 @@ shows the selected photo's metadata.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once created, a region can be copied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164327Z">
+        <seg>一度作成した領域はコピーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have found a photo you want to edit using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, you can edit it (or simply view it at full size).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T102334Z">
@@ -19415,6 +19503,14 @@ Content-Type: text/plain;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T063724Z">
         <seg>プルーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proof tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163121Z">
+        <seg>プルーフ ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -22828,6 +22924,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the region you want to copy by clicking it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164502Z">
+        <seg>コピーしたい領域をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123346Z">
@@ -22840,6 +22944,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083538Z">
         <seg>写真のサムネイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the tool in the &lt;a0&gt;tool stack&lt;/a0&gt; where you want to paste the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164612Z">
+        <seg>領域を貼り付けたいツールを&lt;a0&gt;ツール スタック&lt;/a0&gt;から選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24906,6 +25018,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;e0&gt;control points&lt;/e0&gt; of a region determine its shape and are used to adjust it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163244Z">
+        <seg>&lt;e0&gt;調整点&lt;/e0&gt;によって領域の形を決めたり調整したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Amount slider controls how much sharpening is done.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135702Z">
@@ -25770,6 +25890,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shape of regions in LightZone can be adjusted at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163344Z">
+        <seg>領域の形状はいつでも調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The spot tool is a specialized version of the [Clone tool](Tool-Clone.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135430Z">
@@ -26363,6 +26491,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This includes adding control points to fine-tune their shape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163448Z">
+        <seg>微調整のために調整点を追加することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a command-line ANSI C program to convert raw photos from any
     digital camera on any computer running any operating system.</seg>
       </tuv>
@@ -26558,6 +26694,14 @@ multipage document such as a fax.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151052Z">
         <seg>関連する写真をひとつのフォルダにまとめてから電子メールで送信したりウェブ サイトへアップロードしたりしたい場合に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is very useful in a couple of situations:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164416Z">
+        <seg>これは場面によっては非常に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27324,6 +27468,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153448Z">
         <seg>動作を速くするため、LightZone は写真のサムネイル画像をコンピューター内の隠しフォルダーにキャッシュします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To print your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163138Z">
+        <seg>写真を印刷するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28367,6 +28519,14 @@ restrict a tool's effect to just a selected hue or luminosity range.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using regions to create &lt;e0&gt;masks&lt;/e0&gt;, you can restrict a tool's effect to just specific areas of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163222Z">
+        <seg>領域を使って&lt;e0&gt;マスク&lt;/e0&gt;を作ることで、ツールの効果を特定の部分だけに適用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using regions to create masks, you can restrict a tool's effect to just
 specific areas of your photo.</seg>
       </tuv>
@@ -28846,6 +29006,14 @@ is Relative Colorimetric.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121444Z">
         <seg>アプリケーションで管理された色を用いて写真を[変換](Converting.html)または[印刷](Printing.html)する際に、[レンダリング インテント](Rendering_Intent.html)が「相対的色域を保持」であれば、*黒点の補正*を有効にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When initially creating regions, you can do a "rough approximation"; then, if needed, you can go back and adjust them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164221Z">
+        <seg>領域を初めて作成するときは、「大雑把に」作ります。その後、必要に応じて戻ってきて調整します。</seg>
       </tuv>
     </tu>
     <tu>
