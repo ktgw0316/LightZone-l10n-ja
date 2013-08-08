@@ -11205,6 +11205,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151459Z">
+        <seg>エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Style</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T110132Z">
@@ -20918,24 +20926,24 @@ therefore always editable.</seg>
       <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T102219Z">
-        <seg>元に戻す</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151519Z">
+        <seg>変更を破棄</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Revert the color selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T065449Z">
-        <seg>色選択を元に戻す</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151616Z">
+        <seg>色選択を破棄</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Revert...</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125038Z">
-        <seg>元に戻す...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151558Z">
+        <seg>変更を破棄...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28408,6 +28416,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T130302Z">
         <seg>元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Redo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151446Z">
+        <seg>元に戻す 再実行</seg>
       </tuv>
     </tu>
     <tu>
