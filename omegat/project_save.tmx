@@ -14577,8 +14577,8 @@ Ricoh</seg>
       <tuv lang="EN-US">
         <seg>Lift Tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T095729Z">
-        <seg>リフト ツール</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130810T043152Z">
+        <seg>リフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -20926,8 +20926,8 @@ therefore always editable.</seg>
       <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151519Z">
-        <seg>変更を破棄</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130810T042535Z">
+        <seg>破棄</seg>
       </tuv>
     </tu>
     <tu>
@@ -28422,8 +28422,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Undo Redo</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151446Z">
-        <seg>元に戻す 再実行</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130810T042444Z">
+        <seg>戻す 再実行</seg>
       </tuv>
     </tu>
     <tu>
