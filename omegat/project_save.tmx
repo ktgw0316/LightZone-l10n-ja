@@ -5697,6 +5697,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bits/Channel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143330Z">
+        <seg>Bits/チャネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black &amp; White</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165637Z">
@@ -10348,6 +10356,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Color Profile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T142333Z">
+        <seg>ディスプレイのカラー プロファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display exponent must not be negative.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T090224Z">
@@ -10444,6 +10460,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T144238Z">
         <seg>今後は確認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't limit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143321Z">
+        <seg>制限しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,6 +11651,38 @@ producing the blend colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T102950Z">
         <seg>画像を画面にフィット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1024 x 1024</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143251Z">
+        <seg>1024 x 1024 に収める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1536 x 1536</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143253Z">
+        <seg>1536 x 1536 に収める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2048 x 2048</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143254Z">
+        <seg>2048 x 2048 に収める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2560 x 2560</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143256Z">
+        <seg>2560 x 2560 に収める</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +13326,14 @@ synchronize the data.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T115326Z">
         <seg>感嘆符をクリックすると、Lightroom は写真のメタデータが他のアプリケーションで変更されたことを通知し、データをどのように同期するか尋ねてきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T143139Z">
+        <seg>設定しない場合は、既定の sRGB が使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15132,6 +15196,14 @@ pixels or use complex mathematical concepts like histograms and curves.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T084726Z">
         <seg>写真家のためにデザインされており、ピクセル ペイント ソフトウェアとはいろいろな面で根本的に異なります。ペイント ソフトウェアではピクセルの観点に立ってヒストグラムやトーン カーブといった複雑な数学的概念に沿って考えることを強いられます。それに対して LightZone では、光の物理に基づいたモデルと、写真家たちの数十年に及ぶ撮影現場やカメラ操作や暗室作業での経験から導かれた技法とを採用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T142940Z">
+        <seg>正しい色を表示するには、使用するディスプレイに適合したカラー プロファイルを設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23417,6 +23489,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105941Z">
         <seg>回転角を度でセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the color profile of your display device.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130905T142444Z">
+        <seg>ディスプレイのカラー プロファイルを設定します。</seg>
       </tuv>
     </tu>
     <tu>
