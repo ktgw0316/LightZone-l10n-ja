@@ -5250,8 +5250,8 @@ configure iPhoto automatically for you now.</seg>
       <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022742Z">
-        <seg>スタイルを適用(A)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025401Z">
+        <seg>スタイルを適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,8 +10851,8 @@ Fuji</seg>
       <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022912Z">
-        <seg>編集(E)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025220Z">
+        <seg>編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -19629,8 +19629,8 @@ application as an "external editor" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>Print...</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022802Z">
-        <seg>印刷...(P)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T024846Z">
+        <seg>印刷...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20285,8 +20285,8 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022939Z">
-        <seg>再実行(R)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025615Z">
+        <seg>再実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -22001,8 +22001,8 @@ is not modified.</seg>
       <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022711Z">
-        <seg>保存(S)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T024814Z">
+        <seg>保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -28308,8 +28308,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023130Z">
-        <seg>ツール(T)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025115Z">
+        <seg>ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -28494,8 +28494,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022926Z">
-        <seg>元に戻す(U)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025424Z">
+        <seg>元に戻す</seg>
       </tuv>
     </tu>
     <tu>
@@ -28971,7 +28971,7 @@ specific areas of your photo.</seg>
       <tuv lang="EN-US">
         <seg>VK_E</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T134917Z">
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025227Z">
         <seg>VK_E</seg>
       </tuv>
     </tu>
@@ -30320,8 +30320,8 @@ Editor, directly from within the Photo Editor.</seg>
       <tuv lang="EN-US">
         <seg>Zoom</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023119Z">
-        <seg>ズーム(X)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025514Z">
+        <seg>ズーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -34713,6 +34713,26 @@ as a "helper application" for editing your photos.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">ApplyTemplate_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025415Z">
+        <seg>スタイルを適用(A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Edit_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025239Z">
+        <seg>編集(E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
       <prop type="id">Help_Name</prop>
       <tuv lang="EN-US">
         <seg>Help</seg>
@@ -34733,6 +34753,46 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Maximize_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025527Z">
+        <seg>ズーム(X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Operation_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025152Z">
+        <seg>ツール(T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Print_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Print...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025033Z">
+        <seg>印刷...(P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Redo_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025629Z">
+        <seg>再実行(R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
       <prop type="id">Right_Name</prop>
       <tuv lang="EN-US">
         <seg>Rotate Right</seg>
@@ -34743,12 +34803,32 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Save_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T024827Z">
+        <seg>保存(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
       <prop type="id">Templates_Name</prop>
       <tuv lang="EN-US">
         <seg>Styles</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023223Z">
         <seg>スタイル(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Undo_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T025433Z">
+        <seg>元に戻す(U)</seg>
       </tuv>
     </tu>
     <tu>
