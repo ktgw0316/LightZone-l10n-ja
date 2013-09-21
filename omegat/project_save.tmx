@@ -4229,8 +4229,8 @@ Minolta</seg>
       <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132941Z">
-        <seg>LightZone について</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023441Z">
+        <seg>LightZone について(A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4277,8 +4277,8 @@ Minolta</seg>
       <tuv lang="EN-US">
         <seg>Actual Pixels</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T140539Z">
-        <seg>実ピクセル</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023336Z">
+        <seg>実ピクセル(P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,8 +5250,8 @@ configure iPhoto automatically for you now.</seg>
       <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125715Z">
-        <seg>スタイルを適用</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022742Z">
+        <seg>スタイルを適用(A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,8 +5926,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130102T072220Z">
-        <seg>すべてを前面に</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023123Z">
+        <seg>すべてを前面に(F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5950,16 +5950,16 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Browse Recent</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T070540Z">
-        <seg>最近使ったファイルを閲覧</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022653Z">
+        <seg>最近使ったファイルを閲覧(B)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Browser</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T102451Z">
-        <seg>閲覧</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023020Z">
+        <seg>閲覧(B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,8 +5974,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T102513Z">
-        <seg>閲覧ウィンドウのレイアウト</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023403Z">
+        <seg>閲覧ウィンドウのレイアウト(B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8084,8 +8084,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125818Z">
-        <seg>画像を閉じる</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022757Z">
+        <seg>画像を閉じる(C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8661,8 +8661,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Copy Region</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T130357Z">
-        <seg>領域をコピー</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022955Z">
+        <seg>領域をコピー(C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,8 +9380,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T130419Z">
-        <seg>領域を切り取り</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022950Z">
+        <seg>領域を切り取り(T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,8 +10851,8 @@ Fuji</seg>
       <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20121227T151137Z">
-        <seg>編集</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022912Z">
+        <seg>編集(E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,8 +10979,8 @@ Fuji</seg>
       <tuv lang="EN-US">
         <seg>Editor Layout</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T095630Z">
-        <seg>編集レイアウト</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023358Z">
+        <seg>編集レイアウト(E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,8 +11183,8 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       <tuv lang="EN-US">
         <seg>Exit</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125952Z">
-        <seg>終了</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022905Z">
+        <seg>終了(X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11423,8 +11423,8 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       <tuv lang="EN-US">
         <seg>File</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T124932Z">
-        <seg>ファイル</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022543Z">
+        <seg>ファイル(F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16302,8 +16302,8 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>Manage Styles...</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125809Z">
-        <seg>スタイルを管理...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022751Z">
+        <seg>スタイルを管理...(M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16561,8 +16561,8 @@ speed.</seg>
       <tuv lang="EN-US">
         <seg>Minimize</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131749Z">
-        <seg>最小化</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023107Z">
+        <seg>最小化(N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17085,8 +17085,8 @@ to understand blending modes, there are a few terms to know:</seg>
       <tuv lang="EN-US">
         <seg>New Window</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125013Z">
-        <seg>新しいウィンドウ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022554Z">
+        <seg>新しいウィンドウ(N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18321,16 +18321,16 @@ shows the selected photo's metadata.</seg>
       <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132843Z">
-        <seg>オンライン ヘルプ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023433Z">
+        <seg>オンライン ヘルプ(H)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Online User Guide</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132913Z">
-        <seg>オンライン ユーザー ガイド</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023438Z">
+        <seg>オンライン ユーザー ガイド(G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18377,8 +18377,8 @@ shows the selected photo's metadata.</seg>
       <tuv lang="EN-US">
         <seg>Open Recent</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125144Z">
-        <seg>最近使ったファイルを開く</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022642Z">
+        <seg>最近使ったファイルを開く(R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18401,8 +18401,8 @@ shows the selected photo's metadata.</seg>
       <tuv lang="EN-US">
         <seg>Open...</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125024Z">
-        <seg>開く...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022604Z">
+        <seg>開く...(O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18957,16 +18957,16 @@ is.</seg>
       <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T130411Z">
-        <seg>領域を貼り付け</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022959Z">
+        <seg>領域を貼り付け(P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Paste Region Linked</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131525Z">
-        <seg>領域をリンク貼り付け</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023004Z">
+        <seg>領域をリンク貼り付け(L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19517,8 +19517,8 @@ application as an "external editor" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>Preferences...</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131538Z">
-        <seg>設定...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023013Z">
+        <seg>設定...(N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19629,8 +19629,8 @@ application as an "external editor" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>Print...</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20121227T144957Z">
-        <seg>印刷...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022802Z">
+        <seg>印刷...(P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20285,8 +20285,8 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131338Z">
-        <seg>再実行</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022939Z">
+        <seg>再実行(R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20381,8 +20381,8 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132017Z">
-        <seg>領域</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023139Z">
+        <seg>領域(R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20798,8 +20798,8 @@ therefore always editable.</seg>
       <tuv lang="EN-US">
         <seg>Rescan Folder</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125057Z">
-        <seg>フォルダーを再スキャン</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022635Z">
+        <seg>フォルダーを再スキャン(C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21014,8 +21014,8 @@ therefore always editable.</seg>
       <tuv lang="EN-US">
         <seg>Revert...</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130808T151558Z">
-        <seg>変更を破棄...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022628Z">
+        <seg>変更を破棄...(V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22001,8 +22001,8 @@ is not modified.</seg>
       <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20121227T144110Z">
-        <seg>保存</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022711Z">
+        <seg>保存(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22065,8 +22065,8 @@ is not modified.</seg>
       <tuv lang="EN-US">
         <seg>Save as Style...</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T125708Z">
-        <seg>スタイルとして保存...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022738Z">
+        <seg>スタイルとして保存...(T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23343,8 +23343,8 @@ Color Dodge</seg>
       <tuv lang="EN-US">
         <seg>Send...</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130206T122435Z">
-        <seg>送る...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022810Z">
+        <seg>送る...(D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23875,8 +23875,8 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       <tuv lang="EN-US">
         <seg>Show/Hide Regions</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132036Z">
-        <seg>領域の表示/非表示</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023146Z">
+        <seg>領域の表示/非表示(R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28308,8 +28308,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20121227T150840Z">
-        <seg>ツール</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023130Z">
+        <seg>ツール(T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28494,8 +28494,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T130302Z">
-        <seg>元に戻す</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022926Z">
+        <seg>元に戻す(U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29560,8 +29560,8 @@ each are below, it's best to experiment.</seg>
       <tuv lang="EN-US">
         <seg>Window</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131744Z">
-        <seg>ウィンドウ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023056Z">
+        <seg>ウィンドウ(W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30320,32 +30320,32 @@ Editor, directly from within the Photo Editor.</seg>
       <tuv lang="EN-US">
         <seg>Zoom</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T131800Z">
-        <seg>ズーム</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023119Z">
+        <seg>ズーム(X)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Zoom In</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132601Z">
-        <seg>ズーム イン</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023312Z">
+        <seg>ズーム イン(I)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Zoom Out</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132612Z">
-        <seg>ズーム アウト</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023320Z">
+        <seg>ズーム アウト(O)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Zoom To Fit</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T132659Z">
-        <seg>フィットするようにズーム</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023326Z">
+        <seg>フィットするようにズーム(F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34711,5 +34711,55 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Help_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023416Z">
+        <seg>ヘルプ(H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Left_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Rotate Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023247Z">
+        <seg>左へ回転(L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Right_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Rotate Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023302Z">
+        <seg>右へ回転(R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">Templates_Name</prop>
+      <tuv lang="EN-US">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023223Z">
+        <seg>スタイル(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/app/menu/MenuFactory.properties</prop>
+      <prop type="id">View_Name</prop>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023237Z">
+        <seg>表示(V)</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
