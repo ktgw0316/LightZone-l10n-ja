@@ -34841,5 +34841,15 @@ as a "helper application" for editing your photos.</seg>
         <seg>表示(V)</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/image/metadata/CoreTags.properties</prop>
+      <prop type="id">0204&gt;1</prop>
+      <tuv lang="EN-US">
+        <seg>landscape</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T145535Z">
+        <seg>横長</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
