@@ -3010,8 +3010,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>90</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T141228Z">
-        <seg>90</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152701Z">
+        <seg>90度</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,8 +6162,16 @@ Panasonic</seg>
       <tuv lang="EN-US">
         <seg>CCW</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T141311Z">
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152710Z">
         <seg>反時計回り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCW + h.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152708Z">
+        <seg>反時計回り + 水平</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,8 +6226,16 @@ Panasonic</seg>
       <tuv lang="EN-US">
         <seg>CW</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T141243Z">
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152704Z">
         <seg>時計回り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CW + h.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152803Z">
+        <seg>時計回り + 水平</seg>
       </tuv>
     </tu>
     <tu>
@@ -32953,6 +32969,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>indoors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153237Z">
+        <seg>屋内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>industrial accident</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T080843Z">
@@ -33019,8 +33043,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>landscape</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T142053Z">
-        <seg>風景</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153324Z">
+        <seg>通常</seg>
       </tuv>
     </tu>
     <tu>
@@ -33029,6 +33053,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T133429Z">
         <seg>風景モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>landscape portrait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153307Z">
+        <seg>風景+ポートレイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>landscape+portrait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153208Z">
+        <seg>風景+ポートレイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -33329,6 +33369,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153056Z">
+        <seg>ニュートラル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>night</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142117Z">
@@ -33341,6 +33389,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T075840Z">
         <seg>夜景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>night+portrait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153222Z">
+        <seg>夜景+ポートレイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -33895,8 +33951,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>seascape</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T145102Z">
-        <seg>海の風景</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152321Z">
+        <seg>水平反転</seg>
       </tuv>
     </tu>
     <tu>
@@ -33913,6 +33969,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T140959Z">
         <seg>パラメーターの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>self portrait</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153233Z">
+        <seg>セルフ ポートレイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -34553,8 +34617,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>v.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134139Z">
-        <seg>縦に</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152316Z">
+        <seg>鉛直</seg>
       </tuv>
     </tu>
     <tu>
@@ -34842,13 +34906,23 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">lightcrafts/locale/com/lightcrafts/image/metadata/CoreTags.properties</prop>
-      <prop type="id">0204&gt;1</prop>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/image/metadata/CIFFTags.properties</prop>
+      <prop type="id">102D08&gt;2</prop>
       <tuv lang="EN-US">
         <seg>landscape</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T145535Z">
-        <seg>横長</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152920Z">
+        <seg>風景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/image/metadata/EXIFTags.properties</prop>
+      <prop type="id">A406&gt;1</prop>
+      <tuv lang="EN-US">
+        <seg>landscape</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153012Z">
+        <seg>風景</seg>
       </tuv>
     </tu>
   </body>
