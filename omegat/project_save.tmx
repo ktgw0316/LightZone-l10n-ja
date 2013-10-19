@@ -32420,6 +32420,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>h.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131019T015349Z">
+        <seg>水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hard</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T083645Z">
@@ -34617,8 +34625,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>v.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152316Z">
-        <seg>鉛直</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131019T015546Z">
+        <seg>上下</seg>
       </tuv>
     </tu>
     <tu>
