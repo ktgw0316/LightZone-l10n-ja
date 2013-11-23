@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5046,8 +5046,8 @@ configure iPhoto automatically for you now.</seg>
       <tuv lang="EN-US">
         <seg>An image format that can use "lossless" compression; however, file sizes are usually quite large.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T144959Z">
-        <seg>「可逆」圧縮を用いることのできる画像形式です。ただし、ファイル サイズは通常はかなり大きくなります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T011756Z">
+        <seg>「可逆」圧縮を用いることのできる画像形式です。ただし、ファイル容量は通常はかなり大きくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5063,8 +5063,8 @@ configure iPhoto automatically for you now.</seg>
       <tuv lang="EN-US">
         <seg>An image format that uses "lossy" compression to achieve small file size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130117T134835Z">
-        <seg>「不可逆な」圧縮方法でファイル サイズを小さくする画像形式です。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T011642Z">
+        <seg>「不可逆な」圧縮方法でファイル容量を小さくする画像形式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7492,8 +7492,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Capture date/time</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T135325Z">
-        <seg>撮影日・時刻</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T012008Z">
+        <seg>撮影日時</seg>
       </tuv>
     </tu>
     <tu>
@@ -11471,8 +11471,8 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       <tuv lang="EN-US">
         <seg>File date/time</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T144902Z">
-        <seg>ファイルの日付・時刻</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T011920Z">
+        <seg>ファイルの日時</seg>
       </tuv>
     </tu>
     <tu>
@@ -11519,8 +11519,8 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       <tuv lang="EN-US">
         <seg>File size</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T144944Z">
-        <seg>ファイルのサイズ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T011856Z">
+        <seg>ファイル容量</seg>
       </tuv>
     </tu>
     <tu>
@@ -13284,6 +13284,14 @@ device can render are truncated.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T014216Z">
+        <seg>プリンター ドライバーに (「アプリケーションによるカラー マネージメント」や「色調整なし」などの) 色変換をしない設定がある場合は、変換を LightZone とプリンター ドライバーのどちらに行わせるかを選べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this is an original photo, select "Edit a Copy with Lightroom
     Adjustments." If this is a TIFF copy that was created earlier,
     select "Edit Original." (LightZone will launch and open your photo.)</seg>
@@ -13862,6 +13870,14 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150304Z">
         <seg>写真閲覧ウィンドウの真ん中には写真ビュワーがあり、[フォルダー ナビゲーター](Navigating_Folders.html)で選択されたフォルダにある写真について 1 枚から 5 枚までのサムネイルを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect settings can and most likely will result in lower print quality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T013707Z">
+        <seg>設定が間違っていると印刷品質が悪くなるおそれがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15003,8 +15019,8 @@ digital cameras as easily as with TIFF or JPEG images.</seg>
       <tuv lang="EN-US">
         <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130117T143839Z">
-        <seg>LightZone は主要なデジタル カメラから raw 画像ファイルを直接、TIFF や JPEG と同じくらい簡単に読み込むことができます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T012914Z">
+        <seg>LightZone は主要なデジタル カメラから raw 画像ファイルを直接、TIFF や JPEG と同じように簡単に読み込むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15112,6 +15128,14 @@ photo editing applications.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T063112Z">
         <seg>LightZone がコンピューターの /proc/cpuinfo を確認したところ、"$1" で SSE2 フラグがセットされていないことが判明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has high quality color management built-in; however, print quality depends largely on the printer, the printer driver software, and any color management in use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T013505Z">
+        <seg>LightZone は高品質なカラー マネージメントを内蔵しています。しかし、印刷品質はプリンターやプリンター ドライバー ソフトウェアや使用中のカラー マネージメントに大きく依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19008,6 +19032,14 @@ is.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152457Z">
         <seg>ベース色のハイライトとシャドウはそのままに、パターンや色が既存のピクセルを覆います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay extra attention to the choice of letting LightZone or the printer driver do the color conversion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T014417Z">
+        <seg>特に、色変換を LightZone とプリンター ドライバーのどちらに行わせるかには注意を払ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27396,6 +27428,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T124746Z">
         <seg>フォルダー: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To achieve the best print quality, make sure that you understand and properly use the settings in the printer driver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131123T013601Z">
+        <seg>最高の印刷品質を得るには、プリンター ドライバーの設定を理解して正しく使う必要があります。</seg>
       </tuv>
     </tu>
     <tu>
