@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13890,6 +13890,14 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indexed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131206T152131Z">
+        <seg>索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150837Z">
@@ -14852,6 +14860,14 @@ contributed to LightZone:</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T133015Z">
         <seg>LightZone の製品ページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131206T151951Z">
+        <seg>LightZone Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -32585,6 +32601,30 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T063410Z">
         <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131206T151952Z">
+        <seg>http://lightzoneproject.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/node/2/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131206T151950Z">
+        <seg>http://lightzoneproject.org/node/2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/node/35/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20131206T151954Z">
+        <seg>http://lightzoneproject.org/node/35/</seg>
       </tuv>
     </tu>
     <tu>
