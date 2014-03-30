@@ -1184,6 +1184,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Metamerism refers to the situation where two color samples appear to match under one condition but not under another.) However, the latest generation from all the major inkjet printer manufacturers looks promising.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T035121Z" creationid="ktgw0316" creationdate="20140330T034318Z">
+        <seg> (条件等色とはふたつの色サンプルが特定の条件下でのみ同じ色に見えることを指します)。しかし、ほとんどのインクジェット プリンター メーカーの最新版製品では問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152206Z">
@@ -12068,8 +12076,8 @@ avoid modifying your original photo.</seg>
       <tuv lang="EN-US">
         <seg>For black-and-white printing, most inkjet printers manufactured before 2005 have been inferior in terms of linearity, neutrality and metamerism failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T033659Z" creationid="ktgw0316" creationdate="20140330T033659Z">
-        <seg>白黒の印刷では、2005 年以前に製造されたインクジェット プリンターのほとんどが線形性と中立性と条件等色の観点で劣っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T034906Z" creationid="ktgw0316" creationdate="20140330T033659Z">
+        <seg>白黒の印刷では、2005 年以前に製造されたインクジェット プリンターのほとんどが線形性とニュートラルさと条件等色の観点で劣っています</seg>
       </tuv>
     </tu>
     <tu>
@@ -22759,6 +22767,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Print... to print the photo currently being edited, or Browser &gt; Print... to print the photo for the selected thumbnail in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T035758Z" creationid="ktgw0316" creationdate="20140330T035758Z">
+        <seg>編集中の写真を印刷するには「ファイル」→「印刷...」を、&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;のサムネイルで選んだ写真を印刷するには「閲覧」→「印刷...」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Save to Aperture.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164453Z">
@@ -23093,6 +23109,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T145018Z">
         <seg>画像を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select how colors will be handled from the Color Handling pop-up menu:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T035948Z" creationid="ktgw0316" creationdate="20140330T035948Z">
+        <seg>色の扱いを色処理ポップアップ メニューから選択します:</seg>
       </tuv>
     </tu>
     <tu>
