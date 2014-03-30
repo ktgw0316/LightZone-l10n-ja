@@ -3264,6 +3264,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Application Managed:&lt;/b0&gt; LightZone will do color conversion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041526Z" creationid="ktgw0316" creationdate="20140330T040118Z">
+        <seg>&lt;b0&gt;アプリケーションによる色管理:&lt;/b0&gt; LightZone で色変換を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Between Region Changes:&lt;/b0&gt; Your photo will not be updated until you release the mouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T160511Z">
@@ -3388,6 +3396,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162528Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; いくつかの設定項目は LightZone が再起動されるまで有効になりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Printer Managed:&lt;/b0&gt; the printer will do color conversion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041520Z" creationid="ktgw0316" creationdate="20140330T040051Z">
+        <seg>&lt;b0&gt;プリンターによる色管理:&lt;/b0&gt; プリンターで色変換を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13477,6 +13493,14 @@ synchronize the data.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you selected Application Managed for Color Handling, select the &lt;a0&gt;rendering intent&lt;/a0&gt; from the Rendering Intent pop-up menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T040306Z" creationid="ktgw0316" creationdate="20140330T040306Z">
+        <seg>アプリケーションによる色変換を選択した場合は、&lt;a0&gt;レンダリング インテント&lt;/a0&gt;をレンダリング インテント ポップアップメニューから選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you use our work,
     you ought to acknowledge us.</seg>
       </tuv>
@@ -19655,6 +19679,14 @@ application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105533Z">
         <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position and size your photo on the paper by entering distances and dimensions in the Left, Top, Width, Height, and Scale text fields, or simply click the Center Image checkbox and Scale to Fit button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041344Z" creationid="ktgw0316" creationdate="20140330T040741Z">
+        <seg>紙の上での写真の位置と大きさを指定するには、距離と単位を「左」「上」「幅」「高さ」のテキスト フィールドで指定するか、「画像を中央揃え」チェックボックスと「フィットするように拡大縮小」ボタンを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27630,6 +27662,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141302Z">
         <seg>写真をバッチ変換するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change standard page set-up and paper options, click Page Setup...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041511Z" creationid="ktgw0316" creationdate="20140330T041511Z">
+        <seg>標準のページ設定と用紙を変更するには「ページ設定...」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
