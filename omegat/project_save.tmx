@@ -8669,8 +8669,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Copy &amp; paste tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130113T165623Z">
-        <seg>コピー &amp; ペースト ツール</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024034Z">
+        <seg>ツールをコピー &amp; ペースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -8685,8 +8685,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Copy Tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T095737Z">
-        <seg>コピー ツール</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T023948Z">
+        <seg>ツールをコピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8709,8 +8709,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Copying &amp; pasting tools</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T123703Z">
-        <seg>コピー &amp; ペースト ツール</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024055Z">
+        <seg>ツールをコピー &amp; ペーストする</seg>
       </tuv>
     </tu>
     <tu>
@@ -8735,6 +8735,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T140620Z">
         <seg>著作権情報の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 1988-1997 Sam Leffler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T025044Z" creationid="ktgw0316" creationdate="20140330T025003Z">
+        <seg>Copyright © 1988-1997 Sam Leffler</seg>
       </tuv>
     </tu>
     <tu>
@@ -8867,6 +8875,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103344Z">
         <seg>Copyright © 2001-2002 Christopher M. Christoudias &amp; Bogdan Georgescu. All Rights Reserved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2003-2007 Werner Randelshofe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T025012Z" creationid="ktgw0316" creationdate="20140330T025012Z">
+        <seg>Copyright © 2003-2007 Werner Randelshofe</seg>
       </tuv>
     </tu>
     <tu>
@@ -12718,6 +12734,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to copy &amp; paste tools from one photo to others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024247Z" creationid="ktgw0316" creationdate="20140330T024247Z">
+        <seg>ツールをコピー &amp; ペーストするには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to copy and paste regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110008Z">
@@ -14351,6 +14375,14 @@ window.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jean-loup Gailly &lt;jloup@gzip.org&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T025103Z" creationid="ktgw0316" creationdate="20140330T025049Z">
+        <seg>Jean-loup Gailly &lt;jloup@gzip.org&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jean-loup Gailly &lt;jloup@gzip.org&gt; &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T103506Z">
@@ -15523,6 +15555,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T140214Z">
         <seg>LightZone: 画像の変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Copy &amp; Paste Tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024235Z" creationid="ktgw0316" creationdate="20140330T024235Z">
+        <seg>LightZone: ツールをコピー &amp; ペーストする</seg>
       </tuv>
     </tu>
     <tu>
@@ -18107,6 +18147,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024855Z" creationid="ktgw0316" creationdate="20140330T024855Z">
+        <seg>註:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notice how the color
 channels now extend all the way from the darkest zone to the lightest.</seg>
       </tuv>
@@ -19029,8 +19077,8 @@ is.</seg>
       <tuv lang="EN-US">
         <seg>Paste Tools...</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T095745Z">
-        <seg>ペースト ツール...</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T023958Z">
+        <seg>ツールをペースト...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26346,6 +26394,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, in the printer preferences dialog, set the printer driver to do no color conversion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T030708Z" creationid="ktgw0316" creationdate="20140330T030708Z">
+        <seg>そのうえで、プリンター設定ダイアログで、プリンター ドライバーによる色変換を行わないように設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are many blending modes to choose from.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152121Z">
@@ -27844,6 +27900,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144726Z">
         <seg>ゾーン マッパーの使い方についてもっと詳しく知るには、下のリンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To let LightZone do the color conversion, select the printer profile, &lt;a0&gt;rendering intent&lt;/a0&gt;, and &lt;a1&gt;black point compensation&lt;/a1&gt; settings in the Print Preview dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T030248Z" creationid="ktgw0316" creationdate="20140330T030248Z">
+        <seg>LightZone に色変換を行わせるには、印刷プレビュー ダイアログでプリンターのプロファイルと&lt;a0&gt;レンダリング インテント&lt;/a0&gt;と&lt;a1&gt;黒点の補正&lt;/a1&gt;とを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30021,6 +30085,14 @@ sizes suitable for different purposes.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T134615Z">
         <seg>写真を目的に応じた大きさの JPEG または TIFF 画像に変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can copy the tools from the &lt;a0&gt;tool stack&lt;/a0&gt; from one photo to others using the &lt;a1&gt;thumbnails&lt;/a1&gt; of the &lt;a2&gt;Photo Browser&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024756Z" creationid="ktgw0316" creationdate="20140330T024756Z">
+        <seg>&lt;a2&gt;写真閲覧ウィンドウ&lt;/a2&gt;の&lt;a1&gt;サムネイル&lt;/a1&gt;を使って&lt;a0&gt;ツール スタック&lt;/a0&gt;のツールをある写真から別の写真へとコピー &amp; ペーストできます。</seg>
       </tuv>
     </tu>
     <tu>
