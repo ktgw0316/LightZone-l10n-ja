@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_5" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35175,16 +35175,6 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023237Z">
         <seg>表示(V)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">lightcrafts/locale/com/lightcrafts/image/metadata/CIFFTags.properties</prop>
-      <prop type="id">102D08&gt;2</prop>
-      <tuv lang="EN-US">
-        <seg>landscape</seg>
-      </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T152920Z">
-        <seg>風景</seg>
       </tuv>
     </tu>
     <tu>
