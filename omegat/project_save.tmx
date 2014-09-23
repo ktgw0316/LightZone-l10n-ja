@@ -10043,6 +10043,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083720Z" creationid="ktgw0316" creationdate="20140923T083720Z">
+        <seg>深さ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132958Z">
@@ -12240,6 +12248,14 @@ the [tool stack](Tool_Stack.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuzz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083729Z" creationid="ktgw0316" creationdate="20140923T083729Z">
+        <seg>ファズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094649Z">
@@ -12617,6 +12633,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T102815Z">
         <seg>回転ツールを非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083714Z" creationid="ktgw0316" creationdate="20140923T083714Z">
+        <seg>ハイライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -14200,6 +14224,14 @@ window.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T025052Z">
         <seg>無効な画像ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083621Z" creationid="ktgw0316" creationdate="20140923T083621Z">
+        <seg>反転</seg>
       </tuv>
     </tu>
     <tu>
@@ -24573,6 +24605,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083707Z" creationid="ktgw0316" creationdate="20140923T083707Z">
+        <seg>強さ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strip byte counts</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T063148Z">
@@ -28282,6 +28322,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T084112Z" creationid="ktgw0316" creationdate="20140923T084112Z">
+        <seg>許容差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tom Bradford,Anton Kast,Grant Kim,Paul J. Lucas,Richard McKeethen,Justin Osial,Fabio Riccardi,Lars Vinberg</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T083220Z">
@@ -29429,6 +29477,14 @@ specific areas of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T145843Z">
         <seg>バージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T084047Z" creationid="ktgw0316" creationdate="20140923T084047Z">
+        <seg>自然な彩度</seg>
       </tuv>
     </tu>
     <tu>
