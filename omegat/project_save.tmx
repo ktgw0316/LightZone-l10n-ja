@@ -8250,6 +8250,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T074827Z" creationid="ktgw0316" creationdate="20140923T074827Z">
+        <seg>色マスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Noise</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105143Z">
@@ -8302,6 +8310,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T103740Z">
         <seg>色選択ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Zones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T074804Z" creationid="ktgw0316" creationdate="20140923T074804Z">
+        <seg>色ゾーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -30486,6 +30502,14 @@ Editor, directly from within the Photo Editor.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T074835Z" creationid="ktgw0316" creationdate="20140923T074835Z">
+        <seg>ゾーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095824Z">
@@ -30570,6 +30594,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T090547Z">
         <seg>Zone_System.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T074813Z" creationid="ktgw0316" creationdate="20140923T074813Z">
+        <seg>ゾーン</seg>
       </tuv>
     </tu>
     <tu>
