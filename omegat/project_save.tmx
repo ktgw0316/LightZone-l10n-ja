@@ -8236,8 +8236,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Color Intensity</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T100135Z">
-        <seg>色の輝度</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080708Z">
+        <seg>色の強度</seg>
       </tuv>
     </tu>
     <tu>
@@ -8444,8 +8444,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Color/Luminosity Selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130113T162642Z">
-        <seg>Color/Luminosity Selection</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080528Z">
+        <seg>色/輝度の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,8 +10398,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Disable the luminosity selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T104234Z">
-        <seg>明るさの選択を無効化</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080550Z">
+        <seg>輝度の選択を無効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -11107,8 +11107,8 @@ Fuji</seg>
       <tuv lang="EN-US">
         <seg>Enable the luminosity selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T104210Z">
-        <seg>明るさの選択を有効化</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080546Z">
+        <seg>輝度の選択を有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -12366,8 +12366,8 @@ Sony</seg>
       <tuv lang="EN-US">
         <seg>Grain Intensity</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130114T100147Z">
-        <seg>粒子の輝度</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080717Z">
+        <seg>粒子の強度</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,6 +14104,14 @@ window.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163252Z">
         <seg>Integration-iView_MediaPro.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intensity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T075933Z" creationid="ktgw0316" creationdate="20140923T075933Z">
+        <seg>強度</seg>
       </tuv>
     </tu>
     <tu>
@@ -16249,8 +16257,8 @@ stack](Tool_Stack.html) you create.</seg>
       <tuv lang="EN-US">
         <seg>Luminosity</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T105133Z">
-        <seg>明るさ</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080458Z">
+        <seg>輝度</seg>
       </tuv>
     </tu>
     <tu>
@@ -23382,8 +23390,8 @@ Color Dodge</seg>
       <tuv lang="EN-US">
         <seg>Select the luminosity range</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T104243Z">
-        <seg>明るさの範囲を選択</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080556Z">
+        <seg>輝度の範囲を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -23783,8 +23791,8 @@ Color Dodge</seg>
       <tuv lang="EN-US">
         <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color Selection Viewer&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the histogram that shows the distribution of intensity for each of the red, green, and blue color channels.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T055127Z">
-        <seg>ヒストグラムは LightZone ウィンドウの右上の場所に &lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;や&lt;a1&gt;色選択ビュワー&lt;/a1&gt;や&lt;a2&gt;サンプラー&lt;/a2&gt;と一緒にあり、赤と緑と青の色チャネルの輝度分布を表示しています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080700Z">
+        <seg>ヒストグラムは LightZone ウィンドウの右上の場所に &lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;や&lt;a1&gt;色選択ビュワー&lt;/a1&gt;や&lt;a2&gt;サンプラー&lt;/a2&gt;と一緒にあり、赤と緑と青の色チャネルの強度分布を表示しています。</seg>
       </tuv>
     </tu>
     <tu>
