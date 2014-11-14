@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32909,6 +32909,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.caip.rutgers.edu/riul/research/code.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140449Z" creationid="ktgw0316" creationdate="20141114T140449Z">
+        <seg>http://www.caip.rutgers.edu/riul/research/code.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.lightcrafts.com/</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T083101Z">
@@ -33137,10 +33145,26 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
+        <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Buttons-Photo-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T083730Z">
         <seg>images/Buttons-Photo-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140452Z" creationid="ktgw0316" creationdate="20141114T140452Z">
+        <seg>images/Buttons-Rotate.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -33157,6 +33181,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162634Z">
         <seg>images/Color_Selection_Preview-before.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Default_Tone_Curve-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140356Z" creationid="ktgw0316" creationdate="20141114T140356Z">
+        <seg>images/Default_Tone_Curve-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -33209,6 +33241,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Region-Edit.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140456Z" creationid="ktgw0316" creationdate="20141114T140456Z">
+        <seg>images/Region-Edit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Region.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163006Z">
@@ -33237,6 +33277,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162934Z">
         <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack_Illustration-small.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140432Z" creationid="ktgw0316" creationdate="20141114T140432Z">
+        <seg>images/Tool_Stack_Illustration-small.png</seg>
       </tuv>
     </tu>
     <tu>
