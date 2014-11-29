@@ -28154,6 +28154,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply the style to your photo, click the name of the style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T152005Z" creationid="ktgw0316" creationdate="20141129T152005Z">
+        <seg>写真にスタイルを適用するには、スタイル名をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To batch convert your photos:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141302Z">
