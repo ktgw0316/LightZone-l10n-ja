@@ -3360,6 +3360,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of Lightroom version 5.2 but may need to change for future versions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T122646Z" creationid="ktgw0316" creationdate="20141129T122646Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; ここで述べる情報は Lightroom バージョン 5.2 の時点のものであり、より新しいバージョンでは変更が必要な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of iPhoto version 7.0.1 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T071137Z">
@@ -11613,6 +11621,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill-flash auto-reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T121353Z" creationid="ktgw0316" creationdate="20141129T121353Z">
+        <seg>フラッシュ自動減光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find $1</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T032640Z">
@@ -19603,6 +19619,14 @@ application as an "external editor" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a new color profile for this display</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T121756Z" creationid="ktgw0316" creationdate="20141129T121756Z">
+        <seg>このディスプレイ用の新しいプロファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a new scratch folder</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T101915Z">
@@ -22819,6 +22843,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150816Z">
         <seg>「編集」→「領域を貼り付け」または「領域をリンク貼り付け」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select File &gt; Convert Image... or Browser &gt; Convert...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T122559Z" creationid="ktgw0316" creationdate="20141129T122559Z">
+        <seg>「ファイル」から「画像を変換...」を選択するか、または「閲覧」から「変換...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26150,6 +26182,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T122231Z" creationid="ktgw0316" creationdate="20141129T122231Z">
+        <seg>この効果は写真をマーカー ペンで塗るのに似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting
     multiple photographic slides onto the same screen.</seg>
       </tuv>
@@ -26170,8 +26210,8 @@ brightness or half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T152422Z">
-        <seg>この効果は写真スライドを重ねてひとつのスクリーンに映した場合と似ています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T122410Z">
+        <seg>この効果は何枚かの写真スライドをひとつのスクリーンに重ねて映すのと似ています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32484,6 +32524,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fireworks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T120922Z" creationid="ktgw0316" creationdate="20141129T120922Z">
+        <seg>花火大会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fishing industry</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T081109Z">
@@ -33459,8 +33507,8 @@ as a "helper application" for editing your photos.</seg>
       <tuv lang="EN-US">
         <seg>landscape</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20131017T153324Z">
-        <seg>通常</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T120817Z" creationid="ktgw0316" creationdate="20141129T120817Z">
+        <seg>風景</seg>
       </tuv>
     </tu>
     <tu>
@@ -33725,6 +33773,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T133032Z">
         <seg>白黒ライン センサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>monotone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T121005Z" creationid="ktgw0316" creationdate="20141129T121005Z">
+        <seg>モノトーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -34053,6 +34109,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>panorama</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T120911Z" creationid="ktgw0316" creationdate="20141129T120911Z">
+        <seg>パノラマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>panoramic view</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T075928Z">
@@ -34337,6 +34401,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T060129Z">
         <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>satellite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T121204Z" creationid="ktgw0316" creationdate="20141129T121204Z">
+        <seg>衛星写真</seg>
       </tuv>
     </tu>
     <tu>
@@ -34673,6 +34745,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T140106Z">
         <seg>晴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sunset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T120928Z" creationid="ktgw0316" creationdate="20141129T120928Z">
+        <seg>夕焼け</seg>
       </tuv>
     </tu>
     <tu>
@@ -35043,6 +35123,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T095044Z">
         <seg>縦に反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vivid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T120954Z" creationid="ktgw0316" creationdate="20141129T120954Z">
+        <seg>鮮やか</seg>
       </tuv>
     </tu>
     <tu>
