@@ -13850,6 +13850,14 @@ as black (not selected).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Filename Template Editor, input {Filename &gt;&gt;}-Edit in the text area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T123414Z" creationid="ktgw0316" creationdate="20141129T123414Z">
+        <seg>「ファイル名テンプレートエディター」で、テキスト エリアに {Filename &gt;&gt;}-Edit と入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In LightZone, edit the TIFF copy of your photo to your liking as you
     would any photo.</seg>
       </tuv>
@@ -16462,6 +16470,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134150Z">
         <seg>[色/輝度](Color_Luminosity_Selection.html)を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that Example: IMG_0002-Edit.psd is shown, then click Done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T123537Z" creationid="ktgw0316" creationdate="20141129T123537Z">
+        <seg>例に IMG_0002-Edit.psd と表示されているのを確認し、「完了」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28790,6 +28806,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T091753Z">
         <seg>「追加外部エディター」で「選択...」ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Edit Externally File Naming, click Template list and select Edit...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T123248Z" creationid="ktgw0316" creationdate="20141129T123248Z">
+        <seg>「外部編集ファイル名」で、「テンプレート」をクリックして「編集...」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
