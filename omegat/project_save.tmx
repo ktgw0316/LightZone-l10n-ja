@@ -1292,6 +1292,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points and the inner line will become visible.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145529Z" creationid="ktgw0316" creationdate="20141129T145529Z">
+        <seg>(調整点と内側の線が見えるようになります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The control points will become visible.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150435Z">
@@ -2592,6 +2600,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 of 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151718Z" creationid="ktgw0316" creationdate="20141129T151718Z">
+        <seg>2 of 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 of 8</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170026Z">
@@ -2832,6 +2848,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 of 10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145119Z" creationid="ktgw0316" creationdate="20141129T145108Z">
+        <seg>5 of 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153937Z">
@@ -2972,6 +2996,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T100038Z">
         <seg>8 Bits/チャネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8 of 10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150032Z" creationid="ktgw0316" creationdate="20141129T150027Z">
+        <seg>8 of 10</seg>
       </tuv>
     </tu>
     <tu>
@@ -3396,6 +3428,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074407Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; ここで述べる情報は iView MediaPro バージョン 3.1.2 の時点のものであり、より新しいバージョンでは変更が必要な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; This feathering is reversed if the region has been &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145435Z" creationid="ktgw0316" creationdate="20141129T145425Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; 領域が&lt;a1&gt;反転&lt;/a1&gt;されるとフェザリングは逆向きになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5428,6 +5468,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134919Z">
         <seg>撮影時の白色の XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you move the mouse, the information updates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151611Z" creationid="ktgw0316" creationdate="20141129T151611Z">
+        <seg>マウスを動かすと情報が更新されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,6 +8161,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the tool's invert-mask box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151019Z" creationid="ktgw0316" creationdate="20141129T151019Z">
+        <seg>ツールの「マスクを反転」ボックスをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the triangles plus signs '+' to expand the folders.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123842Z">
@@ -10107,6 +10163,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of rendering intents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151312Z" creationid="ktgw0316" creationdate="20141129T151312Z">
+        <seg>レンダリング インテントの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of styles and hot to use them.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144622Z">
@@ -10632,6 +10696,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the region whose feathering area you want to adjust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145507Z" creationid="ktgw0316" creationdate="20141129T145507Z">
+        <seg>フェザリング範囲を調整したい領域をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click the region whose shape you want to adjust.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164250Z">
@@ -10716,6 +10788,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T144356Z">
         <seg>Drag along features in your image to align them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the inner line out or in to increase or decrease the size of the feathering area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145941Z" creationid="ktgw0316" creationdate="20141129T145755Z">
+        <seg>内側の線を内向きや外向きにドラッグするとフェザリング範囲が拡がったり狭まったりします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10957,6 +11037,14 @@ Fuji</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T064247Z">
         <seg>EXIF バージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each kind is useful in certain situations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151119Z" creationid="ktgw0316" creationdate="20141129T151119Z">
+        <seg>それぞれに適した使い道があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11289,6 +11377,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T153752Z">
         <seg>LightZone の領域はすべて*フェザリング範囲*があり、輪郭に沿った線として領域の内側に示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every region in LightZone has a &lt;e0&gt;feathering area&lt;/e0&gt; that is marked by an inner line that matches the contour of the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145233Z" creationid="ktgw0316" creationdate="20141129T145205Z">
+        <seg>LightZone の領域はすべて&lt;e0&gt;フェザリング範囲&lt;/e0&gt;があり、輪郭に沿った線として領域の内側に示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,10 +12934,26 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to apply a style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151704Z" creationid="ktgw0316" creationdate="20141129T151704Z">
+        <seg>スタイルを適用するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141246Z">
         <seg>写真を JPEG または TIFF 画像ファイルにバッチ変換するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to control the feathering of regions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145104Z" creationid="ktgw0316" creationdate="20141129T145104Z">
+        <seg>領域のフェザリングを調整するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -12872,8 +12984,8 @@ black that the device can render.</seg>
       <tuv lang="EN-US">
         <seg>How to create regions to contrain tools' effects to only parts of your photo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142545Z" creationid="ktgw0316" creationdate="20141129T142545Z">
-        <seg>ツールの効果を写真の一部だけに限定するための領域の作り方を解説します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144346Z" creationid="ktgw0316" creationdate="20141129T142545Z">
+        <seg>ツールの効果を写真の一部だけに限定するための領域を作るには</seg>
       </tuv>
     </tu>
     <tu>
@@ -12890,6 +13002,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T085640Z">
         <seg>写真を直接 LightZone で削除するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to delete regions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144228Z" creationid="ktgw0316" creationdate="20141129T144228Z">
+        <seg>領域を削除するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -12914,6 +13034,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083051Z">
         <seg>写真のメタデータを調べたり編集したりするには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to invert regions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150022Z" creationid="ktgw0316" creationdate="20141129T150022Z">
+        <seg>領域を反転するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -13577,6 +13705,14 @@ synchronize the data.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123921Z">
         <seg>[著作権情報の設定](Preferences.html#Preferences-Copyright)を済ませてある場合は、「著作権情報」または「作成者」の右にある小さな矢印をクリックすると情報が自動で入力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you no longer want a region, you can delete it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144439Z" creationid="ktgw0316" creationdate="20141129T144439Z">
+        <seg>必要なくなった領域は削除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15823,6 +15959,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Inverting Masks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150001Z" creationid="ktgw0316" creationdate="20141129T150001Z">
+        <seg>LightZone: マスクの反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Legal Notices</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T082859Z">
@@ -15967,10 +16111,26 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Regions: Deleting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144219Z" creationid="ktgw0316" creationdate="20141129T144219Z">
+        <seg>LightZone: 領域: 削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Regions: Deleting Control Points</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110311Z">
         <seg>LightZone: 領域: 調整点の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Feathering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145050Z" creationid="ktgw0316" creationdate="20141129T145050Z">
+        <seg>LightZone: 領域: フェザリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -15987,6 +16147,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104932Z">
         <seg>LightZone: 写真の名前変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Rendering Intent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151242Z" creationid="ktgw0316" creationdate="20141129T151242Z">
+        <seg>LightZone: レンダリング インテント</seg>
       </tuv>
     </tu>
     <tu>
@@ -16035,6 +16203,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144552Z">
         <seg>LightZone: スタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles: Applying</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151657Z" creationid="ktgw0316" creationdate="20141129T151657Z">
+        <seg>LightZone: スタイル: 適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -16526,6 +16702,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T070117Z">
         <seg>&lt;a0&gt;直接保存&lt;/a0&gt;チェックボックスにチェックが入っているのを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the Tool Settings tab is selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150927Z" creationid="ktgw0316" creationdate="20141129T150927Z">
+        <seg>「ツールの設定」タブが選択されているのを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18339,6 +18523,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that deleting a region does &lt;e0&gt;not&lt;/e0&gt; delete other regions it is linked to, if any.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144727Z" creationid="ktgw0316" creationdate="20141129T144727Z">
+        <seg>ある領域を削除しても他のリンクされた領域は削除&lt;e0&gt;されない&lt;/e0&gt;ことに注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that your computer must have a connection to the internet when LightZone is launched in order to check.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T155232Z">
@@ -18492,6 +18684,14 @@ photos in iView MediaPro and edit it in LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104636Z">
         <seg>OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occasionally, it's useful to be able to use a mask to specify an area of your photo to &lt;e1&gt;exclude&lt;/e1&gt; from a tool's effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150600Z" creationid="ktgw0316" creationdate="20141129T150600Z">
+        <seg>場合によっては、写真の一部をツールの効果から&lt;e1&gt;除外&lt;/e1&gt;させるためにマスクを使えると便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18875,6 +19075,14 @@ use in other applications).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T152906Z">
         <seg>通常は、ある写真を編集しているときに別の写真を編集しようとすると、LightZone は別の写真のプレビュー画像を表示する前に警告ダイアログを表示して&lt;a0&gt;作品を保存する&lt;/a0&gt;か尋ねます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordinarily, a mask constrains its tool's effect to be inside all of its &lt;a0&gt;regions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150236Z" creationid="ktgw0316" creationdate="20141129T150236Z">
+        <seg>通常、マスクはツールの効果を&lt;a0&gt;領域&lt;/a0&gt;の内側だけに限定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19887,6 +20095,14 @@ application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144542Z">
         <seg>設定: 保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview a style by moving the mouse over its name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151921Z" creationid="ktgw0316" creationdate="20141129T151921Z">
+        <seg>スタイルをプレビューするにはスタイル名をマウスで指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22871,6 +23087,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Edit &gt; Cut Region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144936Z" creationid="ktgw0316" creationdate="20141129T144936Z">
+        <seg>「編集」→「領域を切り取り」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Edit &gt; Folder Watching...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074205Z">
@@ -23492,6 +23716,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Styles tab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151756Z" creationid="ktgw0316" creationdate="20141129T151756Z">
+        <seg>「スタイル」タブを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the [rendering intent](Rendering_Intent.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T160537Z">
@@ -23556,6 +23788,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the region you want to delete by clicking it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144757Z" creationid="ktgw0316" creationdate="20141129T144757Z">
+        <seg>削除したい領域をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123346Z">
@@ -23601,6 +23841,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T130047Z">
         <seg>色/輝度を選択したいツールを、タイトル バーをクリックすることで選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the tool whose mask you want to invert by clicking its title bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150747Z" creationid="ktgw0316" creationdate="20141129T150747Z">
+        <seg>マスクを反転したいツールを、タイトル バーをクリックすることで選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23921,6 +24169,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T131641Z">
         <seg>上海</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color Selection Viewer&lt;/a1&gt;, and &lt;a2&gt;Histogram&lt;/a2&gt;, in the upper-right corner of the LightZone window is also the Sampler that shows information about the pixel in your photo that is directly under the mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151609Z" creationid="ktgw0316" creationdate="20141129T151609Z">
+        <seg>サンプラーは LightZone ウィンドウの右上の場所に &lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;や&lt;a1&gt;色選択ビュワー&lt;/a1&gt;や&lt;a2&gt;ヒストグラム&lt;/a2&gt;と一緒にあり、マウスの下にあるピクセルの情報を表示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24822,6 +25078,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles: Applying</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151716Z" creationid="ktgw0316" creationdate="20141129T151716Z">
+        <seg>スタイル: 適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sub IFDs</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T043350Z">
@@ -25474,6 +25738,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Bézier&lt;/b0&gt; region button creates a region having curved lines connecting the control points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151141Z" creationid="ktgw0316" creationdate="20141129T151141Z">
+        <seg>&lt;b0&gt;ベジェ&lt;/b0&gt;領域ボタンでは、調整点を曲線で繋いだ領域を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Bézier&lt;/b0&gt; region button creates a region having curved lines connecting the control points. Moving a control point may affect the overall shape of the region.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T111239Z">
@@ -25606,6 +25878,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135609Z">
         <seg>&lt;b0&gt;シャープ化&lt;/b0&gt;ツールでは写真の好きな部分をシャープ化することができます。これは、暗室でアンシャープ マスクを使ってエッジを強調することでよりシャープな見た目にする伝統的な技法に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Spline&lt;/b0&gt; region button creates a region much like a Bézier, yet the region boundary is defined inside the control points.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151202Z" creationid="ktgw0316" creationdate="20141129T151202Z">
+        <seg>&lt;b0&gt;スプライン&lt;/b0&gt;領域ボタンでは、ベジェ領域に似た領域を作成しますが、領域の境界は調整点の内部で定義されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26494,6 +26774,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rending intents you can select are described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151516Z" creationid="ktgw0316" creationdate="20141129T151516Z">
+        <seg>以下では選択できるレンダリング インテントについて説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result
     color is always darker.</seg>
       </tuv>
@@ -26695,6 +26983,14 @@ each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T145250Z">
         <seg>ブレンド モードはたくさんの種類のなかから選べます。それぞれの詳細を下記に示しましたが、実際に試してみるのが一番です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three kinds of regions that can be created in LightZone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151117Z" creationid="ktgw0316" creationdate="20141129T151117Z">
+        <seg>LightZone で作成できる領域は 3 種類あります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27215,6 +27511,14 @@ create beautiful photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163448Z">
         <seg>微調整のために調整点を追加することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes deleting control points that are no longer needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145034Z" creationid="ktgw0316" creationdate="20141129T145034Z">
+        <seg>必要なくなった調整点を削除することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27842,6 +28146,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply a style to the photo being edited:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151743Z" creationid="ktgw0316" creationdate="20141129T151743Z">
+        <seg>編集中の写真にスタイルを適用するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To batch convert your photos:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141302Z">
@@ -28095,6 +28407,14 @@ edited photos as a two-page TIFF file:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T141443Z">
         <seg>いくつかの他のアプリケーションとの統合を図るため、LightZone では編集した写真を 2 ページの TIFF ファイルとして保存することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To invert a mask for a tool:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150658Z" creationid="ktgw0316" creationdate="20141129T150658Z">
+        <seg>ツールのマスクを反転するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29791,6 +30111,14 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can select the &lt;e2&gt;rendering intent&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151447Z" creationid="ktgw0316" creationdate="20141129T151447Z">
+        <seg>アプリケーションで管理された色を用いて写真を&lt;a0&gt;変換&lt;/a0&gt;または&lt;a1&gt;印刷&lt;/a1&gt;する際に、&lt;e2&gt;レンダリング インテント&lt;/e2&gt;を選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When either [converting](Converting.html) or [printing](Printing.html)
 your photos using application managed colors, you can enable *black
 point compensation* when the [rendering intent](Rendering_Intent.html)
@@ -30471,6 +30799,14 @@ dark gray background.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T125550Z">
         <seg>このファイルをこのまま開くか、LightZone スタイルとしてインポートを試すかを選べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can invert a mask to do this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150723Z" creationid="ktgw0316" creationdate="20141129T150622Z">
+        <seg>そのためにはマスクを反転します。</seg>
       </tuv>
     </tu>
     <tu>
