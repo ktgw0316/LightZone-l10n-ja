@@ -1353,6 +1353,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The region kind buttons will appear to the right of the tool bar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142808Z" creationid="ktgw0316" creationdate="20141129T142808Z">
+        <seg>(領域の種類のボタンがツール バーの右側に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T101725Z">
@@ -3320,6 +3328,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you inadvertently start to create a region, you can press the &lt;b1&gt;esc&lt;/b1&gt; (escape) key to cancel creating the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144209Z" creationid="ktgw0316" creationdate="20141129T143549Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; 領域を作るつもりはないのに作られ始めてしまった場合は、&lt;b1&gt;esc&lt;/b1&gt; (escape) キーを押すとキャンセルできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; It's best to be viewing your photo fully zoomed-in before sharpening it by selecting View &gt; Actual Pixels.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T140811Z">
@@ -4547,6 +4563,14 @@ buttons can be used to navigate.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T144548Z">
         <seg>他の方法として、ナビゲーター ツール ボタンを使って移動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, when you paste a region into one tool that has been copied from another, you can paste it &lt;e0&gt;linked&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142214Z" creationid="ktgw0316" creationdate="20141129T142214Z">
+        <seg>さらに、あるツールの領域をコピーして別のツールに貼り付けるときは、&lt;e0&gt;リンク&lt;/e0&gt;させられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8045,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121617Z">
         <seg>[色選択タブ](Tool_Anatomy.html#Tool_Tab-Color_Selection)をクリックすると色/輝度の選択のコントロールが現れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143120Z" creationid="ktgw0316" creationdate="20141129T142925Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で、追加したい領域のボタン (多角形・スプライン・ベジェ) をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,6 +12870,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to create regions to contrain tools' effects to only parts of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142545Z" creationid="ktgw0316" creationdate="20141129T142545Z">
+        <seg>ツールの効果を写真の一部だけに限定するための領域の作り方を解説します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to delete control points from a region.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110317Z">
@@ -17098,6 +17138,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse around the photo and click wherever you want a control point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143355Z" creationid="ktgw0316" creationdate="20141129T143355Z">
+        <seg>写真上でマウスを動かし、調整点を追加したい場所でクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132115Z">
@@ -21036,6 +21084,14 @@ therefore always editable.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat for every desired control point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143545Z" creationid="ktgw0316" creationdate="20141129T143545Z">
+        <seg>追加したい調整点ごとにこれを繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat from step 3 for every control point you want to add.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150530Z">
@@ -23512,6 +23568,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083538Z">
         <seg>写真のサムネイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the tool from the &lt;a0&gt;tool stack&lt;/a0&gt; you want the region to apply to, or add a new tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142731Z" creationid="ktgw0316" creationdate="20141129T142731Z">
+        <seg>領域を適用したいツールを&lt;a0&gt;ツール スタック&lt;/a0&gt;から選択するか、新しいツールを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30602,6 +30666,22 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T032046Z" creationid="ktgw0316" creationdate="20140330T032046Z">
         <seg>ある設定やカラー プロファイルで何枚かのカラー写真は綺麗に印刷できるのに、別の写真ではうまくいかない、という状況が起こることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to apply a single tool to multiple areas of your photo that have the same shape, for example to blur similarly sized blemishes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T141350Z" creationid="ktgw0316" creationdate="20141129T140610Z">
+        <seg>例えば同じような大きさの傷をいくつも修正したい場合などには、ひとつのツールを同じ形状で写真上の数箇所に適用したくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to apply multiple tools to the same area of your photo, for example to increase both the contrast and sharpness of a person's eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141129T141330Z" creationid="ktgw0316" creationdate="20141129T140947Z">
+        <seg>例えば人物の目のコントラストとシャープネスを両方とも上げたい場合などには、数種類のツールを写真上の同一領域に適用したくなります。</seg>
       </tuv>
     </tu>
     <tu>
