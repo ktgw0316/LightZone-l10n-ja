@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3290,8 +3290,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T162941Z">
-        <seg>&lt;a0&gt;領域についてもっと知る&lt;/a0&gt;</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T144055Z">
+        <seg>&lt;a3&gt;領域についてもっと知る&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,8 +6134,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150116Z">
-        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (F 値が 1/2) ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145553Z">
+        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (露出が 1/2 段) ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13684,8 +13684,8 @@ synchronize the data.</seg>
       <tuv lang="EN-US">
         <seg>If you have set your &lt;a0&gt;copyright preferences&lt;/a0&gt;, you can click the small arrow on the right of either the Copyright or Creator metadata and the data will be filled in automatically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T123900Z">
-        <seg>&lt;a0&gt;著作権情報の設定&lt;/a9&gt;を済ませてある場合は、「著作権情報」または「作成者」の右にある小さな矢印をクリックすると情報が自動で入力されます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145344Z">
+        <seg>&lt;a0&gt;著作権情報の設定&lt;/a0&gt;を済ませてある場合は、「著作権情報」または「作成者」の右にある小さな矢印をクリックすると情報が自動で入力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22901,8 +22901,8 @@ Color Dodge</seg>
       <tuv lang="EN-US">
         <seg>Select &lt;s0&gt;LightZone&lt;/s0&gt; &lt;s1&gt;Edit&lt;/s1&gt; &gt; Preferences... (the Preferences dialog will appear).</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162220Z">
-        <seg>「&lt;s0&gt;LightZone&lt;/s0&gt;」→「&lt;s1&gt;編集&lt;/s1&gt;」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T144740Z">
+        <seg>&lt;s0&gt;LightZone&lt;/s0&gt; の「&lt;s1&gt;編集&lt;/s1&gt;」→「設定...」を選択します。 (設定ダイアログが現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25070,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Applying.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145444Z" creationid="ktgw0316" creationdate="20141229T145444Z">
+        <seg>Styles-Applying.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132208Z">
@@ -26318,8 +26326,8 @@ half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The ZoneFinder shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145951Z">
-        <seg>ゾーン ファインダーでは写真の縮小版を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T143900Z">
+        <seg>ゾーン ファインダーでは写真の縮小版を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり露出が 1/2 段ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26416,8 +26424,8 @@ brightness or half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The ZoneMapper tool shows 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T145759Z">
-        <seg>写真を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり F 値が 1/2 ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T143928Z">
+        <seg>写真を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり露出が 1/2 段ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29333,8 +29341,8 @@ saturation adjustments.</seg>
       <tuv lang="EN-US">
         <seg>Unlike a non-linear gamma-corrected color space, a linear color space doesn't introduce errors (such as increasing noise, edge distortion, and hue shifts) during enhancement operations such as sharpening, blurring, or saturation adjustments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T162957Z">
-        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) エラーが起こることがありません。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T144039Z">
+        <seg>ガンマ補正された非線形の色空間とは違って、線形色空間ではシャープ化やぼかしや彩度調節の際にも (ノイズの増加やエッジの歪みや色相のずれなどの) 誤差が加わることがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30063,8 +30071,8 @@ specific areas of your photo.</seg>
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the &lt;a0&gt;external editor for another application&lt;/a0&gt; will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130601T155828Z">
-        <seg>チェックすると、LightZone を他のアプリケーションの外部エディタとして使用しているときに「ファイル」→「保存」を選択するとそのアプリケーションに戻って写真を直接保存します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T144602Z">
+        <seg>チェックすると、LightZone を&lt;a0&gt;他のアプリケーションの外部エディタ&lt;/a0&gt;として使用しているときに「ファイル」→「保存」を選択するとそのアプリケーションに戻って写真を直接保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33773,6 +33781,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162934Z">
         <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Thumbnails-unstacked.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145426Z" creationid="ktgw0316" creationdate="20141229T145426Z">
+        <seg>images/Thumbnails-unstacked.jpg</seg>
       </tuv>
     </tu>
     <tu>
