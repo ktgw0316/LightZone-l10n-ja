@@ -12982,6 +12982,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to create a style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T094959Z" creationid="ktgw0316" creationdate="20141230T094959Z">
+        <seg>スタイルを作成するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to create regions to contrain tools' effects to only parts of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144346Z" creationid="ktgw0316" creationdate="20141129T142545Z">
