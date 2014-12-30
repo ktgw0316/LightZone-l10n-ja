@@ -4994,6 +4994,14 @@ manipulate the settings of the individual tools ever further.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the bottom of the browser window are the thumbnails for all the supported image file formats in the folder selected in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T130146Z" creationid="ktgw0316" creationdate="20141230T130146Z">
+        <seg>閲覧ウィンドウの下の方には、&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;で選択されたフォルダにある対応しているファイル形式の画像について、サムネイルが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar
 containing the set of photo buttons shown below.</seg>
       </tuv>
@@ -14396,8 +14404,8 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
       <tuv lang="EN-US">
         <seg>In the center of the Browser window is Photo Viewer that shows one to five large previews of the selected thumbnails in the selected folder in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130120T084015Z">
-        <seg>閲覧ウィンドウの真ん中に写真ビュワーがあり、1 枚から 5 枚のサムネイルを、&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;で選択されたフォルダにある写真について表示します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T130334Z">
+        <seg>閲覧ウィンドウの真ん中には写真ビュワーがあり、&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;で選択されたフォルダにある写真について、1 枚から 5 枚のサムネイルを表示します。</seg>
       </tuv>
     </tu>
     <tu>
