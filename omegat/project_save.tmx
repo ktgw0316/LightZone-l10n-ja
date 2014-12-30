@@ -1257,6 +1257,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Styles are grouped into folders of your choosing.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113316Z" creationid="ktgw0316" creationdate="20141230T113316Z">
+        <seg>(スタイルは選択したフォルダーにグループ分けされます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Such metadata is known as IPTC metadata.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T120734Z">
@@ -1373,6 +1381,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T101725Z">
         <seg>(上の表は説明用であり、完全なものではありません。画像ファイルがアイコンにドロップされると何が起こるかはアプリケーションによって異なるためです。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The tools are shown in the same order as they are in the tool stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113925Z" creationid="ktgw0316" creationdate="20141230T113844Z">
+        <seg>(ツールはツール スタックにあったときと同じ順序で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3376,6 +3392,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you replace the &lt;a1&gt;default tone curve&lt;/a1&gt; for a camera with your own style, you can revert to the original default tone curve for the camera by selecting File &gt; Reset Style... then the name of the style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T114503Z" creationid="ktgw0316" creationdate="20141230T114411Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; カメラの&lt;a1&gt;既定のトーン カーブ&lt;/a1&gt;を自作のスタイルで置き換えている場合、元の既定のトーン カーブに戻すには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; It's best to be viewing your photo fully zoomed-in before sharpening it by selecting View &gt; Actual Pixels.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T140811Z">
@@ -4619,6 +4643,14 @@ buttons can be used to navigate.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142214Z" creationid="ktgw0316" creationdate="20141129T142214Z">
         <seg>さらに、あるツールの領域をコピーして別のツールに貼り付けるときは、&lt;e0&gt;リンク&lt;/e0&gt;させられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, you can replace the &lt;a2&gt;default tone curve&lt;/a2&gt; for a camera with a style you create.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T112955Z" creationid="ktgw0316" creationdate="20141230T112955Z">
+        <seg>さらに、作成したスタイルでカメラの&lt;a2&gt;既定のトーン カーブ&lt;/a2&gt;を置き換えることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9313,6 +9345,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a &lt;a0&gt;tool stack&lt;/a0&gt; to your liking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113045Z" creationid="ktgw0316" creationdate="20141230T113045Z">
+        <seg>&lt;a0&gt;ツール スタック&lt;/a0&gt;を好きなように作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a mask using &lt;a0&gt;regions&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T145021Z">
@@ -9382,6 +9422,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T085619Z">
         <seg>領域の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a style saves a &lt;a0&gt;tool stack&lt;/a0&gt; with a name for later &lt;a1&gt;application&lt;/a1&gt; to other photos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T112432Z" creationid="ktgw0316" creationdate="20141230T112432Z">
+        <seg>スタイルを作成すると&lt;a0&gt;ツール スタック&lt;/a0&gt;に名前を付けて保存でき、後で別の写真に&lt;a1&gt;適用&lt;/a1&gt;できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11273,6 +11321,14 @@ Fuji</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a name for the style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113130Z" creationid="ktgw0316" creationdate="20141230T113130Z">
+        <seg>スタイル名を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter copyright text here.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T102159Z">
@@ -11301,6 +11357,14 @@ Fuji</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T102213Z">
         <seg>作者を記入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter or select a name for the style's folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113221Z" creationid="ktgw0316" creationdate="20141230T113221Z">
+        <seg>スタイルのフォルダー名を入力するか選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,6 +13652,14 @@ device can render are truncated.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the photo is a raw image file, there will be a checkbox that, if checked, will cause this style to be applied to all raw images from the specified camera when opened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113541Z" creationid="ktgw0316" creationdate="20141230T113445Z">
+        <seg>RAW 画像の場合はチェックボックスが表示され、チェックを入れると、そのカメラの RAW 画像を開くと常にそのスタイルが適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20131123T014216Z">
@@ -14520,6 +14592,14 @@ window.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T031532Z" creationid="ktgw0316" creationdate="20140330T031532Z">
         <seg>重要な注意点として、ほとんどのプリンターでは、1種類の設定で常に最高の結果を得られるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's best if you &lt;a1&gt;labeled&lt;/a1&gt; the tools so each can be easily identified.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113959Z" creationid="ktgw0316" creationdate="20141230T113921Z">
+        <seg>ツールに&lt;a1&gt;ラベルを付ける&lt;/a1&gt;と見分けが付きやすくて良いでしょう。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23215,6 +23295,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Save as Style...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113114Z" creationid="ktgw0316" creationdate="20141230T113114Z">
+        <seg>「ファイル」→「スタイルとして保存...」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Save to Aperture.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T164453Z">
@@ -23712,6 +23800,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070049Z">
         <seg>各スタックから最近使ったもののみを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only those &lt;a0&gt;editing tools&lt;/a0&gt; from the tool stack that you want saved as part of the style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113747Z" creationid="ktgw0316" creationdate="20141230T113747Z">
+        <seg>スタイルの一部として保存したい&lt;a0&gt;編集ツール&lt;/a0&gt;だけをツール スタックから選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27936,6 +28032,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will replace the &lt;a0&gt;default tone curve&lt;/a0&gt; for that camera.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113636Z" creationid="ktgw0316" creationdate="20141230T113453Z">
+        <seg>これによってそのカメラの&lt;a0&gt;既定のトーン カーブ&lt;/a0&gt;が置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those packages, their copyright notices, and licenses are listed below.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144033Z">
@@ -28310,6 +28414,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110208Z">
         <seg>領域を作成するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a style:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T113004Z" creationid="ktgw0316" creationdate="20141230T113004Z">
+        <seg>スタイルを作成するには:</seg>
       </tuv>
     </tu>
     <tu>
