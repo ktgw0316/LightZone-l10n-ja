@@ -1409,6 +1409,22 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt; for all the selected photos.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143445Z" creationid="ktgw0316" creationdate="20141230T143445Z">
+        <seg>(スタイルに含まれるツールが、選択された写真すべての&lt;a0&gt;ツール スタック&lt;/a0&gt;の一番上に追加されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143155Z" creationid="ktgw0316" creationdate="20141230T143155Z">
+        <seg>(スタイルに含まれるツールが&lt;a0&gt;ツール スタック&lt;/a0&gt;の一番上に追加されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is no significance to the order.)  There is no limit to the number of control points a region may have.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152152Z">
@@ -4403,6 +4419,14 @@ Minolta</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute Colorimetric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141215Z" creationid="ktgw0316" creationdate="20141230T141215Z">
+        <seg>絶対的な色域を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T131528Z">
@@ -5104,6 +5128,14 @@ Open&amp;nbsp;Recent... and the name of the photo from the menu.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, if you know exactly which style you want to apply, select File &gt; Apply Style &gt; and the name of the style that you want to apply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143050Z" creationid="ktgw0316" creationdate="20141230T143050Z">
+        <seg>別の方法として、どのスタイルを適用したいかがはっきりしている場合は、「ファイル」→「スタイルを適用」からそのスタイル名を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can click the AppleScript icon to the left to
 configure Aperture automatically for you now.</seg>
       </tuv>
@@ -5504,6 +5536,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a style adds the tools it contains to the top of the &lt;a0&gt;tool stack&lt;/a0&gt; for either the photo being edited or one or more photos selected in the &lt;a1&gt;Photo Browser&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T142404Z" creationid="ktgw0316" creationdate="20141230T142404Z">
+        <seg>スタイルを適用すると、そのスタイルに含まれるツールが、編集中または&lt;a1&gt;写真閲覧ウィンドウ&lt;/a1&gt;で選択中の写真の&lt;a0&gt;ツール スタック&lt;/a0&gt;の一番上に追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying styles</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144649Z">
@@ -5588,6 +5628,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134919Z">
         <seg>撮影時の白色の XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you do, the smaller version of your photo above the styles will show what your photo would look like if the style were applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T142902Z" creationid="ktgw0316" creationdate="20141230T142902Z">
+        <seg>そうすると、スタイルの上の方にある縮小版の写真で、スタイルを適用するとどんな風に見えるか確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13150,6 +13198,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to convert your color photo to black-and-white.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143610Z" creationid="ktgw0316" creationdate="20141230T143610Z">
+        <seg>カラー写真を白黒に変換するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T134455Z">
@@ -13290,6 +13346,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162946Z">
         <seg>LightZone で写真を直接印刷するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to rate photos directly in the Photo Browser.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141136Z" creationid="ktgw0316" creationdate="20141230T141136Z">
+        <seg>写真閲覧ウィンドウで写真を評価するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16147,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141233Z">
         <seg>LightZone: 画像のバッチ変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Black &amp; White</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143546Z" creationid="ktgw0316" creationdate="20141230T143546Z">
+        <seg>LightZone: 白黒</seg>
       </tuv>
     </tu>
     <tu>
@@ -19852,6 +19924,14 @@ is.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perceptual</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141246Z" creationid="ktgw0316" creationdate="20141230T141246Z">
+        <seg>知覚的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission denied</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T082105Z">
@@ -20391,6 +20471,14 @@ application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163236Z">
         <seg>Preferences.html#Preferences-Direct_Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences.html#Preferences-Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141327Z" creationid="ktgw0316" creationdate="20141230T141327Z">
+        <seg>Preferences.html#Preferences-Save</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,6 +21544,14 @@ therefore always editable.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T071832Z">
         <seg>関連する音声ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relative Colorimetric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141232Z" creationid="ktgw0316" creationdate="20141230T141232Z">
+        <seg>相対的な色域を維持</seg>
       </tuv>
     </tu>
     <tu>
@@ -23284,6 +23380,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Apply Style &gt; and the name of the style that you want to apply.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143349Z" creationid="ktgw0316" creationdate="20141230T143349Z">
+        <seg>「閲覧」→「スタイルを適用」から適用したいスタイルの名前を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Browser &gt; Convert... (The batch convert dialog will be presented.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T161416Z">
@@ -23960,6 +24064,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T121902Z">
         <seg>写真閲覧ウィンドウを使って、送りたい写真のサムネイルを選択します。 (Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command&lt;/s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt; キーを使って複数のとびとびになったサムネイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos that you want to apply a style to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143253Z" creationid="ktgw0316" creationdate="20141230T143253Z">
+        <seg>スタイルを適用したい写真のサムネイルを写真閲覧ウィンドウで選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28582,6 +28694,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133741Z">
         <seg>ホワイトバランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a style to the one or more photos in the browser:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143236Z" creationid="ktgw0316" creationdate="20141230T143236Z">
+        <seg>閲覧ウィンドウで写真にスタイルを適用するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34153,6 +34273,22 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Bezier.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141154Z" creationid="ktgw0316" creationdate="20141230T141154Z">
+        <seg>images/Button-Bezier.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Polygon.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
+        <seg>images/Button-Polygon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
@@ -34161,10 +34297,34 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Spline.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141155Z" creationid="ktgw0316" creationdate="20141230T141155Z">
+        <seg>images/Button-Spline.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Stack.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143500Z" creationid="ktgw0316" creationdate="20141230T143500Z">
+        <seg>images/Button-Stack.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Buttons-Photo-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T083730Z">
         <seg>images/Buttons-Photo-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Regions-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141144Z" creationid="ktgw0316" creationdate="20141230T141144Z">
+        <seg>images/Buttons-Regions-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -34225,6 +34385,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/JPEG-LZN.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141259Z" creationid="ktgw0316" creationdate="20141230T141259Z">
+        <seg>images/JPEG-LZN.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Metadata-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163648Z">
@@ -34249,10 +34417,42 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Region-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141157Z" creationid="ktgw0316" creationdate="20141230T141157Z">
+        <seg>images/Region-Control_Points.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Delete_Point-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141146Z" creationid="ktgw0316" creationdate="20141230T141146Z">
+        <seg>images/Region-Delete_Point-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Region-Edit.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140456Z" creationid="ktgw0316" creationdate="20141114T140456Z">
         <seg>images/Region-Edit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Feather.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141148Z" creationid="ktgw0316" creationdate="20141230T141148Z">
+        <seg>images/Region-Feather.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Invert-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141150Z" creationid="ktgw0316" creationdate="20141230T141150Z">
+        <seg>images/Region-Invert-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -34273,6 +34473,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Sampler-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141258Z" creationid="ktgw0316" creationdate="20141230T141258Z">
+        <seg>images/Sampler-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Screenshot-Editor-Cover.jpg</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163127Z">
@@ -34285,6 +34493,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162934Z">
         <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Styles-Preview-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141332Z" creationid="ktgw0316" creationdate="20141230T141332Z">
+        <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Thumbnails-stacked.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143522Z" creationid="ktgw0316" creationdate="20141230T143522Z">
+        <seg>images/Thumbnails-stacked.jpg</seg>
       </tuv>
     </tu>
     <tu>
