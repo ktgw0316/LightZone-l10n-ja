@@ -872,6 +872,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new blur tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151950Z" creationid="ktgw0316" creationdate="20141230T151950Z">
+        <seg>(新しいぼかしツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new clone tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145923Z" creationid="ktgw0316" creationdate="20141230T145923Z">
@@ -6211,6 +6219,14 @@ device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blurring a photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151911Z" creationid="ktgw0316" creationdate="20141230T151911Z">
+        <seg>写真をぼかす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bracket step</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094236Z">
@@ -8365,6 +8381,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143805Z" creationid="ktgw0316" creationdate="20141230T143805Z">
         <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で白黒ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the blur tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151938Z" creationid="ktgw0316" creationdate="20141230T151938Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でぼかしツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13286,6 +13310,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to blur all or parts of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151903Z" creationid="ktgw0316" creationdate="20141230T151903Z">
+        <seg>写真をぼかすには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to control the feathering of regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145104Z" creationid="ktgw0316" creationdate="20141129T145104Z">
@@ -16283,6 +16315,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T142938Z">
         <seg>LightZone: ブレンド モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Blurring a Photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151851Z" creationid="ktgw0316" creationdate="20141230T151851Z">
+        <seg>LightZone: 写真をぼかす</seg>
       </tuv>
     </tu>
     <tu>
@@ -26797,6 +26837,14 @@ device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Radius slider controls how widely the blurring effect is done around each pixel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152105Z" creationid="ktgw0316" creationdate="20141230T152105Z">
+        <seg>「半径」スライダーでは各ピクセルの周りでどれくらい広くぼかしの効果を与えるかを調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Radius slider controls how widely the sharpening effect is done around each pixel.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T140229Z">
@@ -28882,6 +28930,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To blur your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151926Z" creationid="ktgw0316" creationdate="20141230T151926Z">
+        <seg>写真をぼかすには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change standard page set-up and paper options, click Page Setup...</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041511Z" creationid="ktgw0316" creationdate="20140330T041511Z">
@@ -30306,6 +30362,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T142345Z">
         <seg>「選択...」ボタンを使って変換された画像の出力先フォルダーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Radius slider to adjust the blurring effect:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152025Z" creationid="ktgw0316" creationdate="20141230T152025Z">
+        <seg>「半径」スライダーでぼかしの効果を調整します:</seg>
       </tuv>
     </tu>
     <tu>
