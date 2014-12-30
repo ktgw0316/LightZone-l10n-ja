@@ -872,6 +872,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new clone tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145923Z" creationid="ktgw0316" creationdate="20141230T145923Z">
+        <seg>(新しい複製ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new hue/saturation tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172543Z">
@@ -893,6 +901,14 @@ half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133924Z">
         <seg>(新しいホワイトバランス ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T150823Z" creationid="ktgw0316" creationdate="20141230T150823Z">
+        <seg>(それぞれが十字カーソルを持ちます。) その利点としては、同じ&lt;a2&gt;ブレンド モード&lt;/a2&gt;・&lt;a3&gt;不透明度&lt;/a3&gt;・&lt;a4&gt;色/輝度の選択&lt;/a4&gt;を共有できることが挙げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3404,6 +3420,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170945Z">
         <seg>&lt;b0&gt;色相&lt;/b0&gt;: ピクセルの色 (Hue)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; A single Clone tool can have multiple &lt;a1&gt;regions&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T150442Z" creationid="ktgw0316" creationdate="20141230T150442Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; ひとつの複製ツールは複製の&lt;a1&gt;領域&lt;/a1&gt;を持つことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,6 +8353,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the clone tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145905Z" creationid="ktgw0316" creationdate="20141230T145905Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で複製ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143120Z" creationid="ktgw0316" creationdate="20141129T142925Z">
@@ -8446,6 +8478,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104832Z">
         <seg>複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cloning areas</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144103Z" creationid="ktgw0316" creationdate="20141230T144103Z">
+        <seg>領域の複製</seg>
       </tuv>
     </tu>
     <tu>
@@ -13336,8 +13376,8 @@ black that the device can render.</seg>
       <tuv lang="EN-US">
         <seg>How to fix problem areas of your photo using cloning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144015Z" creationid="ktgw0316" creationdate="20141230T144015Z">
-        <seg>複製を使って写真の問題箇所を修正するには</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144238Z" creationid="ktgw0316" creationdate="20141230T144015Z">
+        <seg>複製を使って写真の欠点を修正するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,6 +13525,14 @@ truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T150129Z">
         <seg>しかし、カメラによってはそのようなセンサーが内蔵されていないため、縦向きで撮った写真は[写真閲覧ウィンドウ](Anatomy-Browser.html)で倒れて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the regions can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144932Z" creationid="ktgw0316" creationdate="20141230T144932Z">
+        <seg>ただし、領域は&lt;a1&gt;反転&lt;/a1&gt;できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25420,6 +25468,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spot tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T150854Z" creationid="ktgw0316" creationdate="20141230T150854Z">
+        <seg>スポット ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stack</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T102247Z">
@@ -26338,6 +26394,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Clone&lt;/b0&gt; tool allows you to copy an area of your photo to another area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144200Z" creationid="ktgw0316" creationdate="20141230T144200Z">
+        <seg>&lt;b0&gt;複製&lt;/b0&gt;ツールでは写真の一部を別の部分にコピーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Clone&lt;/b0&gt; tool allows you to copy one area of your photo to another area.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T143634Z">
@@ -27114,6 +27178,14 @@ brightness or half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152543Z">
         <seg>ベース色はわずかに暗くなり、極めて明るいブレンド色で覆い焼きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clone tool is a more general version of the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144402Z" creationid="ktgw0316" creationdate="20141230T144402Z">
+        <seg>複製ツールは&lt;a0&gt;スポット ツール&lt;/a0&gt;の汎用版です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28019,6 +28091,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be used to remove unwanted items from your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144229Z" creationid="ktgw0316" creationdate="20141230T144229Z">
+        <seg>写真の欠点をから取り除くのに使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be used to soften grainy or blemished areas, or to create out-of-focus areas.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T145033Z">
@@ -28782,6 +28862,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T041511Z" creationid="ktgw0316" creationdate="20140330T041511Z">
         <seg>標準のページ設定と用紙を変更するには「ページ設定...」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To clone an area of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145827Z" creationid="ktgw0316" creationdate="20141230T145827Z">
+        <seg>領域を複製するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30041,6 +30129,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162906Z">
         <seg>他のアプリケーションと違って、LightZone では領域を (&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく) &lt;e0&gt;ドロー&lt;/e0&gt;することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the clone tool is special in that it needs at least one &lt;a0&gt;region&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144852Z" creationid="ktgw0316" creationdate="20141230T144852Z">
+        <seg>他のツールとは違う特徴として、複製ツールには最低ひとつの&lt;a0&gt;領域&lt;/a0&gt;が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34361,6 +34457,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Clone.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145830Z" creationid="ktgw0316" creationdate="20141230T145830Z">
+        <seg>images/Button-Clone.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Polygon.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
@@ -34413,6 +34517,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140452Z" creationid="ktgw0316" creationdate="20141114T140452Z">
         <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Clone.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145948Z" creationid="ktgw0316" creationdate="20141230T145948Z">
+        <seg>images/Clone.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -34613,6 +34725,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143904Z" creationid="ktgw0316" creationdate="20141230T143904Z">
         <seg>images/Tool-Blur-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Clone-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144054Z" creationid="ktgw0316" creationdate="20141230T144054Z">
+        <seg>images/Tool-Clone-en.png</seg>
       </tuv>
     </tu>
     <tu>
