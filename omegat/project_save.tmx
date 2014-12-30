@@ -1377,6 +1377,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The style will be written to a file having an &lt;c0&gt;lzt&lt;/c0&gt; extension.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120437Z" creationid="ktgw0316" creationdate="20141230T120437Z">
+        <seg>(スタイルが拡張子 &lt;c0&gt;lzt&lt;/c0&gt; の付いたファイルに保存されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T101725Z">
@@ -2820,6 +2828,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105843Z">
         <seg>4 of 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 of 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115458Z" creationid="ktgw0316" creationdate="20141230T115458Z">
+        <seg>4 of 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,10 +4841,18 @@ that point in time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you can export them as LightZone Style files (having an &lt;c1&gt;lzt&lt;/c1&gt; extension) that can be &lt;a2&gt;imported&lt;/a2&gt; into LightZone on other computers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120015Z" creationid="ktgw0316" creationdate="20141230T115904Z">
+        <seg>&lt;a0&gt;作成&lt;/a0&gt;したスタイルは、LightZone スタイル ファイル (拡張子 &lt;c1&gt;lzt&lt;/c1&gt;) としてエクスポートし、別のコンピューター上の LightZone で&lt;a2&gt;インポート&lt;/a2&gt;することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you may want to delete ones that you no longer use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115305Z" creationid="ktgw0316" creationdate="20141230T115305Z">
-        <seg>スタイルを&lt;a0&gt;作成&lt;/a0&gt;した後で、使用しなくなったスタイルは削除できます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115946Z" creationid="ktgw0316" creationdate="20141230T115305Z">
+        <seg>&lt;a0&gt;作成&lt;/a0&gt;したスタイルのうち、使用しなくなったものは削除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,6 +7883,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Choose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120259Z" creationid="ktgw0316" creationdate="20141230T120259Z">
+        <seg>「選択」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Convert.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141205Z">
@@ -7879,6 +7911,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T143303Z">
         <seg>「完了」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Export...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120042Z" creationid="ktgw0316" creationdate="20141230T120042Z">
+        <seg>「エクスポート...」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,6 +13166,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to export your styles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115427Z" creationid="ktgw0316" creationdate="20141230T115427Z">
+        <seg>スタイルをエクスポートするには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to find zones in your photo using the ZoneFinder.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170024Z">
@@ -16351,6 +16399,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Styles: Exporting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115421Z" creationid="ktgw0316" creationdate="20141230T115421Z">
+        <seg>LightZone: スタイル: エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Table of Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165024Z">
@@ -17647,6 +17703,14 @@ to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T145825Z">
         <seg>開きたい写真のあるフォルダーへ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the folder where you want to export the style file to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120249Z" creationid="ktgw0316" creationdate="20141230T120249Z">
+        <seg>スタイルのエクスポート先にしたいフォルダーへ移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23964,6 +24028,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the style you want to export.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120033Z" creationid="ktgw0316" creationdate="20141230T120033Z">
+        <seg>エクスポートしたいスタイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123346Z">
@@ -25262,6 +25334,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Importing.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115453Z" creationid="ktgw0316" creationdate="20141230T115453Z">
+        <seg>Styles-Importing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132208Z">
@@ -25290,6 +25370,22 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115133Z" creationid="ktgw0316" creationdate="20141230T115133Z">
         <seg>スタイル: 削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Exporting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115451Z" creationid="ktgw0316" creationdate="20141230T115451Z">
+        <seg>スタイル: エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Importing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120456Z" creationid="ktgw0316" creationdate="20141230T120456Z">
+        <seg>スタイル: インポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -28606,6 +28702,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074904Z">
         <seg>MediaPro の写真を LightZone で編集するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To export a style:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120023Z" creationid="ktgw0316" creationdate="20141230T120023Z">
+        <seg>スタイルをエクスポートするには:</seg>
       </tuv>
     </tu>
     <tu>
