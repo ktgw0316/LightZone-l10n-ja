@@ -13933,6 +13933,14 @@ synchronize the data.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you hold the &lt;b3&gt;shift&lt;/b3&gt; key while clicking, at most 5 previews are shown side-by-side.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T134401Z" creationid="ktgw0316" creationdate="20141230T134401Z">
+        <seg>&lt;b3&gt;シフト&lt;/b3&gt; キーを押し下げた状態でクリックすると、最大で 5 つのプレビューを並べて表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you no longer want a region, you can delete it.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144439Z" creationid="ktgw0316" creationdate="20141129T144439Z">
@@ -31168,8 +31176,8 @@ configure LightZone to be such an editor.</seg>
       <tuv lang="EN-US">
         <seg>You can change the selection by clicking a different thumbnail or by using the &lt;b2&gt;arrow keys&lt;/b2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T132031Z" creationid="ktgw0316" creationdate="20141230T132031Z">
-        <seg>選択を変更するには別のサムネイルをクリックするか&lt;b2&gt;カーソル キー&lt;/b2&gt;を使います。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T134034Z" creationid="ktgw0316" creationdate="20141230T132031Z">
+        <seg>選択を変更するには別のサムネイルをクリックするか&lt;b2&gt;方向キー&lt;/b2&gt;を使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31442,6 +31450,22 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T132550Z">
         <seg>[写真閲覧ウィンドウ](Anatomy-Browser.html)を使うと写真を直接 LightZone で名前変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can scroll the thumbnails by using the scroll bar or the &lt;b0&gt;page-up/down&lt;/b0&gt;, &lt;b1&gt;home&lt;/b1&gt;, or &lt;b2&gt;end&lt;/b2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T135002Z" creationid="ktgw0316" creationdate="20141230T135002Z">
+        <seg>サムネイルをスクロールするにはスクロール バーや &lt;b0&gt;PageUp/Down&lt;/b0&gt; キー、&lt;b1&gt;Home&lt;/b1&gt; キー、&lt;b2&gt;End&lt;/b2&gt; キーを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select only the most recent versions of your photos by clicking the &lt;b0&gt;select recent&lt;/b0&gt; button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T134723Z" creationid="ktgw0316" creationdate="20141230T134723Z">
+        <seg>写真の最新版のみを選択するには&lt;b0&gt;最近使ったファイルを選択&lt;/b0&gt;ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
