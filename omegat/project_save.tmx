@@ -1377,6 +1377,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The style will be imported.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121506Z" creationid="ktgw0316" creationdate="20141230T121451Z">
+        <seg>(スタイルがインポートされます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The style will be written to a file having an &lt;c0&gt;lzt&lt;/c0&gt; extension.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120437Z" creationid="ktgw0316" creationdate="20141230T120437Z">
@@ -2896,6 +2904,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 of 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121003Z" creationid="ktgw0316" creationdate="20141230T121003Z">
+        <seg>5 of 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153937Z">
@@ -3732,6 +3748,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165822Z">
         <seg>====================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;i0&gt;style&lt;/i0&gt; is a &lt;a1&gt;tool stack&lt;/a1&gt; that was originally created for one photo that can be applied to other photos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121922Z" creationid="ktgw0316" creationdate="20141230T121922Z">
+        <seg>&lt;i0&gt;スタイル&lt;/i0&gt;を使うと、ある写真で作成した&lt;a1&gt;ツール スタック&lt;/a1&gt;を、後で別の写真に適用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4663,6 +4687,14 @@ buttons can be used to navigate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, you can create your own styles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122429Z" creationid="ktgw0316" creationdate="20141230T122429Z">
+        <seg>さらに、自分でスタイルを作成することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can replace the &lt;a2&gt;default tone curve&lt;/a2&gt; for a camera with a style you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T112955Z" creationid="ktgw0316" creationdate="20141230T112955Z">
@@ -4837,6 +4869,14 @@ that point in time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T100134Z">
         <seg>詳細なオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; and &lt;a1&gt;exporting&lt;/a1&gt; one or more styles as LightZone Style files (having an &lt;c2&gt;lzt&lt;/c2&gt; extension), they can be imported into LightZone on other computers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121323Z" creationid="ktgw0316" creationdate="20141230T121323Z">
+        <seg>&lt;a0&gt;作成&lt;/a0&gt;したスタイルを LightZone スタイル ファイル (拡張子 &lt;c2&gt;lzt&lt;/c2&gt;) として&lt;a1&gt;エクスポート&lt;/a1&gt;すると、別のコンピューター上の LightZone でインポートすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,6 +7963,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Import...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121358Z" creationid="ktgw0316" creationdate="20141230T121358Z">
+        <seg>「インポート...」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Move to &lt;s0&gt;Trash&lt;/s0&gt; &lt;s1&gt;Recycle Bin&lt;/s1&gt; (or press Return).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T090217Z">
@@ -10359,6 +10407,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083704Z">
         <seg>LightZone ウィンドウで写真が表示される部分の説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the thumbnails area of the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122731Z" creationid="ktgw0316" creationdate="20141230T122731Z">
+        <seg>LightZone の閲覧ウィンドウでサムネイルが表示される部分の説明</seg>
       </tuv>
     </tu>
     <tu>
@@ -15055,6 +15111,14 @@ Ricoh</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lastly, you can replace the &lt;a0&gt;default tone curve&lt;/a0&gt; for a camera with a style you create.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122639Z" creationid="ktgw0316" creationdate="20141230T122639Z">
+        <seg>最後に、カメラの&lt;a0&gt;既定のトーン カーブ&lt;/a0&gt;を自作のスタイルで置き換えることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Latitude</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074141Z">
@@ -15575,6 +15639,14 @@ single click.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T072425Z">
         <seg>LightZone にはすぐに使えるスタイルがたくさん付属しており、写真の見た目をクリックひとつで劇的に変化させられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone comes bundled with many ready-made styles that you can use and learn from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122357Z" creationid="ktgw0316" creationdate="20141230T122347Z">
+        <seg>LightZone は既成品のスタイルがたくさん付属していて、使用したり参考にしたりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16407,6 +16479,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Styles: Importing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120630Z" creationid="ktgw0316" creationdate="20141230T120630Z">
+        <seg>LightZone: スタイル: インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Table of Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165024Z">
@@ -16419,6 +16499,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165031Z">
         <seg>LightZone: 目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Thumbnails</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122653Z" creationid="ktgw0316" creationdate="20141230T122653Z">
+        <seg>LightZone: サムネイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -17709,8 +17797,16 @@ to understand blending modes, there are a few terms to know:</seg>
       <tuv lang="EN-US">
         <seg>Navigate to the folder where you want to export the style file to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120249Z" creationid="ktgw0316" creationdate="20141230T120249Z">
-        <seg>スタイルのエクスポート先にしたいフォルダーへ移動します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120600Z" creationid="ktgw0316" creationdate="20141230T120249Z">
+        <seg>スタイルをエクスポートしたいフォルダーへ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the style file you want to import.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121436Z" creationid="ktgw0316" creationdate="20141230T121436Z">
+        <seg>インポートしたいスタイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25326,6 +25422,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Deleting.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T120958Z" creationid="ktgw0316" creationdate="20141230T120958Z">
+        <seg>Styles-Deleting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles-Exporting.html</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095042Z" creationid="ktgw0316" creationdate="20141230T095042Z">
@@ -28730,6 +28834,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To import a style:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T121346Z" creationid="ktgw0316" creationdate="20141230T121338Z">
+        <seg>スタイルをインポートするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To increase the brightness of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144924Z">
@@ -30004,6 +30116,14 @@ specific areas of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T075839Z">
         <seg>領域を使ってマスクを作ることで、ツールの効果を特定の部分だけに適用することができます。他のアプリケーションと違って、LightZone では領域を (&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく) &lt;e0&gt;ドロー&lt;/e0&gt;することができます。つまり領域はいつでも編集できます。さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので境目がくっきりするのを避けられます。&lt;a3&gt;領域についてもっと知る&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using styles is the same as &lt;a2&gt;copying &amp; pasting&lt;/a2&gt; &lt;a3&gt;tool stacks&lt;/a3&gt; except that a style is saved with a name for use at any later time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122239Z" creationid="ktgw0316" creationdate="20141230T122239Z">
+        <seg>スタイルの使い方は&lt;a3&gt;ツール スタック&lt;/a3&gt;を&lt;a2&gt;コピー &amp; ペースト&lt;/a2&gt;するのとほぼ同じで、ただしスタイルには名前を付けて保存するので後で好きなときに使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
