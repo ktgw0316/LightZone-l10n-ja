@@ -5307,6 +5307,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An area that is the same size and shape as the region you created will be copied from around the cross-hair cursor to the region you created.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151757Z" creationid="ktgw0316" creationdate="20141230T151757Z">
+        <seg>作成した領域と同じ大きさ・形状の部分が十字カーソルの周辺から作成した領域へと複製されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An image format that can use "lossless" compression;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T135118Z">
@@ -8155,6 +8163,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the cross-hair cursor to the center of the area to copy from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151411Z" creationid="ktgw0316" creationdate="20141230T151411Z">
+        <seg>十字カーソルをクリックしてドラッグし、複製元としたい部分の中央まで移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click anywhere in the photo's preview.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083345Z">
@@ -9573,6 +9589,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T094251Z">
         <seg>Light Crafts に送られる障害レポートは、送信者の IP アドレス以外は匿名です。Light Crafts はこれらのレポートにいかなる個人情報も含めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a &lt;a0&gt;region&lt;/a0&gt; around the area that is to be copied over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T151200Z" creationid="ktgw0316" creationdate="20141230T151143Z">
+        <seg>複製で上書きしたい部分を囲うように&lt;a0&gt;領域&lt;/a0&gt;を作成します。</seg>
       </tuv>
     </tu>
     <tu>
