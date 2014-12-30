@@ -4726,6 +4726,14 @@ a photo such as its title, caption, copyright, creator, and location.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, the &lt;b0&gt;Color Balance&lt;/b0&gt; tool also allows you to reduce color casts by selecting &lt;e1&gt;neutral gray points&lt;/e1&gt;, that is points that you want to be neutral gray in your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152532Z" creationid="ktgw0316" creationdate="20141230T152532Z">
+        <seg>さらに、&lt;b0&gt;カラー バランス&lt;/b0&gt; ツールでは、写真上で&lt;e1&gt;無彩色灰色の点&lt;/e1&gt;を選択することで色かぶりを軽減することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, the navigator tool
 buttons can be used to navigate.</seg>
       </tuv>
@@ -4861,6 +4869,14 @@ that point in time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070736Z">
         <seg>明度の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting color balance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152156Z" creationid="ktgw0316" creationdate="20141230T152156Z">
+        <seg>カラー バランスの調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,6 +5425,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164314Z">
         <seg>Anatomy-Editor.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anatomy-Tool_Stack.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152618Z" creationid="ktgw0316" creationdate="20141230T152618Z">
+        <seg>Anatomy-Tool_Stack.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -13278,6 +13302,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the color balance of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152150Z" creationid="ktgw0316" creationdate="20141230T152150Z">
+        <seg>カラー バランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the hue and saturation of colors in your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170234Z">
@@ -16275,6 +16307,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T131401Z">
         <seg>LightZone: 謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Adjusting Color Balance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152142Z" creationid="ktgw0316" creationdate="20141230T152142Z">
+        <seg>LightZone: カラー バランスの調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21122,14 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T092506Z">
         <seg>RAW 調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Adjustments tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152630Z" creationid="ktgw0316" creationdate="20141230T152630Z">
+        <seg>RAW 調整ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26482,6 +26530,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Balance&lt;/b0&gt; tool allows you to adjust the color balance of your photo around a specified point of the tonal range.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152239Z" creationid="ktgw0316" creationdate="20141230T152239Z">
+        <seg>&lt;b0&gt;カラー バランス&lt;/b0&gt; ツールでは、色調範囲で点を指定してその周りでカラー バランスを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T094254Z">
@@ -28856,6 +28912,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the color balance or cast of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152607Z" creationid="ktgw0316" creationdate="20141230T152607Z">
+        <seg>カラー バランスや色かぶりを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the hue/saturation of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172352Z">
@@ -31098,6 +31162,14 @@ each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104724Z">
         <seg>ホワイトバランス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152639Z" creationid="ktgw0316" creationdate="20141230T152639Z">
+        <seg>ホワイトバランス ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -34553,6 +34625,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Color_Balance.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152609Z" creationid="ktgw0316" creationdate="20141230T152609Z">
+        <seg>images/Button-Color_Balance.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Polygon.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
@@ -34821,6 +34901,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144054Z" creationid="ktgw0316" creationdate="20141230T144054Z">
         <seg>images/Tool-Clone-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Color_Balance-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152200Z" creationid="ktgw0316" creationdate="20141230T152200Z">
+        <seg>images/Tool-Color_Balance-en.png</seg>
       </tuv>
     </tu>
     <tu>
