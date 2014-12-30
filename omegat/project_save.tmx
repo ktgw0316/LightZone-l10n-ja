@@ -14404,8 +14404,8 @@ the [Folder Navigator](Navigating_Folders.html).</seg>
       <tuv lang="EN-US">
         <seg>In the center of the Browser window is Photo Viewer that shows one to five large previews of the selected thumbnails in the selected folder in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T130334Z">
-        <seg>閲覧ウィンドウの真ん中には写真ビュワーがあり、&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;で選択されたフォルダにある写真について、1 枚から 5 枚のサムネイルを表示します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T130406Z">
+        <seg>閲覧ウィンドウの真ん中には写真ビュワーがあり、&lt;a0&gt;フォルダー ナビゲーター&lt;/a0&gt;で選択されたフォルダにある写真について、1 枚から 5 枚のサムネイルが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26378,6 +26378,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;selected thumbnail&lt;/b0&gt; is shown with a white border and a large preview is shown in the &lt;a1&gt;Photo Viewer&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T131825Z" creationid="ktgw0316" creationdate="20141230T131825Z">
+        <seg>&lt;b0&gt;選択されたサムネイル&lt;/b0&gt;には白い枠線が付けられ、&lt;a1&gt;写真ビュワー&lt;/a1&gt;に大きなプレビューが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;e0&gt;control points&lt;/e0&gt; of a region determine its shape and are used to adjust it.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163244Z">
@@ -30161,6 +30169,14 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using thumbnails, you can select a photo to &lt;a0&gt;view it larger&lt;/a0&gt;, &lt;a1&gt;inspect its metadata&lt;/a1&gt;, &lt;a2&gt;rotate it&lt;/a2&gt;, &lt;a3&gt;rate it&lt;/a3&gt;, &lt;a4&gt;edit it&lt;/a4&gt;, &lt;a5&gt;convert it&lt;/a5&gt;, &lt;a6&gt;send it&lt;/a6&gt;, &lt;a7&gt;print it&lt;/a7&gt;, &lt;a8&gt;copy &amp; paste its tools&lt;/a8&gt;, &lt;a9&gt;apply a style to it&lt;/a9&gt;, &lt;a10&gt;drag &amp; drop it&lt;/a10&gt;, or &lt;a11&gt;rename&lt;/a11&gt; or &lt;a12&gt;delete&lt;/a12&gt; the image file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T131427Z" creationid="ktgw0316" creationdate="20141230T131236Z">
+        <seg>サムネイルを使うと、写真を選択して&lt;a0&gt;大きなサイズで観たり&lt;/a0&gt;、&lt;a1&gt;メタデータを表示したり&lt;/a1&gt;、&lt;a2&gt;回転させたり&lt;/a2&gt;、&lt;a3&gt;評価したり&lt;/a3&gt;、&lt;a4&gt;編集したり&lt;/a4&gt;、&lt;a5&gt;変換したり&lt;/a5&gt;、&lt;a6&gt;送ったり&lt;/a6&gt;、&lt;a7&gt;印刷したり&lt;/a7&gt;、&lt;a8&gt;ツールをコピー &amp; ペーストしたり&lt;/a8&gt;、&lt;a9&gt;スタイルを適用したり&lt;/a9&gt;、&lt;a10&gt;ドラッグ &amp; ドロップしたり&lt;/a10&gt;、画像ファイルを&lt;a11&gt;名前変更&lt;/a11&gt;または&lt;a12&gt;削除&lt;/a12&gt;したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>V</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134936Z">
@@ -31146,6 +31162,14 @@ configure LightZone to be such an editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162619Z">
         <seg>スタイルを自作したり他の人と共有したりすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the selection by clicking a different thumbnail or by using the &lt;b2&gt;arrow keys&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T132031Z" creationid="ktgw0316" creationdate="20141230T132031Z">
+        <seg>選択を変更するには別のサムネイルをクリックするか&lt;b2&gt;カーソル キー&lt;/b2&gt;を使います。</seg>
       </tuv>
     </tu>
     <tu>
