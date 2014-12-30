@@ -3394,8 +3394,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you replace the &lt;a1&gt;default tone curve&lt;/a1&gt; for a camera with your own style, you can revert to the original default tone curve for the camera by selecting File &gt; Reset Style... then the name of the style.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T114503Z" creationid="ktgw0316" creationdate="20141230T114411Z">
-        <seg>&lt;b0&gt;註:&lt;/b0&gt; カメラの&lt;a1&gt;既定のトーン カーブ&lt;/a1&gt;を自作のスタイルで置き換えている場合、元の既定のトーン カーブに戻すには</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115059Z" creationid="ktgw0316" creationdate="20141230T114411Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; カメラの&lt;a1&gt;既定のトーン カーブ&lt;/a1&gt;を自作のスタイルで置き換えている場合、元の既定のトーン カーブに戻すには「ファイル」→「スタイルをリセット...」からスタイル名を選択します。</seg>
       </tuv>
     </tu>
     <tu>
