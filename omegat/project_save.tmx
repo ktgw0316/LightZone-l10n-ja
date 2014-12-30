@@ -864,6 +864,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143817Z" creationid="ktgw0316" creationdate="20141230T143817Z">
+        <seg>(新しい白黒ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new hue/saturation tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172543Z">
@@ -3242,8 +3250,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on black &amp; white conversion...&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T141833Z">
-        <seg>&lt;a1&gt;白黒化についてもっと知る&lt;/a1&gt;</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143706Z">
+        <seg>&lt;a1&gt;白黒変換についてもっと知る&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5985,6 +5993,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black &amp; white conversion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143717Z" creationid="ktgw0316" creationdate="20141230T143634Z">
+        <seg>白黒変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black &amp; white filter</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094455Z">
@@ -6095,6 +6111,14 @@ device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T085522Z">
         <seg>ブレンド モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend_Modes.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143845Z" creationid="ktgw0316" creationdate="20141230T143845Z">
+        <seg>Blend_Modes.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -8293,6 +8317,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121617Z">
         <seg>[色選択タブ](Tool_Anatomy.html#Tool_Tab-Color_Selection)をクリックすると色/輝度の選択のコントロールが現れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the black &amp; white tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143805Z" creationid="ktgw0316" creationdate="20141230T143805Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で白黒ツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13302,6 +13334,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to fix problem areas of your photo using cloning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144015Z" creationid="ktgw0316" creationdate="20141230T144015Z">
+        <seg>複製を使って写真の問題箇所を修正するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to inspect or edit the metadata of a photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083051Z">
@@ -16179,6 +16219,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102338Z">
         <seg>LightZone: 閲覧ウィンドウの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Cloning Areas</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143932Z" creationid="ktgw0316" creationdate="20141230T143932Z">
+        <seg>LightZone: 領域の複製</seg>
       </tuv>
     </tu>
     <tu>
@@ -28802,6 +28850,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To convert a color photo to black-and-white:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143743Z" creationid="ktgw0316" creationdate="20141230T143743Z">
+        <seg>カラー写真を白黒に変換するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To convert your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T135340Z">
@@ -29638,6 +29694,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162921Z">
         <seg>Tool_Anatomy.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool_Anatomy.html#Opacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143848Z" creationid="ktgw0316" creationdate="20141230T143848Z">
+        <seg>Tool_Anatomy.html#Opacity</seg>
       </tuv>
     </tu>
     <tu>
@@ -34281,6 +34345,22 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Black_and_White.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143745Z" creationid="ktgw0316" creationdate="20141230T143745Z">
+        <seg>images/Button-Black_and_White.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Blur.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143907Z" creationid="ktgw0316" creationdate="20141230T143907Z">
+        <seg>images/Button-Blur.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Polygon.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
@@ -34517,6 +34597,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145426Z" creationid="ktgw0316" creationdate="20141229T145426Z">
         <seg>images/Thumbnails-unstacked.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Black_and_White-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143722Z" creationid="ktgw0316" creationdate="20141230T143722Z">
+        <seg>images/Tool-Black_and_White-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Blur-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143904Z" creationid="ktgw0316" creationdate="20141230T143904Z">
+        <seg>images/Tool-Blur-en.png</seg>
       </tuv>
     </tu>
     <tu>
