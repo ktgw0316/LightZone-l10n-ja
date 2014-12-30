@@ -2728,6 +2728,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 of 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095048Z" creationid="ktgw0316" creationdate="20141230T095048Z">
+        <seg>3 of 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 of 8</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T144856Z">
@@ -25094,6 +25102,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Exporting.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095042Z" creationid="ktgw0316" creationdate="20141230T095042Z">
+        <seg>Styles-Exporting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132208Z">
@@ -25106,6 +25122,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151716Z" creationid="ktgw0316" creationdate="20141129T151716Z">
         <seg>スタイル: 適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Creating</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095039Z" creationid="ktgw0316" creationdate="20141230T095039Z">
+        <seg>スタイル: 作成</seg>
       </tuv>
     </tu>
     <tu>
