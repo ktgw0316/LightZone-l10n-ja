@@ -31464,8 +31464,8 @@ Editor, directly from within the Photo Editor.</seg>
       <tuv lang="EN-US">
         <seg>You can select only the most recent versions of your photos by clicking the &lt;b0&gt;select recent&lt;/b0&gt; button.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T134723Z" creationid="ktgw0316" creationdate="20141230T134723Z">
-        <seg>写真の最新版のみを選択するには&lt;b0&gt;最近使ったファイルを選択&lt;/b0&gt;ボタンをクリックします。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T140611Z" creationid="ktgw0316" creationdate="20141230T134723Z">
+        <seg>写真の最新版のみを選択するには&lt;b0&gt;選択&lt;/b0&gt;ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
