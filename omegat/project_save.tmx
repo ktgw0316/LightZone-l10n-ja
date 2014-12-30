@@ -4825,6 +4825,14 @@ that point in time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you may want to delete ones that you no longer use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115305Z" creationid="ktgw0316" creationdate="20141230T115305Z">
+        <seg>スタイルを&lt;a0&gt;作成&lt;/a0&gt;した後で、使用しなくなったスタイルは削除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After selecting a style, you are free to
 manipulate the settings of the individual tools ever further.</seg>
       </tuv>
@@ -7855,6 +7863,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141205Z">
         <seg>「変換」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Delete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115407Z" creationid="ktgw0316" creationdate="20141230T115407Z">
+        <seg>「削除」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13094,6 +13110,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to delete your styles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115124Z" creationid="ktgw0316" creationdate="20141230T115124Z">
+        <seg>スタイルを削除するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to drag &amp; drop photos from the Photo Browser.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102721Z">
@@ -16315,6 +16339,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T094507Z" creationid="ktgw0316" creationdate="20141230T094507Z">
         <seg>LightZone: スタイル: 作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles: Deleting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115115Z" creationid="ktgw0316" creationdate="20141230T115115Z">
+        <seg>LightZone: スタイル: 削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -23271,6 +23303,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Manage Styles...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115335Z" creationid="ktgw0316" creationdate="20141230T115335Z">
+        <seg>「ファイル」→「スタイルを管理...」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Open...</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083156Z">
@@ -23912,6 +23952,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T144757Z" creationid="ktgw0316" creationdate="20141129T144757Z">
         <seg>削除したい領域をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the style you want to delete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115349Z" creationid="ktgw0316" creationdate="20141230T115349Z">
+        <seg>削除したいスタイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25198,6 +25246,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Creating.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115142Z" creationid="ktgw0316" creationdate="20141230T115142Z">
+        <seg>Styles-Creating.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles-Exporting.html</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095042Z" creationid="ktgw0316" creationdate="20141230T095042Z">
@@ -25226,6 +25282,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T095039Z" creationid="ktgw0316" creationdate="20141230T095039Z">
         <seg>スタイル: 作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Deleting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115133Z" creationid="ktgw0316" creationdate="20141230T115133Z">
+        <seg>スタイル: 削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -28438,6 +28502,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T151033Z">
         <seg>領域を削除するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete a style:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115318Z" creationid="ktgw0316" creationdate="20141230T115318Z">
+        <seg>スタイルを削除するには:</seg>
       </tuv>
     </tu>
     <tu>
