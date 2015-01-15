@@ -1595,6 +1595,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) before</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135230Z" creationid="ktgw0316" creationdate="20150115T135230Z">
+        <seg>(a) 調整前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T133612Z">
@@ -1615,6 +1623,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125735Z" creationid="ktgw0316" creationdate="20150115T125735Z">
         <seg>(a) スタック化なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) after</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135300Z" creationid="ktgw0316" creationdate="20150115T135300Z">
+        <seg>(b) 調整後</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,6 +2960,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 of 8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135053Z" creationid="ktgw0316" creationdate="20150115T135053Z">
+        <seg>4 of 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T160519Z">
@@ -3648,6 +3672,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the exposure of you photo, create a zone lock above the first zone and drag it downwards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T140739Z" creationid="ktgw0316" creationdate="20150115T135525Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; 写真の露出を減らすには、ゾーン ロックを一番上のゾーンの上側に作成し、下へドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note&lt;/b0&gt;: Some preferences are effective only after LightZone is relaunched.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162528Z">
@@ -3876,6 +3908,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T165822Z">
         <seg>====================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;e0&gt;zone lock&lt;/e0&gt; will appear (a thin, blue line with a little 'X' at its right).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135820Z" creationid="ktgw0316" creationdate="20150115T135820Z">
+        <seg>&lt;e0&gt;ゾーン ロック&lt;/e0&gt; (右端に小さな X 印が付いた、細い青色の線) が現れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,6 +5844,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134919Z">
         <seg>撮影時の白色の XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you do so, your photo's exposure will increase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135947Z" creationid="ktgw0316" creationdate="20150115T135947Z">
+        <seg>すると、写真の露出が増加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8303,6 +8351,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T142713Z">
         <seg>「開始」をクリックします。 (変換中は進捗ダイアログが表示されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click above that zone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135630Z" creationid="ktgw0316" creationdate="20150115T135630Z">
+        <seg>そのゾーンの上側をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,6 +11336,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the zone lock upwards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135908Z" creationid="ktgw0316" creationdate="20150115T135908Z">
+        <seg>ゾーン ロックを上へドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dragging &amp; dropping photos</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164009Z">
@@ -13450,6 +13514,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152150Z" creationid="ktgw0316" creationdate="20141230T152150Z">
         <seg>カラー バランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to adjust the exposure of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135038Z" creationid="ktgw0316" creationdate="20150115T135038Z">
+        <seg>ゾーン マッパーで写真の露出を調整するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,6 +17091,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070821Z">
         <seg>LightZone: ゾーン マッパー: 輝度の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting Exposure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135028Z" creationid="ktgw0316" creationdate="20150115T135028Z">
+        <seg>LightZone: ゾーン マッパー: 露出の調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -25772,6 +25852,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the first zone, move the mouse downwards along the zones in the ZoneMapper until you find a zone that shows significant highlighting in the &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T140732Z" creationid="ktgw0316" creationdate="20150115T140732Z">
+        <seg>マウスでゾーン マッパーのゾーンを一番上から下へと順になぞっていき、&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;上にはっきりしたハイライトが現れるゾーンを見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting in Revision 1.237, the code to support Foveon cameras is
     under GPL.</seg>
       </tuv>
@@ -29506,6 +29594,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To increase the exposure of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135129Z" creationid="ktgw0316" creationdate="20150115T135129Z">
+        <seg>写真の露出を増やすには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To integrate with some other applications, LightZone can save your
 edited photos as a two-page TIFF file:</seg>
       </tuv>
@@ -32306,6 +32402,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070828Z">
         <seg>ゾーン マッパー: 輝度の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper: Adjusting exposure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135049Z" creationid="ktgw0316" creationdate="20150115T135049Z">
+        <seg>ゾーン マッパー: 露出の調整</seg>
       </tuv>
     </tu>
     <tu>
