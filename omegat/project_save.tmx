@@ -3482,8 +3482,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; A filter of a certain color actually filters out its &lt;e1&gt;complementary&lt;/e1&gt; color (the color directly across from it in the color wheel).</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132415Z" creationid="ktgw0316" creationdate="20150115T132415Z">
-        <seg>&lt;b0&gt;註:&lt;/b0&gt; ある色のフィルターは実際にはその&lt;e1&gt;補色&lt;/e1&gt; (色相環で正反対にある色) を弱めます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133129Z" creationid="ktgw0316" creationdate="20150115T132415Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; ある色のフィルターは実際にはその&lt;e1&gt;補色&lt;/e1&gt; (色相環で正反対にある色) をカットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12756,8 +12756,8 @@ avoid modifying your original photo.</seg>
       <tuv lang="EN-US">
         <seg>For example, a yellow filter filters out blue light (because blue is directly across from yellow).</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132634Z" creationid="ktgw0316" creationdate="20150115T132634Z">
-        <seg>例として、黄色フィルターは青い光を弱めます (青は黄色の正反対に位置するため)。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133017Z" creationid="ktgw0316" creationdate="20150115T132634Z">
+        <seg>例として、黄色フィルターは青い光をカットします (青は黄色の正反対に位置するため)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28065,8 +28065,8 @@ either [Aperture](Integration-Aperture.html) or
       <tuv lang="EN-US">
         <seg>Therefore, you can usually increase contrast in the sky by using a yellow filter because it filters out the blue of the sky thus making the sky darker compared to clouds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132715Z" creationid="ktgw0316" creationdate="20150115T132715Z">
-        <seg>したがって、通常は空の色を強調するのに</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133009Z" creationid="ktgw0316" creationdate="20150115T132715Z">
+        <seg>したがって、通常は空の色を強調するのに黄色フィルターが使えます。空の青がカットされることで雲に比べて暗くなるためです。</seg>
       </tuv>
     </tu>
     <tu>
