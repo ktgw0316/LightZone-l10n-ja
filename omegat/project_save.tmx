@@ -932,6 +932,14 @@ therefore can be modified or deleted at any time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, clicking somewhere in the yellow part of the color wheel applies yellow filter.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132451Z" creationid="ktgw0316" creationdate="20150115T131751Z">
+        <seg>(例として、色相環のうち黄色い部分のどこかをクリックすると黄色フィルターが適用されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, you create a sharpen tool *as a layer* rather than sharpening an existing layer.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T142054Z">
@@ -1021,6 +1029,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T155318Z">
         <seg>(インターネットに接続されていない場合は自動確認はスキップされます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It does not alter any thumbnails that may be embedded inside the image files.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T130016Z" creationid="ktgw0316" creationdate="20150115T130016Z">
+        <seg>(それによって画像ファイルに埋め込まれたサムネイルが変更されることはありません。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1579,10 +1595,26 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) unstacked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125735Z" creationid="ktgw0316" creationdate="20150115T125735Z">
+        <seg>(a) スタック化なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(b) blues selected</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T133627Z">
         <seg>(b) 青を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) stacked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125743Z" creationid="ktgw0316" creationdate="20150115T125743Z">
+        <seg>(b) スタック化</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,10 +3288,26 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Histogram&lt;/a0&gt;, &amp; &lt;a1&gt;Sampler&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131148Z" creationid="ktgw0316" creationdate="20150115T131148Z">
+        <seg>&lt;a0&gt;ヒストグラム&lt;/a0&gt;, &lt;a1&gt;サンプラー&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Tool anatomy&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T092455Z">
         <seg>&lt;a0&gt;ツールの詳細&lt;/a0&gt;、&lt;a1&gt;メニュー&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color selection&lt;/a1&gt;,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131127Z" creationid="ktgw0316" creationdate="20150115T131041Z">
+        <seg>&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;, &lt;a1&gt;色選択&lt;/a1&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3476,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170945Z">
         <seg>&lt;b0&gt;色相&lt;/b0&gt;: ピクセルの色 (Hue)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; A filter of a certain color actually filters out its &lt;e1&gt;complementary&lt;/e1&gt; color (the color directly across from it in the color wheel).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132415Z" creationid="ktgw0316" creationdate="20150115T132415Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; ある色のフィルターは実際にはその&lt;e1&gt;補色&lt;/e1&gt; (色相環で正反対にある色) を弱めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4759,6 +4815,14 @@ buttons can be used to navigate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, you can control the conversion as if a colored filter were placed in front of the lens when the photo was taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131442Z" creationid="ktgw0316" creationdate="20150115T131442Z">
+        <seg>さらに、撮影時にレンズの前に色フィルターを掛けるのと同じようなコントロールができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can create your own styles.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T122429Z" creationid="ktgw0316" creationdate="20141230T122429Z">
@@ -4837,6 +4901,14 @@ that point in time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T145130Z">
         <seg>&lt;a0&gt;不透明度スライダー&lt;/a0&gt;を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust the Strength slider to increase or decrease the strength (and thus effect) of the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131955Z" creationid="ktgw0316" creationdate="20150115T131955Z">
+        <seg>強度スライダーを調整するとツールの強度 (つまり効果) を増減させられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5074,14 @@ manipulate the settings of the individual tools ever further.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you &lt;a0&gt;save your edited photos&lt;/a0&gt;, thumbnails of both your original and edited photos are shown grouped together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125327Z" creationid="ktgw0316" creationdate="20150115T125327Z">
+        <seg>&lt;a0&gt;編集した写真を保存&lt;/a0&gt;すると、元画像と編集済みの写真とがグループ化されて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Algiers</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T131827Z">
@@ -5163,6 +5243,14 @@ Nikon</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104643Z">
         <seg>Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, by clicking the Stack button, thumbnails of your photos can be shown stacked where only the latest edited version of your photo is shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125611Z" creationid="ktgw0316" creationdate="20150115T125552Z">
+        <seg>もしくは、スタック ボタンをクリックすると、サムネイルがスタックされて最新の編集済みバージョンの写真だけが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,6 +11505,22 @@ Fuji</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each photo's &lt;a0&gt;rating&lt;/a0&gt; (if any) is shown in the lower-left corner of its thumbnail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T124758Z" creationid="ktgw0316" creationdate="20150115T124758Z">
+        <seg>写真の&lt;a0&gt;評価&lt;/a0&gt;はサムネイルの左下隅に表示されます（評価済みの場合のみ）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each photo's type is shown in the lower-right corner of its thumbnail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T124908Z" creationid="ktgw0316" creationdate="20150115T124908Z">
+        <seg>写真のタイプはサムネイルの右下隅に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easy-shooting mode</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142027Z">
@@ -12646,6 +12750,14 @@ avoid modifying your original photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T034906Z" creationid="ktgw0316" creationdate="20140330T033659Z">
         <seg>白黒の印刷では、2005 年以前に製造されたインクジェット プリンターのほとんどが線形性とニュートラルさと条件等色の観点で劣っています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a yellow filter filters out blue light (because blue is directly across from yellow).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132634Z" creationid="ktgw0316" creationdate="20150115T132634Z">
+        <seg>例として、黄色フィルターは青い光を弱めます (青は黄色の正反対に位置するため)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26586,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Black &amp; White&lt;/b0&gt; tool allows you to convert a color photo into a black-and-white photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131402Z" creationid="ktgw0316" creationdate="20150115T131402Z">
+        <seg>&lt;b0&gt;白黒&lt;/b0&gt;ツールでは、カラー写真を白黒写真に変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Black &amp; White&lt;/b0&gt; tool allows you to convert your color photo into a black-and-white photo and can control the conversion as if a colored filter were placed in front of the lens when the photo was taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T145007Z">
@@ -26650,6 +26770,22 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Sort criteria&lt;/b0&gt; pop-up menu allows you to change the order by which the thumbnails for your photos are displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T130534Z" creationid="ktgw0316" creationdate="20150115T130448Z">
+        <seg>&lt;b0&gt;並べ替え方法&lt;/b0&gt;ポップアップ メニューでは、サムネイルを並べ替える方法を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Sort order&lt;/b0&gt; button controls whether your photos are sorted either in ascending or descending order for the current sort criteria.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T130330Z" creationid="ktgw0316" creationdate="20150115T130311Z">
+        <seg>&lt;b0&gt;並べ替え順序&lt;/b0&gt;ボタンでは、現在の並べ替え方法で昇順・降順のどちらで写真を並べるかを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Spline&lt;/b0&gt; region button creates a region much like a Bézier, yet the region boundary is defined inside the control points.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151202Z" creationid="ktgw0316" creationdate="20141129T151202Z">
@@ -26686,6 +26822,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T084252Z">
         <seg>&lt;b0&gt;スタイル&lt;/b0&gt; ボタンでは、選択中のサムネイルに対応する写真にスタイルを適用できます。&lt;a1&gt;スタイルについて詳しくはこちら&lt;/a1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Thumbnail size&lt;/b0&gt; slider controls the size of the thumbnails shown in the browser.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125852Z" creationid="ktgw0316" creationdate="20150115T125852Z">
+        <seg>&lt;b0&gt;サムネイルのサイズ&lt;/b0&gt; スライダーでサムネイルの表示サイズを調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27310,6 +27454,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choices for sort criteria are: file name, file type, image size, capture time, modification time, &lt;a1&gt;rating&lt;/a1&gt;, aperture, focal length, lens, and shutter speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131012Z" creationid="ktgw0316" creationdate="20150115T131012Z">
+        <seg>並べ替え方法の選択肢は、ファイル名・ファイル形式・画像ファイルのサイズ・撮影時刻・改変時刻・&lt;a1&gt;評価&lt;/a1&gt;・絞り・焦点距離・レンズ・シャッター速度です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clone tool is a more general version of the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144402Z" creationid="ktgw0316" creationdate="20141230T144402Z">
@@ -27498,6 +27650,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164033Z">
         <seg>LightZone の新機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of photos in the stack is indicated by a number in the upper-left corner of the thumbnail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125712Z" creationid="ktgw0316" creationdate="20150115T125712Z">
+        <seg>スタックに含まれる写真の枚数はサムネイルの左上隅に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27899,6 +28059,14 @@ either [Aperture](Integration-Aperture.html) or
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123928Z">
         <seg>そのため、[Aperture](Integration-Aperture.html) または [Lightroom](Integration-Lightroom.html) と作業フローを統合する場合だけに推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, you can usually increase contrast in the sky by using a yellow filter because it filters out the blue of the sky thus making the sky darker compared to clouds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132715Z" creationid="ktgw0316" creationdate="20150115T132715Z">
+        <seg>したがって、通常は空の色を強調するのに</seg>
       </tuv>
     </tu>
     <tu>
@@ -28958,6 +29126,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133741Z">
         <seg>ホワイトバランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a colored filter, click in the color wheel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T132427Z" creationid="ktgw0316" creationdate="20150115T131645Z">
+        <seg>色フィルターを適用するには、色相環の内部をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
