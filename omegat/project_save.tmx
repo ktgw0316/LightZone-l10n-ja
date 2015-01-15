@@ -864,6 +864,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new ZoneMapper tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133523Z" creationid="ktgw0316" creationdate="20150115T133512Z">
+        <seg>(新しいゾーン マッパー ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143817Z" creationid="ktgw0316" creationdate="20141230T143817Z">
@@ -909,6 +917,14 @@ half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T133924Z">
         <seg>(新しいホワイトバランス ツールが[ツール スタック](Tool_Stack.html)の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(As you do so, the corresponding zones in the &lt;a0&gt;ZoneFinder&lt;/a0&gt; will highlight.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133912Z" creationid="ktgw0316" creationdate="20150115T133912Z">
+        <seg>(そうすると、対応するゾーンが&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;上でハイライトされます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8469,6 +8485,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the ZoneMapper tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133508Z" creationid="ktgw0316" creationdate="20150115T133508Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でゾーン マッパー ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the [Color Selection
     tab](Tool_Anatomy.html#Tool_Tab-Color_Selection) to reveal the
     color/luminosity selection controls.</seg>
@@ -12801,6 +12825,14 @@ color channels extend into the lightest zone).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152013Z">
         <seg>例として、右側に示した領域には 3 つの調整点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can quickly find both the white and black points in your photo allowing you to &lt;a0&gt;fix the exposure&lt;/a0&gt; and &lt;a1&gt;get deeper blacks&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T134522Z" creationid="ktgw0316" creationdate="20150115T134522Z">
+        <seg>例えば、写真上の白い点と黒い点を素早く見付けて&lt;a0&gt;露出を補正&lt;/a0&gt;して&lt;a1&gt;黒を引き締める&lt;/a1&gt;ことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18006,6 +18038,14 @@ to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143355Z" creationid="ktgw0316" creationdate="20141129T143355Z">
         <seg>写真上でマウスを動かし、調整点を追加したい場所でクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse over the zones in the ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T134948Z" creationid="ktgw0316" creationdate="20150115T133610Z">
+        <seg>ゾーン マッパーのゾーン上へマウスを動かします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27368,6 +27408,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneMapper tool works with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;: as you move the mouse over the zones in a ZoneMapper, the corresponding zones in the ZoneFinder highlight in yellow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T134911Z" creationid="ktgw0316" creationdate="20150115T134618Z">
+        <seg>ゾーン マッパー ツールは&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;と一緒に使われます。ゾーン マッパーのゾーン上へマウスを動かすと、ゾーン ファインダー上の対応するゾーンが黄色くハイライトされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The [Raw Adjustments tool](Tool-Raw_Adjustments.html) has a new As Shot button.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T124807Z">
@@ -30682,6 +30730,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T074426Z">
         <seg>LightZone を MediaPro と一緒に使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a ZoneMapper tool with the ZoneFinder allows you to find zones in your photo quickly in order to make adjustments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150115T134822Z" creationid="ktgw0316" creationdate="20150115T134144Z">
+        <seg>ゾーン マッパー ツールとゾーン ファインダーを一緒に使うことで、写真上の調整したいゾーンを素早く見付けられます。</seg>
       </tuv>
     </tu>
     <tu>
