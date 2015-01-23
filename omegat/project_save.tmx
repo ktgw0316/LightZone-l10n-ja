@@ -5936,6 +5936,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Expand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125058Z" creationid="ktgw0316" creationdate="20150123T125058Z">
+        <seg>自動で展開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164743Z">
@@ -8764,16 +8772,24 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Collapse</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125008Z" creationid="ktgw0316" creationdate="20150123T125008Z">
-        <seg>展開する</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125037Z" creationid="ktgw0316" creationdate="20150123T125008Z">
+        <seg>折りたたむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125143Z" creationid="ktgw0316" creationdate="20150123T125143Z">
+        <seg>すべて折りたたむ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Collapse Others</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125015Z" creationid="ktgw0316" creationdate="20150123T125015Z">
-        <seg>他を展開する</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125048Z" creationid="ktgw0316" creationdate="20150123T125015Z">
+        <seg>他を折りたたむ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11192,6 +11208,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Auto Expand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125112Z" creationid="ktgw0316" creationdate="20150123T125112Z">
+        <seg>自動で展開しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150049Z">
@@ -12009,6 +12033,22 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130921T022905Z">
         <seg>終了(X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125052Z" creationid="ktgw0316" creationdate="20150123T125052Z">
+        <seg>展開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125150Z" creationid="ktgw0316" creationdate="20150123T125150Z">
+        <seg>すべて展開する</seg>
       </tuv>
     </tu>
     <tu>
