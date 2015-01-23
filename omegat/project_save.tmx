@@ -2408,6 +2408,22 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124649Z" creationid="ktgw0316" creationdate="20150123T124545Z">
+        <seg>1 枚の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124713Z" creationid="ktgw0316" creationdate="20150123T124713Z">
+        <seg>1 枚の画像を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 of 10</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164907Z">
@@ -8746,6 +8762,22 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125008Z" creationid="ktgw0316" creationdate="20150123T125008Z">
+        <seg>展開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Others</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125015Z" creationid="ktgw0316" creationdate="20150123T125015Z">
+        <seg>他を展開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Tool</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130107T143309Z">
@@ -11322,8 +11354,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Drag along features in your image to align them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T144356Z">
-        <seg>Drag along features in your image to align them.</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124207Z" creationid="ktgw0316" creationdate="20150123T124207Z">
+        <seg>ドラッグして画像のなかの特徴的な部分に沿わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19227,6 +19259,22 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124936Z" creationid="ktgw0316" creationdate="20150123T124613Z">
+        <seg>画像なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124802Z" creationid="ktgw0316" creationdate="20150123T124802Z">
+        <seg>画像の選択なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150542Z">
@@ -21215,6 +21263,14 @@ Content-Type: text/plain;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T100049Z">
         <seg>RAW 調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAW Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124522Z" creationid="ktgw0316" creationdate="20150123T124522Z">
+        <seg>RAW設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -34881,6 +34937,22 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124629Z" creationid="ktgw0316" creationdate="20150123T124629Z">
+        <seg>枚の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124727Z" creationid="ktgw0316" creationdate="20150123T124727Z">
+        <seg>枚の画像を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/16_bit.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163010Z">
@@ -35413,6 +35485,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094101Z">
         <seg>間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124838Z" creationid="ktgw0316" creationdate="20150123T124838Z">
+        <seg>は読み取り専用ファイルです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150123T124851Z" creationid="ktgw0316" creationdate="20150123T124851Z">
+        <seg>は読み取り専用フォルダーです</seg>
       </tuv>
     </tu>
     <tu>
