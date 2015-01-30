@@ -15703,6 +15703,14 @@ Ricoh</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaves colors that fall inside the destination gamut unchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T133344Z" creationid="ktgw0316" creationdate="20150130T133344Z">
+        <seg>変換先の色域に収まる色を変化させません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105539Z">
@@ -20165,6 +20173,14 @@ page by default.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104529Z">
         <seg>Other company and product names mentioned herein are trademarks of their respective companies. Mention of third-party products is for informational purposes only and constitutes neither an endorsement nor a recommendation. Light Crafts assumes no responsibility with regard to the performance or use of these products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out-of-gamut colors are clipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T133446Z" creationid="ktgw0316" creationdate="20150130T133431Z">
+        <seg>色域外の色はクリップされます。</seg>
       </tuv>
     </tu>
     <tu>
