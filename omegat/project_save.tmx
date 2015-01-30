@@ -3360,6 +3360,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Thumbnails&lt;/a0&gt; in the &lt;a1&gt;Photo Browser&lt;/a1&gt; indicate LightZone JPEG files with "JPEG-LZN" as shown above.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T142623Z" creationid="ktgw0316" creationdate="20150130T142623Z">
+        <seg>&lt;a1&gt;閲覧ウィンドウ&lt;/a1&gt;の&lt;a0&gt;サムネイル&lt;/a0&gt;には LightZone JPEG ファイルに上図のような「JPEG-LZN」の印が付けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Tool anatomy&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T092455Z">
@@ -6177,6 +6185,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being an ordinary JPEG file, it can be opened by any application that works with JPEG files, be e-mailed, or displayed on the web.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T142106Z" creationid="ktgw0316" creationdate="20150130T141943Z">
+        <seg>通常の JPEG ファイルなので、JPEG を扱える様々なアプリケーションで開いたり、メールで送信したり、ウェブ上に表示したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berlin</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T131143Z">
@@ -6592,6 +6608,14 @@ device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145553Z">
         <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (露出が 1/2 段) ずつ違っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LightZone appends &lt;t1&gt;_lzn&lt;/t1&gt; to the file name to indicate that it's a LightZone JPEG.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141925Z" creationid="ktgw0316" creationdate="20150130T141908Z">
+        <seg>既定では、LightZone はファイル名に &lt;t1&gt;_lzn&lt;/t1&gt; を追加して LightZone JPEG ファイルであることを示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31614,6 +31638,14 @@ is Relative Colorimetric.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T054351Z">
         <seg>起動時に、LightZone は新しいバージョンがダウンロードできないか自動でチェックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When reopened with LightZone, however, the tool stack is restored and you can resume editing where you left off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T142408Z" creationid="ktgw0316" creationdate="20150130T142113Z">
+        <seg>しかし、再度 LightZone で開くとツールスタックが復元されて前回の続きから編集を再開できます。</seg>
       </tuv>
     </tu>
     <tu>
