@@ -3936,6 +3936,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "LightZone JPEG" file is an ordinary JPEG file that is a preview version of your original photo but also contains the &lt;a0&gt;tool stack&lt;/a0&gt; you created while editing your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141746Z" creationid="ktgw0316" creationdate="20150130T141746Z">
+        <seg>「LightZone JPEG」ファイルは元画像を縮小した通常の JPEG ファイルですが、その写真を編集する際に作成した&lt;a0&gt;ツール スタック&lt;/a0&gt;を含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;e0&gt;zone lock&lt;/e0&gt; will appear (a thin, blue line with a little 'X' at its right).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135820Z" creationid="ktgw0316" creationdate="20150115T135820Z">
@@ -9142,6 +9150,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T093157Z">
         <seg>一般的な縦横比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compares the extreme highlight of the source color space to that of the destination color space and shifts all colors accordingly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141149Z" creationid="ktgw0316" creationdate="20150130T141149Z">
+        <seg>元の色空間と変換先の色空間とで特に明るい部分を比較し、それに従ってすべての色をシフトさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28787,6 +28803,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent tries to maintain color accuracy at the expense of preserving relationships between colors and is suitable for proofing to simulate the output of a particular device.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T140924Z" creationid="ktgw0316" creationdate="20150130T140924Z">
+        <seg>このインテントは色の正確さを維持するために色同士の関係を犠牲にします。特定のデバイスの出力をシミュレートするためのプルーフに適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a command-line ANSI C program to convert raw photos from any
     digital camera on any computer running any operating system.</seg>
       </tuv>
@@ -31649,6 +31673,14 @@ external editor to edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T081104Z">
         <seg>外部エディタを使用する際に、Lightroom には以下の 3 つの選択肢があります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you save your work, LightZone saves your photo as a "LightZone JPEG" file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141430Z" creationid="ktgw0316" creationdate="20150130T141258Z">
+        <seg>作品を保存する際、LightZone では「LightZone JPEG」ファイルとして保存します。</seg>
       </tuv>
     </tu>
     <tu>
