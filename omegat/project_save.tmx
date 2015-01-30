@@ -3968,6 +3968,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A LightZone JPEG still refers to your original photo (whether it's a raw, TIFF, or another JPEG).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T143232Z" creationid="ktgw0316" creationdate="20150130T143232Z">
+        <seg>LightZone JPEG は元画像を (RAW、TIFF あるいは別の JPEG のどれであっても) 参照しつづけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Series</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T095325Z">
@@ -28379,6 +28387,14 @@ either [Aperture](Integration-Aperture.html) or
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133009Z" creationid="ktgw0316" creationdate="20150115T132715Z">
         <seg>したがって、通常は空の色を強調するのに黄色フィルターが使えます。空の青がカットされることで雲に比べて暗くなるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, you should never delete your original photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T143322Z" creationid="ktgw0316" creationdate="20150130T143322Z">
+        <seg>したがって、元画像を削除してはいけません。</seg>
       </tuv>
     </tu>
     <tu>
