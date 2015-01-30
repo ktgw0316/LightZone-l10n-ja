@@ -896,6 +896,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new color balance tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145051Z" creationid="ktgw0316" creationdate="20150130T145051Z">
+        <seg>(新しいカラー バランス ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new hue/saturation tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172543Z">
@@ -1345,6 +1353,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The color balance of your photo will shift towards the color you clicked on.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145258Z" creationid="ktgw0316" creationdate="20150130T145258Z">
+        <seg>(写真のカラー バランスが、クリックした色に向かってシフトします。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The color/luminosity selections as well as the
     [Color Selection Viewer](Color_Selection_Viewer.html) will update to
     reflect the selected color/luminosity.)
@@ -1599,6 +1615,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T151328Z">
         <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、Command キーまたは Ctrl キーを使って複数のとびとびになったサムネイルを選択します。または「最近使ったファイルを選択」を使います。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Your photo's colors will shift accordingly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145531Z" creationid="ktgw0316" creationdate="20150130T145531Z">
+        <seg>(写真の色がそのようにシフトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8451,6 +8475,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click anywhere inside the color wheel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145208Z" creationid="ktgw0316" creationdate="20150130T145208Z">
+        <seg>色相環の内部のどこかをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in any metadata that has a dark gray background and type the
     new data.</seg>
       </tuv>
@@ -8529,6 +8561,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T131325Z">
         <seg>写真のなかで色または輝度を選択したい場所をクリックします。 (色/輝度の選択は&lt;a0&gt;色選択ビュワー&lt;/a0&gt;と同じく、選択された色/輝度を反映した状態に更新されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click somewhere on your photo that you want to be a neutral gray.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145445Z" creationid="ktgw0316" creationdate="20150130T145445Z">
+        <seg>写真のなかで無彩色灰色にしたい場所をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8665,10 +8705,26 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the color balance tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145002Z" creationid="ktgw0316" creationdate="20150130T145002Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でカラー バランス ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143120Z" creationid="ktgw0316" creationdate="20141129T142925Z">
         <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で、追加したい領域のボタン (多角形・スプライン・ベジェ) をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the eyedropper button inside the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145405Z" creationid="ktgw0316" creationdate="20150130T145405Z">
+        <seg>ツール上のスポイト ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21875,6 +21931,14 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reducing color casts is most easily done for photos that were taken under mixed lighting conditions and have easily identifiable neutral grays.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T144932Z" creationid="ktgw0316" creationdate="20150130T144831Z">
+        <seg>色かぶりの軽減が最も簡単に行える写真は、複数の光源が混ざった照明下で撮られていて無彩色灰色が簡単に見つけられるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction matrix 1</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134710Z">
@@ -27790,6 +27854,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The color swatch and the Red, Green, and Blue values in the tool will also update.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145652Z" creationid="ktgw0316" creationdate="20150130T145652Z">
+        <seg>ツールの色見本と赤・緑・青の値も更新されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The destination color space.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T074525Z">
@@ -29456,6 +29528,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the color balance:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145114Z" creationid="ktgw0316" creationdate="20150130T145114Z">
+        <seg>カラー バランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the hue/saturation of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172352Z">
@@ -30004,6 +30084,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104215Z">
         <seg>写真を評価するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reduce the color cast:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145334Z" creationid="ktgw0316" creationdate="20150130T145334Z">
+        <seg>色かぶりを軽減するには:</seg>
       </tuv>
     </tu>
     <tu>
