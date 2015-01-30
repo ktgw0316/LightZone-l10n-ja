@@ -20169,6 +20169,14 @@ page by default.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Out-of-gamut colors are shifted to the closest reproducible color in the destination color space.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T132151Z" creationid="ktgw0316" creationdate="20150130T132151Z">
+        <seg>色域外の色は変換先の色空間で再現可能な最も近い色に変換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T124755Z">
@@ -28727,6 +28735,14 @@ create beautiful photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145034Z" creationid="ktgw0316" creationdate="20141129T145034Z">
         <seg>必要なくなった調整点を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intent is suitable for photos with lots of out-of-gamut colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T131951Z" creationid="ktgw0316" creationdate="20150130T131814Z">
+        <seg>色域外の色がたくさんある写真に適したインテントです。</seg>
       </tuv>
     </tu>
     <tu>
