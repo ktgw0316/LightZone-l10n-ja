@@ -1297,6 +1297,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also &lt;a0&gt;Black point compensation&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T131048Z" creationid="ktgw0316" creationdate="20150130T130956Z">
+        <seg>(&lt;a0&gt;黒点の補正&lt;/a0&gt;も参照。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See also: Exclusion.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152241Z">
@@ -30462,6 +30470,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130103T153731Z">
         <seg>透明なグレー値が設定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries to preserve the visual relationship between colors so it is perceived as natural to the human eye even though the color values themselves may change.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T131606Z" creationid="ktgw0316" creationdate="20150130T131606Z">
+        <seg>色同士の関係を保持して人間の目に自然に見えるようにします。ただし、色の値自体は変化する場合があります。</seg>
       </tuv>
     </tu>
     <tu>
