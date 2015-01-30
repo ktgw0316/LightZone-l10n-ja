@@ -28755,10 +28755,18 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent is particularly useful for previewing how paper color affects printed colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135456Z" creationid="ktgw0316" creationdate="20150130T135456Z">
+        <seg>このインテントは紙の色がプリントにどう影響するかをプレビューするのに特に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intent is suitable for photos with lots of out-of-gamut colors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T131951Z" creationid="ktgw0316" creationdate="20150130T131814Z">
-        <seg>色域外の色がたくさんある写真に適したインテントです。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135311Z" creationid="ktgw0316" creationdate="20150130T131814Z">
+        <seg>このインテントは色域外の色がたくさんある写真に適しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29016,6 +29024,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T094355Z">
         <seg>この項目では LightZone の新機能だけを述べます。主な特徴を知るには、「&lt;a0&gt;LightZone を知る&lt;/a0&gt;」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This preserves more of the original colors in a photo than Perceptual.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135721Z" creationid="ktgw0316" creationdate="20150130T135649Z">
+        <seg>このインテントは「知覚的」よりも元の色をより多く維持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30508,8 +30524,8 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       <tuv lang="EN-US">
         <seg>Tries to preserve the visual relationship between colors so it is perceived as natural to the human eye even though the color values themselves may change.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T131606Z" creationid="ktgw0316" creationdate="20150130T131606Z">
-        <seg>色同士の関係を保持して人間の目に自然に見えるようにします。ただし、色の値自体は変化する場合があります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135715Z" creationid="ktgw0316" creationdate="20150130T131606Z">
+        <seg>色同士の関係を維持して人間の目に自然に見えるようにします。ただし、色の値自体は変化する場合があります。</seg>
       </tuv>
     </tu>
     <tu>
