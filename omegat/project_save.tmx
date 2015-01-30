@@ -19347,6 +19347,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No scaling of colors to the destination white point is performed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T140618Z" creationid="ktgw0316" creationdate="20150130T140618Z">
+        <seg>変換先の白色点に向けた色の伸縮を行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No update is available.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20121227T150719Z">
@@ -28763,6 +28771,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent is suitable for business graphics like graphs or charts where bright saturated colors are more important than the exact relationship between colors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T140417Z" creationid="ktgw0316" creationdate="20150130T140407Z">
+        <seg>このインテントが適しているのは、グラフや図といったビジネス向けグラフィックなど、明るい色彩に満ちた色の方が実際の色同士の関係よりも重要な場合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intent is suitable for photos with lots of out-of-gamut colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135311Z" creationid="ktgw0316" creationdate="20150130T131814Z">
@@ -29030,8 +29046,8 @@ easier to work with.</seg>
       <tuv lang="EN-US">
         <seg>This preserves more of the original colors in a photo than Perceptual.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135721Z" creationid="ktgw0316" creationdate="20150130T135649Z">
-        <seg>このインテントは「知覚的」よりも元の色をより多く維持します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T140511Z" creationid="ktgw0316" creationdate="20150130T135649Z">
+        <seg>このインテントは「知覚的」よりもたくさんの元の色を維持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30526,6 +30542,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135715Z" creationid="ktgw0316" creationdate="20150130T131606Z">
         <seg>色同士の関係を維持して人間の目に自然に見えるようにします。ただし、色の値自体は変化する場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries to produce vivid colors in a photo at the expense of color accuracy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135832Z" creationid="ktgw0316" creationdate="20150130T135832Z">
+        <seg>写真を鮮やかな色にするために、色の正確さを犠牲にします。</seg>
       </tuv>
     </tu>
     <tu>
