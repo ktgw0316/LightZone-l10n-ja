@@ -1431,6 +1431,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The mouse will change to a rotate icon.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124051Z" creationid="ktgw0316" creationdate="20150303T124051Z">
+        <seg>(マウス ポインタが回転アイコンに変わります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to an
     eyedropper.)
 4.</seg>
@@ -8483,6 +8491,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the mouse in the direction you want to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124300Z" creationid="ktgw0316" creationdate="20150303T124218Z">
+        <seg>写真を回転させたい向きにマウスをドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click anywhere in the photo's preview.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T083345Z">
@@ -8615,8 +8631,8 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130101T134831Z">
-        <seg>適用するには切り抜きボタンをクリックします。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124841Z">
+        <seg>切り抜きボタンをもう一度クリックすると確定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8693,6 +8709,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121617Z">
         <seg>[色選択タブ](Tool_Anatomy.html#Tool_Tab-Color_Selection)をクリックすると色/輝度の選択のコントロールが現れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the arrow button to commit the crop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124531Z" creationid="ktgw0316" creationdate="20150303T124531Z">
+        <seg>矢印ボタンをクリックして回転を適用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18418,6 +18442,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse outside of the crop rectangle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123932Z" creationid="ktgw0316" creationdate="20150303T123932Z">
+        <seg>マウスを切り抜き枠の外に動かします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse over the zones in the ZoneMapper.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T134948Z" creationid="ktgw0316" creationdate="20150115T133610Z">
@@ -20193,6 +20225,14 @@ use in other applications).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T082820Z">
         <seg>追加の手順として、編集した写真を (他のアプリケーションで扱うために) TIFF ファイルに変換することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, you can also rotate your photo to align it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123855Z" creationid="ktgw0316" creationdate="20150303T123855Z">
+        <seg>追加の手順として、写真を回転させて向きを合わせられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29918,6 +29958,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T140426Z">
         <seg>写真のメタデータを表示するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123913Z" creationid="ktgw0316" creationdate="20150303T123904Z">
+        <seg>そのためには:</seg>
       </tuv>
     </tu>
     <tu>
