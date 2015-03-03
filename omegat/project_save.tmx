@@ -1659,6 +1659,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your photo will appear as it did before and the proof tool will disappear from the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133612Z" creationid="ktgw0316" creationdate="20150303T133612Z">
+        <seg>(写真は元のとおりに表示され、プルーフ ツールは&lt;a0&gt;ツール スタック&lt;/a0&gt;に表示されなくなります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Your photo's colors will shift accordingly.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145531Z" creationid="ktgw0316" creationdate="20150130T145531Z">
@@ -9066,6 +9074,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Balance tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133851Z" creationid="ktgw0316" creationdate="20150303T133813Z">
+        <seg>カラー バランス ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T145724Z">
@@ -14038,6 +14054,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to make raw adjustments to your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133733Z" creationid="ktgw0316" creationdate="20150303T133701Z">
+        <seg>写真のRAW 調整を行うには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to navigate the folders and browse photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T142923Z">
@@ -17263,6 +17287,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Raw Adjustments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133634Z" creationid="ktgw0316" creationdate="20150303T133634Z">
+        <seg>LightZone: RAW 調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Regions and Masks</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105500Z">
@@ -19739,6 +19771,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise Reduction tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133823Z" creationid="ktgw0316" creationdate="20150303T133823Z">
+        <seg>ノイズ軽減ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173325Z">
@@ -21890,6 +21930,14 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152630Z" creationid="ktgw0316" creationdate="20141230T152630Z">
         <seg>RAW 調整ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw adjustments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133728Z" creationid="ktgw0316" creationdate="20150303T133728Z">
+        <seg>RAW 調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -25132,6 +25180,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt; you will use from the Rendering Intent pop-up menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133048Z" creationid="ktgw0316" creationdate="20150303T133048Z">
+        <seg>使用したい&lt;a0&gt;レンダリング インテント&lt;/a0&gt;をレンダリング インテント ポップアップメニューから選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T140419Z">
@@ -27414,6 +27470,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T092749Z">
         <seg>色スウォッチで表示された色のまわりで選択された色相の範囲を増減させるには、&lt;b0&gt;範囲&lt;/b0&gt;スライダーを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Raw Adjustments&lt;/b0&gt; tool allows you to adjust various settings of a raw photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134041Z" creationid="ktgw0316" creationdate="20150303T133939Z">
+        <seg>&lt;b0&gt;RAW 調整&lt;/b0&gt;ツールでは RAW 写真の様々な設定を調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32069,6 +32133,14 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When done, click the proof tool button again or select Tools &gt; Hide Proof Tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133321Z" creationid="ktgw0316" creationdate="20150303T133321Z">
+        <seg>完了したら、プルーフ ツール ボタンをもう一度クリックするか「ツール」→「プルーフ ツールを隠す」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When done, you can either click anywhere outside the region, or press either the **return** or **esc** (escape) key.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150546Z">
@@ -33082,6 +33154,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T113709Z">
         <seg>アップデートを確認するにはコンピューターがインターネットに接続されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your photo will now appear on screen how it will look when printed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133203Z" creationid="ktgw0316" creationdate="20150303T133203Z">
+        <seg>写真を印刷したときにどう見えるかがスクリーン上に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36125,6 +36205,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132132Z" creationid="ktgw0316" creationdate="20150303T132132Z">
         <seg>images/Tool-Proof-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Raw_Adjustments-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133737Z" creationid="ktgw0316" creationdate="20150303T133737Z">
+        <seg>images/Tool-Raw_Adjustments-en.png</seg>
       </tuv>
     </tu>
     <tu>
