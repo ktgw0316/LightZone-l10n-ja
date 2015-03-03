@@ -912,6 +912,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new noise reduction tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130909Z" creationid="ktgw0316" creationdate="20150303T130909Z">
+        <seg>(新しいノイズ軽減ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new sharpen tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135615Z">
@@ -3636,6 +3644,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T083510Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; Lightroom の他の設定によっては、LightZone で編集した TIFF 画像のサムネイルに Lightroom が感嘆符を付けることがあります。感嘆符をクリックすると、Lightroom は写真のメタデータが他のアプリケーションで変更されたことを通知し、データをどのように同期するか尋ねてきます。一番安全なのは「設定を上書き」することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; For raw photos, you should use the Color Noise slider in the &lt;a1&gt;Raw Adjustments&lt;/a1&gt; tool first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130441Z" creationid="ktgw0316" creationdate="20150303T130224Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; Raw 画像では、まず&lt;a1&gt;Raw 調整&lt;/a1&gt;ツールの色ノイズ スライダーを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8829,6 +8845,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T150145Z">
         <seg>履歴のなかにある編集の名前をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the noise reduction tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130856Z" creationid="ktgw0316" creationdate="20150303T130856Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でノイズ軽減ツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14397,8 +14421,8 @@ truncated at the black end.</seg>
       <tuv lang="EN-US">
         <seg>If additional noise is present, for example as the result of a high ISO setting being used, then you may need to use the sliders to reduce noise further.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125813Z" creationid="ktgw0316" creationdate="20150303T125813Z">
-        <seg>それ以外のノイズが加わっている場合、例えば感度が高く</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130146Z" creationid="ktgw0316" creationdate="20150303T125813Z">
+        <seg>それ以外のノイズが加わっている場合、例えば ISO 感度を高く設定したためである場合には、ノイズを更に軽減するためにはスライダーを使う必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14755,6 +14779,14 @@ synchronize the data.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123336Z" creationid="ktgw0316" creationdate="20150303T123336Z">
         <seg>縦横比をカスタマイズしたい場合は、縦と横それぞれの長さをふたつのテキスト フィールドに入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want further noise reduction on only part of your photo, then you can use the Noise Reduction tool with a &lt;a2&gt;mask&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130757Z" creationid="ktgw0316" creationdate="20150303T130757Z">
+        <seg>写真の一部のみで更にノイズを軽減したい場合は、そのうえで&lt;a2&gt;マスク&lt;/a2&gt;と一緒にノイズ軽減ツールを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30320,6 +30352,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reduce the noise of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130813Z" creationid="ktgw0316" creationdate="20150303T130813Z">
+        <seg>写真のノイズを軽減するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove spots from your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134349Z">
@@ -35597,6 +35637,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125252Z" creationid="ktgw0316" creationdate="20150303T125252Z">
         <seg>images/Button-Hue_Saturation.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Noise_Reduction.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130815Z" creationid="ktgw0316" creationdate="20150303T130815Z">
+        <seg>images/Button-Noise_Reduction.png</seg>
       </tuv>
     </tu>
     <tu>
