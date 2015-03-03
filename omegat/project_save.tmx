@@ -11528,6 +11528,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the edges or corners of the white crop rectangle to where you want them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123541Z" creationid="ktgw0316" creationdate="20150303T123541Z">
+        <seg>白い長方形の切り抜き枠の角や辺をドラッグして好きな位置に動かせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the inner line out or in to increase or decrease the size of the feathering area.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145941Z" creationid="ktgw0316" creationdate="20141129T145755Z">
@@ -14679,10 +14687,34 @@ synchronize the data.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want a common aspect ratio, e.g., 3 x 5, you can select it from the Common Ratios menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123410Z" creationid="ktgw0316" creationdate="20150303T123053Z">
+        <seg>3 x 5 などの一般的な縦横比を選択したい場合は、一般的な縦横比のメニューから選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want a custom aspect ratio, you can enter your own width and height into the two text fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123336Z" creationid="ktgw0316" creationdate="20150303T123336Z">
+        <seg>縦横比をカスタマイズしたい場合は、縦と横それぞれの長さをふたつのテキスト フィールドに入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to constrain your photo to an aspect ratio, click the Constrain ratio button so that it shows a locked lock.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T122636Z" creationid="ktgw0316" creationdate="20150303T122636Z">
         <seg>写真を縦横比で拘束したい場合は、縦横比の拘束ボタンをクリックしてロックされた錠が表示されるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to move the entire rectangle, you can click inside of it, then drag it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123654Z" creationid="ktgw0316" creationdate="20150303T123654Z">
+        <seg>長方形全体を動かしたい場合は、その内側をクリックしてからドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
