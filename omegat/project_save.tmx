@@ -11430,8 +11430,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Do either of the following:</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T145607Z">
-        <seg>以下のどれかを行います。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135420Z">
+        <seg>以下のどれかを行います:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27707,6 +27707,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Exposure slider adjusts the exposure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135522Z" creationid="ktgw0316" creationdate="20150303T135522Z">
+        <seg>「露出」スライダーでは露出を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Folder Navigator allows you to navigate to, select, and view the
 thumbnails and [metadata](Metadata.html) for photos in folders on your
 computer.</seg>
@@ -30600,6 +30608,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reset the Temperature to its original value, click the As Shot button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135858Z" creationid="ktgw0316" creationdate="20150303T135858Z">
+        <seg>色温度を元の値に戻すには、「撮影時」ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To resume editing of your photo: select the JPEG then select Action
     \&gt; Open&amp;nbsp;With \&gt; LightZone.</seg>
       </tuv>
@@ -31630,6 +31646,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the sliders to adjust your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135409Z" creationid="ktgw0316" creationdate="20150303T135403Z">
+        <seg>スライダーで写真を調整できます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the sliders to make adjustments:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T172618Z">
@@ -32286,6 +32310,14 @@ is Relative Colorimetric.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T142408Z" creationid="ktgw0316" creationdate="20150130T142113Z">
         <seg>しかし、再度 LightZone で開くとツールスタックが復元されて前回の続きから編集を再開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When satisfied with the raw adjustments, click the eyedropper button again to complete the adjustment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135737Z" creationid="ktgw0316" creationdate="20150303T135737Z">
+        <seg>RAW 調整に満足したら、スポイト ボタンをもう一度クリックして調整を完了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33218,6 +33250,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133203Z" creationid="ktgw0316" creationdate="20150303T133203Z">
         <seg>写真を印刷したときにどう見えるかがスクリーン上に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your photo's colors will then shift accordingly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135544Z" creationid="ktgw0316" creationdate="20150303T135526Z">
+        <seg>写真の色がそのようにシフトします。</seg>
       </tuv>
     </tu>
     <tu>
