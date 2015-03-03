@@ -8721,6 +8721,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the crop tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121748Z" creationid="ktgw0316" creationdate="20150303T121748Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で切り抜きツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T143120Z" creationid="ktgw0316" creationdate="20141129T142925Z">
@@ -10190,6 +10198,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T095859Z">
         <seg>切り抜きモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cropping a photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121109Z" creationid="ktgw0316" creationdate="20150303T121109Z">
+        <seg>写真を切り抜く</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,6 +13830,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to crop your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121038Z" creationid="ktgw0316" creationdate="20150303T120955Z">
+        <seg>写真を切り抜くには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to delete control points from a region.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110317Z">
@@ -15388,6 +15412,14 @@ window.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is always applied to your entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121718Z" creationid="ktgw0316" creationdate="20150303T121718Z">
+        <seg>常に写真全体に適用され、&lt;a0&gt;ツール スタック&lt;/a0&gt;には配置されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to note that, for most printers, there isn't one setting that will always give the best results.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T031532Z" creationid="ktgw0316" creationdate="20140330T031532Z">
@@ -16835,6 +16867,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T024235Z" creationid="ktgw0316" creationdate="20140330T024235Z">
         <seg>LightZone: ツールをコピー &amp; ペーストする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Cropping a Photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121101Z" creationid="ktgw0316" creationdate="20150303T120933Z">
+        <seg>LightZone: 写真を切り抜く</seg>
       </tuv>
     </tu>
     <tu>
@@ -19740,6 +19780,14 @@ photos in iView MediaPro and edit it in LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T150600Z" creationid="ktgw0316" creationdate="20141129T150600Z">
         <seg>場合によっては、写真の一部をツールの効果から&lt;e1&gt;除外&lt;/e1&gt;させるためにマスクを使えると便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often you want to crop a photo to remove unwanted areas or to focus attention on the main subject.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121455Z" creationid="ktgw0316" creationdate="20150303T121455Z">
+        <seg>主な被写体に注意を惹いたり不要な部分を除いたりするために、写真を切り抜きたい場合がよくあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29762,6 +29810,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To crop your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121728Z" creationid="ktgw0316" creationdate="20150303T121728Z">
+        <seg>写真を切り抜くには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete a control point from a region:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110330Z">
@@ -30953,6 +31009,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T144852Z" creationid="ktgw0316" creationdate="20141230T144852Z">
         <seg>他のツールとは違う特徴として、複製ツールには最低ひとつの&lt;a0&gt;領域&lt;/a0&gt;が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the crop tool is special.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121613Z" creationid="ktgw0316" creationdate="20150303T121613Z">
+        <seg>他のツールと違って、切り抜きツールは特別です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32666,6 +32730,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T032046Z" creationid="ktgw0316" creationdate="20140330T032046Z">
         <seg>ある設定やカラー プロファイルで何枚かのカラー写真は綺麗に印刷できるのに、別の写真ではうまくいかない、という状況が起こることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You use the &lt;b0&gt;Crop&lt;/b0&gt; tool for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121546Z" creationid="ktgw0316" creationdate="20150303T121546Z">
+        <seg>そのためには&lt;b0&gt;切り抜き&lt;/b0&gt;ツールを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35361,6 +35433,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Crop.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121733Z" creationid="ktgw0316" creationdate="20150303T121733Z">
+        <seg>images/Button-Crop.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Polygon.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
@@ -35637,6 +35717,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152200Z" creationid="ktgw0316" creationdate="20141230T152200Z">
         <seg>images/Tool-Color_Balance-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Crop-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121112Z" creationid="ktgw0316" creationdate="20150303T121112Z">
+        <seg>images/Tool-Crop-en.png</seg>
       </tuv>
     </tu>
     <tu>
