@@ -27292,8 +27292,8 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Noise Reduction&lt;/b0&gt; tool allows you to reduce "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T144040Z">
-        <seg>&lt;b0&gt;ノイズ除去&lt;/b0&gt;ツールでは、デジタル カメラのセンサーで発生して写真に表れることが多い「ノイズ」を軽減できます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132018Z">
+        <seg>&lt;b0&gt;ノイズ軽減&lt;/b0&gt;ツールでは、デジタル カメラのセンサーで発生して写真に表れることが多い「ノイズ」を軽減できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28239,8 +28239,8 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       <tuv lang="EN-US">
         <seg>The initial settings for thr noise reduction tool are good for reducing the noise introduced by the sensors in digital cameras.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125652Z" creationid="ktgw0316" creationdate="20150303T125652Z">
-        <seg>ノイズ除去ツールの初期設定はデジタル カメラのセンサーで発生するノイズを軽減するのに適しています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132031Z" creationid="ktgw0316" creationdate="20150303T125652Z">
+        <seg>ノイズ軽減ツールの初期設定はデジタル カメラのセンサーで発生するノイズを軽減するのに適しています。</seg>
       </tuv>
     </tu>
     <tu>
