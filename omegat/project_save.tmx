@@ -3704,6 +3704,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Noise, and reductions to it, are most easily seen while looking at a digital photo at the pixel level by selecting View &gt; Actual Pixels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T131851Z" creationid="ktgw0316" creationdate="20150303T131851Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; ノイズや、その軽減の効果が最も判りやすいのは、「表示」→「実ピクセル」でデジタル写真をピクセル レベルで見たときです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150534Z">
@@ -27507,6 +27515,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Color Noise slider controls the amount of color noise reduction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T131139Z" creationid="ktgw0316" creationdate="20150303T131040Z">
+        <seg>色ノイズ スライダーでは色ノイズ軽減の効果を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Folder Navigator allows you to navigate to, select, and view the
 thumbnails and [metadata](Metadata.html) for photos in folders on your
 computer.</seg>
@@ -27545,6 +27561,14 @@ computer.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T124000Z">
         <seg>Finder やエクスプローラーのウィンドウを一覧表示モードにした場合に似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Grain Noise slider reduces how "grainy" your photo appears.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T131308Z" creationid="ktgw0316" creationdate="20150303T131051Z">
+        <seg>粒状ノイズ スライダーでは写真の「粗さ」軽減の効果を調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31370,6 +31394,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152025Z" creationid="ktgw0316" creationdate="20141230T152025Z">
         <seg>「半径」スライダーでぼかしの効果を調整します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to adjust the noise reduction effect:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130935Z" creationid="ktgw0316" creationdate="20150303T130935Z">
+        <seg>スライダーでノイズ軽減の効果を調整できます:</seg>
       </tuv>
     </tu>
     <tu>
