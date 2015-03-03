@@ -4914,6 +4914,14 @@ photo from a sidecar XMP file (if present).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, any "hot pixels" that are found are automatically removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134141Z" creationid="ktgw0316" creationdate="20150303T134141Z">
+        <seg>さらに、見つかった「ホット ピクセル」は自動で除去されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering
 thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
@@ -4961,6 +4969,14 @@ preventing sharp edges.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163631Z">
         <seg>さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので境目がくっきりするのを避けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, it is always applied to the entire photo and can not be masked using &lt;a1&gt;regions&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134740Z" creationid="ktgw0316" creationdate="20150303T134740Z">
+        <seg>さらに、常に写真全体に適用されるため、&lt;a1&gt;領域&lt;/a1&gt;でマスクできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11584,6 +11600,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the title bar of the Raw Adjustments tool to expand it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134852Z" creationid="ktgw0316" creationdate="20150303T134852Z">
+        <seg>RAW 調整ツールのタイトル バーをダブルクリックして展開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click to create the last control point.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110259Z">
@@ -13257,6 +13281,22 @@ color channels extend into the lightest zone).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T081650Z">
         <seg>Raw 画像では、Lightroom では 3 番目の選択肢しか選べません。JPEG 画像または TIFF 画像でも、元画像が変更されるのを防ぐため「コピーを Lightroom Adjustments を使って編集する」を選ぶのが良いでしょう。その場合、Lightroom は次のように動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For raw photos, it is always present at the bottom of the &lt;a0&gt;tool stack&lt;/a0&gt; and can neither be disabled nor deleted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134700Z" creationid="ktgw0316" creationdate="20150303T134700Z">
+        <seg>RAW 写真では常に&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番下に置かれており、無効化も削除もできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For raw photos, using the single Raw Adjustments tool yields better results than if you had used the &lt;a0&gt;ZoneMapper&lt;/a0&gt; (for an exposure adjustment), &lt;a1&gt;Noise Reduction&lt;/a1&gt;, and &lt;a2&gt;White Balance&lt;/a2&gt; tools separately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134507Z" creationid="ktgw0316" creationdate="20150303T134507Z">
+        <seg>RAW 写真では、ひとつの RAW 調整ツールを用いた方が個別に&lt;a0&gt;ゾーン マッパー&lt;/a0&gt; (露出調整用)・&lt;a1&gt;ノイズ軽減&lt;/a1&gt;・&lt;a2&gt;ホワイト バランス&lt;/a2&gt;のツールを用いるよりも良い結果を得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30472,6 +30512,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make raw adjustments to your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134744Z" creationid="ktgw0316" creationdate="20150303T134744Z">
+        <seg>写真のRAW 調整を行うには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To navigate to a folder:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T144112Z">
@@ -31369,6 +31417,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T162906Z">
         <seg>他のアプリケーションと違って、LightZone では領域を (&lt;e1&gt;ペイント&lt;/e1&gt;するのではなく) &lt;e0&gt;ドロー&lt;/e0&gt;することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the Raw Adjustments tool is special.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134528Z" creationid="ktgw0316" creationdate="20150303T134520Z">
+        <seg>他のツールと違って、RAW 調整ツールは特別です。</seg>
       </tuv>
     </tu>
     <tu>
