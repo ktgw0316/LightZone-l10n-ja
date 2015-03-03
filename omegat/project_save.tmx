@@ -929,6 +929,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T122131Z" creationid="ktgw0316" creationdate="20150303T122131Z">
+        <seg>(白い長方形の切り抜き枠とグリッドとが写真の上に現れ、切り抜きツールのコントロールがツール バーの右側に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As you do so, the corresponding zones in the &lt;a0&gt;ZoneFinder&lt;/a0&gt; will highlight.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133912Z" creationid="ktgw0316" creationdate="20150115T133912Z">
@@ -14671,6 +14679,14 @@ synchronize the data.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to constrain your photo to an aspect ratio, click the Constrain ratio button so that it shows a locked lock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T122636Z" creationid="ktgw0316" creationdate="20150303T122636Z">
+        <seg>写真を縦横比で拘束したい場合は、縦横比の拘束ボタンをクリックしてロックされた錠が表示されるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your photo does not print well using a custom ICC profile for your printer, try using the standard or vivid settings in your printer driver instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T032527Z" creationid="ktgw0316" creationdate="20140330T032527Z">
@@ -28366,6 +28382,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T030708Z" creationid="ktgw0316" creationdate="20140330T030708Z">
         <seg>そのうえで、プリンター設定ダイアログで、プリンター ドライバーによる色変換を行わないように設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you can select the aspect ratio in one of two ways:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T122801Z" creationid="ktgw0316" creationdate="20150303T122801Z">
+        <seg>そのうえで、縦横比を以下のどちらかの方法で選択できます:</seg>
       </tuv>
     </tu>
     <tu>
