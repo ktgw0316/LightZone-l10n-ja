@@ -1529,6 +1529,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The white crop rectangle and the crop tool's controls will disappear and your photo will be cropped.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125124Z" creationid="ktgw0316" creationdate="20150303T125124Z">
+        <seg>(白い長方形の切り抜き枠と切り抜きツールのコントロールとが消え、写真が切り抜かれます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is no significance to the order.)  There is no limit to the number of control points a region may have.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T152152Z">
@@ -3652,6 +3660,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T115059Z" creationid="ktgw0316" creationdate="20141230T114411Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; カメラの&lt;a1&gt;既定のトーン カーブ&lt;/a1&gt;を自作のスタイルで置き換えている場合、元の既定のトーン カーブに戻すには「ファイル」→「スタイルをリセット...」からスタイル名を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you want to start over, you can click the Reset button in the crop tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125239Z" creationid="ktgw0316" creationdate="20150303T125239Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; やり直したい場合は、切り抜きツールにあるリセット ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8715,8 +8731,16 @@ Samsung</seg>
       <tuv lang="EN-US">
         <seg>Click the arrow button to commit the crop.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124531Z" creationid="ktgw0316" creationdate="20150303T124531Z">
-        <seg>矢印ボタンをクリックして回転を適用します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125002Z" creationid="ktgw0316" creationdate="20150303T124531Z">
+        <seg>矢印ボタンをクリックすると切り抜きを確定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the arrow button to commit the rotate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124953Z" creationid="ktgw0316" creationdate="20150303T124953Z">
+        <seg>矢印ボタンをクリックすると回転を確定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14367,6 +14391,14 @@ truncated at the black end.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T155138Z">
         <seg>新しいバージョンが入手できる場合、通知が出ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If additional noise is present, for example as the result of a high ISO setting being used, then you may need to use the sliders to reduce noise further.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125813Z" creationid="ktgw0316" creationdate="20150303T125813Z">
+        <seg>それ以外のノイズが加わっている場合、例えば感度が高く</seg>
       </tuv>
     </tu>
     <tu>
@@ -28149,6 +28181,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initial settings for thr noise reduction tool are good for reducing the noise introduced by the sensors in digital cameras.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125652Z" creationid="ktgw0316" creationdate="20150303T125652Z">
+        <seg>ノイズ除去ツールの初期設定はデジタル カメラのセンサーで発生するノイズを軽減するのに適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The major difference, however, is that only folders and disks are shown</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T122315Z">
@@ -28398,6 +28438,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T144454Z">
         <seg>色度か輝度 (またはその両方) のノイズを軽減します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tool reduces noise in either color or grain (or both).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125412Z" creationid="ktgw0316" creationdate="20150303T125412Z">
+        <seg>このツールは色ノイズまたは粒状ノイズ (あるいは両方) を軽減します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35545,6 +35593,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Hue_Saturation.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125252Z" creationid="ktgw0316" creationdate="20150303T125252Z">
+        <seg>images/Button-Hue_Saturation.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Polygon.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141152Z" creationid="ktgw0316" creationdate="20141230T141152Z">
@@ -35625,6 +35681,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Color_Wheel.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125254Z" creationid="ktgw0316" creationdate="20150303T125254Z">
+        <seg>images/Color_Wheel.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Default_Tone_Curve-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140356Z" creationid="ktgw0316" creationdate="20141114T140356Z">
@@ -35653,6 +35717,30 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163117Z">
         <seg>images/History-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-original.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125248Z" creationid="ktgw0316" creationdate="20150303T125248Z">
+        <seg>images/Hue_Saturation-original.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-saturation.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125251Z" creationid="ktgw0316" creationdate="20150303T125251Z">
+        <seg>images/Hue_Saturation-saturation.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-vibrance.jpg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125249Z" creationid="ktgw0316" creationdate="20150303T125249Z">
+        <seg>images/Hue_Saturation-vibrance.jpg</seg>
       </tuv>
     </tu>
     <tu>
@@ -35829,6 +35917,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121112Z" creationid="ktgw0316" creationdate="20150303T121112Z">
         <seg>images/Tool-Crop-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Hue_Saturation-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125246Z" creationid="ktgw0316" creationdate="20150303T125246Z">
+        <seg>images/Tool-Hue_Saturation-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Noise_Reduction-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125256Z" creationid="ktgw0316" creationdate="20150303T125256Z">
+        <seg>images/Tool-Noise_Reduction-en.png</seg>
       </tuv>
     </tu>
     <tu>
