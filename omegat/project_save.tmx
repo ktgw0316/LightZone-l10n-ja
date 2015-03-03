@@ -1473,6 +1473,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The proof tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132919Z" creationid="ktgw0316" creationdate="20150303T132919Z">
+        <seg>(プルーフ ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The region kind buttons will appear to the right of the tool bar and the regions for the tool will become visible on your photo.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163847Z">
@@ -4995,6 +5003,14 @@ buttons can be used to navigate.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T144548Z">
         <seg>他の方法として、ナビゲーター ツール ボタンを使って移動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, there can be at most one proof tool, it is always placed at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;, and its label can not be edited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132630Z" creationid="ktgw0316" creationdate="20150303T132630Z">
+        <seg>さらに、プルーフ ツールの数は最大ひとつで、常に&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に置かれ、ラベルは編集できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8861,6 +8877,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130856Z" creationid="ktgw0316" creationdate="20150303T130856Z">
         <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でノイズ軽減ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the proof tool button in the &lt;a0&gt;tool bar&lt;/a0&gt; or select Tools &gt; Show Proof Tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132847Z" creationid="ktgw0316" creationdate="20150303T132847Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でプルーフ ツールのボタンをクリックするか、「ツール」→「プルーフ ツールを表示」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14070,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to proff your photo on screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132123Z" creationid="ktgw0316" creationdate="20150303T132123Z">
+        <seg>写真をスクリーン上でプルーフするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rate photos directly in the Photo Browser.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141136Z" creationid="ktgw0316" creationdate="20141230T141136Z">
@@ -15556,6 +15588,14 @@ window.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is always applied to the entire photo and can not be masked using &lt;a0&gt;regions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132433Z" creationid="ktgw0316" creationdate="20150303T132433Z">
+        <seg>常に写真全体に適用されるため、&lt;a0&gt;領域&lt;/a0&gt;でマスクできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is always applied to your entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121718Z" creationid="ktgw0316" creationdate="20150303T121718Z">
@@ -15955,6 +15995,14 @@ Ricoh</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T075338Z">
         <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lastly, it is only in effect when shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132731Z" creationid="ktgw0316" creationdate="20150303T132731Z">
+        <seg>最後に、効果を持つのは表示されている間だけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17195,6 +17243,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T162849Z">
         <seg>LightZone: 印刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Proofing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132102Z" creationid="ktgw0316" creationdate="20150303T132102Z">
+        <seg>LightZone: プルーフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21611,6 +21667,14 @@ Content-Type: text/plain;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proofing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132129Z" creationid="ktgw0316" creationdate="20150303T132126Z">
+        <seg>プルーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Province/State</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T075547Z">
@@ -25140,6 +25204,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the printer profile you will use from the Printer Profile pop-up menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133017Z" creationid="ktgw0316" creationdate="20150303T133004Z">
+        <seg>使用したいプリンター プロファイルをポップアップ メニューから選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the region you want to copy by clicking it.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164502Z">
@@ -27326,6 +27398,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T094158Z">
         <seg>&lt;b0&gt;印刷&lt;/b0&gt;ボタンは「ファイル」→「&lt;a1&gt;印刷&lt;/a1&gt;」と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Proof&lt;/b0&gt; tool allows you to see on screen how your photo will look when &lt;a1&gt;printed&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132329Z" creationid="ktgw0316" creationdate="20150303T132329Z">
+        <seg>&lt;b0&gt;プルーフ&lt;/b0&gt; ツールでは写真を&lt;a1&gt;印刷&lt;/a1&gt;したときにどう見えるかをスクリーン上で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30360,6 +30440,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To proof your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132745Z" creationid="ktgw0316" creationdate="20150303T132745Z">
+        <seg>写真をプルーフするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rate photos:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104215Z">
@@ -31233,6 +31321,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121613Z" creationid="ktgw0316" creationdate="20150303T121613Z">
         <seg>他のツールと違って、切り抜きツールは特別です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the proof tool is special.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132341Z" creationid="ktgw0316" creationdate="20150303T132341Z">
+        <seg>他のツールと違って、プルーフ ツールは特別です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35689,6 +35785,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Proof.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132747Z" creationid="ktgw0316" creationdate="20150303T132747Z">
+        <seg>images/Button-Proof.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
@@ -36013,6 +36117,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125256Z" creationid="ktgw0316" creationdate="20150303T125256Z">
         <seg>images/Tool-Noise_Reduction-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Proof-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132132Z" creationid="ktgw0316" creationdate="20150303T132132Z">
+        <seg>images/Tool-Proof-en.png</seg>
       </tuv>
     </tu>
     <tu>
