@@ -18730,6 +18730,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving the exposure slider to the left (yielding a negative value) performs highlight recovery in "blown out" areas of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T134029Z" creationid="ktgw0316" creationdate="20150308T134029Z">
+        <seg>露出スライダーを左 (負の値) に動かすと写真の「白飛びした」領域に対してハイライト復元が実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multipage TIFF images</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163759Z">
@@ -27703,6 +27711,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T131139Z" creationid="ktgw0316" creationdate="20150303T131040Z">
         <seg>色ノイズ スライダーでは色ノイズ軽減の効果を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Color Noise slider reduces the amount of "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T134316Z" creationid="ktgw0316" creationdate="20150308T134316Z">
+        <seg>「色ノイズ」スライダーでは、デジタル カメラのセンサーによってデジタル写真によく現れる「ノイズ」の量を減らせます。</seg>
       </tuv>
     </tu>
     <tu>
