@@ -31774,6 +31774,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Tolerance slider to adjust how "red" pixels have to be in order to have their redness reduced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T141511Z" creationid="ktgw0316" creationdate="20150308T141155Z">
+        <seg>「許容量」スライダーを使って、どの程度「赤い」ピクセルを赤目軽減の対象にするかを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the sliders to adjust the noise reduction effect:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130935Z" creationid="ktgw0316" creationdate="20150303T130935Z">
