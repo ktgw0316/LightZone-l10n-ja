@@ -864,6 +864,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A &lt;a0&gt;region&lt;/a0&gt; will appear every time you click.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140033Z" creationid="ktgw0316" creationdate="20150308T140033Z">
+        <seg>(クリックするたびに&lt;a0&gt;領域&lt;/a0&gt;が現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new ZoneMapper tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133523Z" creationid="ktgw0316" creationdate="20150115T133512Z">
@@ -916,6 +924,14 @@ half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130909Z" creationid="ktgw0316" creationdate="20150303T130909Z">
         <seg>(新しいノイズ軽減ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(A new red-eye tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135802Z" creationid="ktgw0316" creationdate="20150308T135802Z">
+        <seg>(新しい赤目軽減ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8628,6 +8644,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on every eye in your photo that you want redness removed from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135905Z" creationid="ktgw0316" creationdate="20150308T135905Z">
+        <seg>写真上で赤目軽減したい目をすべてクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on every spot in your photo that you want removed.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134446Z">
@@ -8925,6 +8949,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T131819Z">
         <seg>評価ボタンをクリックし、付けたい星の数を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the red-eye tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135754Z" creationid="ktgw0316" creationdate="20150308T135754Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で赤目軽減ツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14158,6 +14190,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to reduce "red-eye" in your photos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135255Z" creationid="ktgw0316" creationdate="20150308T135255Z">
+        <seg>写真の「赤目」を軽減するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to reduce digital camera sensor noise in your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T173324Z">
@@ -17343,6 +17383,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Red-Eye Reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135220Z" creationid="ktgw0316" creationdate="20150308T135220Z">
+        <seg>LightZone: 赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Regions and Masks</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105500Z">
@@ -17683,6 +17731,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T073001Z">
         <seg>Lightroom (アドビ システムズ製)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the Spot tool, the regions for the Red-Eye tool can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135734Z" creationid="ktgw0316" creationdate="20150308T135734Z">
+        <seg>スポット ツールでも赤目軽減ツールでも、領域は&lt;a1&gt;反転&lt;/a1&gt;できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22242,6 +22298,14 @@ Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
         <seg>Red-Eye</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165716Z">
+        <seg>赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red-Eye reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135302Z" creationid="ktgw0316" creationdate="20150308T135302Z">
         <seg>赤目軽減</seg>
       </tuv>
     </tu>
@@ -28590,6 +28654,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The red-eye tool works similarly to the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135353Z" creationid="ktgw0316" creationdate="20150308T135353Z">
+        <seg>赤目軽減ツールは&lt;a0&gt;スポット ツール&lt;/a0&gt;と似た動作をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rending intents you can select are described below.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151516Z" creationid="ktgw0316" creationdate="20141129T151516Z">
@@ -30604,6 +30676,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104215Z">
         <seg>写真を評価するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reduce red-eye in your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135742Z" creationid="ktgw0316" creationdate="20150308T135742Z">
+        <seg>写真の「赤目」を軽減するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36001,6 +36081,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Red-Eye.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135743Z" creationid="ktgw0316" creationdate="20150308T135743Z">
+        <seg>images/Button-Red-Eye.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
@@ -36341,6 +36429,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133737Z" creationid="ktgw0316" creationdate="20150303T133737Z">
         <seg>images/Tool-Raw_Adjustments-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Red-Eye-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135304Z" creationid="ktgw0316" creationdate="20150308T135304Z">
+        <seg>images/Tool-Red-Eye-en.png</seg>
       </tuv>
     </tu>
     <tu>
