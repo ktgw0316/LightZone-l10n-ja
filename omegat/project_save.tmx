@@ -5487,6 +5487,14 @@ Nikon</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, click the eyedropper button inside the tool (the mouse will change to an eyedropper), then click somewhere on your photo that you want to be neutral gray.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135101Z" creationid="ktgw0316" creationdate="20150308T135101Z">
+        <seg>別の方法として、ツール上のスポイト ボタンをクリックします (マウス ポインタがスポイトに変わります) 。そのうえで写真のなかで無彩色灰色にしたい場所をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, if you have edited a photo recently, select File &gt; Open Recent... and the name of the photo from the menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T150011Z">
@@ -27956,6 +27964,14 @@ TIFF file.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T141259Z">
         <seg>TIFF 画像形式ではひとつの TIFF ファイルに複数枚の画像を含めることができます。これは fax などのデジタル化された複数ページの文書を格納するのによく使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Temperature and Tint sliders adjust the temperature and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T134742Z" creationid="ktgw0316" creationdate="20150308T134742Z">
+        <seg>「色温度」と「濃淡」のスライダーでは写真の色温度と濃淡を調整することで青空やタングステン照明などの光源による色かぶりを補正します。</seg>
       </tuv>
     </tu>
     <tu>
