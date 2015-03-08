@@ -18,3 +18,6 @@ v.	縦に (= vertically)
 neutral	無彩色
 as shot	撮影時の
 vibrance	自然な彩度
+alternatively	別の方法として
+then	そのうえで
+
