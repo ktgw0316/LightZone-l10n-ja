@@ -1420,6 +1420,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points and &lt;a0&gt;inner feathering line&lt;/a0&gt; will become visible.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140314Z" creationid="ktgw0316" creationdate="20150308T140223Z">
+        <seg>(調整点と&lt;a0&gt;内側のフェザリング線&lt;/a0&gt;が見えるようになります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The control points and the inner line will become visible.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145529Z" creationid="ktgw0316" creationdate="20141129T145529Z">
@@ -11624,6 +11632,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the region you want to adjust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140135Z" creationid="ktgw0316" creationdate="20150308T140135Z">
+        <seg>調整したい領域をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click the spot you want to adjust.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134557Z">
@@ -11676,6 +11692,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070731Z">
         <seg>写真のドラッグ &amp; ドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a control point or the feathering line until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140328Z" creationid="ktgw0316" creationdate="20150308T140309Z">
+        <seg>調整点やフェザリング線をドラッグして位置を合わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30120,6 +30144,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the size or shape of a region:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140116Z" creationid="ktgw0316" creationdate="20150308T140116Z">
+        <seg>領域の大きさや形を調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the size or shape of a spot:
     1.</seg>
       </tuv>
@@ -32337,6 +32369,14 @@ specific areas of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150546Z">
         <seg>完了したら、領域の外をクリックするか、**Return** または **ESC** キーを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When done, you can either click anywhere outside the region, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key to complete the adjustments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140543Z" creationid="ktgw0316" creationdate="20150308T140543Z">
+        <seg>完了したら、領域の外をクリックするか、&lt;b0&gt;&gt;Return&lt;/b0&gt; または &lt;b1&gt;ESC&lt;/b1&gt; キーを押して調整を終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36245,6 +36285,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T164842Z">
         <seg>images/Print_Dialog-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Red-Eye-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140226Z" creationid="ktgw0316" creationdate="20150308T140226Z">
+        <seg>images/Red-Eye-Control_Points.png</seg>
       </tuv>
     </tu>
     <tu>
