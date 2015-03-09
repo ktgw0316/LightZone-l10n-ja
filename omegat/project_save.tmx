@@ -27867,6 +27867,22 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Depth slider adjusts how "flat" or "deep" the lighting of your photo is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141139Z" creationid="ktgw0316" creationdate="20150309T141139Z">
+        <seg>「深さ」スライダーでは写真の照明がどの程度「フラット」か「ディープ」かを調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Detail slider controls the local contrast adjustment on the details in your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T140831Z" creationid="ktgw0316" creationdate="20150309T140831Z">
+        <seg>「詳細」スライダーでは写真の細部のローカル コントラストを調整できます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Exposure slider adjusts the exposure.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T135522Z" creationid="ktgw0316" creationdate="20150303T135522Z">
@@ -27921,6 +27937,14 @@ computer.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T131308Z" creationid="ktgw0316" creationdate="20150303T131051Z">
         <seg>粒状ノイズ スライダーでは写真の「粗さ」軽減の効果を調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Highlights slider adjusts the lightness of those part of your photo that are brightly lit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T140543Z" creationid="ktgw0316" creationdate="20150309T140543Z">
+        <seg>「ハイライト」スライダーでは写真の明るく照らされた部分の明るさを調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28075,6 +28099,14 @@ the same time, increasing the local contrast.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T053754Z">
         <seg>以下のようなものが設定に含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadows slider adjusts the lightness of those parts of your photo that are in shadow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T140630Z" creationid="ktgw0316" creationdate="20150309T140423Z">
+        <seg>「シャドウ」スライダーでは写真の陰の部分の明るさを調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28558,6 +28590,14 @@ brightness or half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T153936Z">
         <seg>隠しフォルダーは、個々の写真と同じフォルダー (「ローカル」) またはすべての写真に共通の場所 (「グローバル」) に置くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The higher the detail value, the higher the detail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T140923Z" creationid="ktgw0316" creationdate="20150309T140923Z">
+        <seg>詳細の値が大きいほど、細部が強調されます。</seg>
       </tuv>
     </tu>
     <tu>
