@@ -969,6 +969,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new white balance tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143513Z" creationid="ktgw0316" creationdate="20150309T143513Z">
+        <seg>(新しいホワイトバランス ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T122131Z" creationid="ktgw0316" creationdate="20150303T122131Z">
@@ -1743,6 +1751,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145531Z" creationid="ktgw0316" creationdate="20150130T145531Z">
         <seg>(写真の色がそのようにシフトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Your photo's colors will then shift accordingly.) When satisfied with the color cast reduction, click the eyedropper button again to complete the adjustment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143735Z" creationid="ktgw0316" creationdate="20150309T143735Z">
+        <seg>(写真の色がそのようにシフトします。) 色かぶりの軽減の結果に満足したら、スポイト ボタンをもう一度クリックして調整を完了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3748,6 +3764,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130441Z" creationid="ktgw0316" creationdate="20150303T130224Z">
         <seg>&lt;b0&gt;註:&lt;/b0&gt; Raw 画像では、まず&lt;a1&gt;Raw 調整&lt;/a1&gt;ツールの色ノイズ スライダーを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; For raw photos, you should use the Temperature and Tint sliders of the &lt;a1&gt;Raw Adjustments&lt;/a1&gt; tool instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143347Z" creationid="ktgw0316" creationdate="20150309T143347Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; Raw 画像では、代わりに&lt;a1&gt;Raw 調整&lt;/a1&gt;ツールで色温度と濃淡のスライダーを使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8985,6 +9009,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the eyedropper button inside the tool (the mouse will change to an eyedropper), then click somewhere on your photo that you want to be neutral gray.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143613Z" creationid="ktgw0316" creationdate="20150309T143613Z">
+        <seg>ツール上のスポイト ボタンをクリックします (マウス ポインタがスポイトに変わります) 。そのうえで写真のなかで無彩色灰色にしたい場所をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button inside the tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145405Z" creationid="ktgw0316" creationdate="20150130T145405Z">
@@ -9101,6 +9133,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T123842Z">
         <seg>三角形またはプラス記号 '+' をクリックしてフォルダーを展開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the white balance tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143406Z" creationid="ktgw0316" creationdate="20150309T143406Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でホワイトバランス ツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13487,8 +13527,8 @@ color channels extend into the lightest zone).</seg>
       <tuv lang="EN-US">
         <seg>For raw photos, using the single Raw Adjustments tool yields better results than if you had used the &lt;a0&gt;ZoneMapper&lt;/a0&gt; (for an exposure adjustment), &lt;a1&gt;Noise Reduction&lt;/a1&gt;, and &lt;a2&gt;White Balance&lt;/a2&gt; tools separately.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134507Z" creationid="ktgw0316" creationdate="20150303T134507Z">
-        <seg>RAW 写真では、ひとつの RAW 調整ツールを用いた方が個別に&lt;a0&gt;ゾーン マッパー&lt;/a0&gt; (露出調整用)・&lt;a1&gt;ノイズ軽減&lt;/a1&gt;・&lt;a2&gt;ホワイト バランス&lt;/a2&gt;のツールを用いるよりも良い結果を得られます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143443Z" creationid="ktgw0316" creationdate="20150303T134507Z">
+        <seg>RAW 写真では、ひとつの RAW 調整ツールを用いた方が個別に&lt;a0&gt;ゾーン マッパー&lt;/a0&gt; (露出調整用)・&lt;a1&gt;ノイズ軽減&lt;/a1&gt;・&lt;a2&gt;ホワイトバランス&lt;/a2&gt;のツールを用いるよりも良い結果を得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27954,6 +27994,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143304Z" creationid="ktgw0316" creationdate="20150309T143304Z">
+        <seg>&lt;b0&gt;ホワイトバランス&lt;/b0&gt;ツールではホワイトバランスや濃淡を調整することで青空やタングステン照明などの光源による色かぶりを補正できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T145813Z">
@@ -31506,6 +31554,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Luminosity_RGB.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143740Z" creationid="ktgw0316" creationdate="20150309T143740Z">
+        <seg>Tool-ZoneMapper-Luminosity_RGB.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper-ZoneFinder.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T090449Z">
@@ -32098,6 +32154,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152025Z" creationid="ktgw0316" creationdate="20141230T152025Z">
         <seg>「半径」スライダーでぼかしの効果を調整します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Temperature and Tint sliders to adjust the white balance and tint.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143552Z" creationid="ktgw0316" creationdate="20150309T143552Z">
+        <seg>「色温度」と「濃淡」のスライダーを使ってホワイトバランスと濃淡を調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36557,6 +36621,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T143500Z" creationid="ktgw0316" creationdate="20141230T143500Z">
         <seg>images/Button-Stack.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-White_Balance.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143349Z" creationid="ktgw0316" creationdate="20150309T143349Z">
+        <seg>images/Button-White_Balance.png</seg>
       </tuv>
     </tu>
     <tu>
