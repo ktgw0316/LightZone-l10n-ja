@@ -952,6 +952,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new spot tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142812Z" creationid="ktgw0316" creationdate="20150309T142812Z">
+        <seg>(新しいスポット ツールが&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番上に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new white balance tool will appear at
     the top of the [tool stack](Tool_Stack.html).)</seg>
       </tuv>
@@ -1470,10 +1478,26 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points, cross-hair cursor, and &lt;a0&gt;inner feathering line&lt;/a0&gt; will become visible.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142849Z" creationid="ktgw0316" creationdate="20150309T142849Z">
+        <seg>(調整点・十字カーソル・&lt;a0&gt;内部フェザリング線&lt;/a0&gt;が表示されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The cross-hair cursor designates the center
         of the area to copy from.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135024Z">
+        <seg>(十字カーソルはコピー元の領域の中心を示します。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The cross-hair cursor designates the center of the area to copy from.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142934Z" creationid="ktgw0316" creationdate="20150309T142934Z">
         <seg>(十字カーソルはコピー元の領域の中心を示します。)</seg>
       </tuv>
     </tu>
@@ -1589,6 +1613,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125124Z" creationid="ktgw0316" creationdate="20150303T125124Z">
         <seg>(白い長方形の切り抜き枠と切り抜きツールのコントロールとが消え、写真が切り抜かれます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The white rotate rectangle and the rotate tool's controls will disappear and your photo will be rotated.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142257Z" creationid="ktgw0316" creationdate="20150309T142257Z">
+        <seg>(白い長方形の回転枠と切り抜きツールのコントロールとが消え、写真が回転されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,6 +3712,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; After adjusting the size of a spot, all subsequently created spots will have the new size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143036Z" creationid="ktgw0316" creationdate="20150309T143036Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; スポットの大きさを調整すると、それ以降に作成するスポットはその新しい大きさになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T103443Z">
@@ -5503,6 +5543,14 @@ Nikon</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also like the Clone tool, the regions for the Spot tool can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142713Z" creationid="ktgw0316" creationdate="20150309T142713Z">
+        <seg>これも複製ツールと同様に、スポット ツールの領域も&lt;a1&gt;反転&lt;/a1&gt;できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also like the Clone tool, the regions for the Spot tool can not be [inverted](Regions-Inverting.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135852Z">
@@ -5647,6 +5695,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130515T145547Z">
         <seg>別の方法として、「閲覧」→「左に回転」または「右に回転」を選ぶこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, you can use the Rotate 90-degree buttons to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142405Z" creationid="ktgw0316" creationdate="20150309T142405Z">
+        <seg>別の方法として、「90 度回転」ボタンで回転させることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9017,6 +9073,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the spot tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142751Z" creationid="ktgw0316" creationdate="20150309T142743Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;でスポット ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the spot tool button in the [tool bar](Tools-Editing.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T134405Z">
@@ -9078,6 +9142,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104832Z">
         <seg>複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143052Z" creationid="ktgw0316" creationdate="20150309T143052Z">
+        <seg>複製ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,6 +10506,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142450Z" creationid="ktgw0316" creationdate="20150309T142450Z">
+        <seg>切り抜きツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cropping a photo</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T121109Z" creationid="ktgw0316" creationdate="20150303T121109Z">
@@ -11748,6 +11828,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T150702Z">
         <seg>調整点をドラッグして位置を合わせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a control point, the cross-hair cursor, or the feathering line until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142925Z" creationid="ktgw0316" creationdate="20150309T142925Z">
+        <seg>調整点・十字カーソル・フェザリング線をドラッグして位置を合わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,6 +14126,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the white balance of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143120Z" creationid="ktgw0316" creationdate="20150309T143120Z">
+        <seg>ホワイトバランスを調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to apply a style.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151704Z" creationid="ktgw0316" creationdate="20141129T151704Z">
@@ -15035,6 +15131,14 @@ synchronize the data.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T123654Z" creationid="ktgw0316" creationdate="20150303T123654Z">
         <seg>長方形全体を動かしたい場合は、その内側をクリックしてからドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to start over, you can click the Reset button in the rotate tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142432Z" creationid="ktgw0316" creationdate="20150309T142432Z">
+        <seg>やり直したい場合は、回転ツールにあるリセット ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,6 +17279,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Adjusting White Balance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143116Z" creationid="ktgw0316" creationdate="20150309T143116Z">
+        <seg>LightZone: ホワイトバランスの調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Batch Converting Images</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T141233Z">
@@ -17619,6 +17731,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T135520Z">
         <seg>LightZone: 写真のシャープ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Spot Removal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142528Z" creationid="ktgw0316" creationdate="20150309T142519Z">
+        <seg>LightZone: スポットの除去</seg>
       </tuv>
     </tu>
     <tu>
@@ -28962,6 +29082,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spot tool is a specialized version of the &lt;a0&gt;Clone tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142559Z" creationid="ktgw0316" creationdate="20150309T142559Z">
+        <seg>スポット ツールは&lt;a0&gt;複製ツール&lt;/a0&gt;の特別版です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The spot tool is a specialized version of the [Clone tool](Tool-Clone.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135430Z">
@@ -30316,6 +30444,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T140116Z" creationid="ktgw0316" creationdate="20150308T140116Z">
         <seg>領域の大きさや形を調整するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To adjust the size or shape of a spot:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142826Z" creationid="ktgw0316" creationdate="20150309T142826Z">
+        <seg>スポットの大きさや形を調整するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32603,6 +32739,14 @@ specific areas of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135049Z">
         <seg>完了したら、領域の外をクリックするか、**Return** または **ESC** キーを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When done, you can either click anywhere outside the spot, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key to complete the adjustments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143020Z" creationid="ktgw0316" creationdate="20150309T143020Z">
+        <seg>完了したら、領域の外をクリックするか、&lt;b0&gt;Return&lt;/b0&gt; または &lt;b1&gt;ESC&lt;/b1&gt; キーを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36369,6 +36513,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Rotate_90.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142301Z" creationid="ktgw0316" creationdate="20150309T142301Z">
+        <seg>images/Button-Rotate_90.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
@@ -36377,10 +36529,26 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Sharpen.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142457Z" creationid="ktgw0316" creationdate="20150309T142457Z">
+        <seg>images/Button-Sharpen.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Spline.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T141155Z" creationid="ktgw0316" creationdate="20141230T141155Z">
         <seg>images/Button-Spline.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Spot.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142725Z" creationid="ktgw0316" creationdate="20150309T142725Z">
+        <seg>images/Button-Spot.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -36617,6 +36785,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Spot-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142851Z" creationid="ktgw0316" creationdate="20150309T142851Z">
+        <seg>images/Spot-Control_Points.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Styles-Discover-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162934Z">
@@ -36741,6 +36917,30 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141412Z" creationid="ktgw0316" creationdate="20150309T141412Z">
         <seg>images/Tool-Rotate-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Sharpen-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142455Z" creationid="ktgw0316" creationdate="20150309T142455Z">
+        <seg>images/Tool-Sharpen-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Spot-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142530Z" creationid="ktgw0316" creationdate="20150309T142530Z">
+        <seg>images/Tool-Spot-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-White_Balance-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143125Z" creationid="ktgw0316" creationdate="20150309T143125Z">
+        <seg>images/Tool-White_Balance-en.png</seg>
       </tuv>
     </tu>
     <tu>
