@@ -969,6 +969,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A white rotate rectangle and grid will appear over your photo and the rotate tool's controls will appear to the right of the tool bar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141814Z" creationid="ktgw0316" creationdate="20150309T141814Z">
+        <seg>(白い長方形の回転枠とグリッドとが写真の上に現れ、回転ツールのコントロールがツール バーの右側に現れます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As you do so, the corresponding zones in the &lt;a0&gt;ZoneFinder&lt;/a0&gt; will highlight.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T133912Z" creationid="ktgw0316" creationdate="20150115T133912Z">
@@ -8611,6 +8619,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the mouse anywhere on your photo to rotate the rectangle so that the grid aligns with something in your photo that should be either horizontal or vertical.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T142240Z" creationid="ktgw0316" creationdate="20150309T142212Z">
+        <seg>写真の好きな場所をドラッグして長方形の枠を回転させ、グリッドが写真の中の水平または鉛直なものに沿うようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag the mouse in the direction you want to rotate your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T124300Z" creationid="ktgw0316" creationdate="20150303T124218Z">
@@ -8981,6 +8997,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T135754Z" creationid="ktgw0316" creationdate="20150308T135754Z">
         <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で赤目軽減ツールのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the rotate tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141743Z" creationid="ktgw0316" creationdate="20150309T141743Z">
+        <seg>&lt;a0&gt;ツール バー&lt;/a0&gt;で回転ツールのボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14270,6 +14294,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141356Z" creationid="ktgw0316" creationdate="20150309T141356Z">
+        <seg>写真を回転するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to save the edits you've made to your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T143933Z">
@@ -15752,6 +15784,14 @@ window.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132433Z" creationid="ktgw0316" creationdate="20150303T132433Z">
         <seg>常に写真全体に適用されるため、&lt;a0&gt;領域&lt;/a0&gt;でマスクできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is always applied to the entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141719Z" creationid="ktgw0316" creationdate="20150309T141719Z">
+        <seg>常に写真全体に適用され、&lt;a0&gt;ツール スタック&lt;/a0&gt;には配置されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17539,6 +17579,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T105408Z">
         <seg>LightZone: 閲覧ウィンドウでの写真の回転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Rotating a Photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141351Z" creationid="ktgw0316" creationdate="20150309T141351Z">
+        <seg>LightZone: 写真を回転させる</seg>
       </tuv>
     </tu>
     <tu>
@@ -23373,6 +23421,14 @@ is not modified.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotating a photo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141409Z" creationid="ktgw0316" creationdate="20150309T141409Z">
+        <seg>写真を回転させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotating photos</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070723Z">
@@ -26484,6 +26540,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes you need to rotate a photo, for example to make the horizon level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141551Z" creationid="ktgw0316" creationdate="20150309T141551Z">
+        <seg>水平を出したりするために、写真を回転させなければならない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sony</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162916Z">
@@ -27929,6 +27993,14 @@ computer.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T124000Z">
         <seg>Finder やエクスプローラーのウィンドウを一覧表示モードにした場合に似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fuzz slider adjusts how "fuzzy" the edges between light and dark areas are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141307Z" creationid="ktgw0316" creationdate="20150309T141307Z">
+        <seg>「ファズ」スライダーでは、明るい部分と暗い部分の境目がどの程度「曖昧」かを調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30897,6 +30969,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To rotate your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141723Z" creationid="ktgw0316" creationdate="20150309T141723Z">
+        <seg>写真を回転するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T054129Z">
@@ -31713,6 +31793,14 @@ allows you to *draw* (rather than *paint*) regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132341Z" creationid="ktgw0316" creationdate="20150303T132341Z">
         <seg>他のツールと違って、プルーフ ツールは特別です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the rotate tool is special.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141708Z" creationid="ktgw0316" creationdate="20150309T141708Z">
+        <seg>他のツールと違って、回転ツールは特別です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33466,6 +33554,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T053211Z">
         <seg>いますぐ完全版の LightZone にアップグレードすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;b0&gt;Rotate&lt;/b0&gt; tool for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141659Z" creationid="ktgw0316" creationdate="20150309T141637Z">
+        <seg>そのために&lt;b0&gt;回転&lt;/b0&gt;ツールが使えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36265,6 +36361,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Rotate.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141728Z" creationid="ktgw0316" creationdate="20150309T141728Z">
+        <seg>images/Button-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141114T140454Z" creationid="ktgw0316" creationdate="20141114T140454Z">
@@ -36629,6 +36733,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T141602Z" creationid="ktgw0316" creationdate="20150308T141602Z">
         <seg>images/Tool-Relight-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Rotate-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150309T141412Z" creationid="ktgw0316" creationdate="20150309T141412Z">
+        <seg>images/Tool-Rotate-en.png</seg>
       </tuv>
     </tu>
     <tu>
