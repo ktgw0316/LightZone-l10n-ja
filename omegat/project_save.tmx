@@ -5143,6 +5143,14 @@ buttons can be used to navigate.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, there is always the possibility of having used an incorrectly profiled scanner that might have led to a black point that is too high.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134353Z" creationid="ktgw0316" creationdate="20150310T134353Z">
+        <seg>その他にも、プロファイルが間違ったスキャナーを使ったせいで黒点が高くなりすぎている可能性が常にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, when you paste a region into one tool that has been copied from another, you can paste it &lt;e0&gt;linked&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T142214Z" creationid="ktgw0316" creationdate="20141129T142214Z">
@@ -6573,6 +6581,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T061326Z">
         <seg>黒レベルの delta V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black point adjustments are sometimes necessary for scanned positive color film images since the density of the film is never truly black.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T133547Z" creationid="ktgw0316" creationdate="20150310T133547Z">
+        <seg>ポジ カラー フィルムをスキャンした画像ではフィルムの濃度が完全な黒になることはないため、黒点の調整が必要になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8727,6 +8743,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145208Z" creationid="ktgw0316" creationdate="20150130T145208Z">
         <seg>色相環の内部のどこかをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click below that zone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134442Z" creationid="ktgw0316" creationdate="20150310T134442Z">
+        <seg>そのゾーンの下側をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11916,6 +11940,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145941Z" creationid="ktgw0316" creationdate="20141129T145755Z">
         <seg>内側の線を内向きや外向きにドラッグするとフェザリング範囲が拡がったり狭まったりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the zone lock downwards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134451Z" creationid="ktgw0316" creationdate="20150310T134451Z">
+        <seg>ゾーン ロックを下へドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26876,6 +26908,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the last zone, move the mouse upwards along the zones in the ZoneMapper until you find a zone that shows significant highlighting in the &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134433Z" creationid="ktgw0316" creationdate="20150310T134433Z">
+        <seg>マウスでゾーン マッパーのゾーンを一番下から上へと順になぞっていき、&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;上にはっきりしたハイライトが現れるゾーンを見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting in Revision 1.237, the code to support Foveon cameras is
     under GPL.</seg>
       </tuv>
@@ -36637,6 +36677,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143349Z" creationid="ktgw0316" creationdate="20150309T143349Z">
         <seg>images/Button-White_Balance.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-ZoneMapper.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134356Z" creationid="ktgw0316" creationdate="20150310T134356Z">
+        <seg>images/Button-ZoneMapper.png</seg>
       </tuv>
     </tu>
     <tu>
