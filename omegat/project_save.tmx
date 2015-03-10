@@ -3224,6 +3224,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 of 8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135738Z" creationid="ktgw0316" creationdate="20150310T135738Z">
+        <seg>5 of 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T153937Z">
@@ -6168,6 +6176,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you do so, your photo will get brighter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135705Z" creationid="ktgw0316" creationdate="20150310T135705Z">
+        <seg>そうすると、写真が明るくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you do so, your photo's black point will decrease.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134551Z" creationid="ktgw0316" creationdate="20150310T134551Z">
@@ -6461,6 +6477,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T055441Z">
         <seg>ベイヤー緑分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before adjusting contrast, however, you first need to identify the luminance range you want to adjust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T140507Z" creationid="ktgw0316" creationdate="20150310T140507Z">
+        <seg>しかし、コントラストを調整する前に、調整したい輝度範囲をはっきりさせておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8771,6 +8795,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click between two zones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135632Z" creationid="ktgw0316" creationdate="20150310T135632Z">
+        <seg>ふたつのゾーンの間をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in any metadata that has a dark gray background and type the
     new data.</seg>
       </tuv>
@@ -9734,6 +9766,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T081111Z">
         <seg>コントラスト マスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast adjustments using the ZoneMapper tool are performed by stretching or compressing the luminance range.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T140414Z" creationid="ktgw0316" creationdate="20150310T140414Z">
+        <seg>ゾーン マッパーを使ったコントラスト調整は輝度範囲を伸ばしたり縮めたりすることで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14182,6 +14222,14 @@ black that the device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the constrast of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135732Z" creationid="ktgw0316" creationdate="20150310T135732Z">
+        <seg>ゾーン マッパーで写真のコントラストを調整するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the contrast of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T141547Z" creationid="ktgw0316" creationdate="20150308T141547Z">
@@ -17983,6 +18031,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting Contrast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135724Z" creationid="ktgw0316" creationdate="20150310T135724Z">
+        <seg>LightZone: ゾーン マッパー: コントラストの調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: ZoneMapper: Adjusting Exposure</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135028Z" creationid="ktgw0316" creationdate="20150115T135028Z">
@@ -19006,6 +19062,14 @@ to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092402Z">
         <seg>選択された $1 枚の画像をごみ箱へ移動しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse along the zones in the ZoneMapper to approximately the middle zone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135558Z" creationid="ktgw0316" creationdate="20150310T135558Z">
+        <seg>ゾーン マッパーでだいたい中間調となるゾーンの辺りでマウスを動かします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20595,6 +20659,14 @@ shows the selected photo's metadata.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134631Z" creationid="ktgw0316" creationdate="20150310T134631Z">
         <seg>ゾーン マッパー ツールで調整できるもののひとつに輝度があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is contrast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135750Z" creationid="ktgw0316" creationdate="20150310T135750Z">
+        <seg>ゾーン マッパー ツールで調整できるもののひとつにコントラストがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30938,6 +31010,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To increase the contrast of your photo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135917Z" creationid="ktgw0316" creationdate="20150310T135917Z">
+        <seg>写真のコントラストを上げるには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To increase the exposure of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T135129Z" creationid="ktgw0316" creationdate="20150115T135129Z">
@@ -33834,6 +33914,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130323T053211Z">
         <seg>いますぐ完全版の LightZone にアップグレードすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;a0&gt;ZoneFinder&lt;/a0&gt; for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135903Z" creationid="ktgw0316" creationdate="20150310T135903Z">
+        <seg>そのために&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;が使えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37117,6 +37205,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134554Z" creationid="ktgw0316" creationdate="20150310T134554Z">
         <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Brightness-after-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135711Z" creationid="ktgw0316" creationdate="20150310T135711Z">
+        <seg>images/Tool-ZoneMapper-Brightness-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135709Z" creationid="ktgw0316" creationdate="20150310T135709Z">
+        <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
       </tuv>
     </tu>
     <tu>
