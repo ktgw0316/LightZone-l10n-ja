@@ -6184,6 +6184,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you do so, the contrast of the midtones of your photo will increase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142426Z" creationid="ktgw0316" creationdate="20150310T142426Z">
+        <seg>そうすると、写真の中間調のコントラストが上がります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you do so, your photo will get brighter.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135705Z" creationid="ktgw0316" creationdate="20150310T135705Z">
@@ -9250,6 +9258,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to add a second zone lock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142156Z" creationid="ktgw0316" creationdate="20150310T142156Z">
+        <seg>クリックしてふたつ目のゾーン ロックを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clicking the Reset button will reset LightZone to have its original factory settings.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T161105Z">
@@ -12012,6 +12028,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T145941Z" creationid="ktgw0316" creationdate="20141129T145755Z">
         <seg>内側の線を内向きや外向きにドラッグするとフェザリング範囲が拡がったり狭まったりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the upper zone lock upwards and the lower zone lock downwards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142335Z" creationid="ktgw0316" creationdate="20150310T142335Z">
+        <seg>上側のゾーン ロックを上へドラッグし、下側のゾーン ロックを下へドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19092,8 +19116,8 @@ to understand blending modes, there are a few terms to know:</seg>
       <tuv lang="EN-US">
         <seg>Move the mouse along the zones in the ZoneMapper to locate the zone above which you do not want to adjust contrast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T140836Z" creationid="ktgw0316" creationdate="20150310T140836Z">
-        <seg>ゾーン マッパーのゾーン上でマウスを動かし、コントラストを調整したくないゾーンを見つけます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T141941Z" creationid="ktgw0316" creationdate="20150310T140836Z">
+        <seg>ゾーン マッパーのゾーン上でマウスを動かし、それより上ではコントラストを調整したくないゾーンを見つけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26733,6 +26757,14 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135647Z">
         <seg>複製ツールと同様に、写真の別の部分をスポット上にコピーすることでスポットを除去できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similarly, move the mouse along the zones to locate the zone below which you do not want to adjust contrast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T141907Z" creationid="ktgw0316" creationdate="20150310T141907Z">
+        <seg>同様に、ゾーン マッパーのゾーン上でマウスを動かし、それより下ではコントラストを調整したくないゾーンを見つけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37245,6 +37277,22 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135709Z" creationid="ktgw0316" creationdate="20150310T135709Z">
         <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Contrast-after-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142432Z" creationid="ktgw0316" creationdate="20150310T142432Z">
+        <seg>images/Tool-ZoneMapper-Contrast-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Contrast-before-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142428Z" creationid="ktgw0316" creationdate="20150310T142428Z">
+        <seg>images/Tool-ZoneMapper-Contrast-before-en.png</seg>
       </tuv>
     </tu>
     <tu>
