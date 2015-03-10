@@ -20543,6 +20543,14 @@ shows the selected photo's metadata.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is the black point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T132950Z" creationid="ktgw0316" creationdate="20150310T132950Z">
+        <seg>ゾーン マッパー ツールで調整できるもののひとつに黒点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023433Z">
