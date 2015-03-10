@@ -1009,6 +1009,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you move the mouse, you can see the zones highlight in the ZoneFinder.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T141019Z" creationid="ktgw0316" creationdate="20150310T141019Z">
+        <seg>(マウスを動かすと、ゾーン ファインダー上の対応するゾーンがハイライトされます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T150823Z" creationid="ktgw0316" creationdate="20141230T150823Z">
@@ -9230,6 +9238,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T102007Z">
         <seg>クリックして選択したサムネイルを他のアプリケーションのウィンドウへとドラッグし、マウスのボタンを離してドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to add a &lt;e0&gt;zone lock&lt;/e0&gt; (a thin, blue line with a little 'X' at its right).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T141110Z" creationid="ktgw0316" creationdate="20150310T141110Z">
+        <seg>クリックして&lt;e0&gt;ゾーン ロック&lt;/e0&gt; (右端に小さな X 印が付いた、細い青色の線) を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,6 +19086,14 @@ to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135558Z" creationid="ktgw0316" creationdate="20150310T135558Z">
         <seg>ゾーン マッパーでだいたい中間調となるゾーンの辺りでマウスを動かします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse along the zones in the ZoneMapper to locate the zone above which you do not want to adjust contrast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T140836Z" creationid="ktgw0316" creationdate="20150310T140836Z">
+        <seg>ゾーン マッパーのゾーン上でマウスを動かし、コントラストを調整したくないゾーンを見つけます。</seg>
       </tuv>
     </tu>
     <tu>
