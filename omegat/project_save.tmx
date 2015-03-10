@@ -666,6 +666,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Brightness" is what is perceived as the tonal range starting from the highest highlights down to the midtones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134845Z" creationid="ktgw0316" creationdate="20150310T134845Z">
+        <seg>「輝度」は最も明るいハイライトに始まり中間調へと下る階調の範囲として認識されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>###</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T122850Z">
@@ -6156,6 +6164,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T134919Z">
         <seg>撮影時の白色の XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you do so, your photo's black point will decrease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134551Z" creationid="ktgw0316" creationdate="20150310T134551Z">
+        <seg>そうすると、写真の黒点が下がります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20575,6 +20591,14 @@ shows the selected photo's metadata.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is brightness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134631Z" creationid="ktgw0316" creationdate="20150310T134631Z">
+        <seg>ゾーン マッパー ツールで調整できるもののひとつに輝度があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is the black point.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T132950Z" creationid="ktgw0316" creationdate="20150310T132950Z">
@@ -33870,6 +33894,14 @@ Editor, directly from within the Photo Editor.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your photo can be adjusted to appear brighter without increasing exposure by lifting up the midtones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135249Z" creationid="ktgw0316" creationdate="20150310T135249Z">
+        <seg>露出を増やさずに輝度が高く見えるように写真を調整するには中間調を明るくします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your photo will now appear on screen how it will look when printed.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T133203Z" creationid="ktgw0316" creationdate="20150303T133203Z">
@@ -37069,6 +37101,30 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150309T143125Z" creationid="ktgw0316" creationdate="20150309T143125Z">
         <seg>images/Tool-White_Balance-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Black_Point-after-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134600Z" creationid="ktgw0316" creationdate="20150310T134600Z">
+        <seg>images/Tool-ZoneMapper-Black_Point-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134554Z" creationid="ktgw0316" creationdate="20150310T134554Z">
+        <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-X.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134603Z" creationid="ktgw0316" creationdate="20150310T134603Z">
+        <seg>images/Tool-ZoneMapper-X.png</seg>
       </tuv>
     </tu>
     <tu>
