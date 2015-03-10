@@ -3936,6 +3936,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the contrast of you photo, drag the zone locks towards each other rather than away from each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142649Z" creationid="ktgw0316" creationdate="20150310T142649Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; 写真のコントラストを下げるには、ふたつのゾーン ロックの間隔を広げるのではなく狭めるようにドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the exposure of you photo, create a zone lock above the first zone and drag it downwards.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T140739Z" creationid="ktgw0316" creationdate="20150115T135525Z">
@@ -4200,6 +4208,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0&gt;zone divider&lt;/i0&gt; is the dividing line between any two zones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143522Z" creationid="ktgw0316" creationdate="20150310T143459Z">
+        <seg>&lt;i0&gt;ゾーン区切り&lt;/i0&gt;とは任意のふたつのゾーンの境界線を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A LightZone JPEG still refers to your original photo (whether it's a raw, TIFF, or another JPEG).</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T144221Z" creationid="ktgw0316" creationdate="20150130T143232Z">
@@ -4220,6 +4236,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T030544Z">
         <seg>"$1" というスタイルは既に存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A ZoneMapper tool has a number of keyboard shortcuts that can be used to manipulate it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142844Z" creationid="ktgw0316" creationdate="20150310T142844Z">
+        <seg>ゾーン マッパー ツールには操作に使えるキーボード ショートカットがたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10489,6 +10513,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates a zone lock at the selected divider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143237Z" creationid="ktgw0316" creationdate="20150310T143237Z">
+        <seg>選択されたゾーン区切りにゾーン ロックを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the
     Difference blending mode.</seg>
       </tuv>
@@ -11247,6 +11279,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T092140Z">
         <seg>削除...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the selected zone lock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143344Z" creationid="ktgw0316" creationdate="20150310T143344Z">
+        <seg>選択されたゾーン ロックを削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16415,6 +16455,14 @@ Ricoh</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142928Z" creationid="ktgw0316" creationdate="20150310T142928Z">
+        <seg>キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Features</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T084737Z">
@@ -16427,6 +16475,14 @@ Ricoh</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T143042Z">
         <seg>キーボード ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard shortcuts for the ZoneMapper tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142758Z" creationid="ktgw0316" creationdate="20150310T142758Z">
+        <seg>ゾーン マッパー ツールのキーボード ショートカット</seg>
       </tuv>
     </tu>
     <tu>
@@ -18099,6 +18155,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T165937Z">
         <seg>LightZone: ZoneMapper: ゾーンを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142740Z" creationid="ktgw0316" creationdate="20150310T142740Z">
+        <seg>LightZone: ゾーン マッパー: キーボード ショートカット</seg>
       </tuv>
     </tu>
     <tu>
@@ -20512,6 +20576,14 @@ photos in iView MediaPro and edit it in LightZone.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nudges the selected zone lock up/down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143330Z" creationid="ktgw0316" creationdate="20150310T143330Z">
+        <seg>選択されたゾーン ロックを上下に微調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of inks</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T051544Z">
@@ -20715,6 +20787,14 @@ shows the selected photo's metadata.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135750Z" creationid="ktgw0316" creationdate="20150310T135750Z">
         <seg>ゾーン マッパー ツールで調整できるもののひとつにコントラストがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is exposure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142717Z" creationid="ktgw0316" creationdate="20150310T142717Z">
+        <seg>ゾーン マッパー ツールで調整できるもののひとつに露出があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22283,6 +22363,14 @@ Content-Type: text/plain;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142932Z" creationid="ktgw0316" creationdate="20150310T142932Z">
+        <seg>目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Q</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134913Z">
@@ -23176,6 +23264,14 @@ therefore always editable.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T081131Z">
         <seg>リライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142700Z" creationid="ktgw0316" creationdate="20150310T142700Z">
+        <seg>リライト ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -25977,6 +26073,22 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T104428Z">
         <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selects the next zone divider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143134Z" creationid="ktgw0316" creationdate="20150310T143134Z">
+        <seg>次のゾーン区切りを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selects the previous zone divider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143143Z" creationid="ktgw0316" creationdate="20150310T143143Z">
+        <seg>前のゾーン区切りを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29587,6 +29699,14 @@ either [Aperture](Integration-Aperture.html) or
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T144409Z" creationid="ktgw0316" creationdate="20150130T143322Z">
         <seg>そのため、元画像を削除してはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are given in the table below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142923Z" creationid="ktgw0316" creationdate="20150310T142923Z">
+        <seg>それらを下記の表に示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34182,6 +34302,14 @@ Editor, directly from within the Photo Editor.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper: Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142807Z" creationid="ktgw0316" creationdate="20150310T142807Z">
+        <seg>ゾーン マッパー: キーボード ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone_System.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T090547Z">
@@ -35188,6 +35316,14 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130103T153600Z">
         <seg>背景パレット インデックスが設定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>backspace/delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143027Z" creationid="ktgw0316" creationdate="20150310T143027Z">
+        <seg>backspace/delete</seg>
       </tuv>
     </tu>
     <tu>
@@ -37297,6 +37433,30 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Divider.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143033Z" creationid="ktgw0316" creationdate="20150310T143033Z">
+        <seg>images/Tool-ZoneMapper-Divider.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Exposure-after-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142725Z" creationid="ktgw0316" creationdate="20150310T142725Z">
+        <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142719Z" creationid="ktgw0316" creationdate="20150310T142719Z">
+        <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Tool-ZoneMapper-X.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134603Z" creationid="ktgw0316" creationdate="20150310T134603Z">
@@ -38533,6 +38693,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>shift-tab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142947Z" creationid="ktgw0316" creationdate="20150310T142947Z">
+        <seg>shift-tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shutter priority</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T134003Z">
@@ -38769,6 +38937,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T081601Z">
         <seg>合成物質・プラスティック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142943Z" creationid="ktgw0316" creationdate="20150310T142943Z">
+        <seg>tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -39075,6 +39251,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T051649Z">
         <seg>指定なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>up/down arrows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143014Z" creationid="ktgw0316" creationdate="20150310T143014Z">
+        <seg>上/下矢印</seg>
       </tuv>
     </tu>
     <tu>
