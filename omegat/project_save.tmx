@@ -29434,6 +29434,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected zone divider is shown by a blue line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143707Z" creationid="ktgw0316" creationdate="20150310T143707Z">
+        <seg>選択されたゾーン区切りは青色の線で表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The shape of regions in LightZone can be adjusted at any time.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T163344Z">
