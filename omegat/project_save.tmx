@@ -9402,6 +9402,22 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapses all tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144124Z" creationid="ktgw0316" creationdate="20150310T144015Z">
+        <seg>すべてのツールを折りたたみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapses the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144213Z" creationid="ktgw0316" creationdate="20150310T144007Z">
+        <seg>そのツールを折りたたみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colombo</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T131424Z">
@@ -11475,6 +11491,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the tool stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144350Z" creationid="ktgw0316" creationdate="20150310T144350Z">
+        <seg>ツール スタックの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the various blending modes.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T143024Z">
@@ -11736,6 +11760,14 @@ Pentax</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140923T080550Z">
         <seg>輝度の選択を無効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable/Enable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143905Z" creationid="ktgw0316" creationdate="20150310T143853Z">
+        <seg>有効/無効</seg>
       </tuv>
     </tu>
     <tu>
@@ -12769,6 +12801,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070605Z">
         <seg>このツールを展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expands the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144209Z" creationid="ktgw0316" creationdate="20150310T144108Z">
+        <seg>そのツールを展開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17591,6 +17631,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Control Tools Overview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144427Z" creationid="ktgw0316" creationdate="20150310T144427Z">
+        <seg>LightZone: コントロール ツールの概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Converting Images</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T140214Z">
@@ -18055,6 +18103,14 @@ stack](Tool_Stack.html) you create.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Tool Stack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144334Z" creationid="ktgw0316" creationdate="20150310T144334Z">
+        <seg>LightZone: ツール スタック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Workflow Integration</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070838Z">
@@ -18307,6 +18363,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T103457Z">
         <seg>ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock/Unlock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143922Z" creationid="ktgw0316" creationdate="20150310T143922Z">
+        <seg>ロック/ロック解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -21311,6 +21375,14 @@ is.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T154540Z">
         <seg>オーバーレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview of the control tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144436Z" creationid="ktgw0316" creationdate="20150310T144436Z">
+        <seg>コントロール ツールの概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -31754,6 +31826,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-Black_and_white.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144603Z" creationid="ktgw0316" creationdate="20150310T144603Z">
+        <seg>Tool-Black_and_white.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-Blur.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T165657Z">
@@ -31874,6 +31954,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Brightness.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143751Z" creationid="ktgw0316" creationdate="20150310T143751Z">
+        <seg>Tool-ZoneMapper-Brightness.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper-Contrast.html</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T141745Z" creationid="ktgw0316" creationdate="20150308T141745Z">
@@ -31886,6 +31974,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163058Z">
         <seg>Tool-ZoneMapper-Exposure.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Keys.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143723Z" creationid="ktgw0316" creationdate="20150310T143723Z">
+        <seg>Tool-ZoneMapper-Keys.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -37313,6 +37409,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Tool-Disabled-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144252Z" creationid="ktgw0316" creationdate="20150310T144252Z">
+        <seg>images/Tool-Disabled-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Tool-Hue_Saturation-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T125246Z" creationid="ktgw0316" creationdate="20150303T125246Z">
@@ -37465,10 +37569,50 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Luminosity_RGB-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143726Z" creationid="ktgw0316" creationdate="20150310T143726Z">
+        <seg>images/Tool-ZoneMapper-Luminosity_RGB-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Tool-ZoneMapper-X.png</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134603Z" creationid="ktgw0316" creationdate="20150310T134603Z">
         <seg>images/Tool-ZoneMapper-X.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143815Z" creationid="ktgw0316" creationdate="20150310T143815Z">
+        <seg>images/Tool-ZoneMapper-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Anatomy-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144236Z" creationid="ktgw0316" creationdate="20150310T144236Z">
+        <seg>images/Tool_Anatomy-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144354Z" creationid="ktgw0316" creationdate="20150310T144354Z">
+        <seg>images/Tool_Stack-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack_Illustration-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144404Z" creationid="ktgw0316" creationdate="20150310T144404Z">
+        <seg>images/Tool_Stack_Illustration-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -37489,6 +37633,30 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Tool_Tab-Tool_Settings-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144257Z" creationid="ktgw0316" creationdate="20150310T144257Z">
+        <seg>images/Tool_Tab-Tool_Settings-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tools-Controls-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144440Z" creationid="ktgw0316" creationdate="20150310T144440Z">
+        <seg>images/Tools-Controls-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tools-Editing-en.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144601Z" creationid="ktgw0316" creationdate="20150310T144601Z">
+        <seg>images/Tools-Editing-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Tools-Navigator-en.png</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163852Z">
@@ -37501,6 +37669,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T163021Z">
         <seg>images/Workflow-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/ZoneFinder-Highlighted.png</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143755Z" creationid="ktgw0316" creationdate="20150310T143755Z">
+        <seg>images/ZoneFinder-Highlighted.png</seg>
       </tuv>
     </tu>
     <tu>
