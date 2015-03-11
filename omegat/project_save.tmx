@@ -20515,6 +20515,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally, adjustments using a ZoneMapper are done using luminosity values because there are virtually no unintended hue or saturation changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T140839Z" creationid="ktgw0316" creationdate="20150311T140839Z">
+        <seg>通常、ゾーン マッパーでの調整には輝度値が用いられます。そのため、意図しない色相や彩度の変化はまず起こりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not divisible by 3.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130103T153402Z">
