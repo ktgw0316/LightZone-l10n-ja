@@ -1673,6 +1673,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is the same as clicking the &lt;b1&gt;Delete&lt;/b1&gt; button in a tool's title bar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144530Z" creationid="ktgw0316" creationdate="20150311T144530Z">
+        <seg>(これはツールのタイトル バーで&lt;b1&gt;削除&lt;/b1&gt;ボタンをクリックするのと同じです。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple,
     contiguous thumbnails or the Command Control key to select multiple,
     non-contiguous thumbnails.)</seg>
@@ -9426,6 +9434,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapses all the tools except the current one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144344Z" creationid="ktgw0316" creationdate="20150311T144344Z">
+        <seg>現在のツール以外すべてを折りたたみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapses all tools.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T144124Z" creationid="ktgw0316" creationdate="20150310T144015Z">
@@ -12849,6 +12865,14 @@ double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T070605Z">
         <seg>このツールを展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expands all collapsed tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144425Z" creationid="ktgw0316" creationdate="20150311T144425Z">
+        <seg>折りたたみまれたすべてのツールを展開します。</seg>
       </tuv>
     </tu>
     <tu>
