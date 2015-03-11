@@ -4339,6 +4339,14 @@ as big.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A pixel's &lt;e0&gt;luminosity&lt;/e0&gt; ("brightness") value is a weighted average of those three values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T135346Z" creationid="ktgw0316" creationdate="20150311T135346Z">
+        <seg>ひとつのピクセルの &lt;e0&gt;輝度&lt;/e0&gt; (「明るさ」) の値はこれら 3 つの値の重み付き平均です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A quantization table has not been set for this component.</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130103T153137Z">
