@@ -5401,6 +5401,14 @@ that point in time.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjustments using the ZoneMapper can alternatively be done using RGB values directly to address problems such as color-clipping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T142855Z" creationid="ktgw0316" creationdate="20150311T142855Z">
+        <seg>ゾーン マッパーでの調整には代わりに RGB 値を直接用いることができ、色クロッピングなどの問題に対処できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adobe RDB</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094438Z">
@@ -13658,6 +13666,14 @@ avoid modifying your original photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a given photo, it's best to experiment to see which type of adjustment looks better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143242Z" creationid="ktgw0316" creationdate="20150311T143242Z">
+        <seg>ある写真に対してどちらのタイプの調整が適しているかは、試してみて判断するのが一番良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For black-and-white printing, most inkjet printers manufactured before 2005 have been inferior in terms of linearity, neutrality and metamerism failure.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T034906Z" creationid="ktgw0316" creationdate="20140330T033659Z">
@@ -13686,6 +13702,14 @@ avoid modifying your original photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T133603Z">
         <seg>例として、以下に示されたものを比べてみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if your photo has saturated highlights such as a clear blue sky, then increasing brightness will clip colors in portions of the sky because pixels that are already saturated blue can't become more blue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T142434Z" creationid="ktgw0316" creationdate="20150311T142434Z">
+        <seg>例として、澄んだ青空のような飽和したハイライトがある写真で明るさを上げると、既に青が飽和しているピクセルはそれ以上青くできないため、空の一部の色にクリッピングが起きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31452,6 +31476,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T031034Z" creationid="ktgw0316" creationdate="20140330T031034Z">
         <seg>プリンター ドライバーに色変換を行わせるには、LightZone で「プリンターによる色管理」を選択し、そのうえでプリンターの設定ダイアログで適切な色設定を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make RGB rather than luminosity adjustments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143343Z" creationid="ktgw0316" creationdate="20150311T143343Z">
+        <seg>輝度の代わりに RGB を調整に用いるには:</seg>
       </tuv>
     </tu>
     <tu>
