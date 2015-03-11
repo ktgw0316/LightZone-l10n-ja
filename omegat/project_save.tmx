@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12393,6 +12393,14 @@ Fuji</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each pixel in a digital photo is comprised of red, green, and blue (RGB) values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T135210Z" creationid="ktgw0316" creationdate="20150311T135210Z">
+        <seg>デジタル写真の個々のピクセルは赤・緑・青 (RGB) の値でできています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easy-shooting mode</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142027Z">
@@ -18219,6 +18227,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142740Z" creationid="ktgw0316" creationdate="20150310T142740Z">
         <seg>LightZone: ゾーン マッパー: キーボード ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Luminosity vs. RGB</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T134540Z" creationid="ktgw0316" creationdate="20150311T134540Z">
+        <seg>LightZone: ゾーン マッパー: 輝度 vs. RGB</seg>
       </tuv>
     </tu>
     <tu>
@@ -29126,6 +29142,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference between luminosity and RGB adjustments using the ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T135050Z" creationid="ktgw0316" creationdate="20150311T135050Z">
+        <seg>ゾーン マッパーでの輝度調整と RGB 調整の違い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different kinds of regions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110907Z">
@@ -34410,6 +34434,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T142807Z" creationid="ktgw0316" creationdate="20150310T142807Z">
         <seg>ゾーン マッパー: キーボード ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper: Luminosity vs. RGB</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T135102Z" creationid="ktgw0316" creationdate="20150311T135102Z">
+        <seg>ゾーン マッパー: 輝度 vs. RGB</seg>
       </tuv>
     </tu>
     <tu>
