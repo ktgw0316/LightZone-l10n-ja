@@ -1665,6 +1665,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is the same as clicking the &lt;b0&gt;Enable/Disable&lt;/b0&gt; checkbox in a tool's title bar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143933Z" creationid="ktgw0316" creationdate="20150311T143840Z">
+        <seg>(これはツールのタイトル バーで&lt;b0&gt;有効/無効&lt;/b0&gt;をクリックするのと同じです。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple,
     contiguous thumbnails or the Command Control key to select multiple,
     non-contiguous thumbnails.)</seg>
@@ -11435,6 +11443,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the LightZone tool menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143457Z" creationid="ktgw0316" creationdate="20150311T143457Z">
+        <seg>ツール メニューの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the Sampler.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130116T143310Z">
@@ -11782,8 +11798,16 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Disable/Enable</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T143905Z" creationid="ktgw0316" creationdate="20150310T143853Z">
-        <seg>有効/無効</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144035Z" creationid="ktgw0316" creationdate="20150310T143853Z">
+        <seg>無効/有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disables (or enables) the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143739Z" creationid="ktgw0316" creationdate="20150311T143739Z">
+        <seg>そのツールを無効 (または有効) にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18435,6 +18459,14 @@ stack](Tool_Stack.html) you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T092604Z">
         <seg>ロックされたツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locks (or unlocks) the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144054Z" creationid="ktgw0316" creationdate="20150311T144054Z">
+        <seg>そのツールをロック (またはアンロック) します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26012,6 +26044,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the RGB radio button for a ZoneMapper tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143436Z" creationid="ktgw0316" creationdate="20150311T143436Z">
+        <seg>ゾーン マッパーで「RGB」ラジオ ボタンを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Styles tab.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141129T151756Z" creationid="ktgw0316" creationdate="20141129T151756Z">
@@ -28274,6 +28314,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Menu&lt;/b0&gt; button in a tool's title bar pops-up a menu when clicked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143608Z" creationid="ktgw0316" creationdate="20150311T143608Z">
+        <seg>&lt;b0&gt;メニュー&lt;/b0&gt; ボタンはツールのタイトル バーにあり、クリックするとメニューがポップアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Noise Reduction&lt;/b0&gt; tool allows you to reduce "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132018Z">
@@ -29370,6 +29418,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130120T143911Z">
         <seg>しかし、大きく違うのは、フォルダーとディスクだけが表示されてファイルは表示されないことです。その代わり、選択したフォルダにある写真のサムネイルがウィンドウの&lt;a0&gt;サムネイル&lt;/a0&gt;表示部に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The menu items are described below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143651Z" creationid="ktgw0316" creationdate="20150311T143651Z">
+        <seg>以下ではメニューのアイテムについて説明します。</seg>
       </tuv>
     </tu>
     <tu>
