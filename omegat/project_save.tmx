@@ -14721,6 +14721,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, on occasion, luminosity-based adjustments can result in problems such as &lt;e0&gt;color-clipping&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T141709Z" creationid="ktgw0316" creationdate="20150311T141709Z">
+        <seg>しかし、場合によっては、輝度に基づく調整によって&lt;e0&gt;色のクロッピング&lt;/e0&gt;などの問題が起こることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T150649Z">
