@@ -3728,6 +3728,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a3&gt;More about the menu...&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041430Z" creationid="ktgw0316" creationdate="20150315T041430Z">
+        <seg>&lt;a3&gt;メニューについてより詳しく知る...&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141229T144055Z">
@@ -4220,6 +4228,14 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141746Z" creationid="ktgw0316" creationdate="20150130T141746Z">
         <seg>「LightZone JPEG」ファイルは元画像を縮小した通常の JPEG ファイルですが、その写真を編集する際に作成した&lt;a0&gt;ツール スタック&lt;/a0&gt;を含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;b0&gt;Menu&lt;/b0&gt; can be popped-up by &lt;s1&gt;control-clicking&lt;/s1&gt; &lt;s2&gt;right-clicking&lt;/s2&gt; in any blank space in the title bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041354Z" creationid="ktgw0316" creationdate="20150315T041354Z">
+        <seg>&lt;b0&gt;メニュー&lt;/b0&gt;をポップアップするにはタイトル バーの余白のどこかを&lt;s1&gt;ctrl-クリック&lt;/s1&gt;&lt;s2&gt;右クリック&lt;/s2&gt;します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15147,6 +15163,14 @@ truncated at the black end.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a tool is locked, a lock icon replaces the Delete button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041606Z" creationid="ktgw0316" creationdate="20150315T041606Z">
+        <seg>ツールがロックされている場合、削除ボタンの代わりにロック アイコンが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If additional noise is present, for example as the result of a high ISO setting being used, then you may need to use the sliders to reduce noise further.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T130146Z" creationid="ktgw0316" creationdate="20150303T125813Z">
@@ -15210,6 +15234,14 @@ device can render are truncated.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T032120Z" creationid="ktgw0316" creationdate="20140330T032120Z">
         <seg>その場合は、全く別の設定を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the &lt;b0&gt;Regions&lt;/b0&gt; icon is present, it means that the tool has at least one &lt;a1&gt;region&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040013Z" creationid="ktgw0316" creationdate="20150315T035900Z">
+        <seg>&lt;b0&gt;領域&lt;/b0&gt;アイコンがあるのは、少なくともひとつの&lt;a1&gt;領域&lt;/a1&gt;が存在することを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,6 +21019,14 @@ shows the selected photo's metadata.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164327Z">
         <seg>一度作成した領域はコピーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once locked, you can also click the lock icon to pop-up the menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041812Z" creationid="ktgw0316" creationdate="20150315T041812Z">
+        <seg>一度ロックすると、ロック アイコンをクリックしてポップアップ メニューを表示させられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28370,10 +28410,34 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041147Z" creationid="ktgw0316" creationdate="20150315T041147Z">
+        <seg>&lt;b0&gt;削除&lt;/b0&gt;ボタンはそのツールを&lt;a1&gt;ツール スタック&lt;/a1&gt;から削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Edit&lt;/b0&gt; button is equivalent to Browser &gt; Edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T083830Z">
         <seg>&lt;b0&gt;編集&lt;/b0&gt;ボタンは「閲覧」→「編集」と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Enable/Disable&lt;/b0&gt; checkbox enables or disables the effect of the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040946Z" creationid="ktgw0316" creationdate="20150315T040946Z">
+        <seg>&lt;b0&gt;有効化/無効化&lt;/b0&gt;チェックボックスはそのツールの効果を有効または無効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Help&lt;/b0&gt; button opens a window that gives help for the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040834Z" creationid="ktgw0316" creationdate="20150315T040834Z">
+        <seg>&lt;b0&gt;ヘルプ&lt;/b0&gt; ボタンはそのツールのヘルプが載ったウィンドウを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28390,6 +28454,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T170753Z">
         <seg>&lt;b0&gt;色相/彩度&lt;/b0&gt;ツールでは色補正を色相・彩度・自然な彩度によって行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Label&lt;/b0&gt; contains the name of the tool by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040308Z" creationid="ktgw0316" creationdate="20150315T035942Z">
+        <seg>&lt;b0&gt;ラベル&lt;/b0&gt;は既定ではツールの名前になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28566,6 +28638,22 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125852Z" creationid="ktgw0316" creationdate="20150115T125852Z">
         <seg>&lt;b0&gt;サムネイルのサイズ&lt;/b0&gt; スライダーでサムネイルの表示サイズを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Title bar&lt;/b0&gt; of the selected tool is orange.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T035303Z" creationid="ktgw0316" creationdate="20150315T035210Z">
+        <seg>選択されたツールの&lt;b0&gt;タイトル バー&lt;/b0&gt;はオレンジ色です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Tool Settings&lt;/b0&gt; tab contains various controls that affect &lt;i1&gt;how&lt;/i1&gt; the tool is applied to your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T042404Z" creationid="ktgw0316" creationdate="20150315T042404Z">
+        <seg>&lt;b0&gt;ツールの設定&lt;/b0&gt;タブにはいろいろなコントロールがあり、ツールを写真に&lt;i1&gt;どのように&lt;/i1&gt;適用するかを変えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30419,6 +30507,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This includes when &lt;a1&gt;converting&lt;/a1&gt; and &lt;a2&gt;printing&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041100Z" creationid="ktgw0316" creationdate="20150315T041100Z">
+        <seg>これは&lt;a1&gt;変換&lt;/a1&gt;と&lt;a2&gt;印刷&lt;/a2&gt;の場合を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intent is particularly useful for previewing how paper color affects printed colors.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T135456Z" creationid="ktgw0316" creationdate="20150130T135456Z">
@@ -31186,10 +31282,26 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the ordering of a tool in the &lt;a1&gt;tool stack&lt;/a1&gt;, drag it by its title bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T035613Z" creationid="ktgw0316" creationdate="20150315T035613Z">
+        <seg>&lt;a1&gt;ツール スタック&lt;/a1&gt;のツールの順序を変更したい場合は、タイトル バーをドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To clone an area of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145827Z" creationid="ktgw0316" creationdate="20141230T145827Z">
         <seg>領域を複製するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To collapse and subsequently expand a tool, click the triangle on the left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T035417Z" creationid="ktgw0316" creationdate="20150315T035417Z">
+        <seg>ツールを折りたたんだり展開したりするには、左側の三角形をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31612,6 +31724,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140330T031034Z" creationid="ktgw0316" creationdate="20140330T031034Z">
         <seg>プリンター ドライバーに色変換を行わせるには、LightZone で「プリンターによる色管理」を選択し、そのうえでプリンターの設定ダイアログで適切な色設定を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To lock a tool, select Lock from the pop-up &lt;a0&gt;menu&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041709Z" creationid="ktgw0316" creationdate="20150315T041709Z">
+        <seg>ツールをロックするには、ポップアップ &lt;a0&gt;メニュー&lt;/a0&gt;からロックを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33613,6 +33733,14 @@ external editor to edit.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While all LightZone tools perform their own unique operation, almost all share common controls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T035203Z" creationid="ktgw0316" creationdate="20150315T035203Z">
+        <seg>LightZone のツールは、それぞれ役割は違っても、ほぼすべてが共通するコントロールを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While descriptions for
 each are below, it's best to experiment.</seg>
       </tuv>
@@ -34207,6 +34335,14 @@ dark gray background.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T123732Z">
         <seg>背景が濃い灰色のメタデータは編集することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit the label by double-clicking it to give it a descriptive name, for example "Face" or "Foreground rocks".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040709Z" creationid="ktgw0316" creationdate="20150315T040709Z">
+        <seg>ラベルはダブルクリックすると編集できるようになり、「顔」や「手前の岩」など、より詳しい名前を付けられます。</seg>
       </tuv>
     </tu>
     <tu>
