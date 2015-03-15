@@ -3712,6 +3712,22 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on blending modes...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T042819Z" creationid="ktgw0316" creationdate="20150315T042819Z">
+        <seg>&lt;a2&gt;ブレンド モードについてより詳しく知る...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on inverting masks...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T043728Z" creationid="ktgw0316" creationdate="20150315T043728Z">
+        <seg>&lt;a2&gt;マスクの反転についてより詳しく知る...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163146Z">
@@ -6348,6 +6364,14 @@ configure iPhoto automatically for you now.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T105248Z">
         <seg>撮影時のホワイトバランス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 0%, the tool has no effect; at 100%, the tool has full effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T043216Z" creationid="ktgw0316" creationdate="20150315T043216Z">
+        <seg>0% だとツールは効果がありません。100% だとツールは完全な効果になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28346,6 +28370,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Blending Mode&lt;/b0&gt; pop-up menu allows you to select how the tool's effect is blended with previous tools in the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T042759Z" creationid="ktgw0316" creationdate="20150315T042759Z">
+        <seg>&lt;b0&gt;ブレンド モード&lt;/b0&gt; ポップアップ メニューでは、そのツールの効果を、&lt;a1&gt;ツール スタック&lt;/a1&gt;にあるそれ以前のツールとどのようにブレンドするかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Blur&lt;/b0&gt; tool allows you to blur all or parts of your photo by a specified radius.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T141240Z">
@@ -28398,6 +28430,22 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T152239Z" creationid="ktgw0316" creationdate="20141230T152239Z">
         <seg>&lt;b0&gt;カラー バランス&lt;/b0&gt; ツールでは、色調範囲で点を指定してその周りでカラー バランスを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Preset&lt;/b0&gt; radio buttons allow you to select all red, yellow, green, blue, indigo, or violet hues directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045119Z" creationid="ktgw0316" creationdate="20150315T045119Z">
+        <seg>&lt;b0&gt;色プリセット&lt;/b0&gt; ラジオ ボタンでは赤・黄・緑・青・藍・紫の色相を直接選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Selection&lt;/b0&gt; tab contains various controls that allow you select the colors (and luminosities) to which the affect of the tool is applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T044011Z" creationid="ktgw0316" creationdate="20150315T044011Z">
+        <seg>&lt;b0&gt;色選択&lt;/b0&gt;タブにはいろいろなコントロールがあり、ツールの効果をどの色 (および輝度) に対して適用するかを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28458,10 +28506,26 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Invert mask&lt;/b0&gt; check-box inverts the tool's effect to be outside all of the &lt;a1&gt;regions of the mask&lt;/a1&gt; for that tool rather than the default of inside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T043706Z" creationid="ktgw0316" creationdate="20150315T043706Z">
+        <seg>&lt;b0&gt;マスクを反転&lt;/b0&gt;チェックボックスはツールの効果を全&lt;a1&gt;マスクの領域&lt;/a1&gt;の内側ではなく外側で有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Label&lt;/b0&gt; contains the name of the tool by default.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150315T040308Z" creationid="ktgw0316" creationdate="20150315T035942Z">
         <seg>&lt;b0&gt;ラベル&lt;/b0&gt;は既定ではツールの名前になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Luminosity range&lt;/b0&gt; slider controls which parts of the luminosity range are selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045307Z" creationid="ktgw0316" creationdate="20150315T045212Z">
+        <seg>&lt;b0&gt;輝度範囲&lt;/b0&gt;スライダーでは輝度範囲のどの部分を選択するかをコントロールできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,6 +28542,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150303T132018Z">
         <seg>&lt;b0&gt;ノイズ軽減&lt;/b0&gt;ツールでは、デジタル カメラのセンサーで発生して写真に表れることが多い「ノイズ」を軽減できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Opacity&lt;/b0&gt; slider allows you to control how strongly the &lt;a1&gt;blending mode&lt;/a1&gt; is applied to your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T043021Z" creationid="ktgw0316" creationdate="20150315T043021Z">
+        <seg>&lt;b0&gt;不透明度&lt;/b0&gt;スライダーではその&lt;a1&gt;ブレンド モード&lt;/a1&gt;がどれくらい強く写真に適用されるかを調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29394,6 +29466,14 @@ brightness or half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T145652Z" creationid="ktgw0316" creationdate="20150130T145652Z">
         <seg>ツールの色見本と赤・緑・青の値も更新されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The currently &lt;b0&gt;Selected Color&lt;/b0&gt; is shown by the color swatch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T044841Z" creationid="ktgw0316" creationdate="20150315T044841Z">
+        <seg>現在&lt;b0&gt;選択されている色&lt;/b0&gt;は色スウォッチで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33509,6 +33589,22 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When checked, the &lt;b0&gt;Enable hue&lt;/b0&gt; checkbox restricts the tool's effect to the selected hue range; when unchecked, all hues (for the currently selected luminosity range) are selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045220Z" creationid="ktgw0316" creationdate="20150315T044547Z">
+        <seg>&lt;b0&gt;色相を有効化&lt;/b0&gt;チェックボックスをチェックすると、選択された色相範囲だけにツールの効果が制限されます。チェックを外すと、(そのとき選択されている輝度範囲で) すべての色相が選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, the &lt;b0&gt;Enable luminosity&lt;/b0&gt; checkbox restricts the tool's effect to the selected luminosity range; when unchecked, all luminosities (for the currently selected hue range) are selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045226Z" creationid="ktgw0316" creationdate="20150315T044641Z">
+        <seg>&lt;b0&gt;輝度を有効化&lt;/b0&gt;チェックボックスをチェックすると、選択された輝度範囲だけにツールの効果が制限されます。チェックを外すと、(そのとき選択されている色相範囲で) すべての輝度が選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When checked, the user interface shows titles for the buttons; when unchecked, only the buttons themselves are shown.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T161453Z">
@@ -34562,6 +34658,14 @@ Editor, directly from within the Photo Editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150310T135903Z" creationid="ktgw0316" creationdate="20150310T135903Z">
         <seg>そのために&lt;a0&gt;ゾーン ファインダー&lt;/a0&gt;が使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;b0&gt;Eyedropper&lt;/b0&gt; to select a color directly from your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T044117Z" creationid="ktgw0316" creationdate="20150315T044117Z">
+        <seg>色を写真から直接選択するには&lt;b0&gt;スポイト&lt;/b0&gt;が使えます。</seg>
       </tuv>
     </tu>
     <tu>
