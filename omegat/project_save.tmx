@@ -30434,6 +30434,14 @@ create beautiful photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows you to edit photos across multiple sessions each time picking up from where you left off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T055627Z" creationid="ktgw0316" creationdate="20150315T055627Z">
+        <seg>これによって写真の編集が複数回のセッションに渡ってもいつも前回の続きから再開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode causes only the shadows to be affected.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T155859Z">
