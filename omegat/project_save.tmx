@@ -1344,6 +1344,14 @@ must quit it first.)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(New LightZone JPEG or TIFF files will be created that contain the tools.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054844Z" creationid="ktgw0316" creationdate="20150315T054844Z">
+        <seg>(ツールを含んだ LightZone JPEG または TIFF ファイルが作成されます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152206Z">
@@ -1759,6 +1767,14 @@ must quit it first.)</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T151207Z">
         <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s0&gt;Command キー&lt;/s0&gt;または &lt;s1&gt;Ctrl キー&lt;/s1&gt;を使って複数のとびとびになったサムネイルを選択します。または「最近使ったファイルを選択」を使います。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s1&gt;Command&lt;/s1&gt; &lt;s2&gt;Control&lt;/s2&gt; key to select multiple, non-contiguous thumbnails.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054442Z" creationid="ktgw0316" creationdate="20150315T054442Z">
+        <seg>(Shift キーを使って複数の連続したサムネイルを選択するか、&lt;s1&gt;Command&lt;/s1&gt;&lt;s2&gt;Ctrl&lt;/s2&gt; キーを使って複数のとびとびになったサムネイルを選択します。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,6 +3656,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on cropping...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052958Z" creationid="ktgw0316" creationdate="20150315T052958Z">
+        <seg>&lt;a2&gt;切り抜きについてより詳しく知る...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on hue/saturation...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T141706Z">
@@ -3660,6 +3684,22 @@ version 3.1.2 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T142009Z">
         <seg>&lt;a1&gt;赤目軽減についてもっと知る&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on regions...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053134Z" creationid="ktgw0316" creationdate="20150315T053134Z">
+        <seg>&lt;a1&gt;領域についてより詳しく知る...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on rotating...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053141Z" creationid="ktgw0316" creationdate="20150315T053114Z">
+        <seg>&lt;a1&gt;回転についてより詳しく知る...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4382,14 @@ stack](Tool_Stack.html) blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T121508Z">
         <seg>ブレンド モードは、写真を仕上げるために[ツール スタック](Tool_Stack.html)の各ツールの効果がどのようにブレンドされるかをコントロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dialog box will appear where you specify how you want the paste to be done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054605Z" creationid="ktgw0316" creationdate="20150315T054605Z">
+        <seg>ペーストの方法を指定するダイアログ ボックスが現れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,6 +5630,14 @@ manipulate the settings of the individual tools ever further.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T125327Z" creationid="ktgw0316" creationdate="20150115T125327Z">
         <seg>&lt;a0&gt;編集した写真を保存&lt;/a0&gt;すると、元画像と編集済みの写真とがグループ化されて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Again using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, select one or more thumbnails of the photos that you want to paste the tools to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054342Z" creationid="ktgw0316" creationdate="20150315T054342Z">
+        <seg>再び&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;を使って、ツールをペーストしたい写真のサムネイルを何枚か選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10231,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T085717Z">
         <seg>領域のコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying the tools from a tool stack copies all tools except &lt;a0&gt;Crop&lt;/a0&gt;, &lt;a1&gt;Proof&lt;/a1&gt;, and &lt;a2&gt;Rotate&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054000Z" creationid="ktgw0316" creationdate="20150315T054000Z">
+        <seg>ツール スタックからツールをコピーすると、&lt;a0&gt;切り抜き&lt;/a0&gt;・&lt;a1&gt;プルーフ&lt;/a1&gt;・&lt;a2&gt;回転&lt;/a2&gt;以外のすべてのツールがコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15282,6 +15346,14 @@ device can render are truncated.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104609Z">
         <seg>If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified, the Batch Label forms part of the new file names and is inserted just before the extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054737Z" creationid="ktgw0316" creationdate="20150315T054737Z">
+        <seg>新しいファイル名の一部になる「バッチ ラベル」を指定した場合、拡張子の直前に挿入されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20771,6 +20843,14 @@ to understand blending modes, there are a few terms to know:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notably, LightZone saves the &lt;a0&gt;tool stack&lt;/a0&gt; as part of your edited photos' metadata.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T055347Z" creationid="ktgw0316" creationdate="20150315T055347Z">
+        <seg>特筆すべきこととして、LightZone は編集された写真のメタデータの一部として&lt;a0&gt;ツール スタック&lt;/a0&gt;を保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that after a reset is performed, LightZone must quit.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T161230Z">
@@ -25452,6 +25532,14 @@ Color Dodge</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Copy Tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054225Z" creationid="ktgw0316" creationdate="20150315T054225Z">
+        <seg>「編集」→「ツールをコピー」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Browser &gt; Edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T102703Z">
@@ -25464,6 +25552,14 @@ Color Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130119T102715Z">
         <seg>「閲覧」→「&lt;s0&gt;ごみ箱&lt;/s0&gt;&lt;s1&gt;ごみ箱&lt;/s1&gt;へ移動...」を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Browser &gt; Paste Tools...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054453Z" creationid="ktgw0316" creationdate="20150315T054453Z">
+        <seg>「編集」→「ツールをペースト」を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28506,6 +28602,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Crop&lt;/b0&gt; tool allows you to crop out unwanted parts of your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052937Z" creationid="ktgw0316" creationdate="20150315T052937Z">
+        <seg>&lt;b0&gt;切り抜き&lt;/b0&gt;ツールでは写真を切り抜いて不要な部分を除けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150315T041147Z" creationid="ktgw0316" creationdate="20150315T041147Z">
@@ -28666,6 +28770,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Regions&lt;/b0&gt; button shows or hides all the regions comprising the mask for the currently selected tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053406Z" creationid="ktgw0316" creationdate="20150315T053222Z">
+        <seg>&lt;b0&gt;領域&lt;/b0&gt; ボタンは選択されているツールのマスクを構成するすべての領域を表示または非表示にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Relight&lt;/b0&gt; tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150308T141629Z" creationid="ktgw0316" creationdate="20150308T141629Z">
@@ -28678,6 +28790,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T125230Z">
         <seg>&lt;b0&gt;リライト&lt;/b0&gt; ツールはこれを、広い領域のコントラストを下げると同時に部分的なコントラストを上げることで実現します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Rotate&lt;/b0&gt; tool allows you to rotate your photo, for example to make the horizon perfectly level.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053106Z" creationid="ktgw0316" creationdate="20150315T053106Z">
+        <seg>&lt;b0&gt;回転ツール&lt;/b0&gt;では、水平を出したりするために、写真を回転させられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28822,6 +28942,14 @@ currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050250Z">
         <seg>&lt;b0&gt;ゾーン マッパー&lt;/b0&gt; ツールでは明るさとコントラストを、写真の全体またはハイライトと中間調とシャドウのあらゆる組み合わせについて調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Zoom&lt;/b0&gt; buttons allow you to zoom 1:1, to fit, in, or out to see more or less detail, respectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052728Z" creationid="ktgw0316" creationdate="20150315T052728Z">
+        <seg>&lt;b0&gt;ズーム&lt;/b0&gt; ボタンでは表示を 1:1 にしたりウィンドウに合わせたり、ズーム インやズーム アウトができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30898,6 +31026,14 @@ multipage document such as a fax.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful when you've taken a set of photos of the same scene under the same conditions: edit one of the photos of the set to your liking, then apply those edits to the remainder of the photos in the set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053814Z" creationid="ktgw0316" creationdate="20150315T053814Z">
+        <seg>これは同じコンディションで同じシーンの写真をたくさん撮った場合に便利です。写真のうち 1 枚を好きなように編集し、それからその編集を残りの写真に適用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is very useful in a couple of situations:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130601T164416Z">
@@ -31550,6 +31686,14 @@ easier to work with.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T110024Z">
         <seg>領域をコピー &amp; ペーストするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To copy and paste the tools in the tool stack:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054120Z" creationid="ktgw0316" creationdate="20150315T054120Z">
+        <seg>ツール スタックでツールをコピー &amp; ペーストするには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32554,6 +32698,14 @@ key features, see the [Discover LightZone](Discover.html) page.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tools' &lt;a3&gt;regions&lt;/a3&gt; are also copied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054020Z" creationid="ktgw0316" creationdate="20150315T054020Z">
+        <seg>ツールの&lt;a3&gt;領域&lt;/a3&gt;もコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tools-Controls.html</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T132209Z">
@@ -33280,6 +33432,14 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, select the thumbnail of the photo you want copy the tools from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T054213Z" creationid="ktgw0316" creationdate="20150315T054213Z">
+        <seg>&lt;a0&gt;写真閲覧ウィンドウ&lt;/a0&gt;を使って、ツールをコピーしたい写真のサムネイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Photo Browser, select two or more thumbnails of the photos
     that you want to convert.</seg>
       </tuv>
@@ -33921,6 +34081,14 @@ external editor to edit.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150130T141430Z" creationid="ktgw0316" creationdate="20150130T141258Z">
         <seg>作品を保存する際、LightZone では「LightZone JPEG」ファイルとして保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While LightZone is an all-in-one application for your digital photography workflow from raw conversion to printing, you can integrate LightZone into your existing workflow with other applications if you prefer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T055216Z" creationid="ktgw0316" creationdate="20150315T055216Z">
+        <seg>LightZone はデジタル写真の RAW 変換から印刷までのワークフローをこなすオールインワン アプリケーションだとはいえ、他のアプリケーションを使った既存のワークフローに LightZone を統合することもできます。</seg>
       </tuv>
     </tu>
     <tu>
