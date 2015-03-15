@@ -668,8 +668,8 @@ half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>"Brightness" is what is perceived as the tonal range starting from the highest highlights down to the midtones.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134845Z" creationid="ktgw0316" creationdate="20150310T134845Z">
-        <seg>「輝度」は最も明るいハイライトに始まり中間調へと下る階調の範囲として認識されます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050140Z" creationid="ktgw0316" creationdate="20150310T134845Z">
+        <seg>「明るさ」は最も明るいハイライトに始まり中間調へと下る階調の範囲として認識されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1667,8 +1667,8 @@ must quit it first.)</seg>
       <tuv lang="EN-US">
         <seg>(This is the same as clicking the &lt;b0&gt;Enable/Disable&lt;/b0&gt; checkbox in a tool's title bar.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T143933Z" creationid="ktgw0316" creationdate="20150311T143840Z">
-        <seg>(これはツールのタイトル バーで&lt;b0&gt;有効/無効&lt;/b0&gt;をクリックするのと同じです。)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050501Z" creationid="ktgw0316" creationdate="20150311T143840Z">
+        <seg>(これはツールのタイトル バーで&lt;b0&gt;有効化/無効化&lt;/b0&gt;をクリックするのと同じです。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,6 +3728,14 @@ version 3.1.2 but may need to change for future versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on the proof tool...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052311Z" creationid="ktgw0316" creationdate="20150315T052311Z">
+        <seg>&lt;a2&gt;プルーフ ツールについてより詳しく知る...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T163146Z">
@@ -3986,8 +3994,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the brightness of you photo, drag the zone lock downwards rather than upwards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130206T103451Z">
-        <seg>&lt;b0&gt;註:&lt;/b0&gt; 写真の輝度を下げるには、ゾーン ロックを上ではなく下にドラッグします。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050157Z">
+        <seg>&lt;b0&gt;註:&lt;/b0&gt; 写真の明るさを下げるには、ゾーン ロックを上ではなく下にドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5173,8 +5181,8 @@ thus eliminating sharp edges between where a selection is and isn't.</seg>
       <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130117T125635Z">
-        <seg>それに加えて、色/輝度の選択には調整可能なフェザリングがあるので、選択した範囲と範囲外との境目がくっきりするのを避けられます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045828Z">
+        <seg>さらに、色/輝度の選択には調整可能なフェザリングがあるので、選択した範囲と範囲外との境目がくっきりするのを避けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,6 +5191,14 @@ thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T112338Z">
         <seg>それに加えて、領域にはフェザリングを調整可能な範囲があるので、領域内と領域外との境目がくっきりするのを避けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, each slider splits in two that allows you to control the &lt;b1&gt;luminosity feathering&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045750Z" creationid="ktgw0316" creationdate="20150315T045720Z">
+        <seg>さらに、各スライダーがふたつに分かれて&lt;b1&gt;輝度フェザリング&lt;/b1&gt;をコントロールできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5232,8 +5248,8 @@ a photo such as its title, caption, copyright, creator, and location.</seg>
       <tuv lang="EN-US">
         <seg>Additionally, metadata can also include information about the content of a photo such as its title, caption, copyright, creator, and location.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130221T123715Z">
-        <seg>その他にも、題名やキャプション、著作権表示、撮影者に撮影地といった写真の内容を含めることもできます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045852Z">
+        <seg>さらに、題名やキャプション、著作権表示、撮影者に撮影地といった写真の内容を含めることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,8 +5435,8 @@ that point in time.</seg>
       <tuv lang="EN-US">
         <seg>Adjusting brightness</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T070736Z">
-        <seg>明度の調整</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050237Z">
+        <seg>明るさの調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -6964,10 +6980,18 @@ device can render.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brightness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050322Z" creationid="ktgw0316" creationdate="20150315T050322Z">
+        <seg>明るさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness value</seg>
       </tuv>
-      <tuv lang="JA" changeid="masahiro" changedate="20130104T085400Z">
-        <seg>明度の値</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050315Z">
+        <seg>明るさの値</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,8 +7102,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T145553Z">
-        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は輝度が 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (露出が 1/2 段) ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050301Z">
+        <seg>標準設定では写真を編集するとき、LightZone のウィンドウの右上角にゾーン ファインダーがあり、写真の縮小版が 16 段階のグレー スケールに分けて表示されています。グレー スケールの各段階は明るさが 50% ずつ異なり、つまり&lt;e0&gt;露光指数&lt;/e0&gt;が 1/2 EV (露出が 1/2 段) ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11870,8 +11894,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Disable</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T103449Z">
-        <seg>無効</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050546Z">
+        <seg>無効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -11902,8 +11926,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Disable/Enable</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150311T144035Z" creationid="ktgw0316" creationdate="20150310T143853Z">
-        <seg>無効/有効</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050455Z" creationid="ktgw0316" creationdate="20150310T143853Z">
+        <seg>無効化/有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -12715,8 +12739,8 @@ Fuji</seg>
       <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130106T103443Z">
-        <seg>有効</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050543Z">
+        <seg>有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -13842,6 +13866,14 @@ avoid modifying your original photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if there are the &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T051717Z" creationid="ktgw0316" creationdate="20150315T051717Z">
+        <seg>例として、ツール スタックに&lt;a0&gt;色相/彩度&lt;/a0&gt;と&lt;a1&gt;ぼかし&lt;/a1&gt;のツールが積まれているとき、元画像はまず色相/彩度ツールによる変更を受けたうえでぼかしツールによる変更を受けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if your photo has saturated highlights such as a clear blue sky, then increasing brightness will clip colors in portions of the sky because pixels that are already saturated blue can't become more blue.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150311T142434Z" creationid="ktgw0316" creationdate="20150311T142434Z">
@@ -14504,8 +14536,8 @@ black that the device can render.</seg>
       <tuv lang="EN-US">
         <seg>How to adjust the brightness of your photo using ZoneMapper.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130116T144847Z">
-        <seg>ゾーン マッパーで写真の輝度を調整するには</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050113Z">
+        <seg>ゾーン マッパーで写真の明るさを調整するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -18377,8 +18409,8 @@ stack](Tool_Stack.html) you create.</seg>
       <tuv lang="EN-US">
         <seg>LightZone: ZoneMapper: Adjusting Brightness</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T070821Z">
-        <seg>LightZone: ゾーン マッパー: 輝度の調整</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050105Z">
+        <seg>LightZone: ゾーン マッパー: 明るさの調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -20969,6 +21001,14 @@ is the Folder Navigator that shows the folders on your computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the lower-right side of the LightZone window is the tool stack that shows all the tools created for your photo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050759Z" creationid="ktgw0316" creationdate="20150315T050759Z">
+        <seg>ツール スタックは LightZone ウィンドウの下方左側にあり、作成されたすべてのツールを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity
 range of your photo is compressed to fit into the luminosity range of
 the device.</seg>
@@ -21073,8 +21113,8 @@ shows the selected photo's metadata.</seg>
       <tuv lang="EN-US">
         <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is brightness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150310T134631Z" creationid="ktgw0316" creationdate="20150310T134631Z">
-        <seg>ゾーン マッパー ツールで調整できるもののひとつに輝度があります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050133Z" creationid="ktgw0316" creationdate="20150310T134631Z">
+        <seg>ゾーン マッパー ツールで調整できるもののひとつに明るさがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28354,6 +28394,14 @@ currently selected thumbnails.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Before/After&lt;/b0&gt; button toggles the effects of all the tools in the &lt;a1&gt;tool stack&lt;/a1&gt; so you can see your photo before and after the tools are applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052249Z" creationid="ktgw0316" creationdate="20150315T052249Z">
+        <seg>&lt;b0&gt;元画像&lt;/b0&gt;ボタンは&lt;a1&gt;ツール スタック&lt;/a1&gt;のすべてのツールの効果を無効にするため、ツールを適用する前後の写真を比較できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Black &amp; White&lt;/b0&gt; tool allows you to convert a color photo into a black-and-white photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150115T131402Z" creationid="ktgw0316" creationdate="20150115T131402Z">
@@ -28764,16 +28812,16 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;ZoneMapper&lt;/b0&gt; tool allows you to adjust the brightness and contrast of all or parts of your photo for any combination of the highlights, midtones, or shadows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T125051Z">
-        <seg>&lt;b0&gt;ゾーン マッパー&lt;/b0&gt; ツールでは輝度とコントラストを、写真の全体または一部をハイライトと中間調とシャドウのあらゆる組み合わせについて調整できます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050217Z">
+        <seg>&lt;b0&gt;ゾーン マッパー&lt;/b0&gt; ツールでは明るさとコントラストを、写真の全体または一部をハイライトと中間調とシャドウのあらゆる組み合わせについて調整できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;ZoneMapper&lt;/b0&gt; tool allows you to adjust the brightness and contrast of your entire photo or any combination of the highlights, midtones, or shadows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T125117Z">
-        <seg>&lt;b0&gt;ゾーン マッパー&lt;/b0&gt; ツールでは輝度とコントラストを、写真の全体またはハイライトと中間調とシャドウのあらゆる組み合わせについて調整できます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050250Z">
+        <seg>&lt;b0&gt;ゾーン マッパー&lt;/b0&gt; ツールでは明るさとコントラストを、写真の全体またはハイライトと中間調とシャドウのあらゆる組み合わせについて調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29311,8 +29359,8 @@ in a way that is far more intuitive than using either "levels" or
       <tuv lang="EN-US">
         <seg>The ZoneMapper tool allows you to adjust the brightness and contrast of your photo for any combination of the highlights, midtones, or shadows in a way that is far more intuitive than using either "levels" or "curves" tools found in other applications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130120T074632Z">
-        <seg>ゾーン マッパー ツールでは写真の輝度とコントラストを調整できます。ハイライトと中間調とシャドウのどんな組み合わせに対しても、他のアプリケーションでよくある「レベル」や「カーブ」ツールよりもずっと直観的に調整できます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050039Z">
+        <seg>ゾーン マッパー ツールでは写真の明るさとコントラストを調整できます。ハイライトと中間調とシャドウのどんな組み合わせに対しても、他のアプリケーションでよくある「レベル」や「カーブ」ツールよりもずっと直観的に調整できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29328,8 +29376,8 @@ brightness or half an f-stop from the next.</seg>
       <tuv lang="EN-US">
         <seg>The ZoneMapper tool shows 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20141229T143928Z">
-        <seg>写真を 16 段階のグレー スケールに分けて表示します。各段階は輝度が 50% ずつ異なり、つまり露出が 1/2 段ずつ違っています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050052Z">
+        <seg>写真を 16 段階のグレー スケールに分けて表示します。各段階は明るさが 50% ずつ異なり、つまり露出が 1/2 段ずつ違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29470,6 +29518,14 @@ brightness or half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The control has two sliders: one each for the lower and upper bounds of the luminosity range.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045443Z" creationid="ktgw0316" creationdate="20150315T045443Z">
+        <seg>このコントロールにはスライダーがふたつあります。それぞれ輝度範囲の上限用と下限用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The currently &lt;b0&gt;Selected Color&lt;/b0&gt; is shown by the color swatch.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150315T044841Z" creationid="ktgw0316" creationdate="20150315T044841Z">
@@ -29549,6 +29605,14 @@ brightness or half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T152608Z">
         <seg>ディフューズしたスポットライトで照らすのに似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect of tools is applied from the bottom of the tool stack to the top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T051038Z" creationid="ktgw0316" creationdate="20150315T051031Z">
+        <seg>ツールの効果はツール スタックの一番下から上へと適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29910,6 +29974,14 @@ using the [ZoneMapper](Tool-ZoneMapper.html) tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130221T135430Z">
         <seg>スポット ツールは[複製ツール](Tool-Clone.html)の特別版です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title bar of the selected tool is orange.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050814Z" creationid="ktgw0316" creationdate="20150315T050814Z">
+        <seg>選択されたツールのタイトル バーはオレンジ色です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31370,6 +31442,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the ordering of a tool in the tool stack, drag it by its title bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050944Z" creationid="ktgw0316" creationdate="20150315T050944Z">
+        <seg>ツール スタックのツールの順序を変更したい場合は、タイトル バーをドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To clone an area of your photo:</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20141230T145827Z" creationid="ktgw0316" creationdate="20141230T145827Z">
@@ -31660,8 +31740,8 @@ easier to work with.</seg>
       <tuv lang="EN-US">
         <seg>To increase the brightness of your photo:</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130116T144924Z">
-        <seg>写真の輝度を上げるには:</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050148Z">
+        <seg>写真の明るさを上げるには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33589,6 +33669,14 @@ specific areas of your photo.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a new tool is created, it is placed on the top of the stack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050932Z" creationid="ktgw0316" creationdate="20150315T050932Z">
+        <seg>新しいツールは作成されるとスタックの一番上に追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When checked, the &lt;b0&gt;Enable hue&lt;/b0&gt; checkbox restricts the tool's effect to the selected hue range; when unchecked, all hues (for the currently selected luminosity range) are selected.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150315T045220Z" creationid="ktgw0316" creationdate="20150315T044547Z">
@@ -33691,6 +33779,14 @@ specific areas of your photo.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130107T150038Z">
         <seg>領域を描いているときに、リアルタイムに写真を更新するか、変更と変更の間にだけ更新するか、領域が完成するまで更新を待つかを選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When editing a photo, there is a toolbar along the top of the LightZone window containing the set of control tools shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T051911Z" creationid="ktgw0316" creationdate="20150315T051911Z">
+        <seg>写真を編集するとき、LightZone ウィンドウの一番上には各種のコントロール ツールが付いた以下のようなツールバーがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34832,8 +34928,8 @@ Editor, directly from within the Photo Editor.</seg>
       <tuv lang="EN-US">
         <seg>ZoneMapper: Adjusting brightness</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130119T070828Z">
-        <seg>ゾーン マッパー: 輝度の調整</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T050119Z">
+        <seg>ゾーン マッパー: 明るさの調整</seg>
       </tuv>
     </tu>
     <tu>
