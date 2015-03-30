@@ -23718,8 +23718,8 @@ therefore always editable.</seg>
       <tuv lang="EN-US">
         <seg>Remembers the current settings for the tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T030526Z" creationid="ktgw0316" creationdate="20150315T030526Z">
-        <seg>ツールの減災の設定を記憶します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T140247Z" creationid="ktgw0316" creationdate="20150315T030526Z">
+        <seg>ツールの現在の設定を記憶します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28772,8 +28772,8 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Regions&lt;/b0&gt; button shows or hides all the regions comprising the mask for the currently selected tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T053406Z" creationid="ktgw0316" creationdate="20150315T053222Z">
-        <seg>&lt;b0&gt;領域&lt;/b0&gt; ボタンは選択されているツールのマスクを構成するすべての領域を表示または非表示にします。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T140134Z" creationid="ktgw0316" creationdate="20150315T053222Z">
+        <seg>&lt;b0&gt;領域&lt;/b0&gt;ボタンは選択されているツールのマスクを構成するすべての領域を表示または非表示にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28948,7 +28948,7 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Zoom&lt;/b0&gt; buttons allow you to zoom 1:1, to fit, in, or out to see more or less detail, respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052728Z" creationid="ktgw0316" creationdate="20150315T052728Z">
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T140200Z" creationid="ktgw0316" creationdate="20150315T052728Z">
         <seg>&lt;b0&gt;ズーム&lt;/b0&gt; ボタンでは表示を 1:1 にしたりウィンドウに合わせたり、ズーム インやズーム アウトができます。</seg>
       </tuv>
     </tu>
