@@ -17421,8 +17421,8 @@ single click.</seg>
       <tuv lang="EN-US">
         <seg>LightZone comes bundled with many ready-made styles that in many cases enable you to improve the appeal of your photos dramatically with a single click.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130120T072425Z">
-        <seg>LightZone にはすぐに使えるスタイルがたくさん付属しており、写真の見た目をクリックひとつで劇的に変化させられます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T125755Z">
+        <seg>LightZone にはすぐに使えるスタイルがたくさん付属していて、写真の見た目をクリックひとつで劇的に変化させられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29225,8 +29225,8 @@ the same time, increasing the local contrast.</seg>
       <tuv lang="EN-US">
         <seg>The Relight tool does this by reducing the large scale contrast and, at the same time, increasing the local contrast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T125239Z">
-        <seg>リライト ツールはこれを、広い領域のコントラストを下げると同時に部分的なコントラストを上げることで実現します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T125936Z">
+        <seg>リライト ツールは広い領域のコントラストを下げると同時に部分的なコントラストを上げることでそれを実現します。</seg>
       </tuv>
     </tu>
     <tu>
