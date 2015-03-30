@@ -17801,8 +17801,8 @@ stack](Tool_Stack.html) you create.</seg>
       <tuv lang="EN-US">
         <seg>LightZone's workflow consists of an original image file (be it JPEG, TIFF, or raw) obtained from a digital camera or scanner and an associated "LightZone JPEG" file that contains the &lt;a0&gt;tool stack&lt;/a0&gt; you create.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T163157Z">
-        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルとからなります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T132942Z">
+        <seg>LightZone の作業フローは、デジタル カメラやスキャナーからの元画像 (JPEG、TIFF または raw) と、それに関連付けられて&lt;a0&gt;ツール スタック&lt;/a0&gt;の情報を持つ「LightZone JPEG」ファイルからなります。</seg>
       </tuv>
     </tu>
     <tu>
