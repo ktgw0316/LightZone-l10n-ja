@@ -15940,8 +15940,8 @@ as black (not selected).</seg>
       <tuv lang="EN-US">
         <seg>In (b), the blues have been selected so the areas of the photo that are blue are shown as white (selected) and the rest is shown as black (not selected).</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130117T134254Z">
-        <seg>(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示されて残りの領域は黒 (選択中でない) で表示されています。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T135613Z">
+        <seg>(b) では、青が選択されているため写真の中の青い領域が白 (選択中) で表示され、残りの領域は黒 (選択中でない) で表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27435,8 +27435,8 @@ tool's [color/luminosity selection](Color_Luminosity_Selection.html).</seg>
       <tuv lang="EN-US">
         <seg>Some digital cameras have an orientation sensor so that photos shot in portrait mode are automatically rotated right-side-up when you look at them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130515T144717Z">
-        <seg>カメラによっては方向センサーを内蔵していて、縦向きで撮った写真でも表示するときには自動で正しい向きに回転させます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T135111Z">
+        <seg>カメラによっては方向センサーを内蔵していて、縦向きで撮った写真でも表示するときには自動で正しい向きに回転されます。</seg>
       </tuv>
     </tu>
     <tu>
