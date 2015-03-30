@@ -21934,8 +21934,8 @@ is.</seg>
       <tuv lang="EN-US">
         <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T152457Z">
-        <seg>ベース色のハイライトとシャドウはそのままに、パターンや色が既存のピクセルを覆います。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T142211Z">
+        <seg>ベース色のハイライトとシャドウはそのままで、既存のピクセルをパターンや色が覆います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30519,8 +30519,8 @@ create beautiful photos.</seg>
       <tuv lang="EN-US">
         <seg>This blending mode is a combination of both the Color Dodge and inverse Color Burn modes, but much smoother than either.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T152539Z">
-        <seg>「色で覆い焼き」と「色で焼き込み」の逆を組み合わせたもので、どちらよりも滑らかになります。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T142354Z">
+        <seg>「色で覆い焼き」と「色で焼き込み」の逆とを組み合わせたもので、どちらよりも滑らかになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30578,8 +30578,8 @@ create beautiful photos.</seg>
       <tuv lang="EN-US">
         <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T152525Z">
-        <seg>乗算とほぼ同じですが、ベース色およびブレンド色の逆数どうしを乗算します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T142238Z">
+        <seg>「乗算」とほぼ同じですが、ベース色およびブレンド色の逆数どうしを乗算します。</seg>
       </tuv>
     </tu>
     <tu>
