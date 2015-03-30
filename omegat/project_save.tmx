@@ -5271,8 +5271,8 @@ preventing sharp edges.</seg>
       <tuv lang="EN-US">
         <seg>Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T163631Z">
-        <seg>さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので境目がくっきりするのを避けられます。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T131124Z">
+        <seg>さらに、各領域には&lt;e2&gt;フェザリング領域&lt;/e2&gt;があって周りの領域と滑らかに混ざり合うので、境目がくっきりするのを避けられます。</seg>
       </tuv>
     </tu>
     <tu>
