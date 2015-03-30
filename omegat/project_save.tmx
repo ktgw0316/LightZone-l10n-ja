@@ -28788,8 +28788,8 @@ currently selected thumbnails.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Relight&lt;/b0&gt; tool does this by reducing the large scale contrast and, at the same time, increasing the local contrast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130219T125230Z">
-        <seg>&lt;b0&gt;リライト&lt;/b0&gt; ツールはこれを、広い領域のコントラストを下げると同時に部分的なコントラストを上げることで実現します。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T142849Z">
+        <seg>&lt;b0&gt;リライト&lt;/b0&gt; ツールの効果は、広い領域のコントラストを下げると同時に部分的なコントラストを上げることで実現されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30854,8 +30854,8 @@ create beautiful photos.</seg>
       <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="polaris" changedate="20130208T152056Z">
-        <seg>次の図を使って説明しましょう。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T142617Z">
+        <seg>これは下図のように説明されます。</seg>
       </tuv>
     </tu>
     <tu>
