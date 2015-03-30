@@ -3658,8 +3658,8 @@ version 3.1.2 but may need to change for future versions.</seg>
       <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on cropping...&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150315T052958Z" creationid="ktgw0316" creationdate="20150315T052958Z">
-        <seg>&lt;a2&gt;切り抜きについてより詳しく知る...&lt;/a2&gt;</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T130829Z" creationid="ktgw0316" creationdate="20150315T052958Z">
+        <seg>&lt;a1&gt;切り抜きについてより詳しく知る...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13999,8 +13999,8 @@ color channels extend into the lightest zone).</seg>
       <tuv lang="EN-US">
         <seg>For raw photos, it is always present at the bottom of the &lt;a0&gt;tool stack&lt;/a0&gt; and can neither be disabled nor deleted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20150303T134700Z" creationid="ktgw0316" creationdate="20150303T134700Z">
-        <seg>RAW 写真では常に&lt;a1&gt;ツール スタック&lt;/a1&gt;の一番下に置かれており、無効化も削除もできません。</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150330T130811Z" creationid="ktgw0316" creationdate="20150303T134700Z">
+        <seg>RAW 写真では常に&lt;a0&gt;ツール スタック&lt;/a0&gt;の一番下に置かれており、無効化も削除もできません。</seg>
       </tuv>
     </tu>
     <tu>
