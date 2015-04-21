@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7102,8 +7102,8 @@ device can render.</seg>
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130921T023403Z">
-        <seg>閲覧ウィンドウのレイアウト(B)</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150421T141203Z">
+        <seg>閲覧レイアウト(B)</seg>
       </tuv>
     </tu>
     <tu>
