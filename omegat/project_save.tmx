@@ -674,6 +674,14 @@ half an f-stop from the next.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Info" tab is now also available in Editor mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T142527Z" creationid="ktgw0316" creationdate="20150422T142527Z">
+        <seg>「情報」タブが編集モードでも見られるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>###</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130219T122850Z">
@@ -5613,6 +5621,14 @@ that point in time.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T100134Z">
         <seg>詳細なオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AdvancedNoiseReduction is updated to V4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T142546Z" creationid="ktgw0316" creationdate="20150422T142546Z">
+        <seg>AdvancedNoiseReduction が V4 に更新されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14264,6 +14280,14 @@ the [tool stack](Tool_Stack.html).</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full-screen mode is now supported on 10.7 (Lion) or newer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T141936Z" creationid="ktgw0316" creationdate="20150422T141936Z">
+        <seg>10.7 (Lion) 以降でフルスクリーン モードをサポートしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20140923T083729Z" creationid="ktgw0316" creationdate="20140923T083729Z">
@@ -14553,6 +14577,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130208T155028Z">
         <seg>したがって、写真のなかの最も暗い黒とデバイスの最も暗い黒が一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HiDPI retina mode is now supported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T141952Z" creationid="ktgw0316" creationdate="20150422T141952Z">
+        <seg>HiDPI retina モードをサポートしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,6 +16198,14 @@ as black (not selected).</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130127T070348Z">
         <seg>編集したい写真を Aperture で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Crop/Rotate mode, you can now rotate the image with mouse wheel, and change the rotation grid origin with a click.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T142451Z" creationid="ktgw0316" creationdate="20150422T142451Z">
+        <seg>切り抜き/回転モードで、マウス ホイールで画像を回転したり、クリックで回転中心を変更したりできるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21324,6 +21364,14 @@ photos in iView MediaPro and edit it in LightZone.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130113T162812Z">
         <seg>Olympus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Mac OS X:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T141856Z" creationid="ktgw0316" creationdate="20150422T141856Z">
+        <seg>Mac OS X:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35148,6 +35196,14 @@ directly from LightZone.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can now open an image via command line, OS context menu, or drag &amp; drop on LightZone shortcut icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T141850Z" creationid="ktgw0316" creationdate="20150422T141626Z">
+        <seg>画像を開く際に、コマンドラインや OS のコンテキスト メニューや LightZone のショートカット アイコンへのドラッグ &amp; ドロップが使えるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can now preview &lt;a0&gt;styles&lt;/a0&gt; by moving the mouse over style names.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T094718Z">
@@ -35180,10 +35236,26 @@ directly from LightZone.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can now select multiple thumbnails with Ctrl-Shift-Click.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T142103Z" creationid="ktgw0316" creationdate="20150422T142103Z">
+        <seg>複数のサムネイルを選択するのに Ctrl-Shift-クリック が使えるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can now select only the most recent versions of your photos in a given folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T095554Z">
         <seg>任意のフォルダー内の写真について最新版のみを選択できるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now zoom in/out with Ctrl-wheel, and move the zoomed image with Ctrl-drag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150422T142327Z" creationid="ktgw0316" creationdate="20150422T142257Z">
+        <seg>ズーム イン/アウトが Ctrl-ホイールで、ズームされた画像の位置変更が Ctrl-ドラッグでできるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
