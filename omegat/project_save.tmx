@@ -10421,6 +10421,14 @@ Samsung</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 1991-2012 Thomas G. Lane, Guido Vollbeding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150423T121800Z" creationid="ktgw0316" creationdate="20150423T121800Z">
+        <seg>Copyright © 1991-2012 Thomas G. Lane, Guido Vollbeding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 1991-2012 Thomas G. Lane, Guido Vollbeding.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150422T141351Z" creationid="ktgw0316" creationdate="20150422T141351Z">
@@ -10565,6 +10573,14 @@ Samsung</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130206T104628Z">
         <seg>Copyright © 2003-2007 Werner Randelshofe&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2003-2010 Werner Randelshofe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20150423T121804Z" creationid="ktgw0316" creationdate="20150423T121804Z">
+        <seg>Copyright © 2003-2010 Werner Randelshofe</seg>
       </tuv>
     </tu>
     <tu>
