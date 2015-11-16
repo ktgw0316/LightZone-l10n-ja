@@ -6560,6 +6560,14 @@ configure iPhoto automatically for you now.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto AF point</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124243Z" creationid="ktgw0316" creationdate="20151116T124230Z">
+        <seg>自動 AF ポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Expand</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20150123T125058Z" creationid="ktgw0316" creationdate="20150123T125058Z">
@@ -11475,6 +11483,14 @@ Pentax</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T125019Z" creationid="ktgw0316" creationdate="20151116T125019Z">
+        <seg>日付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date created</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074918Z">
@@ -11966,8 +11982,8 @@ Pentax</seg>
       <tuv lang="EN-US">
         <seg>Destination city code</seg>
       </tuv>
-      <tuv lang="JA" changeid="ktgw0316" changedate="20130408T132436Z">
-        <seg>目的値の都市コード</seg>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124830Z">
+        <seg>目的地の都市コード</seg>
       </tuv>
     </tu>
     <tu>
@@ -14810,6 +14826,14 @@ black that the device can render.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T132109Z">
         <seg>ホームタウンの夏時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town city</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124858Z" creationid="ktgw0316" creationdate="20151116T124858Z">
+        <seg>ホームタウンの都市</seg>
       </tuv>
     </tu>
     <tu>
@@ -31912,6 +31936,14 @@ easier to work with.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T125014Z" creationid="ktgw0316" creationdate="20151116T125014Z">
+        <seg>時刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time created</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T074923Z">
@@ -34934,6 +34966,14 @@ each are below, it's best to experiment.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>World time location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124929Z" creationid="ktgw0316" creationdate="20151116T124929Z">
+        <seg>世界時の場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would you like to replace it?</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130106T100500Z">
@@ -36752,6 +36792,14 @@ stack...](Tool_Stack.html)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto daylight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124421Z" creationid="ktgw0316" creationdate="20151116T124421Z">
+        <seg>自動 デイライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto exposure</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T072904Z">
@@ -36760,10 +36808,66 @@ stack...](Tool_Stack.html)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto flash</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124440Z" creationid="ktgw0316" creationdate="20151116T124440Z">
+        <seg>自動 フラッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto high</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142412Z">
         <seg>自動 高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto shade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124428Z" creationid="ktgw0316" creationdate="20151116T124428Z">
+        <seg>自動 日陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, did not fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124049Z" creationid="ktgw0316" creationdate="20151116T124049Z">
+        <seg>オート, 発光せず</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, did not fire, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124121Z" creationid="ktgw0316" creationdate="20151116T124121Z">
+        <seg>オート, 発光せず, 赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, fired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124131Z" creationid="ktgw0316" creationdate="20151116T124131Z">
+        <seg>オート, 発光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, fired, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124138Z" creationid="ktgw0316" creationdate="20151116T124138Z">
+        <seg>オート, 発光, 赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>autumn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T123849Z" creationid="ktgw0316" creationdate="20151116T123849Z">
+        <seg>秋</seg>
       </tuv>
     </tu>
     <tu>
@@ -36844,6 +36948,30 @@ stack...](Tool_Stack.html)</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T094735Z">
         <seg>下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-center</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124340Z" creationid="ktgw0316" creationdate="20151116T124335Z">
+        <seg>中央下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124328Z" creationid="ktgw0316" creationdate="20151116T124328Z">
+        <seg>左下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124344Z" creationid="ktgw0316" creationdate="20151116T124344Z">
+        <seg>右下</seg>
       </tuv>
     </tu>
     <tu>
@@ -37304,6 +37432,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142748Z">
         <seg>被写界深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>destination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124759Z" creationid="ktgw0316" creationdate="20151116T124759Z">
+        <seg>目的地</seg>
       </tuv>
     </tu>
     <tu>
@@ -37812,6 +37948,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>flower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T123853Z" creationid="ktgw0316" creationdate="20151116T123853Z">
+        <seg>花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fluorescent</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T065015Z">
@@ -37968,6 +38112,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141141Z">
         <seg>最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>home town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124904Z" creationid="ktgw0316" creationdate="20151116T124904Z">
+        <seg>ホームタウン</seg>
       </tuv>
     </tu>
     <tu>
@@ -39457,10 +39609,42 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>medium hard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124633Z" creationid="ktgw0316" creationdate="20151116T124633Z">
+        <seg>ミディアム ハード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium high</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124620Z" creationid="ktgw0316" creationdate="20151116T124620Z">
+        <seg>ミディアム 高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium low</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124610Z" creationid="ktgw0316" creationdate="20151116T124610Z">
+        <seg>ミディアム 低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>medium movie</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T085543Z">
         <seg>中サイズのムービー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium soft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124626Z" creationid="ktgw0316" creationdate="20151116T124626Z">
+        <seg>ミディアム ソフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -39721,6 +39905,22 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124149Z" creationid="ktgw0316" creationdate="20151116T124149Z">
+        <seg>オン, 赤目軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on, soft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124213Z" creationid="ktgw0316" creationdate="20151116T124213Z">
+        <seg>オン, ソフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>one chip color area sensor</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T132953Z">
@@ -39945,6 +40145,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130114T085514Z">
         <seg>はがき</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124458Z" creationid="ktgw0316" creationdate="20151116T124458Z">
+        <seg>プリセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -40501,6 +40709,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>synchronous sound record</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124015Z" creationid="ktgw0316" creationdate="20151116T124015Z">
+        <seg>音声同期録音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>synthetics &amp; plastics</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T081601Z">
@@ -40569,6 +40785,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="polaris" changedate="20130117T113530Z">
         <seg>test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T123858Z" creationid="ktgw0316" creationdate="20151116T123858Z">
+        <seg>テキスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -40695,6 +40919,30 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>top-center</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124308Z" creationid="ktgw0316" creationdate="20151116T124308Z">
+        <seg>中央上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124257Z" creationid="ktgw0316" creationdate="20151116T124257Z">
+        <seg>左上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124320Z" creationid="ktgw0316" creationdate="20151116T124320Z">
+        <seg>右上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transparency mask</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130104T032326Z">
@@ -40799,6 +41047,14 @@ as a "helper application" for editing your photos.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>underwater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T123936Z" creationid="ktgw0316" creationdate="20151116T123936Z">
+        <seg>水中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="JA" changeid="masahiro" changedate="20130101T142812Z">
@@ -40851,6 +41107,14 @@ as a "helper application" for editing your photos.</seg>
       </tuv>
       <tuv lang="JA" changeid="ktgw0316" changedate="20130408T141250Z">
         <seg>ユーザー定義 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user-selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="ktgw0316" changedate="20151116T124451Z" creationid="ktgw0316" creationdate="20151116T124451Z">
+        <seg>ユーザー選択</seg>
       </tuv>
     </tu>
     <tu>
